@@ -3,7 +3,7 @@ url: ""
 favicon: /images/logo-light.svg
 colors:
   primary-color: "#5252b7"
-  secondary-color: "#ffffff"
+  secondary-color: "#d77ee8"
   media-colors:
     - title: media-color-one
       color: "#49759a"
