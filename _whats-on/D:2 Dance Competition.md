@@ -15,7 +15,7 @@ description: ""
 
 <p>Please comply with the prevailing Safe Management Measure (SMM) guidelines while recording. Click <a href="" alt="SMM Guidelines">here</a> for more details.</p>
 
-<p style="text-align: center;"><a class="btn btn--primary btn--primary__pink mr-30" href=""><span>TERMS &amp; CONDITIONS</span></a></p>
+<p style="text-align: center;"> <a href=""><span>TERMS &amp; CONDITIONS</span></a></p>
 
 ### Registration Information
 
