@@ -2,4 +2,4 @@ collections:
   example-collection:
     output: true
     order:
-      - example-page.md
+      - D:2 Dance Competition.md
