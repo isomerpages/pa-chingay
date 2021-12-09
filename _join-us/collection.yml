@@ -2,5 +2,5 @@ collections:
   join-us:
     output: true
     order:
-      - Volunteers.md
       - Sponsors & Donors.md
+      - Volunteers.md
