@@ -2,5 +2,6 @@ collections:
   what-is-on:
     output: true
     order:
+      - Chingay As You PHOTO It.md
       - We've Got Talent.md
       - D:2 Dance Competition.md
