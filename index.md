@@ -31,8 +31,4 @@ sections:
       alt: Image alt text
       url: /whats-on/chingay-mama-shop
       image: /images/chingay-mamashop-highlightimage.jpg
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
 ---
