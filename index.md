@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: "[Sign Up] to receive update on Chingay via email!"
+notification: "['Sign Up']() to receive update on Chingay via email!"
 sections:
   - hero:
       title: Hero title
