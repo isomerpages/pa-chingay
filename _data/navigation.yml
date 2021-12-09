@@ -4,6 +4,8 @@ links:
     url: /contact-us/
   - title: What's On?
     collection: whats-on
+  - title: Join Us
+    collection: join-us
   - title: Resources
     resource_room: true
   - title: Menu Title
