@@ -7,6 +7,8 @@ description: ""
 
 ![Alt text for image on Isomer site](/images/whats-on/d2-dance-2022_s.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7fkNqiGA2gk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Important Notes
 
 <p>Please comply with the prevailing Safe Management Measure (SMM) guidelines while recording. Click <a href="" alt="SMM Guidelines">here</a> for more details.</p>
