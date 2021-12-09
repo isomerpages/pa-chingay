@@ -6,7 +6,7 @@ links:
     collection: whats-on
   - title: Join Us
     collection: join-us
+  - title: About Us
+    collection: example-collection
   - title: Resources
     resource_room: true
-  - title: Menu Title
-    collection: example-collection
