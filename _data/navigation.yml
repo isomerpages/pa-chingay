@@ -3,8 +3,8 @@ links:
   - title: Contact Us
     url: /contact-us/
   - title: What's On?
-    url: /example-page/
-  - title: Example Collection
     collection: example-collection
   - title: Resources
     resource_room: true
+  - title: Menu Title
+    collection: example-collection
