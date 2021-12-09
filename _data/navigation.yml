@@ -1,12 +1,10 @@
 logo: /images/logo-light.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: What's On?
     collection: whats-on
   - title: Join Us
     collection: join-us
   - title: About Us
     collection: about-us
-  - title: Resources
-    resource_room: true
+  - title: Contact Us
+    url: /contact-us/
