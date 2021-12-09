@@ -1,5 +1,5 @@
 collections:
-  what-is-on:
+  whats-on:
     output: true
     order:
       - Chingay As You PHOTO It.md
