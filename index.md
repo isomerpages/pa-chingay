@@ -7,21 +7,11 @@ permalink: /
 notification: <a href="">Sign Up</a> to receive update on Chingay via email!
 sections:
   - hero:
-      title: Hero title
       subtitle: Hero subtitle
-      background: /images/coming-soon6.jpg
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+      background: /images/we-ve-got-talent--01-november-2021-19-01-21.jpg
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
   - infobar:
       title: Infobar title
       subtitle: Subtitle
