@@ -15,7 +15,7 @@ description: ""
 
 <p>Please comply with the prevailing Safe Management Measure (SMM) guidelines while recording. Click <a href="/files/whats-on/d2-dance-competition-smm-guidelines-3-dec-2021.pdf" target="blank">here</a> for more details.</p>
 
-<p style="text-align: center;"> <a href="/files/whats-on/d2-dance-competition-terms-conditions-3-dec-2021.pdf">TERMS &amp; CONDITIONS</a></p>
+<p style="text-align: center;"> <a href="/files/whats-on/d2-dance-competition-terms-conditions-3-dec-2021.pdf" target="blank">TERMS &amp; CONDITIONS</a></p>
 
 ### Registration Information
 
