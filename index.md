@@ -14,11 +14,12 @@ sections:
             Stay tuned for more details!
           url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Chingay As You PHOTO It
+      subtitle: Chingay 50 Programme
+      description: Have a fond memory of Chingay since 1973? Stay tuned to walk down
+        the memory lane as we feature your photo memories!
+      button: Find Out More
+      url: /whats-on/chingay-as-you-photo-it
   - resources:
       title: Media
       subtitle: Learn more
