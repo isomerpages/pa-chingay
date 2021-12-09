@@ -2,6 +2,7 @@ collections:
   whats-on:
     output: true
     order:
+      - Chingay Mama Shop.md
       - Chingay As You PHOTO It.md
       - We've Got Talent.md
       - D:2 Dance Competition.md
