@@ -7,6 +7,6 @@ links:
   - title: Join Us
     collection: join-us
   - title: About Us
-    collection: example-collection
+    collection: about-us
   - title: Resources
     resource_room: true
