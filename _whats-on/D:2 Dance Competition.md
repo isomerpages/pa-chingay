@@ -5,4 +5,4 @@ description: ""
 ---
 <a id="pagetop"></a>
 
-![Alt text for image on Isomer site](/images/d2-dance-2022.jpg)
+![Alt text for image on Isomer site](/images/whats-on/d2-dance-2022_s.jpg)
