@@ -1,0 +1,4 @@
+collections:
+  what-is-on:
+    output: true
+    order: []
