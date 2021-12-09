@@ -6,3 +6,15 @@ description: ""
 <a id="pagetop"></a>
 
 ![Alt text for image on Isomer site](/images/whats-on/d2-dance-2022_s.jpg)
+
+### Important Notes
+
+<p>Please comply with the prevailing Safe Management Measure (SMM) guidelines while recording. Click <a href="" alt="SMM Guidelines">here</a> for more details.</p>
+
+<p style="text-align: center;"><a class="btn btn--primary btn--primary__pink mr-30" href=""><span>TERMS &amp; CONDITIONS</span></a></p>
+
+### Registration Information
+
+<p>Upload your video (less than 2 minutes) on Youtube as “Unlisted” & share the link with us by completing the registration form below!</p>
+
+https://form.gov.sg/#!/618bde616761d900136f60a7
