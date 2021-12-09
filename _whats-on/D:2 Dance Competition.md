@@ -5,7 +5,9 @@ description: ""
 ---
 <a id="pagetop"></a>
 
-![Alt text for image on Isomer site](/images/whats-on/d2-dance-2022_s.jpg)
+<p style="text-align: center;"><img alt="" width="100%" src="images/whats-on/d2-dance-2022_s.jpg" /><br />
+<br />
+</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7fkNqiGA2gk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
