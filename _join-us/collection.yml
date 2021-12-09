@@ -1,4 +1,5 @@
 collections:
   join-us:
     output: true
-    order: []
+    order:
+      - Sponsors & Donors.md
