@@ -22,14 +22,17 @@ sections:
       url: /whats-on/chingay-as-you-photo-it
       image: /images/chingay-as-you-photo-it--highlightimage.jpg
       alt: Chingay As You PHOTO It
+  - infopic:
+      title: Chingay Mama Shop
+      subtitle: Support Local
+      description: Are you a local organisation or company that wants to do a part for
+        charitable causes? We will love to have you on board!
+      button: Find Out More
+      alt: Image alt text
+      url: /whats-on/chingay-mama-shop
+      image: /images/chingay-mamashop-highlightimage.jpg
   - resources:
       title: Media
       subtitle: Learn more
       button: View More
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
