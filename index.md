@@ -9,8 +9,9 @@ sections:
   - hero:
       background: /images/coming-soon6.jpg
       key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
+        - title: Chingay turns 50 in 2022!
+          description: A series of programmes are lined up to commemorate this milestone.
+            Stay tuned for more details!
           url: ""
   - infobar:
       title: Infobar title
