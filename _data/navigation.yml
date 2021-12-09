@@ -3,7 +3,7 @@ links:
   - title: Contact Us
     url: /contact-us/
   - title: What's On?
-    collection: example-collection
+    collection: whats-on
   - title: Resources
     resource_room: true
   - title: Menu Title
