@@ -15,10 +15,10 @@ description: ""
 
 <p>Please comply with the prevailing <a href="/files/whats-on/d2-dance-competition-smm-guidelines-3-dec-2021.pdf" target="blank">Safe Management Measure (SMM) guidelines</a> while recording. </p>
 
-<p style="border-radius: 25px; background-color: #FF69B4; padding: 20px; width: 400px; text-align: center"> <a href="/files/whats-on/d2-dance-competition-terms-conditions-3-dec-2021.pdf" target="blank">TERMS &amp; CONDITIONS</a></p>
+<p style="text-align: center"> <a href="/files/whats-on/d2-dance-competition-terms-conditions-3-dec-2021.pdf" target="blank">TERMS &amp; CONDITIONS</a></p>
 
 ### Registration Information
 
 <p>Upload your video (less than 2 minutes) on Youtube as “Unlisted” & share the link with us by completing the registration form below!</p>
 
-https://form.gov.sg/#!/618bde616761d900136f60a7
+<p style="text-align: center"> <a href="https://form.gov.sg/618bde616761d900136f60a7" target="blank">ONLINE REGISTRATION FORM</a>
