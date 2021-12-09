@@ -7,11 +7,8 @@ permalink: /
 notification: <a href="">Sign Up</a> to receive update on Chingay via email!
 sections:
   - hero:
-      subtitle: Hero subtitle
+      subtitle: Stay tuned to vote for your favorite video submission!
       background: /images/we-ve-got-talent--01-november-2021-19-01-21.jpg
-      dropdown:
-        title: Hero Dropdown Title
-        options: []
   - infobar:
       title: Infobar title
       subtitle: Subtitle
