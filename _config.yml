@@ -2,7 +2,7 @@ title: Title
 url: ""
 favicon: /images/logo-light.svg
 colors:
-  primary-color: "#5252b7"
+  primary-color: "#404095"
   secondary-color: "#d77ee8"
   media-colors:
     - title: media-color-one
