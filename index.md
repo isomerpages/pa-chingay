@@ -7,10 +7,7 @@ permalink: /
 notification: <a href="">Sign Up</a> to receive update on Chingay via email!
 sections:
   - hero:
-      subtitle: Stay tuned to vote for your favorite video submission!
-      background: /images/we-ve-got-talent--01-november-2021-19-01-21.jpg
-      button: Find Out More
-      url: https://www.chingay.gov.sg/whats-on/weve-got-talent
+      background: /images/coming-soon6.jpg
       key_highlights:
         - title: Key Highlight Title
           description: Key Highlight description
