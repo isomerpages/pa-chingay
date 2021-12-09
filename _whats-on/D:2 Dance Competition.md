@@ -17,6 +17,9 @@ description: ""
 
 <p style="text-align: center;"> <a href="/files/whats-on/d2-dance-competition-terms-conditions-3-dec-2021.pdf" target="blank">TERMS &amp; CONDITIONS</a></p>
 
+<div style="text-align: center;font-size:18px;color:#FFFFFF); background-color:#d61d70; padding:16px">	<a href="/files/whats-on/d2-dance-competition-terms-conditions-3-dec-2021.pdf" target="blank">
+<h4><strong>TERMS &amp; CONDITIONS</strong></h4></a></div>
+
 ### Registration Information
 
 <p>Upload your video (less than 2 minutes) on Youtube as “Unlisted” & share the link with us by completing the registration form below!</p>
