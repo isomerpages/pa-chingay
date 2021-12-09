@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Chingay 2021.md
-      - The Chingay Timeline.md
       - The Chingay Story.md
+      - The Chingay Timeline.md
+      - Chingay 2021.md
