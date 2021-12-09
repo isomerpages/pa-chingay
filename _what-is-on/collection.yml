@@ -2,4 +2,5 @@ collections:
   what-is-on:
     output: true
     order:
+      - We've Got Talent.md
       - D:2 Dance Competition.md
