@@ -9,6 +9,12 @@ sections:
   - hero:
       subtitle: Stay tuned to vote for your favorite video submission!
       background: /images/we-ve-got-talent--01-november-2021-19-01-21.jpg
+      button: Find Out More
+      url: https://www.chingay.gov.sg/whats-on/weve-got-talent
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
