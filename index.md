@@ -23,6 +23,15 @@ sections:
       image: /images/chingay-as-you-photo-it--highlightimage.jpg
       alt: Chingay As You PHOTO It
   - infopic:
+      title: Share Your Talent with Us!!!
+      subtitle: We've Got Talent
+      description: Whether you are dancing, singing a pop song, playing a musical
+        instrument, painting or performing magic tricks, we want to see it!
+      button: Find Out More
+      url: "#"
+      image: /images/we-ve-got-talent--01-november-2021-19-01-21.jpg
+      alt: Image alt text
+  - infopic:
       title: Chingay Mama Shop
       subtitle: Support Local
       description: Are you a local organisation or company that wants to do a part for
@@ -32,4 +41,3 @@ sections:
       url: /whats-on/chingay-mama-shop
       image: /images/chingay-mamashop-highlightimage.jpg
 ---
-
