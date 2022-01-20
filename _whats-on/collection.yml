@@ -2,6 +2,7 @@ collections:
   whats-on:
     output: true
     order:
+      - Chingay50 Programme/Chingay50 Commemorative Programmes.md
       - Chingay50 Programme/.keep
       - Chingay As You PHOTO It.md
       - We've Got Talent.md
