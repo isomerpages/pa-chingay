@@ -2,6 +2,7 @@ collections:
   whats-on:
     output: true
     order:
+      - Chingay50 Programme/Did you know?.md
       - Chingay50 Programme/#HeyChingay50Bus.md
       - Chingay50 Programme/Hall of Frames Contributor.md
       - Chingay50 Programme/Hall of Frames Public.md
