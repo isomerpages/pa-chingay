@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Isomer Site
-description: Brief site description here
+description: Chingay Parade Singapore
 image: /images/isomer-logo.svg
 permalink: /
 notification: <a href="">Sign Up</a> to receive update on Chingay via email!
@@ -32,3 +32,4 @@ sections:
       url: /whats-on/chingay-mama-shop
       image: /images/chingay-mamashop-highlightimage.jpg
 ---
+
