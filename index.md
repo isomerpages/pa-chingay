@@ -28,7 +28,7 @@ sections:
       description: Whether you are dancing, singing a pop song, playing a musical
         instrument, painting or performing magic tricks, we want to see it!
       button: Find Out More
-      url: "#"
+      url: /what-is-on/weve-got-talent
       image: /images/we-ve-got-talent--01-november-2021-19-01-21.jpg
       alt: Image alt text
   - infopic:
