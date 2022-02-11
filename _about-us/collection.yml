@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - The Chingay Story.md
+      - The Chingay Timeline/1985.md
       - The Chingay Timeline/.keep
       - The Chingay Timeline/1973.md
       - The Chingay Timeline/1976.md
