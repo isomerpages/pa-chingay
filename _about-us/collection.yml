@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - The Chingay Timeline/.keep
       - The Chingay Story.md
+      - The Chingay Timeline/.keep
       - Event Gallery.md
       - Chingay 2021.md
       - Light of Hope.md
