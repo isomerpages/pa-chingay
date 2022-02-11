@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Chingay Parade Singapore
+title: Chingay 2022
 description: Chingay Parade Singapore
 image: /images/isomer-logo.svg
 permalink: /
@@ -41,4 +41,5 @@ sections:
       url: /whats-on/chingay-mama-shop
       image: /images/chingay-mamashop-highlightimage.jpg
 ---
+
 
