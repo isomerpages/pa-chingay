@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Chingay Parade Singapore
 description: Chingay Parade Singapore
 image: /images/isomer-logo.svg
 permalink: /
@@ -41,3 +41,4 @@ sections:
       url: /whats-on/chingay-mama-shop
       image: /images/chingay-mamashop-highlightimage.jpg
 ---
+
