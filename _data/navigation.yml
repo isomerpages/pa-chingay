@@ -6,7 +6,5 @@ links:
     collection: join-us
   - title: About Us
     collection: about-us
-  - title: Press Room
-    resource_room: true
   - title: Contact Us
     url: /contact-us/
