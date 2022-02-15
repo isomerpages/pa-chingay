@@ -61,7 +61,7 @@ Chingay moved to a permanent home at Orchard Road where tourists and visitors ca
 
 **1999 - Orchard Road Firecrackers**
 
-<img src="/images/About%20Us/Timeline/1999.png" alt="orchard road firecrackers" style="width:160px; float:left;"/>
+<img src="/images/About%20Us/Timeline/orchard-road.png" alt="orchard road firecrackers" style="width:160px; float:left;"/>
 
 Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
 
