@@ -8,13 +8,26 @@ Chingay turns 50 in 2022 and it's story and journey will be unfolded through the
 
 Take the journey and reminisce with us!
 
-<table border="0">
-	<tr>
-		<td>
-			
-		</td>
-	</tr>
-</table>
+<div class="card">
+	<img src="">
+	<div class="card-content">
+		<h4>Chingay50 - Parading Through Time</h4>
+		<h5>
+			50 Years of Memory Making and Counting<br>
+			Evolution of Chingay
+		</h5>
+	</div>
+</div>
+<div class="card">
+	<img src="">
+	<div class="card-content">
+		<h4>Ken and Christine</h4>
+		<h5>
+			Sibling Chingay Volunteers<br>
+			Sibling Revelry
+		</h5>
+	</div>
+</div>
 
 # **Chingay50 - Parading Through Time**
 50 Years of Memory Making and Counting
