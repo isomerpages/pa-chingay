@@ -2,13 +2,13 @@ collections:
   about-us:
     output: true
     order:
-      - Chingay 2021/Light of Hope.md
-      - Chingay 2021/.keep
       - The Chingay Story.md
       - The Chingay Timeline/.keep
       - The Chingay Timeline/1973.md
       - The Chingay Timeline/1976.md
       - The Chingay Timeline/1985.md
-      - Press Room/2022.md
       - Press Room/.keep
+      - Press Room/2022.md
       - Chingay50 Event Gallery.md
+      - Chingay 2021/.keep
+      - Chingay 2021/Light of Hope.md
