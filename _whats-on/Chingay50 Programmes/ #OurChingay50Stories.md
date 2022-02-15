@@ -20,10 +20,8 @@ Take the journey and reminisce with us!
 	<img src="">
 	<div class="card-content">
 		<h4>Ken and Christine</h4>
-		<h5>
 			Sibling Chingay Volunteers<br>
 			Sibling Revelry
-		</h5>
 	</div>
 </div>
 
