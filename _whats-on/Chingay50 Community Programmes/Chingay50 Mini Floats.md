@@ -85,3 +85,63 @@ Marine Parade GRC, MacPherson and Mountbatten SMCs with artist Mona Malhotra
 Marsiling-Yew Tee GRC with artist Jesse Leong
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HZZdVDoZqVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 **Sky’s the Limit. Be the Sun that Lifts Everyone Up** symbolises our residents' aspiration, positivity and hopes for success.  “Sun Catchers” hand drawn by residents represents their well wishes and is a true exemplification that together, we can lift everyone up and overcome hurdles.  About 80 residents from Marsiling-Yew Tee GRC co-created this installation over 4 workshops.
+
+**Thriving Heart to Heart**
+
+ 
+
+Nee Soon GRC with artist Teo Huey Ling
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB2uRriAzJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Thriving Heart to Heart** features 5 main heart shapes representing the 5 divisions in Nee Soon GRC. This is enhanced by a sea of glowing hearts at its’ bottom to deliver uplifting and well-being messages through the personality of each heart and transmit festive cheers to all.  This installation is co-created by about 95 residents from Nee Soon GRC over 7 workshops.
+
+**Foodie Birdie**
+
+ 
+
+Pasir Ris – Punggol GRC and Punggol West SMC with artist Cherie Ng
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_b9k1y2rkUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Singapore is a renowned food paradise. **Food Birdie** showcases the wide variety of food from different cultures and enjoyed by many.  About 135 residents from Pasir Ris – Punggol GRC and Punggol West SMC co-create the installation over 9 workshops using expired laminates, used bottlecaps, old t-shirts and fallen twigs.
+
+**Upon Our Wings We Soar **
+
+ 
+
+Sembawang GRC with artist Dzulkarnaen
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ATsumjSh3hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Upon Our Wings We Soar** symbolises the youths, who are the future of Singapore! The extended wings, together with important attributes of courage, resilience, kindness, teamwork and harmony, signifies that Singapore will soar to greater heights and emerge stronger as ONE.  About 20 residents from Sembawang GRC co-created the installation over 2 workshops.
+
+**Singapore DNA**
+
+ 
+
+Sengkang GRC with artist Dr Kho Choon Joo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ji5ZA5q-Gwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Singapore DNA** is inspired by the DNA structure made up of hereditary material and symbolises our nation moving forward with zest, passion, and determination while reminiscing in the GRC’s past as a fishing village.  About 150 residents from Sengkang GRC co-created the installation.
+
+**Year of the Tiger**
+
+ 
+
+Tampines GRC with PA Balloon Sculpting Interest Groups
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1UEgwPS0K-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Ushering in the **Year of the Tiger**, this balloon sculpture symbolises the courage and strength of families that bond together and strength in which Singapore emerge stronger, with new hopes and beginnings.
+
+**Co-Exist**
+
+ 
+
+Tanjong Pagar GRC and Radin Mas SMC with artist Didier Ng
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6NQsPatecbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+The centrepiece of **Co-Exist** features a huge butterfly which represents the flourishing nature in our tiny but mighty city.  The installation is created with an infusion of upcycled and natural materials.  Only together, can we exist.  Some 60 residents from Tanjong Pagar GRC and Radin Mas SMC co-created the installation over 8 workshops.
+
+**Rainbow Tree**
+
+ 
+
+West Coast GRC and Pioneer SMC with artist Lee Yun Ting
+<iframe width="560" height="315" src="https://www.youtube.com/embed/98dGrv2m8l0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Rainbow Tree** is inspired by the Rainbow Eucalyptus Tree which sheds its outer bark to reveal bright green inner bark that matures into rainbow hues of blue, purple, orange and maroon tones.  It signifies Singaporeans’ resilience and determination to overcome adversity to achieve a more positive and brighter future.  The installation is co-created by about 150 residents from West Coast GRC and Pioneer SMC.
+
+**IMPORTANT NOTES**
+
+Please comply with the prevailing Safe Management Measure (SMM) guidelines while recording. Click here for more details.
