@@ -73,3 +73,5 @@ Brought To You By:
 
 Supported By:
 <img src="/images/support-by.png" alt="supported-by" style="width:486px; height:92px;"/>
+
+Check out Snap, Tag & Win [here](/whats-on/chingay50-programmes/snap-tag-win) or Spot Dreamy the Bus [here](/whats-on/chingay50-programmes/spot-win)!
