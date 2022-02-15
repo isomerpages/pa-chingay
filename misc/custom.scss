@@ -348,3 +348,16 @@ $desktop: 960px + (2 * $gap) !default;
 .card-content {
 	padding: 2px 16px;
 }
+.column {
+	float: left;
+	width: 30%;
+	padding: 0 10px;
+}
+.row {
+	margin: 0 -5px;
+	&:after {
+		content: "";
+		display: table;
+		clear: both;
+	}
+}
