@@ -8,3 +8,6 @@ third_nav_title: Chingay50 Programmes
 
 Prizes Sponsored By
 ![sponsors](/images/snap-tag-win-sponsor.png)
+
+**IMPORTANT NOTES**<br>
+Please comply with the prevailing Safe Management Measure (SMM) guidelines at all time.
