@@ -2,6 +2,7 @@ collections:
   whats-on:
     output: true
     order:
+      - Chingay50 Community Programmes/.keep
       - Chingay50 Programmes/.keep
       - Chingay50 Programmes/Chingay50 Commemorative Programmes.md
       - Chingay50 Programmes/#OurChingay50Stories.md
