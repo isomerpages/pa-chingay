@@ -10,4 +10,5 @@ Prizes Sponsored By
 ![sponsors](/images/spot-win-sponsors.png)
 
 **IMPORTANT NOTES**<br>
-Please comply with the prevailing Safe Management Measure (SMM) guidelines at all time.
+Please comply with the prevailing Safe Management Measure (SMM) guidelines at all time.<br>
+[Terms & Conditions](/files/whats-on/spot-and-win-terms-and-conditions_25jan22.pdf)
