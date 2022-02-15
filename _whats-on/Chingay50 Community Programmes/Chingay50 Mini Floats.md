@@ -22,7 +22,7 @@ Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs with artist Salihin Jaafar
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YNys6TLpLwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 **The Golden Tomato** takes a spin on the word “Ang Mo Kio” which means tomato in Hokkien.  This installation showcases the diversity and vibrancy of the heartland through the different landmarks and flora and fauna.  Some 100 residents from Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs came together to co-create the installation over 14 workshops.
 
-**Circle of Life **
+**Circle of Life**
 
  
 
@@ -30,7 +30,7 @@ Bishan-Toa Payoh GRC and Marymount SMC with artist Dawn Tam
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fhP3PtzZbMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 **Circle of Life** represents the continuity of life; of how there’s truly no end or beginning.  About 135 residents from Bishan-Toa Payoh GRC and Marymount SMC filled the recycled Compact Disks with their fondest memories over 5 workshops.  The bright light illuminating the artwork personifies security, warmth and hope.
 
-**Emerge Stronger Together **
+**Emerge Stronger Together**
 
  
 
@@ -46,7 +46,7 @@ East Coast GRC with PA Balloon Sculpting Interest Groups
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HG501MCyh30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Sunflowers symbolise joy and happiness. **Joyful Field of Sunflowers** expresses appreciation to all Singaporeans and frontline workers whose resilience and strength have shone through to uplift others during this difficult period
 
-**Transformation - We Have Come A Long Way ** 
+**Transformation - We Have Come A Long Way** 
 
 
 
@@ -54,7 +54,7 @@ Holland-Bukit Timah GRC and Bukit Panjang SMC with artist Amruthaa Kalaiselvan
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w79rjMPud_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 **Transformation - We Have Come A Long Way** represents the Singapore journey from the time of Sang Nila Utama to Sir Thomas Stamford Raffles to the modern Singapore.  It features prominent landmarks such as the Merlion, Singapore Flyer and many more.  The installation is co-created by 45 residents from Holland-Bukit Timah GRC and Bukit Panjang SMC over 4 workshops.
 
-**Branches of Dreams **
+**Branches of Dreams**
 
  
 
@@ -70,7 +70,7 @@ Jurong GRC, Bukit Batok and Yuhua SMCs with PA Balloon Sculpting Interest Groups
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5rStLXf8wvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 **Enchanting Mushroom City** captures one’s imagination by weaving fantasy elements with the wonders of nature. A life-size fairy reveals a charming mushroom garden scene as a metaphor for the community to appreciate the harmony in nature and strive towards our dream to build a green and beautiful city in nature.
 
-**Progressive Green Singapore **
+**Progressive Green Singapore**
 
  
 
@@ -102,7 +102,7 @@ Pasir Ris – Punggol GRC and Punggol West SMC with artist Cherie Ng
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_b9k1y2rkUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Singapore is a renowned food paradise. **Food Birdie** showcases the wide variety of food from different cultures and enjoyed by many.  About 135 residents from Pasir Ris – Punggol GRC and Punggol West SMC co-create the installation over 9 workshops using expired laminates, used bottlecaps, old t-shirts and fallen twigs.
 
-**Upon Our Wings We Soar **
+**Upon Our Wings We Soar**
 
  
 
@@ -145,3 +145,5 @@ West Coast GRC and Pioneer SMC with artist Lee Yun Ting
 **IMPORTANT NOTES**
 
 Please comply with the prevailing Safe Management Measure (SMM) guidelines while recording. Click here for more details.
+
+[TERMS & CONDITIONS](/files/whats-on/chingay50-watch-party---terms-and-conditions-(as-at-4-jan-2022).pdf)
