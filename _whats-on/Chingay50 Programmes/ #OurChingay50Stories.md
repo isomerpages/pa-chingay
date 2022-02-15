@@ -11,15 +11,15 @@ Take the journey and reminisce with us!
 <table border="0">
 	<tr>
 		<td>
-			# **Chingay50 - Parading Through Time**
-50 Years of Memory Making and Counting
-
-**Evolution of Chingay**
+			
 		</td>
 	</tr>
 </table>
 
+# **Chingay50 - Parading Through Time**
+50 Years of Memory Making and Counting
 
+**Evolution of Chingay**
 # **Ken and Christine**
 Sibling Chingay Volunteers
 
