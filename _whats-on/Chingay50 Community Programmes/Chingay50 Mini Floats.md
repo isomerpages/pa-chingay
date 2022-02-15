@@ -144,6 +144,6 @@ West Coast GRC and Pioneer SMC with artist Lee Yun Ting
 
 **IMPORTANT NOTES**
 
-Please comply with the prevailing Safe Management Measure (SMM) guidelines while recording. Click here for more details.
+Please comply with the prevailing Safe Management Measure (SMM) guidelines while recording. Click [here](/files/whats-on/d2-dance-competition-terms-conditions-3-dec-2021.pdf) for more details.
 
-[TERMS & CONDITIONS](/files/whats-on/chingay50-watch-party---terms-and-conditions-(as-at-4-jan-2022).pdf)
+[TERMS & CONDITIONS](/files/whats-on/d2-dance-competition-tcs-chingay-2022_13-dec-2021_final.pdf)
