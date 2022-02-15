@@ -6,3 +6,8 @@ links:
     collection: join-us
   - title: About Us
     collection: about-us
+  - title: What's On
+    url: /whats-on
+    sublinks:
+      - title: Chingay50 Programmes
+        url: /chingay50-programmes
