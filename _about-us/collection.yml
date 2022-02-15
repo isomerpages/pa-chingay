@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Chingay 2021/Light of Hope.md
       - Chingay 2021/.keep
       - The Chingay Story.md
       - The Chingay Timeline/.keep
