@@ -66,3 +66,10 @@ This design is inspired by the Community Development Councils (CDCs) Care float 
 
 <img src="/images/whats-on/Buses/bus14.png" alt="bus-14" style="width:538px; height:272px; float:left;right-margin:20px;"/>
 This design is inspired by Chingay’s most iconic float, a 9-metre-long papier-mâché “Tiger” float that made its first appearance in 1974, leading the 2,000-strong Chingay Procession to usher in the Year of the Tiger then
+
+**A REIMAGINED CHINGAY FLOAT**
+Brought To You By: 
+![brought-to-you-by](/images/brought-to-you.png)
+
+Supported By:
+![supported-by](/images/support-by.png)
