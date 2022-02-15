@@ -69,3 +69,19 @@ Our island’s iconic landmarks and orchids are brought to live using traditiona
 Jurong GRC, Bukit Batok and Yuhua SMCs with PA Balloon Sculpting Interest Groups
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5rStLXf8wvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 **Enchanting Mushroom City** captures one’s imagination by weaving fantasy elements with the wonders of nature. A life-size fairy reveals a charming mushroom garden scene as a metaphor for the community to appreciate the harmony in nature and strive towards our dream to build a green and beautiful city in nature.
+
+**Progressive Green Singapore **
+
+ 
+
+Marine Parade GRC, MacPherson and Mountbatten SMCs with artist Mona Malhotra
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uy1yHLAfKnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Progressive Green Singapore** is a visual representation of a ‘Progressive’ Singapore.  The bamboos in the centre of the installation symbolises strength, growth and resilience.  Flowers made from traditional fabrics from different races signifies Singapore as a melting pot of multiple cultures.  This installation is co-created by about 90 residents from Marine Parade GRC, MacPherson and Mountbatten SMCs.  
+
+**Sky's the Limit. Be the Sun that Lifts Everyone Up** 
+
+ 
+
+Marsiling-Yew Tee GRC with artist Jesse Leong
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HZZdVDoZqVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Sky’s the Limit. Be the Sun that Lifts Everyone Up** symbolises our residents' aspiration, positivity and hopes for success.  “Sun Catchers” hand drawn by residents represents their well wishes and is a true exemplification that together, we can lift everyone up and overcome hurdles.  About 80 residents from Marsiling-Yew Tee GRC co-created this installation over 4 workshops.
