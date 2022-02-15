@@ -72,4 +72,4 @@ Brought To You By:
 ![brought-to-you-by](/images/brought-to-you.png)
 
 Supported By:
-![supported-by](/images/support-by.png)
+<img src="/images/support-by.png" alt="supported-by" style="width:486px; height:92px;"/>
