@@ -18,7 +18,7 @@ The design uses a transitional collage with a modern twist to combine different 
 
 <img src="/images/whats-on/Buses/bus3.png" alt="bus-03" style="width:538px; height:272px; float:left;right-margin:20px;"/>
 
-<img src="/images/whats-on/Buses/bus4.png" alt="bus-04" style="width:538px; height:272px; float:left;right-margin:20px;"/>
+<img src="/images/whats-on/Buses/bus4.jpg" alt="bus-04" style="width:538px; height:272px; float:left;right-margin:20px;"/>
 
 <img src="/images/whats-on/Buses/bus5.png" alt="bus-05" style="width:538px; height:272px; float:left;right-margin:20px;"/>
 
