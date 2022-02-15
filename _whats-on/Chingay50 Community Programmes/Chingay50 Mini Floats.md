@@ -11,3 +11,12 @@ Together with PAssionArts, Chingay50 will present 17 Chingay50 Mini Floats conce
 
 Aljunied GRC and Hougang SMC with artist Justine Loke
 <iframe width="1217" height="500" src="https://www.youtube.com/embed/qwubIBG5FcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The Carousel evokes joyous childhood memories. **Time Carousel** features horses, sun, moon and hourglass of different shapes and colours co-created by about 150 residents from Aljunied GRC and Hougang SMC over 10 workshops. It symbolises the unity of Singaporeans as we overcome challenges while moving forward together.
+
+**The Golden Tomato**
+
+ 
+
+Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs with artist Salihin Jaafar
+<iframe width="1217" height="500" src="https://www.youtube.com/embed/YNys6TLpLwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
