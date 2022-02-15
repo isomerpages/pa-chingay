@@ -12,10 +12,8 @@ Take the journey and reminisce with us!
 	<img src="">
 	<div class="card-content">
 		<h4>Chingay50 - Parading Through Time</h4>
-		<h5>
 			50 Years of Memory Making and Counting<br>
 			Evolution of Chingay
-		</h5>
 	</div>
 </div>
 <div class="card">
