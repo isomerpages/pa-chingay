@@ -24,3 +24,125 @@ Chingay took on a Multi-Cultural Flavour featuring different ethnic communities 
 <img src="/images/orchard-road.png" alt="orchard road" style="width:160px; float:left;"/>
 
 Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+
+<hr/>
+
+**1987 - First Foreign Performers**
+
+<img src="/images/orchard-road.png" alt="orchard road" style="width:160px; float:left;"/>
+
+Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+
+<hr/>
+
+**1990 - Night Parade**
+
+<img src="/images/orchard-road.png" alt="orchard road" style="width:160px; float:left;"/>
+
+Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+
+<hr/>
+
+**1991 - Guinness Book Of World Records**
+
+<img src="/images/orchard-road.png" alt="orchard road" style="width:160px; float:left;"/>
+
+Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+
+<hr/>
+
+**1997 - 25th Anniversary**
+
+<img src="/images/orchard-road.png" alt="orchard road" style="width:160px; float:left;"/>
+
+Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+
+<hr/>
+
+**1999 - Orchard Road Firecrackers**
+
+<img src="/images/orchard-road.png" alt="orchard road" style="width:160px; float:left;"/>
+
+Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+
+<hr/>
+
+**2000 - New Mellinium At City Hall**
+
+<img src="/images/orchard-road.png" alt="orchard road" style="width:160px; float:left;"/>
+
+Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+
+<hr/>
+
+**2004 - Special Guest - Jackie Chen**
+
+<img src="/images/orchard-road.png" alt="orchard road" style="width:160px; float:left;"/>
+
+Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+
+<hr/>
+
+**2007 - Members Of Parliament Participation**
+
+<img src="/images/orchard-road.png" alt="orchard road" style="width:160px; float:left;"/>
+
+Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+
+<hr/>
+
+**2008 - Chingay Parade of Dreams**
+
+<img src="/images/orchard-road.png" alt="orchard road" style="width:160px; float:left;"/>
+
+Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+
+<hr/>
+
+**2010 - F1 Pit Building**
+
+<img src="/images/orchard-road.png" alt="orchard road" style="width:160px; float:left;"/>
+
+Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+
+<hr/>
+
+**2012 - 360 - Metre Waterway**
+
+<img src="/images/orchard-road.png" alt="orchard road" style="width:160px; float:left;"/>
+
+Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+
+<hr/>
+
+**2015 - The Largest Showcase**
+
+<img src="/images/orchard-road.png" alt="orchard road" style="width:160px; float:left;"/>
+
+Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+
+<hr/>
+
+**2017 - Remake Of The First Tiger Float**
+
+<img src="/images/orchard-road.png" alt="orchard road" style="width:160px; float:left;"/>
+
+Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+
+<hr/>
+
+**2019 - Commemoration of the Singapore Bicentennial**
+
+<img src="/images/orchard-road.png" alt="orchard road" style="width:160px; float:left;"/>
+
+Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+
+<hr/>
+
+**2021 - First Ever Digital Chingay**
+
+<img src="/images/orchard-road.png" alt="orchard road" style="width:160px; float:left;"/>
+
+Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+
+<hr/>
