@@ -31,7 +31,7 @@ Chingay moved to a permanent home at Orchard Road where tourists and visitors ca
 
 <img src="/images/About%20Us/Timeline/1987.png" alt="first foreign performers" style="width:160px; float:left;"/>
 
-Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+Chingay welcome Our First Foreign Performers – four pop artistes from Tokyo, Japan, sponsored by The Straits Times. Since then, it has become a norm for Chingay to invite international artistes and troupes to participate in our celebrations every year.
 
 <hr/>
 
@@ -39,7 +39,7 @@ Chingay moved to a permanent home at Orchard Road where tourists and visitors ca
 
 <img src="/images/About%20Us/Timeline/1990.png" alt="night parade" style="width:160px; float:left;"/>
 
-Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+For the first time, Chingay was held at night where fireworks and laser displays enhanced the magical feel of the event.
 
 <hr/>
 
@@ -47,7 +47,7 @@ Chingay moved to a permanent home at Orchard Road where tourists and visitors ca
 
 <img src="/images/About%20Us/Timeline/1991.png" alt="guinness book of world records" style="width:160px; float:left;"/>
 
-Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+Chingay got our First Entry Into The Guinness Book of World Records for the world’s largest dancing lion. Singapore Mint released a $2 note depicting different ethnic groups participating in Chingay Parade.
 
 <hr/>
 
@@ -55,7 +55,7 @@ Chingay moved to a permanent home at Orchard Road where tourists and visitors ca
 
 <img src="/images/About%20Us/Timeline/1997.png" alt="25th anniversary" style="width:160px; float:left;"/>
 
-Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+Chingay Celebrates 25th Anniversary with Three Firsts - first time two parades were held, the first time a parade was held indoors and the first Chingay @Heartlands.
 
 <hr/>
 
@@ -63,7 +63,7 @@ Chingay moved to a permanent home at Orchard Road where tourists and visitors ca
 
 <img src="/images/About%20Us/Timeline/orchard-road.png" alt="orchard road firecrackers" style="width:160px; float:left;"/>
 
-Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+Firecrackers Made Its Reappearance in Orchard Road at Chingay Parade.
 
 <hr/>
 
@@ -71,7 +71,7 @@ Chingay moved to a permanent home at Orchard Road where tourists and visitors ca
 
 <img src="/images/About%20Us/Timeline/2000.png" alt="new mellinium at city hall" style="width:160px; float:left;"/>
 
-Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+Chingay celebrated The Arrival of The New Millennium at City Hall, chosen as a venue of historical significance.
 
 <hr/>
 
@@ -79,7 +79,7 @@ Chingay moved to a permanent home at Orchard Road where tourists and visitors ca
 
 <img src="/images/About%20Us/Timeline/2004.png" alt="special guest - jackie chen" style="width:160px; float:left;"/>
 
-Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+Chingay was catapulted to greater heights on the world stage when action superstar Jackie Chan Made A Special Guest Appearance at the parade.
 
 <hr/>
 
@@ -87,7 +87,7 @@ Chingay moved to a permanent home at Orchard Road where tourists and visitors ca
 
 <img src="/images/About%20Us/Timeline/2007.png" alt="members of parliament participation" style="width:160px; float:left;"/>
 
-Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+12 Post-65 Members Of Parliament were part of a special hip-hop performance which was one of the parade’s highlights.
 
 <hr/>
 
@@ -95,7 +95,7 @@ Chingay moved to a permanent home at Orchard Road where tourists and visitors ca
 
 <img src="/images/About%20Us/Timeline/2008.png" alt="chingay parade of dreams" style="width:160px; float:left;"/>
 
-Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+Chingay Parade started featuring a theme at every parade, staring with Chingay Parade of Dreams.
 
 <hr/>
 
@@ -103,7 +103,7 @@ Chingay moved to a permanent home at Orchard Road where tourists and visitors ca
 
 <img src="/images/About%20Us/Timeline/2010.png" alt="f1 pit building" style="width:160px; float:left;"/>
 
-Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+Chingay moved to its current home at F1 Pit Building.
 
 <hr/>
 
@@ -111,7 +111,7 @@ Chingay moved to a permanent home at Orchard Road where tourists and visitors ca
 
 <img src="/images/About%20Us/Timeline/2012.png" alt="360 metre waterway" style="width:160px; float:left;"/>
 
-Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+Chingay celebrated its 40th anniversary with the First Ever 360-metre Waterway which was set as the performing stage for the 8,000 performers.
 
 <hr/>
 
@@ -119,7 +119,7 @@ Chingay moved to a permanent home at Orchard Road where tourists and visitors ca
 
 <img src="/images/About%20Us/Timeline/2015.png" alt="the largest showcase" style="width:160px; float:left;"/>
 
-Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+As part of the nation-wide SG50 Celebrations, Chingay present the Largest Showcase in Chingay History – featuring 11,000 performers and 18 magnificent floats.
 
 <hr/>
 
@@ -127,7 +127,7 @@ Chingay moved to a permanent home at Orchard Road where tourists and visitors ca
 
 <img src="/images/About%20Us/Timeline/2017.png" alt="remake of the first tiger float" style="width:160px; float:left;"/>
 
-Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+Chingay 45 was celebrated with the nostalgic re-enactment of iconic parade performances including the Remake Of The First Tiger Float.
 
 <hr/>
 
@@ -135,7 +135,7 @@ Chingay moved to a permanent home at Orchard Road where tourists and visitors ca
 
 <img src="/images/About%20Us/Timeline/2019.png" alt="2commemoration of the singapore bicentennial" style="width:160px; float:left;"/>
 
-Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+Chingay Commemoration of the Singapore Bicentennial with a gift for the nation – a SB Painting depicting the “Past, Present and Future” co-created by three multi-disciplinary artists and the community. Chingay Parade 2019 also won the Best Arts and Culture Event Award presented by The Special Events.
 
 <hr/>
 
@@ -143,6 +143,6 @@ Chingay moved to a permanent home at Orchard Road where tourists and visitors ca
 
 <img src="/images/About%20Us/Timeline/2021.png" alt="first ever digital chingay" style="width:160px; float:left;"/>
 
-Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+The inaugural digital Chingay with the theme "Light of Hope" was held during the Covid-19 pandemic involving more than 150 organisations and 2,000 performers in creating a reimagined showcase with digital effects infused.
 
 <hr/>
