@@ -29,36 +29,6 @@ Take the journey and reminisce with us!
 			</div>
 		</div>
 	</div>
-	<div class="column">
-		<div class="card">
-			<img src="">
-			<div class="card-content">
-				<h4>Ken and Christine</h4>
-					Sibling Chingay Volunteers<br>
-					Sibling Revelry
-			</div>
-		</div>
-	</div>
-	<div class="column">
-		<div class="card">
-			<img src="">
-			<div class="card-content">
-				<h4>Ken and Christine</h4>
-					Sibling Chingay Volunteers<br>
-					Sibling Revelry
-			</div>
-		</div>
-	</div>
-	<div class="column">
-		<div class="card">
-			<img src="">
-			<div class="card-content">
-				<h4>Ken and Christine</h4>
-					Sibling Chingay Volunteers<br>
-					Sibling Revelry
-			</div>
-		</div>
-	</div>
 </div>
 
 
