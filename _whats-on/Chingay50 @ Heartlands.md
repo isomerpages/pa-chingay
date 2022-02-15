@@ -29,7 +29,7 @@ Tel: 6241 9878<br>
 Sun, 27 Feb 2022<br>
 7:00 PM
 
-**Chingay50 @ Heartlands - Taman Jurong CC (Time TBC)**
+**Chingay50 @ Heartlands - Taman Jurong CC (Time TBC)**<br>
 TBC<br>
 Tel: 6265 1711<br>
 Sat, 19 Mar 2022<br>
