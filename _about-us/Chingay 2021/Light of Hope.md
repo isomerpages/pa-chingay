@@ -28,7 +28,7 @@ We can see the light at the end of the tunnel
 
 | | |
 |:-:|:-:|
-|[Chingay website](http://www.chingay.gov.sg/) & [PAssion Chingay Club Facebook](http://www.facebook.com/passionchingayclub) page|7.30pm – 9.30pm|
+|[Chingay website](http://www.chingay.gov.sg/) &<br> [PAssion Chingay Club Facebook](http://www.facebook.com/passionchingayclub) page|7.30pm – 9.30pm|
 |Channel 5 and 8 <br> meWATCH <br>Suria and Vasantham Facebook pages|8.00pm – 9.00pm|
 | | |
 
