@@ -9,6 +9,7 @@ description: ""
 
 PA teamed up with Singapore National Pugilistic Federation to present the First Chingay Parade
 
+
 <hr/>
 
 **1976 - Multi Cultural Flavour**
@@ -17,6 +18,7 @@ PA teamed up with Singapore National Pugilistic Federation to present the First 
 
 Chingay took on a Multi-Cultural Flavour featuring different ethnic communities joining in the celebrations.
 
+
 <hr/>
 
 **1985 - Orchard Road**
@@ -24,6 +26,7 @@ Chingay took on a Multi-Cultural Flavour featuring different ethnic communities 
 <img src="/images/About%20Us/Timeline/orchard-road.png" alt="orchard road" style="width:160px; float:left;"/>
 
 Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+
 
 <hr/>
 
@@ -40,6 +43,7 @@ Chingay welcome Our First Foreign Performers – four pop artistes from Tokyo, J
 <img src="/images/About%20Us/Timeline/1990.png" alt="night parade" style="width:160px; float:left;"/>
 
 For the first time, Chingay was held at night where fireworks and laser displays enhanced the magical feel of the event.
+
 
 <hr/>
 
@@ -65,6 +69,7 @@ Chingay Celebrates 25th Anniversary with Three Firsts - first time two parades w
 
 Firecrackers Made Its Reappearance in Orchard Road at Chingay Parade.
 
+
 <hr/>
 
 **2000 - New Mellinium At City Hall**
@@ -72,6 +77,7 @@ Firecrackers Made Its Reappearance in Orchard Road at Chingay Parade.
 <img src="/images/About%20Us/Timeline/2000.png" alt="new mellinium at city hall" style="width:160px; float:left;"/>
 
 Chingay celebrated The Arrival of The New Millennium at City Hall, chosen as a venue of historical significance.
+
 
 <hr/>
 
@@ -81,6 +87,7 @@ Chingay celebrated The Arrival of The New Millennium at City Hall, chosen as a v
 
 Chingay was catapulted to greater heights on the world stage when action superstar Jackie Chan Made A Special Guest Appearance at the parade.
 
+
 <hr/>
 
 **2007 - Members Of Parliament Participation**
@@ -88,6 +95,7 @@ Chingay was catapulted to greater heights on the world stage when action superst
 <img src="/images/About%20Us/Timeline/2007.png" alt="members of parliament participation" style="width:160px; float:left;"/>
 
 12 Post-65 Members Of Parliament were part of a special hip-hop performance which was one of the parade’s highlights.
+
 
 <hr/>
 
@@ -97,6 +105,7 @@ Chingay was catapulted to greater heights on the world stage when action superst
 
 Chingay Parade started featuring a theme at every parade, staring with Chingay Parade of Dreams.
 
+
 <hr/>
 
 **2010 - F1 Pit Building**
@@ -104,6 +113,8 @@ Chingay Parade started featuring a theme at every parade, staring with Chingay P
 <img src="/images/About%20Us/Timeline/2010.png" alt="f1 pit building" style="width:160px; float:left;"/>
 
 Chingay moved to its current home at F1 Pit Building.
+
+
 
 <hr/>
 
