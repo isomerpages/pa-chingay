@@ -22,3 +22,20 @@ Sibling Chingay Volunteers
 Administrative Executive
 
 **Danving To His Own Beat**
+
+# **Dina Nerina**
+Community Programmes Manager
+
+**Embracing The Spirit of Multicultralism**
+
+# **Lynn Goh**
+
+Admintrator
+
+**United We Dance**
+
+# **Ong Choon Mui**
+
+Retiree - Still teaching dance @ Macpherson Chinese Dance
+
+**The Original Big-Headed Dolls**
