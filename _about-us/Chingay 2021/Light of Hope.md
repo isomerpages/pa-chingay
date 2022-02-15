@@ -59,3 +59,19 @@ The lamp the lights the way in darkness. The intricate movements of the dancers.
 
 ACT 4: SPARKS 燃
 Feel the rising temperature from the sparks of creativity when Chinese Opera meets street style. This unconventional dialogue between traditional Chinese Opera and modern street art is set to bring you into an arena beyond expectations.
+
+SEGMENT 3 – THE SHINING STARS OF SINGAPORE 新光
+Act 1: We’ve Got Talent
+Act 2: Hawker Culture Jingle
+Creative talents are all around us. Discover these hidden gems and shining stars of Singapore from across the island through Chingay. Come together to celebrate Singapore’s Hawker Culture and pay tribute to our hawker heroes. Pick up any items you may find in your household and dance along to the Hawker Culture Jingle!
+
+SEGMENT 4 – THE VOICES OF SOLIDARITY 曙光
+One year on. Singaporeans continue to stand in solidarity with one another in many ways, being socially responsible and stepping forward to help those who have been affected by the pandemic. The spirit of unity and positivity is reflected with more than 500 Singapore residents from all walks of life singing to the song ‘As I Believe’. With our collective voices, we believe; we can be stronger together.
+
+SEGMENT 5 – FINALE: THE LIGHT OF HOPE 希望之光
+Stand Up
+We’re Singing A New Song
+As The Light Of Hope Is Filling Our Hearts With All Wonder
+Stand Up with the Hope of Tomorrow – our energetic youths in pursuit of their dreams are like stars burning brighter than we’ve ever seen. Celebrate our hopes and aspirations towards a brighter future of Singapore.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L2-E_1m23Gc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
