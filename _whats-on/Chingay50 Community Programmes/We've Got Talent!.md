@@ -4,11 +4,11 @@ permalink: /whats-on/Chingay50-Community-Programmes/we-ve-got-talent
 description: ""
 third_nav_title: Chingay50 Community Programmes
 ---
-Presenting We've Got Talent! Chingay Community Star 2022
+**Presenting We've Got Talent! Chingay Community Star 2022**
 
 @joshua..low ([IG](https://www.instagram.com/p/CW2mZIdFEHT/))
 
-We've Got Talent! Audience Favourites
+**We've Got Talent! Audience Favourites**
 
 @yap327 ([IG](https://www.instagram.com/p/CVvItssArWY/))
 Darren Sandosham ([FB](https://www.facebook.com/mikeymao1972/videos/1052705422232138/))
