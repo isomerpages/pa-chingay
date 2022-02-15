@@ -2,9 +2,6 @@ collections:
   whats-on:
     output: true
     order:
-      - Chingay50 @ Heartlands.md
-      - Chingay Mama Shop.md
-      - Redraw Your World with Chingay50.md
       - Chingay50 Community Programmes/.keep
       - Chingay50 Community Programmes/Spot The Tiger.md
       - Chingay50 Community Programmes/Watch Party.md
@@ -19,3 +16,6 @@ collections:
       - Chingay50 Programmes/Snap, Tag & Win!.md
       - Chingay50 Programmes/Spot & Win!.md
       - Chingay50 Programmes/Did you know?.md
+      - Redraw Your World with Chingay50.md
+      - Chingay Mama Shop.md
+      - Chingay50 @ Heartlands.md
