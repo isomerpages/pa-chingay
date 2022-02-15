@@ -12,3 +12,13 @@ Take the journey and reminisce with us!
 50 Years of Memory Making and Counting
 
 **Evolution of Chingay**
+
+# **Ken and Christine**
+Sibling Chingay Volunteers
+
+**Sibling Revelry**
+
+# **Surendran Rachandran**
+Administrative Executive
+
+**Danving To His Own Beat**
