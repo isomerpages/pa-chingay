@@ -33,3 +33,29 @@ We can see the light at the end of the tunnel
 | | |
 
 The theme signifies how each one of us in the community represents a sparkle of light to bring hope and warmth to one another. As we unite as a community, we will emerge stronger together. With a refreshed digital format, Chingay innovates to break the boundaries of time and space to bring together new arts and cultural groups, corporations as well as individuals to co-create Chingay 2021 together. The showcase has a blend of old and new cultural performances, traditional and emerging art forms, but presented as a digital experience for the first time.
+
+**PRELUDE – THE SPARK OF INSPIRATION 追光**
+
+We create light. With light, comes hope. And with the light of hope, we take flight.
+
+Featuring talented local performers across 14 different dance genres, including traditional, contemporary and modern. Be inspired by the performers’ passion in their work of art. Celebrate the strive towards excellence as we ignite the Light of Hope.
+
+**SEGMENT 1 – THE FLAME OF RESILIENCE 威光**
+
+We may encounter difficulties unexpectedly at any point of time, obstacles, challenges and struggles. But with resilience and determination, we can overcome any challenges and emerge stronger together. A spectacular display of Chinese traditional arts infused with digital elements as they portray the spirit of unity and strength in overcoming challenging times.
+
+**SEGMENT 2 – THE BLAZE OF DIVERSITY 聚光**
+
+Experience different cultures fused with modern elements by our ASEAN friends and ethnic communities.
+
+**ACT 1: MELODY OF ASEAN**<br>
+“We may come from different countries, With unique languages, cultures and identities. But we are neighbours. We live in one world. We have one vision. We play one melody. A song… of hope. Together.” Travel with us to 10 ASEAN countries and enjoy uniquely cultural performances with the melodious tune presented by musicians from these countries.
+
+**ACT 2: TENUNAN ZAMAN – THE FABRIC OF TIME**<br>
+The fabric of time weaves various styles and nuances of the Malay community in an endless dialogue of peace, benevolence and glory. Each strand of sight and sound represents hope, active participation and continuity from the people as a symbol of purity and graciousness. Be enthralled by the gallant display combining dance, fashion, music and chants of dikir barat in “Tenunan Zaman” - The Fabric Of Time.
+
+ACT 3: IRULIL OLI ( இருளில் ஒளி ) - THE LIGHT IN DARKNESS
+The lamp the lights the way in darkness. The intricate movements of the dancers. The bursts of colours in beautiful designs. The vibrant rhythm of Singapore’s multi-racial musical touch. Enjoy this refreshing showcase of various Indian art forms performed with a fusion band, inspired by the Light of Hope.
+
+ACT 4: SPARKS 燃
+Feel the rising temperature from the sparks of creativity when Chinese Opera meets street style. This unconventional dialogue between traditional Chinese Opera and modern street art is set to bring you into an arena beyond expectations.
