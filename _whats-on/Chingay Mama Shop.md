@@ -7,4 +7,6 @@ The [Chingay Mama Shop](https://pages.lazada.sg/wow/gcp/route/lazada/sg/upr_1000
 
 Special thanks to Lazada, our Official E-Commerce Platform. 
 
+<img src="/images/lazada.png" alt="lazada" style="width:712px;height:105px;"/>
+
 **Presenting to you the Chingay Mama Shop merchants!**
