@@ -10,8 +10,8 @@ third_nav_title: Chingay50 Community Programmes
 
 **We've Got Talent! Audience Favourites**
 
-@yap327 ([IG](https://www.instagram.com/p/CVvItssArWY/))
-Darren Sandosham ([FB](https://www.facebook.com/mikeymao1972/videos/1052705422232138/))
+@yap327 ([IG](https://www.instagram.com/p/CVvItssArWY/))<br>
+Darren Sandosham ([FB](https://www.facebook.com/mikeymao1972/videos/1052705422232138/))<br>
 Faith Music Centre ([FB](https://www.facebook.com/watch/?ref=search&v=4519608571448616&external_log_id=d084ab18-77e2-417b-bb88-00e810789317&q=%23wegottalent2022))
 
 ![we've got talent](/images/whats-on/we-ve-got-talent-poster.jpg)
