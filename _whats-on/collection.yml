@@ -2,12 +2,12 @@ collections:
   whats-on:
     output: true
     order:
-      - Chingay50 Community Programmes/We've Got Talent!.md
-      - Chingay50 Community Programmes/D:2 Dance Competition.md
-      - Chingay50 Community Programmes/Chingay50 Mini Floats.md
-      - Chingay50 Community Programmes/Watch Party.md
-      - Chingay50 Community Programmes/Spot The Tiger.md
       - Chingay50 Community Programmes/.keep
+      - Chingay50 Community Programmes/Spot The Tiger.md
+      - Chingay50 Community Programmes/Watch Party.md
+      - Chingay50 Community Programmes/Chingay50 Mini Floats.md
+      - Chingay50 Community Programmes/D:2 Dance Competition.md
+      - Chingay50 Community Programmes/We've Got Talent!.md
       - Chingay50 Programmes/.keep
       - Chingay50 Programmes/Chingay50 Commemorative Programmes.md
       - Chingay50 Programmes/#OurChingay50Stories.md
