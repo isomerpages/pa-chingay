@@ -30,5 +30,6 @@ We can see the light at the end of the tunnel
 |:-:|:-:|
 |[Chingay website](http://www.chingay.gov.sg/) & [PAssion Chingay Club Facebook](http://www.facebook.com/passionchingayclub) page|7.30pm – 9.30pm|
 |Channel 5 and 8 <br> meWATCH <br>Suria and Vasantham Facebook pages|8.00pm – 9.00pm|
+| | |
 
-The theme signifies how each one of us in the community represents a sparkle of light to bring hope and warmth to one another. As we unite as a community, we will emerge stronger together. With a refreshed digital format, Chingay innovates to break the boundaries of time and space to bring together new arts and cultural groups, corporations as well as individuals to co-create Chingay 2021 together. The showcase has a blend of old and new cultural performances, traditional and emerging art forms, but presented as a digital experience for the first time. 
+The theme signifies how each one of us in the community represents a sparkle of light to bring hope and warmth to one another. As we unite as a community, we will emerge stronger together. With a refreshed digital format, Chingay innovates to break the boundaries of time and space to bring together new arts and cultural groups, corporations as well as individuals to co-create Chingay 2021 together. The showcase has a blend of old and new cultural performances, traditional and emerging art forms, but presented as a digital experience for the first time.
