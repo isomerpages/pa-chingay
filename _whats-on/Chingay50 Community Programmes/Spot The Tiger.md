@@ -4,3 +4,5 @@ permalink: /whats-on/Chingay50-Community-Programmes/spot-the-tiger
 description: ""
 third_nav_title: Chingay50 Community Programmes
 ---
+Supported By:
+<img src="/images/whats-on/supported-by.png" alt="sported by" style="width:373px; height:121px;"/>
