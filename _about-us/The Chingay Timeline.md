@@ -23,7 +23,7 @@ Chingay took on a Multi-Cultural Flavour featuring different ethnic communities 
 
 <img src="/images/About%20Us/Timeline/orchard-road.png" alt="orchard road" style="width:160px; float:left;"/>
 
-Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
+Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.<br>
 
 <hr/>
 
@@ -39,8 +39,7 @@ Chingay welcome Our First Foreign Performers – four pop artistes from Tokyo, J
 
 <img src="/images/About%20Us/Timeline/1990.png" alt="night parade" style="width:160px; float:left;"/>
 
-For the first time, Chingay was held at night where fireworks and laser displays enhanced the magical feel of the event.
-
+For the first time, Chingay was held at night where fireworks and laser displays enhanced the magical feel of the event.<br><br>
 
 <hr/>
 
@@ -64,7 +63,7 @@ Chingay Celebrates 25th Anniversary with Three Firsts - first time two parades w
 
 <img src="/images/About%20Us/Timeline/orchard-road.png" alt="orchard road firecrackers" style="width:160px; float:left;"/>
 
-Firecrackers Made Its Reappearance in Orchard Road at Chingay Parade.<br><br>
+Firecrackers Made Its Reappearance in Orchard Road at Chingay Parade.<br><br><br>
 
 <hr/>
 
