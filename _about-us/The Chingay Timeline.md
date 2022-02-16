@@ -127,7 +127,7 @@ As part of the nation-wide SG50 Celebrations, Chingay present the Largest Showca
 
 <img src="/images/About%20Us/Timeline/2017.png" alt="remake of the first tiger float" style="width:160px; float:left;"/>
 
-Chingay 45 was celebrated with the nostalgic re-enactment of iconic parade performances including the Remake Of The First Tiger Float.
+Chingay 45 was celebrated with the nostalgic re-enactment of iconic parade performances including the Remake Of The First Tiger Float.<br><br>
 
 <hr/>
 
