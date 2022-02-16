@@ -5,7 +5,7 @@ description: ""
 ---
 <table border="0">
         <tr>
-            <td>
+            <td width="45%">
                 <table border="0" width="100%">
                     <tr>
                         <td colspan="2" style="border-bottom: 1px solid black;"><b>Organised By</b></td>
@@ -16,8 +16,8 @@ description: ""
                     </tr>
                 </table>
             </td>
-            <td>&nbsp;</td>
-            <td>
+            <td width="10%">&nbsp;</td>
+            <td width="45%">
                 <table border="0">
                     <tr>
                         <td colspan="2" style="border-bottom: 1px solid black;"><b>Principal Founding Sponsors</b></td>
@@ -46,7 +46,7 @@ description: ""
 		
 <table border="0" width="100%">
         <tr>
-            <td>
+            <td width="45%">
                 <table border="0" width="100%">
                     <tr>
                         <td style="border-bottom: 1px solid black;"><b>Officaial Caterers</b></td>
@@ -59,8 +59,8 @@ description: ""
                     </tr>
                 </table>
             </td>
-            <td>&nbsp;</td>
-            <td>
+            <td width="10%">&nbsp;</td>
+            <td width="45%">
                 <table border="0" width="100%">
                     <tr>
                         <td style="border-bottom: 1px solid black;"><b>Officaial Vanue Partner</b></td>
@@ -77,7 +77,7 @@ description: ""
 
 <table border="0" width="100%">
         <tr>
-            <td>
+            <td width="45%">
                 <table border="0" width="100%">
                     <tr>
                         <td style="border-bottom: 1px solid black;"><b>Social Media Partner</b></td>
@@ -89,8 +89,8 @@ description: ""
                     </tr>
                 </table>
             </td>
-            <td>&nbsp;</td>
-            <td>
+            <td width="10%">&nbsp;</td>
+            <td width="45%">
                 <table border="0" width="100%">
                     <tr>
                         <td style="border-bottom: 1px solid black;"><b>Official E-Commerce Platform</b></td>
