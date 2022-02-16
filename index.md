@@ -70,6 +70,6 @@ sections:
       description: Check out the finalists winners results!
       button: Find Out More
       url: /whats-on/chingay50-community-programmes/d-2-dance-competition
-      image: /images/we-ve-got-talent--01-november-2021-19-01-21.jpg
+      image: /images/Highlights/d-2-dance-competition-highlightimage.jpg
       alt: Image alt text
 ---
