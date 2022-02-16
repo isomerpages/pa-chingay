@@ -116,7 +116,7 @@ description: ""
 							<img src="/images/Sponsors%20&%20Donors/nunchimarine-10-january-2022-11-10-29.png" alt="Nunchi Marine" style="width:201px;float:left;padding-top:8px;" />
 							<img src="/images/Sponsors%20&%20Donors/kkl-14-october-2019-18-47-18.png" alt="KKL" style="width:161px;float:left;" />
 							<img src="/images/Sponsors%20&%20Donors/jcd-04-february-2022-20-39-40.jpeg" alt="JCDecaux" style="width:161px;float:left;" />
-							<img src="/images/Sponsors%20&%20Donors/jcd-04-february-2022-20-39-40.jpeg" alt="JCDecaux" style="width:161px;float:left;" />
+							<img src="/images/Sponsors%20&%20Donors/changi-airport-group-03-february-2022-18-05-40.png" alt="Changi Airport Group" style="width:161px;float:left;" />
             </td>
         </tr>
     </table>
