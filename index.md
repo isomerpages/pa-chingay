@@ -40,6 +40,12 @@ sections:
       alt: Image alt text
       url: /whats-on/chingay-mama-shop
       image: /images/chingay-mamashop-highlightimage.jpg
+  - infopic:
+      title: Chingay50 Programme Booklet
+      subtitle: Download Now
+      description: Download the Chingay50 showcase programme booklet.
+      button: Find out more
+      url: /link
+      image: /images/Highlights/download-the-chingay50-showcase-programme-booklet--highlightimage.png
+      alt: Image alt text
 ---
-
-
