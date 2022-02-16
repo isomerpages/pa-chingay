@@ -45,7 +45,7 @@ sections:
       subtitle: Download Now
       description: Download the Chingay50 showcase programme booklet.
       button: Find out more
-      url: /link
+      url: /files/chingay50-2022-programme-booklet.pdf
       image: /images/Highlights/download-the-chingay50-showcase-programme-booklet--highlightimage.png
       alt: Image alt text
 ---
