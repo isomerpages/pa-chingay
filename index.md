@@ -20,7 +20,7 @@ sections:
       button: Find out more
       url: /files/chingay50-2022-programme-booklet.pdf
       image: /images/Highlights/download-the-chingay50-showcase-programme-booklet--highlightimage.png
-      alt: Image alt text
+      alt: Chingay50 Programme Booklet
   - infopic:
       title: Redraw Your World with Chingay50
       subtitle: Chingay50 Programme
@@ -28,7 +28,7 @@ sections:
       button: Find Out More
       url: /whats-on/redraw-your-world-with-chingay50
       image: /images/Highlights/redraw-your-world-with-chingay50-highlightimage.jpg
-      alt: Image alt text
+      alt: Chingay50 Redraw Your World
   - infopic:
       title: Spot The Tiger
       subtitle: Community Engagement Programme
@@ -37,14 +37,14 @@ sections:
       button: Find Out More
       url: /whats-on/chingay50-community-programmes/spot-the-tiger
       image: /images/Highlights/spot-the-tiger-highlightimage.png
-      alt: Image alt text
+      alt: Chingay50 Spot The Tiger
   - infopic:
       title: Chingay Mama Shop
       subtitle: Support Local
       description: Are you a local organisation or company that wants to do a part for
         charitable causes? We will love to have you on board!
       button: Find Out More
-      alt: Image alt text
+      alt: Chingay Mama Shop
       url: /whats-on/chingay-mama-shop
       image: /images/Highlights/chingay-mamashop-highlightimage.jpg
   - infopic:
@@ -63,7 +63,7 @@ sections:
       button: Find Out More
       url: /whats-on/chingay50-programme/hey-chingay-50-bus
       image: /images/Highlights/launch-of-chingay50-buses-highlightimage.jpg
-      alt: Image alt text
+      alt: Chingay50 Buses
   - infopic:
       title: D:2 Dance Competition
       subtitle: Community Engagement Programme
@@ -71,7 +71,7 @@ sections:
       button: Find Out More
       url: /whats-on/chingay50-community-programmes/d-2-dance-competition
       image: /images/Highlights/d-2-dance-competition-highlightimage.jpg
-      alt: Image alt text
+      alt: D:2 Dance Competition
   - infopic:
       title: Chingay50 Chinese New Year Stickers for Whatsapp
       subtitle: Whatsapp
@@ -80,7 +80,7 @@ sections:
       button: Find Out More
       url: https://sticker.ly/s/TX7LZ3
       image: /images/Highlights/chingay50-chinese-new-year-stickers-highlightimage.png
-      alt: Image alt text
+      alt: Download Whatsapp sticker pack
   - infopic:
       title: Chingay50 Chinese New Year Stickers For Telegram
       subtitle: Telegram
@@ -89,5 +89,5 @@ sections:
       button: Find Out More
       url: https://t.me/addstickers/Chingay50
       image: /images/Highlights/chingay50-chinese-new-year-stickers-for-telegram-highlightimage.png
-      alt: Image alt text
+      alt: Download Telegram sticker pack
 ---
