@@ -6,11 +6,11 @@ description: ""
 <table border="0" style="border: none;">
         <tbody>
             <tr style="border: none;">
-                <td colspan="2"><b>1973 - First Chingay Parade</b></td>
+                <td colspan="2" style="border-bottom: none;"><b>1973 - First Chingay Parade</b></td>
             </tr>
             <tr style="border: none;">
-                <td width="161px" style="border: none;"><img src="/images/About%20Us/Timeline/first-chingay-parade.png" alt="first chingay parade" style="width:160px; float:left;right-margin:20px;" /></td>
-                <td style="border: none;">PA teamed up with Singapore National Pugilistic Federation to present the First Chingay Parade</td>
+                <td width="161px" style="border-top: none;"><img src="/images/About%20Us/Timeline/first-chingay-parade.png" alt="first chingay parade" style="width:160px; float:left;right-margin:20px;" /></td>
+                <td style="border-top: none;">PA teamed up with Singapore National Pugilistic Federation to present the First Chingay Parade</td>
             </tr>
             <tr style="border: none;">
                 <td colspan="2"><b>1976 - Multi Cultural Flavour</b></td>
