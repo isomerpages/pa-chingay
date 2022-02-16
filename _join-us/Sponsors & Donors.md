@@ -6,7 +6,7 @@ description: ""
 <table border="0">
         <tr>
             <td>
-                <table border="0">
+                <table border="0" width="100%">
                     <tr>
                         <td colspan="2"><b>Organised By</b></td>
                     </tr>
