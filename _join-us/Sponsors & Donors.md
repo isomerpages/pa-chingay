@@ -120,6 +120,9 @@ description: ""
 							<img src="/images/Sponsors%20&%20Donors/sketchers-31-october-2021-10-42-19.png" alt="Skechers" style="width:161px;float:left;" />
 							<img src="/images/Sponsors%20&%20Donors/dfi-retail-group-20-january-2022-15-08-36.png" alt="DFI" style="width:161px;float:left;" />
 							<img src="/images/Sponsors%20&%20Donors/lorong-koo-chye-sheng-hong-14-october-2019-18-26-25.png" alt="Lorong Koo Chye Sheng Hong" style="width:161px;float:left;" />
+							<img src="/images/Sponsors%20&%20Donors/loyang-tua-pek-gong-14-october-2019-18-26-36.jpg" alt="Loyang Tua Pek Gong" style="width:161px;float:left;" />
+							<img src="/images/Sponsors%20&%20Donors/hock-lam-11-february-2021-21-54-16.png" alt="Hock Lam" style="width:161px;float:left;" />
+							<img src="/images/Sponsors%20&%20Donors/radioquip-communications-14-october-2019-18-26-53.png" alt="Radioquip Communications" style="width:161px;float:left;" />
             </td>
         </tr>
     </table>
