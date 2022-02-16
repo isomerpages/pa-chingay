@@ -14,6 +14,14 @@ sections:
             Stay tuned for more details!
           url: ""
   - infopic:
+      title: Chingay50 Programme Booklet
+      subtitle: Download Now
+      description: Download the Chingay50 showcase programme booklet.
+      button: Find out more
+      url: /files/chingay50-2022-programme-booklet.pdf
+      image: /images/Highlights/download-the-chingay50-showcase-programme-booklet--highlightimage.png
+      alt: Image alt text
+  - infopic:
       title: Chingay As You PHOTO It
       subtitle: Chingay 50 Programme
       description: Have a fond memory of Chingay since 1973? Stay tuned to walk down
@@ -41,11 +49,11 @@ sections:
       url: /whats-on/chingay-mama-shop
       image: /images/chingay-mamashop-highlightimage.jpg
   - infopic:
-      title: Chingay50 Programme Booklet
-      subtitle: Download Now
-      description: Download the Chingay50 showcase programme booklet.
-      button: Find out more
-      url: /files/chingay50-2022-programme-booklet.pdf
-      image: /images/Highlights/download-the-chingay50-showcase-programme-booklet--highlightimage.png
+      title: Redraw Your World with Chingay50
+      subtitle: Chingay50 Programme
+      description: Design your own float and stand to win prize pack from Cartoon Network!
+      button: Find Out More
+      url: /whats-on/redraw-your-world-with-chingay50
+      image: /images/Highlights/redraw-your-world-with-chingay50-highlightimage.jpg
       alt: Image alt text
 ---
