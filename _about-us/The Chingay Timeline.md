@@ -7,8 +7,7 @@ description: ""
 
 <img src="/images/About%20Us/Timeline/first-chingay-parade.png" alt="first chingay parade" style="width:160px; float:left;right-margin:20px;"/>
 
-PA teamed up with Singapore National Pugilistic Federation to present the First Chingay Parade
-
+PA teamed up with Singapore National Pugilistic Federation to present the First Chingay Parade<br><br>
 
 <hr/>
 
@@ -16,8 +15,7 @@ PA teamed up with Singapore National Pugilistic Federation to present the First 
 
 <img src="/images/About%20Us/Timeline/multi-cultural-flavour.png" style="width:160px; float:left;right-padding:20px;"/>
 
-Chingay took on a Multi-Cultural Flavour featuring different ethnic communities joining in the celebrations.
-
+Chingay took on a Multi-Cultural Flavour featuring different ethnic communities joining in the celebrations.<br><br>
 
 <hr/>
 
@@ -26,7 +24,6 @@ Chingay took on a Multi-Cultural Flavour featuring different ethnic communities 
 <img src="/images/About%20Us/Timeline/orchard-road.png" alt="orchard road" style="width:160px; float:left;"/>
 
 Chingay moved to a permanent home at Orchard Road where tourists and visitors can join in the joy of the parade.
-
 
 <hr/>
 
@@ -67,8 +64,7 @@ Chingay Celebrates 25th Anniversary with Three Firsts - first time two parades w
 
 <img src="/images/About%20Us/Timeline/orchard-road.png" alt="orchard road firecrackers" style="width:160px; float:left;"/>
 
-Firecrackers Made Its Reappearance in Orchard Road at Chingay Parade.
-
+Firecrackers Made Its Reappearance in Orchard Road at Chingay Parade.<br><br>
 
 <hr/>
 
@@ -76,8 +72,7 @@ Firecrackers Made Its Reappearance in Orchard Road at Chingay Parade.
 
 <img src="/images/About%20Us/Timeline/2000.png" alt="new mellinium at city hall" style="width:160px; float:left;"/>
 
-Chingay celebrated The Arrival of The New Millennium at City Hall, chosen as a venue of historical significance.
-
+Chingay celebrated The Arrival of The New Millennium at City Hall, chosen as a venue of historical significance.<br><br>
 
 <hr/>
 
@@ -103,8 +98,7 @@ Chingay was catapulted to greater heights on the world stage when action superst
 
 <img src="/images/About%20Us/Timeline/2008.png" alt="chingay parade of dreams" style="width:160px; float:left;"/>
 
-Chingay Parade started featuring a theme at every parade, staring with Chingay Parade of Dreams.
-
+Chingay Parade started featuring a theme at every parade, staring with Chingay Parade of Dreams.<br><br>
 
 <hr/>
 
@@ -112,9 +106,7 @@ Chingay Parade started featuring a theme at every parade, staring with Chingay P
 
 <img src="/images/About%20Us/Timeline/2010.png" alt="f1 pit building" style="width:160px; float:left;"/>
 
-Chingay moved to its current home at F1 Pit Building.
-
-
+Chingay moved to its current home at F1 Pit Building.<br><br><br>
 
 <hr/>
 
