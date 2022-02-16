@@ -39,24 +39,6 @@ sections:
       image: /images/Highlights/spot-the-tiger-highlightimage.png
       alt: Image alt text
   - infopic:
-      title: Chingay As You PHOTO It
-      subtitle: Chingay 50 Programme
-      description: Have a fond memory of Chingay since 1973? Stay tuned to walk down
-        the memory lane as we feature your photo memories!
-      button: Find Out More
-      url: /whats-on/chingay-as-you-photo-it
-      image: /images/chingay-as-you-photo-it--highlightimage.jpg
-      alt: Chingay As You PHOTO It
-  - infopic:
-      title: Share Your Talent with Us!!!
-      subtitle: We've Got Talent
-      description: Whether you are dancing, singing a pop song, playing a musical
-        instrument, painting or performing magic tricks, we want to see it!
-      button: Find Out More
-      url: /what-is-on/weve-got-talent
-      image: /images/we-ve-got-talent--01-november-2021-19-01-21.jpg
-      alt: Image alt text
-  - infopic:
       title: Chingay Mama Shop
       subtitle: Support Local
       description: Are you a local organisation or company that wants to do a part for
@@ -64,5 +46,30 @@ sections:
       button: Find Out More
       alt: Image alt text
       url: /whats-on/chingay-mama-shop
-      image: /images/chingay-mamashop-highlightimage.jpg
+      image: /images/Highlights/chingay-mamashop-highlightimage.jpg
+  - infopic:
+      title: Chingay As You PHOTO It
+      subtitle: Chingay 50 Programme
+      description: Have a fond memory of Chingay since 1973? Stay tuned to walk down
+        the memory lane as we feature your photo memories!
+      button: Find Out More
+      url: /whats-on/chingay-as-you-photo-it
+      image: /images/Highlights/chingay-as-you-photo-it--highlightimage.jpg
+      alt: Chingay As You PHOTO It
+  - infopic:
+      title: Chingay's 50th Anniversary - Launch of Chingay50 Buses
+      subtitle: Chingay50 Programme
+      description: Come onboard and celebrate the Chingay Spirit around the island!
+      button: Find Out More
+      url: /whats-on/chingay50-programme/hey-chingay-50-bus
+      image: /images/Highlights/launch-of-chingay50-buses-highlightimage.jpg
+      alt: Image alt text
+  - infopic:
+      title: D:2 Dance Competition
+      subtitle: Community Engagement Programme
+      description: Check out the finalists winners results!
+      button: Find Out More
+      url: /whats-on/chingay50-community-programmes/d-2-dance-competition
+      image: /images/we-ve-got-talent--01-november-2021-19-01-21.jpg
+      alt: Image alt text
 ---
