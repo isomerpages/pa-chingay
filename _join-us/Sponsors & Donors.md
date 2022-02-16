@@ -36,9 +36,9 @@ description: ""
         </tr>
         <tr>
             <td>
-                <img src="/images/Sponsors%20&%20Donors/passioncard-black-01-december-2020-17-13-42.jpg" alt="PAssion Card Black" style="width:121px;float:left;" />
-                <img src="/images/Sponsors%20&%20Donors/passioncard-silver-01-december-2020-17-13-59.jpg" alt="PAssion Card Silver" style="width:121px;float:left;" />
-                <img src="/images/Sponsors%20&%20Donors/passioncard-posb-01-december-2020-17-14-51.jpg" alt="PAssion Card POSB" style="width:121px;float:left;" />
+                <img src="/images/Sponsors%20&%20Donors/passioncard-black-01-december-2020-17-13-42.jpg" alt="PAssion Card Black" style="width:161px;float:left;" />
+                <img src="/images/Sponsors%20&%20Donors/passioncard-silver-01-december-2020-17-13-59.jpg" alt="PAssion Card Silver" style="width:161px;float:left;" />
+                <img src="/images/Sponsors%20&%20Donors/passioncard-posb-01-december-2020-17-14-51.jpg" alt="PAssion Card POSB" style="width:161px;float:left;" />
             </td>
         </tr>
     </table>
