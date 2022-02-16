@@ -30,6 +30,7 @@ description: ""
             </td>
         </tr>
     </table>
+		
 		<table border="0" width="100%">
         <tr>
             <td style="border-bottom: 1px solid black;"><b>Official Cards</b></td>
