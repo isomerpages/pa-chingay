@@ -117,6 +117,7 @@ description: ""
 							<img src="/images/Sponsors%20&%20Donors/kkl-14-october-2019-18-47-18.png" alt="KKL" style="width:161px;float:left;" />
 							<img src="/images/Sponsors%20&%20Donors/jcd-04-february-2022-20-39-40.jpeg" alt="JCDecaux" style="width:161px;float:left;" />
 							<img src="/images/Sponsors%20&%20Donors/changi-airport-group-03-february-2022-18-05-40.png" alt="Changi Airport Group" style="width:161px;float:left;" />
+							<img src="/images/Sponsors%20&%20Donors/sketchers-31-october-2021-10-42-19.png" alt="Skechers" style="width:161px;float:left;" />
             </td>
         </tr>
     </table>
