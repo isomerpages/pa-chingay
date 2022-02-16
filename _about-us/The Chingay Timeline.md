@@ -79,8 +79,7 @@ Chingay celebrated The Arrival of The New Millennium at City Hall, chosen as a v
 
 <img src="/images/About%20Us/Timeline/2004.png" alt="special guest - jackie chen" style="width:160px; float:left;"/>
 
-Chingay was catapulted to greater heights on the world stage when action superstar Jackie Chan Made A Special Guest Appearance at the parade.
-
+Chingay was catapulted to greater heights on the world stage when action superstar Jackie Chan Made A Special Guest Appearance at the parade.<br><br>
 
 <hr/>
 
@@ -88,8 +87,7 @@ Chingay was catapulted to greater heights on the world stage when action superst
 
 <img src="/images/About%20Us/Timeline/2007.png" alt="members of parliament participation" style="width:160px; float:left;"/>
 
-12 Post-65 Members Of Parliament were part of a special hip-hop performance which was one of the parade’s highlights.
-
+12 Post-65 Members Of Parliament were part of a special hip-hop performance which was one of the parade’s highlights.<br><br>
 
 <hr/>
 
@@ -113,7 +111,7 @@ Chingay moved to its current home at F1 Pit Building.<br><br><br>
 
 <img src="/images/About%20Us/Timeline/2012.png" alt="360 metre waterway" style="width:160px; float:left;"/>
 
-Chingay celebrated its 40th anniversary with the First Ever 360-metre Waterway which was set as the performing stage for the 8,000 performers.
+Chingay celebrated its 40th anniversary with the First Ever 360-metre Waterway which was set as the performing stage for the 8,000 performers.<br><br>
 
 <hr/>
 
