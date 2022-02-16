@@ -112,6 +112,8 @@ description: ""
         <tr>
             <td>
                 <img src="/images/Sponsors%20&%20Donors/dbs--21-january-2022-10-35-18.png" alt="DBS" style="width:161px;float:left;" />
+							<img src="/images/Sponsors%20&%20Donors/posb-18-october-2019-16-39-35.png" alt="POSB" style="width:161px;float:left;" />
+							<img src="/images/Sponsors%20&%20Donors/nunchimarine-10-january-2022-11-10-29.png" alt="Nunchi Marine" style="width:281px;float:left;padding-top:8px;" />
             </td>
         </tr>
     </table>
