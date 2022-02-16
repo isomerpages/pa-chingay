@@ -22,6 +22,23 @@ sections:
       image: /images/Highlights/download-the-chingay50-showcase-programme-booklet--highlightimage.png
       alt: Image alt text
   - infopic:
+      title: Redraw Your World with Chingay50
+      subtitle: Chingay50 Programme
+      description: Design your own float and stand to win prize pack from Cartoon Network!
+      button: Find Out More
+      url: /whats-on/redraw-your-world-with-chingay50
+      image: /images/Highlights/redraw-your-world-with-chingay50-highlightimage.jpg
+      alt: Image alt text
+  - infopic:
+      title: Spot The Tiger
+      subtitle: Community Engagement Programme
+      description: Watch our Chingay50 live webcast at our website here, Facebook or
+        TikTok on Saturday, 12th February 2022 8.00pm and win vouchers!
+      button: Find Out More
+      url: /whats-on/chingay50-community-programmes/spot-the-tiger
+      image: /images/Highlights/spot-the-tiger-highlightimage.png
+      alt: Image alt text
+  - infopic:
       title: Chingay As You PHOTO It
       subtitle: Chingay 50 Programme
       description: Have a fond memory of Chingay since 1973? Stay tuned to walk down
@@ -48,12 +65,4 @@ sections:
       alt: Image alt text
       url: /whats-on/chingay-mama-shop
       image: /images/chingay-mamashop-highlightimage.jpg
-  - infopic:
-      title: Redraw Your World with Chingay50
-      subtitle: Chingay50 Programme
-      description: Design your own float and stand to win prize pack from Cartoon Network!
-      button: Find Out More
-      url: /whats-on/redraw-your-world-with-chingay50
-      image: /images/Highlights/redraw-your-world-with-chingay50-highlightimage.jpg
-      alt: Image alt text
 ---
