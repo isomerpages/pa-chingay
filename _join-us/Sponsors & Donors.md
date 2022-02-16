@@ -74,3 +74,33 @@ description: ""
             </td>
         </tr>
     </table>
+
+<table border="0" width="100%">
+        <tr>
+            <td>
+                <table border="0" width="100%">
+                    <tr>
+                        <td style="border-bottom: 1px solid black;"><b>Social Media Partner</b></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <img src="/images/Sponsors%20&%20Donors/tiktok-03-february-2021-10-52-58.png" alt="Tiktok" style="width:161px;float:left;" />
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td>&nbsp;</td>
+            <td>
+                <table border="0" width="100%">
+                    <tr>
+                        <td style="border-bottom: 1px solid black;"><b>Official E-Commerce Platform</b></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <img src="/images/Sponsors%20&%20Donors/lazada-02-february-2021-19-08-45.png" alt="Lazada" style="width:121px;float:left;" />
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
