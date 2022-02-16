@@ -23,8 +23,8 @@ description: ""
                         <td colspan="2"><b>Principal Founding Sponsors</b></td>
                     </tr>
                     <tr>
-                        <td></td>
-                        <td></td>
+                        <td><img src="/images/Sponsors%20&%20Donors/tote-board-23-october-2019-17-24-12.jpg" alt="Giving Hope Improving Lives" style="width:161px;" /></td>
+                        <td><img src="/images/Sponsors%20&%20Donors/singapore-tourism-board-14-october-2019-18-29-42.png" alt="Singapore Tourism Board" style="width:161px;" /></td>
                     </tr>
                 </table>
             </td>
