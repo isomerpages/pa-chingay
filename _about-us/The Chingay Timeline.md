@@ -3,7 +3,7 @@ title: The Chingay Timeline
 permalink: /about-us/the-chingay-timeline
 description: ""
 ---
-<table border="0">
+<table border="0"  style="border: none;">
         <tr>
             <td colspan="2"><b>1973 - First Chingay Parade</b></td>
         </tr>
