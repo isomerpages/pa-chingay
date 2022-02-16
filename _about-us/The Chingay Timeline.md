@@ -3,6 +3,189 @@ title: The Chingay Timeline
 permalink: /about-us/the-chingay-timeline
 description: ""
 ---
+<table border="0">
+        <tr>
+            <td colspan="2"><b>1973 - First Chingay Parade</b></td>
+        </tr>
+        <tr>
+            <td width="161px"><img src="/images/About%20Us/Timeline/first-chingay-parade.png" alt="first chingay parade" style="width:160px; float:left;right-margin:20px;" /></td>
+            <td>PA teamed up with Singapore National Pugilistic Federation to present the First Chingay Parade</td>
+        </tr>
+        <tr>
+            <td colspan="2"><hr /></td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>1976 - Multi Cultural Flavour</b></td>
+        </tr>
+        <tr>
+            <td width="161px"><img src="/images/About%20Us/Timeline/multi-cultural-flavour.png" style="width:160px; float:left;right-padding:20px;" /></td>
+            <td>Chingay took on a Multi-Cultural Flavour featuring different ethnic communities joining in the celebrations.</td>
+        </tr>
+        <tr>
+            <td colspan="2"><hr /></td>
+        </tr>
+        <tr>
+            <td colspan="2"><b></b></td>
+        </tr>
+        <tr>
+            <td width="161px"></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2"><hr /></td>
+        </tr>
+        <tr>
+            <td colspan="2"><b></b></td>
+        </tr>
+        <tr>
+            <td width="161px"></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2"><hr /></td>
+        </tr>
+        <tr>
+            <td colspan="2"><b></b></td>
+        </tr>
+        <tr>
+            <td width="161px"></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2"><hr /></td>
+        </tr>
+        <tr>
+            <td colspan="2"><b></b></td>
+        </tr>
+        <tr>
+            <td width="161px"></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2"><hr /></td>
+        </tr>
+        <tr>
+            <td colspan="2"><b></b></td>
+        </tr>
+        <tr>
+            <td width="161px"></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2"><hr /></td>
+        </tr>
+        <tr>
+            <td colspan="2"><b></b></td>
+        </tr>
+        <tr>
+            <td width="161px"></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2"><hr /></td>
+        </tr>
+        <tr>
+            <td colspan="2"><b></b></td>
+        </tr>
+        <tr>
+            <td width="161px"></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2"><hr /></td>
+        </tr>
+        <tr>
+            <td colspan="2"><b></b></td>
+        </tr>
+        <tr>
+            <td width="161px"></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2"><hr /></td>
+        </tr>
+        <tr>
+            <td colspan="2"><b></b></td>
+        </tr>
+        <tr>
+            <td width="161px"></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2"><hr /></td>
+        </tr>
+        <tr>
+            <td colspan="2"><b></b></td>
+        </tr>
+        <tr>
+            <td width="161px"></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2"><hr /></td>
+        </tr>
+        <tr>
+            <td colspan="2"><b></b></td>
+        </tr>
+        <tr>
+            <td width="161px"></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2"><hr /></td>
+        </tr>
+        <tr>
+            <td colspan="2"><b></b></td>
+        </tr>
+        <tr>
+            <td width="161px"></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2"><hr /></td>
+        </tr>
+        <tr>
+            <td colspan="2"><b></b></td>
+        </tr>
+        <tr>
+            <td width="161px"></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2"><hr /></td>
+        </tr>
+        <tr>
+            <td colspan="2"><b></b></td>
+        </tr>
+        <tr>
+            <td width="161px"></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2"><hr /></td>
+        </tr>
+        <tr>
+            <td colspan="2"><b></b></td>
+        </tr>
+        <tr>
+            <td width="161px"></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2"><hr /></td>
+        </tr>
+        <tr>
+            <td colspan="2"><b></b></td>
+        </tr>
+        <tr>
+            <td width="161px"></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2"><hr /></td>
+        </tr>
+    </table>
+		
 **1973 - First Chingay Parade**
 
 <img src="/images/About%20Us/Timeline/first-chingay-parade.png" alt="first chingay parade" style="width:160px; float:left;right-margin:20px;"/>
