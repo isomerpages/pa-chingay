@@ -118,6 +118,8 @@ description: ""
 							<img src="/images/Sponsors%20&%20Donors/jcd-04-february-2022-20-39-40.jpeg" alt="JCDecaux" style="width:161px;float:left;" />
 							<img src="/images/Sponsors%20&%20Donors/changi-airport-group-03-february-2022-18-05-40.png" alt="Changi Airport Group" style="width:161px;float:left;" />
 							<img src="/images/Sponsors%20&%20Donors/sketchers-31-october-2021-10-42-19.png" alt="Skechers" style="width:161px;float:left;" />
+							<img src="/images/Sponsors%20&%20Donors/dfi-retail-group-20-january-2022-15-08-36.png" alt="DFI" style="width:161px;float:left;" />
+							<img src="/images/Sponsors%20&%20Donors/lorong-koo-chye-sheng-hong-14-october-2019-18-26-25.png" alt="Lorong Koo Chye Sheng Hong" style="width:161px;float:left;" />
             </td>
         </tr>
     </table>
