@@ -104,3 +104,14 @@ description: ""
             </td>
         </tr>
     </table>
+		
+<table border="0" width="100%">
+        <tr>
+            <td style="border-bottom: 1px solid black;"><b>Major Sponsors & Donors</b></td>
+        </tr>
+        <tr>
+            <td>
+                <img src="/images/Sponsors%20&%20Donors/dbs--21-january-2022-10-35-18.png" alt="DBS" style="width:161px;float:left;" />
+            </td>
+        </tr>
+    </table>
