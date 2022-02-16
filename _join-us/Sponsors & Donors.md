@@ -44,3 +44,33 @@ description: ""
         </tr>
     </table>
 		
+<table border="0" width="100%">
+        <tr>
+            <td>
+                <table border="0" width="100%">
+                    <tr>
+                        <td style="border-bottom: 1px solid black;"><b>Officaial Caterers</b></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <img src="/images/Sponsors%20&%20Donors/stamford-catering-18-october-2019-16-40-27.png" alt="Stamford" style="width:161px;float:left;" />
+                            <img src="/images/Sponsors%20&%20Donors/peach-garden-(colour)-14-october-2019-18-28-03.png" alt="Peach Garden" style="width:161px;float:left;" />
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td>&nbsp;</td>
+            <td>
+                <table border="0" width="100%">
+                    <tr>
+                        <td style="border-bottom: 1px solid black;"><b>Officaial Vanue Partner</b></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <img src="/images/Sponsors%20&%20Donors/jewel-02-february-2021-19-11-10.jpg" alt="Jewel Changi Airport" style="width:161px;float:left;" />
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
