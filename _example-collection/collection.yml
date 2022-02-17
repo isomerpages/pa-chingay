@@ -1,5 +1,0 @@
-collections:
-  example-collection:
-    output: true
-    order:
-      - D:2 Dance Competition.md
