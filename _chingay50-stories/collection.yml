@@ -2,6 +2,7 @@ collections:
   chingay50-stories:
     output: true
     order:
+      - Liew Tong Leng.md
       - Rachael Soh.md
       - Teo Cheng Kam.md
       - Ong Choon Mui.md
