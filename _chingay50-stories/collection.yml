@@ -2,6 +2,7 @@ collections:
   chingay50-stories:
     output: true
     order:
+      - Ong Choon Mui.md
       - Lynn Goh.md
       - Dina Nerina.md
       - Surendran Rachandran.md
