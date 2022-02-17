@@ -61,7 +61,7 @@ Take the journey and reminisce with us!
                 <h4>Dina Nerina</h4>
                 <b>Community Programmes Manager</b><br />
                 Embracing The Spirit of Multiculturalism<br />
-                <a href="">Read More..</a>
+                <a href="/chingay50-stories/dina-nerina">Read More..</a>
             </td>
         </tr>
         <tr>
@@ -72,7 +72,7 @@ Take the journey and reminisce with us!
                 <h4>Lynn Goh</h4>
                 <b>Administrator</b><br />
                 United We Dance<br />
-                <a href="" alt="">Read More..</a>
+                <a href="/chingay50-stories/lynn-goh">Read More..</a>
             </td>
         </tr>
         <tr>
