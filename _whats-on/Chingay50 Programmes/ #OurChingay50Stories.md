@@ -149,7 +149,7 @@ Take the journey and reminisce with us!
                 <h4>Mohamed Feroze bin Hasan</h4>
                 <b>Entrepreneur</b><br />
                 Fusion Singapore Style – Letting the Youth Explore Cultural Roots<br />
-                <a href="" alt="">Read More..</a>
+                <a href="/chingay50-stories/mohamed-feroze-bin-hasan">Read More..</a>
             </td>
         </tr>
         <tr>
