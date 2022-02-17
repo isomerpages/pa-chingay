@@ -61,7 +61,7 @@ Take the journey and reminisce with us!
                 <h4>Dina Nerina</h4>
                 <b>Community Programmes Manager</b><br />
                 Embracing The Spirit of Multiculturalism<br />
-                <a href="" alt="">Read More..</a>
+                <a href="">Read More..</a>
             </td>
         </tr>
         <tr>
