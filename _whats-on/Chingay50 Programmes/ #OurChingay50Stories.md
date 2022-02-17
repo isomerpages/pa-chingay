@@ -94,7 +94,7 @@ Take the journey and reminisce with us!
                 <h4>Teo Cheng Kam</h4>
                 <b>Retiree</b><br />
                 A Love Which Spanned Four Decades<br />
-                <a href="" alt="">Read More..</a>
+                <a href="/chingay50-stories/teo-cheng-kam">Read More..</a>
             </td>
         </tr>
         <tr>
