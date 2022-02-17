@@ -138,7 +138,7 @@ Take the journey and reminisce with us!
                 <h4>Ng Tian Jun</h4>
                 <b>CheerForce Founder</b><br />
                 Cheers to Diversity<br />
-                <a href="" alt="">Read More..</a>
+                <a href="/chingay50-stories/ng-tian-jun">Read More..</a>
             </td>
         </tr>
         <tr>
