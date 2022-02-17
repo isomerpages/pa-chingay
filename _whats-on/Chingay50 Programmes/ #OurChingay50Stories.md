@@ -105,7 +105,7 @@ Take the journey and reminisce with us!
                 <h4>Rachael Soh</h4>
                 <b>Student</b><br />
                 A GROOVY KIND OF LOVE<br />
-                <a href="" alt="">Read More..</a>
+                <a href="/chingay50-stories/rachael-soh">Read More..</a>
             </td>
         </tr>
         <tr>
@@ -116,7 +116,7 @@ Take the journey and reminisce with us!
                 <h4>Liew Tong Leng</h4>
                 <b>Airworthiness Inspector</b><br />
                 HIS BEST SHOT, EVERY TIME<br />
-                <a href="" alt="">Read More..</a>
+                <a href="/chingay50-stories/liew-tong-leng">Read More..</a>
             </td>
         </tr>
         <tr>
@@ -127,7 +127,7 @@ Take the journey and reminisce with us!
                 <h4>Lim Jia Hui</h4>
                 <b>Quantity Surveyor</b><br />
                 Rising with the Occasion<br />
-                <a href="" alt="">Read More..</a>
+                <a href="/chingay50-stories/lim-jia-hui">Read More..</a>
             </td>
         </tr>
         <tr>
