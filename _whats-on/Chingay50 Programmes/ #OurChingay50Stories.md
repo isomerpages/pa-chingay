@@ -171,7 +171,7 @@ Take the journey and reminisce with us!
                 <h4>Sabaria Bte Uma</h4>
                 <b>BIM Modeller Personnel</b><br />
                 Daring like a Dragon<br />
-                <a href="" alt="">Read More..</a>
+                <a href="/chingay50-stories/sabaria-bte-uma">Read More..</a>
             </td>
         </tr>
     </table>
