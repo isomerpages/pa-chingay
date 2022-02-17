@@ -160,7 +160,7 @@ Take the journey and reminisce with us!
                 <h4>Ian Koh</h4>
                 <b>Procurement Specialist</b><br />
                 Last Dance Together<br />
-                <a href="" alt="">Read More..</a>
+                <a href="/chingay50-stories/ian-koh">Read More..</a>
             </td>
         </tr>
         <tr>
