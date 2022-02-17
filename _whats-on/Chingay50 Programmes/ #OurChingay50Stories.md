@@ -17,7 +17,7 @@ Take the journey and reminisce with us!
                 <h4>Michael Koh & Sharon Lee</h4>
                 <b>Aircon Specialist & Homemaker</b><br />
                 Love Blossoms Among Costumes and Props<br />
-                <a href="/michael-koh-sharon-lee">Read More..</a>
+                <a href="/chingay50-stories/michael-koh-sharon-lee">Read More..</a>
             </td>
         </tr>
         <tr>
@@ -28,7 +28,7 @@ Take the journey and reminisce with us!
                 <h4>Chingay50 - Parading Through Time</h4>
                 <b>50 Years of Memory Making and Counting</b><br />
                 Evolution of Chingay<br />
-                <a href="/chingay50-parading-through-time">Read More..</a>
+                <a href="/chingay50-stories/chingay50-parading-through-time">Read More..</a>
             </td>
         </tr>
         <tr>
@@ -39,7 +39,7 @@ Take the journey and reminisce with us!
                 <h4>Ken and Christine</h4>
                 <b>Sibling Chingay Volunteers</b><br />
                 Sibling Revelry<br />
-                <a href="/ken-and-christine">Read More..</a>
+                <a href="/chingay50-stories/ken-and-christine">Read More..</a>
             </td>
         </tr>
         <tr>
@@ -50,7 +50,7 @@ Take the journey and reminisce with us!
                 <h4>Surendran Rachandran</h4>
                 <b>Administrative Executive</b><br />
                 Dancing To His Own Beat<br />
-                <a href="/surendran-rachandran">Read More..</a>
+                <a href="/chingay50-stories/surendran-rachandran">Read More..</a>
             </td>
         </tr>
         <tr>
