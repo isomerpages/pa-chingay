@@ -2,4 +2,5 @@ collections:
   chingay50-stories:
     output: true
     order:
+      - Ken and Christine.md
       - Chingay50 Parading Through Time.md
