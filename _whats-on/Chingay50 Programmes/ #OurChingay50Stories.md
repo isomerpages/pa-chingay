@@ -17,7 +17,7 @@ Take the journey and reminisce with us!
                 <h4>Michael Koh & Sharon Lee</h4>
                 <b>Aircon Specialist & Homemaker</b><br />
                 Love Blossoms Among Costumes and Props<br />
-                <a href="" alt="">Read More..</a>
+                <a href="/michael-koh-sharon-lee">Read More..</a>
             </td>
         </tr>
         <tr>
