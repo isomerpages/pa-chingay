@@ -1,4 +1,5 @@
 collections:
   hall-of-frames:
     output: true
-    order: []
+    order:
+      - Fiery Parade (2010).md
