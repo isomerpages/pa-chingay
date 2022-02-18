@@ -15,10 +15,10 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 	<li>
 		<div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
 			<img style="height:210px;width:auto;" src="/images/MamaShop/chingay-mamashopimage.png">
-			<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 2em;">
+			<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
             <h3 style="font-size: 1em; margin: 0 0 .3em;">Chingay</h3>            
           </div>
-			<p style="padding: 0 2em 2em;margin: 0; overflow: hidden;">To commemorate Chingay 50th anniversary, we have specially designed Chingay limited edition merchandises, illustrated by our talented local designers, out for sale! All sale proceeds will be donated fully to the charitable cause.<br>
+			<p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">To commemorate Chingay 50th anniversary, we have specially designed Chingay limited edition merchandises, illustrated by our talented local designers, out for sale! All sale proceeds will be donated fully to the charitable cause.<br>
 				<a href="https://www.lazada.sg/shop/chingay-mamashop">Purchase Now</a>
 			</p>
 		</div>
@@ -26,10 +26,10 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 	<li>
 		<div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
 			<img style="height: 210px;width:auto;" src="/images/MamaShop/jomingo-mamashopimage.png">
-			<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 2em;">
+			<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
             <h3 style="font-size: 1em; margin: 0 0 .3em;">Jomingo</h3>            
           </div>
-			<p style="padding: 0 2em 2em;margin: 0; overflow: hidden;">Natural, plant based deodorants, hand balms and lip balms in plastic-free packaging made with you and our Earth in mind.<br>
+			<p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">Natural, plant based deodorants, hand balms and lip balms in plastic-free packaging made with you and our Earth in mind.<br>
 				<a href="https://www.lazada.sg/products/i1632566320.html">Purchase Now</a>
 			</p>
 		</div>
@@ -37,7 +37,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 	<li>
 		<div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
 			<img style="height: 210px;width:auto;" src="/images/MamaShop/no-harm-done-mamashopimage.png">
-			<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em;">
+			<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
             <h3 style="font-size: 1em; margin: 0 0 .3em;">No Harm Done</h3>            
           </div>
 			<p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">No Harm Done is a social enterprise on a mission. Our aim is to make it easy for everyone to be conscious. We are offering convenient eco-fr<br>
@@ -48,7 +48,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 	<li>
 		<div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
 			<img style="height: 210px;width:auto;" src="/images/MamaShop/straits-preserves-pte-ltd-mamashopimage.png">
-			<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em;">
+			<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
             <h3 style="font-size: 1em; margin: 0 0 .3em;">Straits Preserves</h3>
           </div>
 			<p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">An award-winning producer of tropical marmalades and nut butters with flavours inspired by Singapore’s history and culture.<br>
