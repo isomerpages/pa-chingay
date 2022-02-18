@@ -1,0 +1,4 @@
+collections:
+  hall-of-frames:
+    output: true
+    order: []
