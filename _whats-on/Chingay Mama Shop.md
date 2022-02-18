@@ -22,4 +22,14 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 			<p style="padding: 0 2em 2em;margin: 0; overflow: hidden;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
 		</a>
 	</li>
+	<li>
+		<a style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;" href="#">
+			<img style="width: 100%; height: auto;" src="https://i.imgur.com/oYiTqum.jpg">
+			<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 2em;">
+            <h3 style="font-size: 1em; margin: 0 0 .3em;">Jessica Parker</h3>            
+            <span>1 hour ago</span>
+          </div>
+			<p style="padding: 0 2em 2em;margin: 0; overflow: hidden;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
+		</a>
+	</li>
 </ul>
