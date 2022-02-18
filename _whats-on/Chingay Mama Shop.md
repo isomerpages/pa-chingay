@@ -13,13 +13,14 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 4rem 5vw; padding: 0; list-style-type: none;">
 	<li>
-		<a style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;" href="https://www.lazada.sg/shop/chingay-mamashop">
+		<div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
 			<img style="width: 100%; height: auto;" src="/images/MamaShop/chingay-mamashopimage.png">
 			<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 2em;">
             <h3 style="font-size: 1em; margin: 0 0 .3em;">Chingay</h3>            
           </div>
 			<p style="padding: 0 2em 2em;margin: 0; overflow: hidden;">To commemorate Chingay 50th anniversary, we have specially designed Chingay limited edition merchandises, illustrated by our talented local designers, out for sale! All sale proceeds will be donated fully to the charitable cause.</p>
-		</a>
+			<a href="https://www.lazada.sg/shop/chingay-mamashop">Purchase Now</a>
+		</div>
 	</li>
 	<li>
 		<a style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;" href="#">
