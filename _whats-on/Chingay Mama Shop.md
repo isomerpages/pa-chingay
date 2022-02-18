@@ -18,8 +18,9 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 			<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 2em;">
             <h3 style="font-size: 1em; margin: 0 0 .3em;">Chingay</h3>            
           </div>
-			<p style="padding: 0 2em 2em;margin: 0; overflow: hidden;">To commemorate Chingay 50th anniversary, we have specially designed Chingay limited edition merchandises, illustrated by our talented local designers, out for sale! All sale proceeds will be donated fully to the charitable cause.</p>
-			<a href="https://www.lazada.sg/shop/chingay-mamashop">Purchase Now</a>
+			<p style="padding: 0 2em 2em;margin: 0; overflow: hidden;">To commemorate Chingay 50th anniversary, we have specially designed Chingay limited edition merchandises, illustrated by our talented local designers, out for sale! All sale proceeds will be donated fully to the charitable cause.
+				<a href="https://www.lazada.sg/shop/chingay-mamashop">Purchase Now</a>
+			</p>
 		</div>
 	</li>
 	<li>
@@ -28,8 +29,9 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 			<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 2em;">
             <h3 style="font-size: 1em; margin: 0 0 .3em;">Jomingo</h3>            
           </div>
-			<p style="padding: 0 2em 2em;margin: 0; overflow: hidden;">Natural, plant based deodorants, hand balms and lip balms in plastic-free packaging made with you and our Earth in mind.</p>
-			<a href="https://www.lazada.sg/products/i1632566320.html">Purchase Now</a>
+			<p style="padding: 0 2em 2em;margin: 0; overflow: hidden;">Natural, plant based deodorants, hand balms and lip balms in plastic-free packaging made with you and our Earth in mind.
+				<a href="https://www.lazada.sg/products/i1632566320.html">Purchase Now</a>
+			</p>
 		</div>
 	</li>
 </ul>
