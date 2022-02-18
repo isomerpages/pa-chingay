@@ -116,7 +116,115 @@ Special thanks to Lazada, our Official E-Commerce Platform.
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
                     JOURNEY is a Singapore brand that represents the creative talents of people with intellectual disabilities. Through this platform, the artwo<br>
-                        <a href="https://www.lazada.sg/products/journey-cushion-cover-45cm-x-45cm-i1908050291-s10196544130.html">Purchase Now</a>
+                    <a href="https://www.lazada.sg/products/journey-cushion-cover-45cm-x-45cm-i1908050291-s10196544130.html">Purchase Now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/herbal-pharm-pte-ltd-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Herbal Pharm</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    As a home-grown Made With Passion brand, Herbal Pharm is thrilled to be contributing to the betterment of the vulnerable communities in Sing<br>
+                    <a href="https://www.lazada.sg/products/nutrajoint-gold-flex-i1650097532-s7770266377.html">Purchase Now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/ohanashi-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Ohanashi</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Ohanashi officially registered its business in Singapore in 2020.  It is an online store selling items including handmade liquid soaps and soap bars.  These handmade products are made with plant-based ingredients and that are gentle to use, especially for sensitive skins.<br />
+                    <a href="https://www.lazada.sg/shop/ohanashi/">Purchase Now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/song-fa-bak-kut-teh-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Song Fa Bak Kut Teh</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Established in 1969, Song Fa Bak Kut Teh is a Singaporean restaurant chain that sells Teochew-style pork rib soup or bak kut teh. Its mission is to preserve the dining experience of this heritage dish, and it aspires to cultivate generations of people who will enjoy it. With a strong emphasis on good service, expect every need to be taken care of when dining at Song Fa.<br />
+                    <a href="https://www.lazada.sg/shop/song-fa">Purchase Now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/house-of-modern-creations-pte-ltd-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">The Shirt Bar</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    The Shirt Bar is a local menswear and lifestyle brand. As an advocate of slow fashion, we set out to Make an Impact in the fashion industry by stitching together value, ethics and sustainability. We craft innovative products of superior quality, comfort and fit, empowering our customers to look good, feel good and do good so that they could continue to Make that Impact for whatever matters to them<br />
+                    <a href="https://www.lazada.sg/shop/the-shirt-bar">Purchase Now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/social-gifting-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Social Gifting</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Social Gifting provide free crafting sessions and materials to co-create exquisite handmade gifts with differently-abled crafters, warriors and caregivers, empowering them to build on their strengths. Being able to create products empowers them, and enables them to earn a passive income. Join us to enable them to live an enriching life with dignity.<br />
+                    <a href="https://www.lazada.sg/shop/social-gifting/">Purchase Now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/sin-hwa-dee-foodstuff-pte-ltd-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Sin Hwa Dee Foodstuff</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Sin Hwa Dee Foodstuff Industries Pte Ltd is the manufacturer of CHNG Kee’s range of premium and premix sauces which are Halal, ISO9001 and HACCP certified and MSG-free. Clientele includes airlines, fast-food chains, hotels, restaurants, supermarkets, retailers and wholesalers. CHNG Kee attains two brand awards, namely Singapore’s Most Distinctive Brand Award 2002 and Superbrands Singapore Award.<br />
+                    <a href="https://www.lazada.sg/chng-kee's-172094/?spm=a2o42.pdp_revamp.0.0.78b61f63zde7zf&type=brand">Purchase Now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/bekind-solutions-pte-ltd-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Agegracefully</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Agegracefully was founded in 2017 as a social enterprise to develop and market innovative eldercare lifestyle products that enable the elder<br />
+                    <a href="https://www.lazada.sg/products/i1025292633.html">Purchase Now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/reminiscent-stories-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Reminiscent Stories</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    At Reminiscent Stories, we handcraft products using the finest ingredients. Imported from global markets, the fragrances are phthalate free<br />
+                    <a href="https://www.lazada.sg/products/i1993770147.html">Purchase Now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/coco-veda-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Coco Veda</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Coco Veda is a Singapore Social Enterprise that commits to Singapore’s Green Plan and 12 out of 17 of the SDGs.  Our unisex range is 100% ha<br />
+                    <a href="https://www.lazada.sg/products/coco-veda-anti-hair-fall-scalp-oil-100ml-anti-hair-fall-scalp-oil-repair-scalp-hair-treatment-%20%20dry-scalp-itchy-scalp-vegan-organic-sustainability-lemon-rosemary-oil-wat">Purchase Now</a>
                 </p>
             </div>
         </li>
