@@ -23,53 +23,13 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 		</div>
 	</li>
 	<li>
-		<a style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;" href="#">
-			<img style="width: 100%; height: auto;" src="https://i.imgur.com/oYiTqum.jpg">
+		<div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+			<img style="width: 100%; height: auto;" src="/images/MamaShop/jomingo-mamashopimage.png">
 			<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 2em;">
-            <h3 style="font-size: 1em; margin: 0 0 .3em;">Jessica Parker</h3>            
-            <span>1 hour ago</span>
+            <h3 style="font-size: 1em; margin: 0 0 .3em;">Jomingo</h3>            
           </div>
-			<p style="padding: 0 2em 2em;margin: 0; overflow: hidden;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
-		</a>
-	</li>
-	<li>
-		<a style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;" href="#">
-			<img style="width: 100%; height: auto;" src="https://i.imgur.com/oYiTqum.jpg">
-			<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 2em;">
-            <h3 style="font-size: 1em; margin: 0 0 .3em;">Jessica Parker</h3>            
-            <span>1 hour ago</span>
-          </div>
-			<p style="padding: 0 2em 2em;margin: 0; overflow: hidden;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
-		</a>
-	</li>
-	<li>
-		<a style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;" href="#">
-			<img style="width: 100%; height: auto;" src="https://i.imgur.com/oYiTqum.jpg">
-			<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 2em;">
-            <h3 style="font-size: 1em; margin: 0 0 .3em;">Jessica Parker</h3>            
-            <span>1 hour ago</span>
-          </div>
-			<p style="padding: 0 2em 2em;margin: 0; overflow: hidden;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
-		</a>
-	</li>
-	<li>
-		<a style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;" href="#">
-			<img style="width: 100%; height: auto;" src="https://i.imgur.com/oYiTqum.jpg">
-			<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 2em;">
-            <h3 style="font-size: 1em; margin: 0 0 .3em;">Jessica Parker</h3>            
-            <span>1 hour ago</span>
-          </div>
-			<p style="padding: 0 2em 2em;margin: 0; overflow: hidden;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
-		</a>
-	</li>
-	<li>
-		<a style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;" href="#">
-			<img style="width: 100%; height: auto;" src="https://i.imgur.com/oYiTqum.jpg">
-			<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 2em;">
-            <h3 style="font-size: 1em; margin: 0 0 .3em;">Jessica Parker</h3>            
-            <span>1 hour ago</span>
-          </div>
-			<p style="padding: 0 2em 2em;margin: 0; overflow: hidden;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
-		</a>
+			<p style="padding: 0 2em 2em;margin: 0; overflow: hidden;">Natural, plant based deodorants, hand balms and lip balms in plastic-free packaging made with you and our Earth in mind.</p>
+			<a href="https://www.lazada.sg/products/i1632566320.html">Purchase Now</a>
+		</div>
 	</li>
 </ul>
