@@ -45,4 +45,15 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 			</p>
 		</div>
 	</li>
+	<li>
+		<div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+			<img style="height: 210px;width:auto;" src="/images/MamaShop/straits-preserves-pte-ltd-mamashopimage.png">
+			<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 2em;">
+            <h3 style="font-size: 1em; margin: 0 0 .3em;">Straits Preserves</h3>            
+          </div>
+			<p style="padding: 0 2em 2em;margin: 0; overflow: hidden;">An award-winning producer of tropical marmalades and nut butters with flavours inspired by Singapore’s history and culture.<br>
+				<a href="https://redmart.lazada.sg/straits-preserves-166767/?m=redmart">Purchase Now</a>
+			</p>
+		</div>
+	</li>
 </ul>
