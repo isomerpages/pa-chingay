@@ -14,7 +14,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 4rem 5vw; padding: 0; list-style-type: none;">
 	<li>
 		<div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-			<img style="width: 100%; height: auto;" src="/images/MamaShop/chingay-mamashopimage.png">
+			<img style="height:210px;width:auto;" src="/images/MamaShop/chingay-mamashopimage.png">
 			<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 2em;">
             <h3 style="font-size: 1em; margin: 0 0 .3em;">Chingay</h3>            
           </div>
@@ -24,7 +24,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 	</li>
 	<li>
 		<div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-			<img style="width: 100%; height: auto;" src="/images/MamaShop/jomingo-mamashopimage.png">
+			<img style="height: 210px;width:auto;" src="/images/MamaShop/jomingo-mamashopimage.png">
 			<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 2em;">
             <h3 style="font-size: 1em; margin: 0 0 .3em;">Jomingo</h3>            
           </div>
