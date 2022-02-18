@@ -2,4 +2,5 @@ collections:
   hall-of-frames:
     output: true
     order:
+      - The Fire Dragon (2010).md
       - Fiery Parade (2010).md
