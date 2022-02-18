@@ -56,4 +56,15 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 			</p>
 		</div>
 	</li>
+	<li>
+		<div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+			<img style="height: 210px;width:auto;" src="/images/MamaShop/love-sg-mamashopimage.png">
+			<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+            <h3 style="font-size: 1em; margin: 0 0 .3em;">LOVE SG</h3>
+          </div>
+			<p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">Singapore souvenirs with a heavy dose of local identity. We draw inspiration from all things in our backyard and interpret them into quirky<br>
+				<a href="https://www.lazada.sg/products/i380444438.html">Purchase Now</a>
+			</p>
+		</div>
+	</li>
 </ul>
