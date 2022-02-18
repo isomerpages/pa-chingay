@@ -266,18 +266,6 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/faire-holdings-pte-ltd-mamashopimage.png">
-                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
-                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Faire Leather Co.</h3>
-                </div>
-                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-                    Faire Leather Co. is a leather goods label that redefines true value as Functional Luxury. Founded by Joseph Lor and Ryan Choy, Faire taps t<br />
-                    <a href="https://www.lazada.sg/products/faire-leather-co-neo-zip-around-wallet-i1795360218-s9447316416.html">Purchase Now</a>
-                </p>
-            </div>
-        </li>
-        <li>
-            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
                 <img style="height: 210px;width:auto;" src="/images/MamaShop/toscano-pte-ltd-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Tocco Toscano</h3>
