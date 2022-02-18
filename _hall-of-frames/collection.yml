@@ -2,6 +2,7 @@ collections:
   hall-of-frames:
     output: true
     order:
+      - Exciting Chingay (2010).md
       - Beautiful Chingay (2010).md
       - The Fire Dragon (2010).md
       - Fiery Parade (2010).md
