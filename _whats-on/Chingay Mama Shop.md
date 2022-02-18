@@ -228,4 +228,424 @@ Special thanks to Lazada, our Official E-Commerce Platform.
                 </p>
             </div>
         </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/tyron-singapore-pte-ltd-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Gnome & Bow</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Gnome & Bow designs personalised leather bags and wallets inspired by storybook classics. Imagine the Hare & Tortoise zipping across your ba <br />
+                    <a href="https://www.lazada.sg/products/gnome-bow-walt-slim-card-holder-blue-i1423382754-s6480188246.html">Purchase Now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/lilo-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Lilo</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Lilo is a Award Winning local brand in Singapore manufacturing 100% food powders (ikan bilis/ mushroom/scallop/white bait/ kombu) in our ver<br />
+                    <a href="https://www.lazada.sg/products/lilo-premium-ikan-bilis-powder-combo-bottle-refill-set-50g-55g-i597692638-s1728024594.html">Purchase Now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/faire-holdings-pte-ltd-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Faire Leather Co.</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Faire Leather Co. is a leather goods label that redefines true value as Functional Luxury. Founded by Joseph Lor and Ryan Choy, Faire taps t<br />
+                    <a href="https://www.lazada.sg/products/faire-leather-co-neo-zip-around-wallet-i1795360218-s9447316416.html">Purchase Now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/faire-holdings-pte-ltd-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Faire Leather Co.</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Faire Leather Co. is a leather goods label that redefines true value as Functional Luxury. Founded by Joseph Lor and Ryan Choy, Faire taps t<br />
+                    <a href="https://www.lazada.sg/products/faire-leather-co-neo-zip-around-wallet-i1795360218-s9447316416.html">Purchase Now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/toscano-pte-ltd-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Tocco Toscano</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Tocco Toscano, meaning “Touch of Tuscany”, originated in Florence, Tuscany, a region in Italy famed for their beautiful art and craftsmanshi <br />
+                    <a href="https://www.lazada.sg/products/tocco-toscano-vera-oval-top-handle-i2044202553-s11188864376.html">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/pearlie-white-mamashopimage.jpg">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Pearlie White</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Pearlie White® is the only home grown Singapore oral care brand that has oral care manufacturing facilities in our country. With a promise to find smarter ways for a healthier smile, Pearlie White® offers quality ingredients on the inside and smart packaging on the outside for truly intelligent and innovative oral care products. <br />
+                    <a href="https://www.lazada.sg/shop/pearlie-white?tab=promotion&amp;path=promotion-31143-0.htm&amp;spm=a2o42.home.search.1.654346b5ql6GJK&amp;_keyori=ss&amp;from=suggest_sis&amp;sis_suggestion_click=Pearlie%20White%20Flagship%20S">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/food-culture-singapore-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Food Culture Singapore</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Food Culture Singapore is an e-commerce platform that supports both local start-up and heritage brands. We support our brands to Go Digital <br />
+                    <a href="https://www.lazada.sg/products/i101351543.html">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/doob-bean-bags-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">doob Bean Bags</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    doob Bean Bags is the most awesome bean bag brand in Singapore. Designed for comfort, safety, and ease of maintenance, doob bean bags are bu <br />
+                    <a href="https://www.lazada.sg/doob/">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/kele-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Kele</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    In 1983, KELE started a humble confectionery serving a selection of traditional festive goodies, including the great pineapple tart! We took the utmost care in crafting the pastries with quality in mind and there is absolutely no compromise on using the best ingredients. 30 years on, we are now synonymous with Pineapple Tarts where our tarts are well sold out months before Lunar New Year annually. <br />
+                    <a href="https://www.lazada.sg/shop/kele/">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/nyananyana-eco-fashion-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Nyananyana Eco Fashion</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Nyananyana is a Singapore social enterprise that focuses on a better product for the maker, the consumer, and the earth at every stage of th <br />
+                    <a href="https://www.lazada.sg/products/organic-batik-matching-tie-and-mask-gift-set-i1616902468-s7602724145.html">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/levyr-mamashopimage.jpg">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Levyr</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Le Vyr was created to push the local kombucha &amp; milk kefir scene to the next stage. It was partly inspired by personal experiences as consumers of cocktails &amp; craft beers, through observing local movement for mixology and beer brewing has evolved. We aim to use ingredients that are not only familiar, but would invoke memories when consumed. Making an international idea into a truly local product. <br />
+                    <a href="https://www.lazada.sg/shop/levyr/">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/tea-ideas-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Tea Ideas</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Tea Ideas is a registered social enterprise that employs the elderly and renal patients. We uplift the social, mental and physical well-being of these beneficiaries via flexible work arrangements. We consciously redesigned our work processes to accommodate them as well. We also advocate a healthy lifestyle with our Ultra Rich Antioxidant Tea and low-sugar tea-infused cookies. <br />
+                    <a href="https://www.lazada.sg/shop/tea-ideas-pte-ltd/?path=index.htm">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/uncle-saba-s-poppadom-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Uncle Saba’s Poppadoms</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Uncle Saba's Poppadoms are the first ready-to-eat poppadom lentil chips in the world. It is a crunchy, disk-shaped snack made from lentils, a high source of protein, more fibre, and less carbs. Our lentil chips are cholesterol-free and have no trans-fat. It's perfect for those who prefer healthier snacking options and it is also certified Halal, suitable for a Vegan and Gluten-free diet. <br />
+                    <a href="https://www.lazada.sg/catalog/?q=uncle%20saba%27s&amp;exlaz=d_1:mm_150050845_51350204_2010350204::11:12258013199!120331588234!uncle%20saba%27s!b!kwd-1306815640946!m!!!!496463111268!&amp;gbraid=0AAAAADoUUYOKS1">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/chop-wah-on-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Chop Wah On</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Founded in 1916, Chop Wah On is Singapore’s oldest medicated oil and balm Co. Our products carry our trademark registered in Singapore, Hong <br />
+                    <a href="https://www.lazada.sg/shop/chop-wah-on/">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/dandyhands-by-quin-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Dandyhands by Quin</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Dandyhands by Quin showcases seasonal collections of beautiful handcrafted wearable art, wares, artisanal soaps and wonderbalms. At by Quin, <br />
+                    <a href="https://www.lazada.sg/products/i2167032724.html">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/jollies-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Jollies</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Curated DIY crafts kits made easy. Sharing our love for casual weekend afternoons, we encourage the spirit of trying something new - be it candle-making, embroidery, or mask chain beading. <br />
+                    <a href="https://www.lazada.sg/shop/jollies">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/customade-costume-merchandise-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Customade Costume &amp; Merchandise</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    A local costume house with more than two thousand costume pieces and more than two decades of experience. Customade Costume aspires to be the go-to parade costume provider for entities that understand the impact of Costumes in a performance. We believe in constantly curating engaging costume experiences with technology. Currently, we're customizing fabric masks too! <br />
+                    <a href="http://www.lazada.sg/shop/customade-costume-merchandise">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/emery-co-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Emery Co</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Emery &amp; Co brings you nail art from all corners of the earth: exotic sandy lagoons, windy moonlit moors, dusky urban jungles bathed in neon light, all neatly packaged into beautiful, hassle-free nail stickers and wraps. And that’s our modus operandi. Enjoy having the world at your fingertips. <br />
+                    <a href="https://s.lazada.sg/s.0a52c">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/on-cheong-jewellery-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">On Cheong Jewellery</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Established in 1936, On Cheong emphasises on quality, unique designs, and dedicated customer relationships. It has earned its trust and loyalty from its customers. Do not miss out on its signature gemstone: Jadeite. On Cheong houses a team of talented jewellery designers and craftsmen who are committed in creating every piece of jewellery that is “Crafted by time, Cherished for generations”. <br />
+                    <a href="https://www.lazada.sg/shop/on-cheong-jewellery?tab=promotion&amp;path=promotion-31770-0.htm">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/my-naked-bar-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">My Naked Bar</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Welcome to My Naked Bar! We are a local vegan soap label founded by an eco mummy who wants to save a better future for our children. Our soaps are formulated and handcrafted from scratch using the traditional cold process method with skin-nourishing plant-based oils, and natural additives such as botanicals, clays, spices, grains, fruits and vegetables. All soaps are sulphate and synthetics-free. <br />
+                    <a href="https://www.lazada.sg/shop/my-naked-bar/">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/timeless-gifts-mamashopimage.jpg">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Timeless Gifts</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Timeless Gifts present the finest premium Singapore Art and Gifts. Each piece is handpicked to celebrate our Singapore Story, Culture and Memories. Makes perfect gifts for corporate and travel memories. <br />
+                    <a href="https://www.lazada.sg/timeless-gifts/?q=All-Products&amp;langFlag=en&amp;from=wangpu&amp;lang=en&amp;pageTypeId=2">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/hook-coffee-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">HOOK COFFEE</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Hook Coffee is a brand by and for ordinary people with extraordinary lives, and we're on a mission to make great and responsible coffee accessible to all. <br />
+                    <a href="https://www.lazada.sg/hookcoffee/">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/koka-mamashopimage.jpg">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">KOKA</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    A Singaporean brand that began in 1986, KOKA aims to preserve the authenticity and richness of Singaporean flavours through its wide range of products and deliver this experience to its customers. Over the years we have grown from a local noodle brand with just a few classic flavours, to one that now brings over 100 different products to millions of households across the globe. <br />
+                    <a href="https://www.lazada.sg/products/koka-signature-chicken-noodles-12-x-5-pkts-i128728948-s146890476.html">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/oeto-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">OETO</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    OETEO (pronounced ee-tay-o) puts the fun back into parenthood by designing fuss-free, incredibly comfortable and quality baby clothes. We create thoughtful designs and experiences, making it accessible to all parents. So embrace these moments with your child, precious as they are, knowing that everything else has been taken care of. <br />
+                    <a href="https://www.lazada.sg/products/oeteo-jian-zhi-boy-little-gentleman-mandarin-collar-top-and-bottom-set-i1244674619-s5095068968.html">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/minthedimensions-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Minthedimensions</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    M.INT, which stands for Modular Interior, is a local interior design and modular furniture company. M.INT aims to set new standards across the industry with intelligent and efficient designs that reimagine the spaces we live and breathe in. With expertise in space-saving and modular furniture design, M.INT is driven to create a better home for every member of the family in every possible space. <br />
+                    <a href="https://www.lazada.sg/products/modular-hexagonal-display-storage-shelves-acacia-mint-blocks-i921966511-s3252704490.html">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/salient-label-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Salient Label</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Simple in design and minimal in hues, the pieces from Salient Label are simplistic and understated. The pieces by Salient Label are designed for women who value pieces that are necessary and interesting. Thoughtful designs that are timeless and versatile in styling, brought together to invoke inspiration, confidence, and joy. <br />
+                    <a href="https://www.lazada.sg/products/iron-on-patch-on-merlion-singapore-i288491399-s468906433.html">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/upmart-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Upmart</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    A member of raiSE, Singapore Centre for Social Enterprise. Our mission is to be a platform for individuals who love to create, sew, handcraft and upcycle. They include special needs, low income, homemakers and hobbyists. Products are handmade with love. We work with and donate 20% of sales to charity. With your support, we are constantly developing our handmade products. www.upmartstore.com <br />
+                    <a href="https://www.lazada.sg/products/rose-pearls-and-crystals-long-necklace-made-with-swarovski-crystals-pearls-i2139488233-s12165691633.html">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/penguinlada-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">PenguinLada</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    We are a local Singapore brand founded by a first-time mom with a lovely 1 year old son. We are a One-Stop Mummies &amp; Children essential shop who focus on making mummies life easier during the process of pregnancy, childbirth &amp; all stages of life for your babies. We only carry products that are being tried and tested by fellow mummies &amp; babies. Only those that are good will be launched! <br />
+                    <a href="https://www.lazada.sg/shop/penguinlada/">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/pets-truly-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Pets Truly</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Pets Truly’s Colloidal Silver in Electrolyzed water is a best-in-class, multi-purpose broad spectrum antimicrobial solution for your pets. Containing only silver nanoparticles and electrolyzed water, our patented approach and rigorous testing ensure fast reaction rates upon application, established safety profile, stability and sustained efficacy without the use of any stabilisers. <br />
+                    <a href="https://www.lazada.sg/shop/pets-truly/">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/luzerne-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Luzerne</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Drawing on over 70 years of tradition and knowledge, Luzerne designs and creates bespoke fine china for many of the world’s highly regarded brands in the food, hospitality, retail and airline industries. From award-winning establishments to the home, Luzerne brings handcrafted expertise to your table. Luzerne is a homegrown brand and a proud supporter of the Singapore Culinary Olympics Team <br />
+                    <a href="https://www.lazada.sg/shop/luzerne-pte-ltd/?path=profile.htm&amp;langFlag=en&amp;lang=en&amp;pageTypeId=3">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/evercasa-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Evercasa</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Evercasa creates Everyday Objects for the Modern Home. The space we call home is always personal, but decorating it can prove challenging. Evercasa is here to help home decoration an enjoyable experience. We are an up-and-coming home decor brand where every product is designed in-house. All our products are intentionally designed to transform your house into a forever home. <br />
+                    <a href="https://www.lazada.sg/shop/evercasa/">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/kim-choo-kueh-chang-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Kim Choo Kueh Chang</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Kim Choo Kueh Chang's Nyonya rice dumplings have been a mainstay in Singapore’s diverse epicurean tapestry since 1945. Many covet its rich taste, finely woven around the humble delicacy. But more importantly is its ability to preserve the traditional, unyielding to the hands of time and untainted by the modern. <br />
+                    <a href="https://www.lazada.sg/shop/kim-choo-kueh-chang/">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/artably-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Artably</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Artably is an illustration &amp; design studio based in Singapore. Founded in 2020, the platform aims to build a more inclusive creative community through art &amp; design. We co-create with our differently-abled artists to showcase their talents &amp; support them in developing their financial independence. When you shop with us, you'll also help support our community outreach with disadvantaged children. <br />
+                    <a href="https://www.lazada.sg/shop/artably/">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/starits-enclave-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Starits Enclave</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    The Straits Enclave is a private museum that aims to preserve and share Singapore’s unique Peranakan Chinese culture to the swiftly modernizing Singapore and rapidly changing world. Once you step into the Straits Enclave, it is like taking a step back in time to an early 1920s Peranakan home. Be amazed at Straits Enclave! <br />
+                    <a href="https://www.lazada.sg/products/traditional-peranakan-kerongsang-3-piece-broaches-vintage-design-1-i2175631210-s12422665498.html">Purchase now</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height: 210px;width:auto;" src="/images/MamaShop/presence-mamashopimage.png">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Presence</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    Presence is Singapore's only artisanal company that specialises in custom snow globes. Mesmerised by the beauty of snow globes, Presence started off crafting snow globes as a passion project. Since 2019, Presence has customised hundreds of snow globes and have since extended to producing corporate gifts for companies like AIA, Pizza Hut, Ogilvy and National Cancer Centre Singapore. <br />
+                    <a href="https://www.lazada.sg/products/i2167219575.html">Purchase now</a>
+                </p>
+            </div>
+        </li>
     </ul>
