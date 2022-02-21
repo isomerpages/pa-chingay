@@ -2,4 +2,5 @@ collections:
   event-gallery:
     output: true
     order:
+      - Marsiling Yew Tee GRC.md
       - Sembawang GRC.md
