@@ -7,4 +7,6 @@ description: ""
 # **Chingay50 Mini Float @ Bishan-Toa Payoh GRC and Marymount SMC**
 Participant painted her story onto an old CD which would formed part of the community stories on the Circle of Life
 
-[FaceBook](http://www.facebook.com/sharer.php?u=http://www.chingay.gov.sg/image/event-gallery/chingay50-mini-float-@-bishan-toa-payoh-grc-and-marymount-smc)
+<a href="http://www.facebook.com/sharer.php?u=http://www.chingay.gov.sg/image/event-gallery/chingay50-mini-float-@-bishan-toa-payoh-grc-and-marymount-smc" style="float:left;">
+	<img src="/images/facebook.png" style="width:auto;height:20px;">
+</a>
