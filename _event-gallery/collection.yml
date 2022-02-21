@@ -2,6 +2,7 @@ collections:
   event-gallery:
     output: true
     order:
+      - Sengkang GRC.md
       - Nee Soon GRC.md
       - Holland Bukit Timah GRC and Bukit Panjang SMC.md
       - Marsiling Yew Tee GRC.md
