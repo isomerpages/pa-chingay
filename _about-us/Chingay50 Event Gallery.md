@@ -13,7 +13,7 @@ The Chingay50 Mini Floats designs were conceptualised by local community artists
                 <img src="/images/Event%20Gallery/chingay50-mini-float-@-ang-mo-kio-grc-kebun-baru-and-yio-chu-kang-smcs-2.jpeg" alt="@ Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs" style="width:370px;height:auto;" />
                 <br />
                 <b>Chingay50 Mini Float @ Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs</b><br/>
-                <a href="">Read more...</a>
+                <a href="/event-gallery/ang-mo-kio-grc-kebun-baru-and-yio-chu-kang-smcs">Read more...</a>
             </td>
             <td width="50%" style="border:0px;">
                 <img src="/images/Event%20Gallery/chingay50-mini-float-@-tanjong-pagar-grc-and-radin-mas-smc-2.jpeg" alt="@ Tanjong Pagar GRC and Radin Mas SMC" style="width:370px;height:auto;" />
