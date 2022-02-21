@@ -2,5 +2,6 @@ collections:
   event-gallery:
     output: true
     order:
+      - Holland Bukit Timah GRC and Bukit Panjang SMC.md
       - Marsiling Yew Tee GRC.md
       - Sembawang GRC.md
