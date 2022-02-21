@@ -1,4 +1,5 @@
 collections:
   event-gallery:
     output: true
-    order: []
+    order:
+      - Sembawang GRC.md
