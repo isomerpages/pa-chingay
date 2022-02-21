@@ -2,6 +2,7 @@ collections:
   event-gallery:
     output: true
     order:
+      - Jalan Besar GRC and Potong Pasir SMC.md
       - Bishan Toa Payoh GRC and Marymount SMC.md
       - Pasir Ris Punggol GRC and Punggol West SMC.md
       - Sengkang GRC.md
