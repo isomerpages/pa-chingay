@@ -8,4 +8,6 @@ description: ""
 
 Family expressed their artistic creativity and created memories with their loved ones over painting session for Transformation - We have come a long way
 
-[FaceBook](http://www.facebook.com/sharer.php?u=http://www.chingay.gov.sg/image/event-gallery/chingay50-mini-float-@-holland-bukit-timah-grc-and-bukit-panjang-smc)
+<a href="http://www.facebook.com/sharer.php?u=http://www.chingay.gov.sg/image/event-gallery/chingay50-mini-float-@-holland-bukit-timah-grc-and-bukit-panjang-smc" style="float:left;">
+	<img src="/images/facebook.png" style="width:auto;height:20px;">
+</a>
