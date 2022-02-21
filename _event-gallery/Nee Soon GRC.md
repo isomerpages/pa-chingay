@@ -8,4 +8,6 @@ description: ""
 
 Participants of different age and races came together to learn and create their unique “heart” resin which will be lighted and displayed on Thriving Heart to Heart
 
-[FaceBook](http://www.facebook.com/sharer.php?u=http://www.chingay.gov.sg/image/event-gallery/chingay50-mini-float-@-nee-soon-grc)
+<a href="http://www.facebook.com/sharer.php?u=http://www.chingay.gov.sg/image/event-gallery/chingay50-mini-float-@-nee-soon-grc" style="float:left;">
+	<img src="/images/facebook.png" style="width:auto;height:20px;">
+</a>
