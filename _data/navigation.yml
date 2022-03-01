@@ -1,11 +1,5 @@
 logo: /images/logo-light.svg
 links:
-  - title: What's On?
-    collection: whats-on
-  - title: Join Us
-    collection: join-us
-  - title: About Us
-    collection: about-us
   - title: What's On
     url: whats-on
     sublinks:
@@ -41,3 +35,7 @@ links:
         url: /whats-on/chingay-mama-shop
       - title: Chingay50 @ Heartlands
         url: /whats-on/chingay50-at-heartlands
+  - title: Join Us
+    collection: join-us
+  - title: About Us
+    collection: about-us
