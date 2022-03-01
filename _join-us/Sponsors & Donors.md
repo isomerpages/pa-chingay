@@ -49,7 +49,7 @@ description: ""
             <td width="45%">
                 <table border="0" width="100%">
                     <tr>
-                        <td style="border-bottom: 1px solid black;"><b>Officaial Caterers</b></td>
+                        <td style="border-bottom: 1px solid black;"><b>Official Caterers</b></td>
                     </tr>
                     <tr>
                         <td>
@@ -63,7 +63,7 @@ description: ""
             <td width="45%">
                 <table border="0" width="100%">
                     <tr>
-                        <td style="border-bottom: 1px solid black;"><b>Officaial Vanue Partner</b></td>
+                        <td style="border-bottom: 1px solid black;"><b>Official Venue Partner</b></td>
                     </tr>
                     <tr>
                         <td>
