@@ -2,4 +2,5 @@ collections:
   hall-of-frames:
     output: true
     order:
+      - 2000 to 2009.md
       - 2010 to 2021.md
