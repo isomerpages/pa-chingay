@@ -2,8 +2,6 @@ collections:
   hall-of-frames:
     output: true
     order:
-      - 2010   2021/2010 to 2021.md
-      - 2010   2021/.keep
       - Fiery Grand Chingay Parade (2011).md
       - Our Singapore Heartbeat (2010).md
       - Exciting Chingay (2010).md
