@@ -10,5 +10,5 @@ Memories from Contributors coming soon!
 
 * [2010 - 2021](/hall-of-frames/2010-2021)
 * [2000 - 2009](/hall-of-frames/2000-2009)
-* 1985 - 1999
+* [1985 - 1999](/hall-of-frames/1985-1999)
 * 1973 - 1984
