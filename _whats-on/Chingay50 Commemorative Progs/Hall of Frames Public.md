@@ -8,7 +8,7 @@ Check out these treasured photos from past audiences and participants who answer
 
 Memories from Contributors coming soon!
 
-* 2010 - 2021
+* [2010 - 2021](/hall-of-frames/2010-2021)
 * 2000 - 2009
 * 1985 - 1999
 * 1973 - 1984
