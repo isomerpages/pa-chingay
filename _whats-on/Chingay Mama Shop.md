@@ -11,7 +11,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 
 **Presenting to you the Chingay Mama Shop merchants!**
 
-<ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 4rem 5vw; padding: 0; list-style-type: none;">
+<ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 2rem; margin: 4rem 5vw; padding: 0; list-style-type: none;">
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
                 <img style="height:210px;width:auto;" src="/images/MamaShop/chingay-mamashopimage.png">
