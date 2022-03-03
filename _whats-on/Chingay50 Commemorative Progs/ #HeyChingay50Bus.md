@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Chingay50 Commemorative Progs
 ---
 Instead of the usual Chingay floats, our #HeyChingay50Bus campaign will transform selected public buses as reimagined Chingay floats with unique in-bus experiences for commuters. These Chingay50 Buses are now on the roads of Singapore to surprise residents and bring cheer to residents all around the island
-<div style="float: none;clear: both;width: 100%;position: relative;padding-bottom: 56.25%;padding-top: 25px;height: 0;margin: 0 auto;">
-<iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;max-width: 700px;max-height: 400px;" src="https://www.youtube.com/embed/WiweyzaJ7B0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="text-align:center; width:100%;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WiweyzaJ7B0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <img src="/images/whats-on/Buses/bus1.png" alt="bus-01" style="width:538px; height:272px; float:left;right-margin:20px;"/>
