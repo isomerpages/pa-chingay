@@ -14,7 +14,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:210px;width:auto;" src="/images/MamaShop/chingay-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/chingay-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Chingay</h3>
                 </div>
@@ -26,7 +26,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/jomingo-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/jomingo-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Jomingo</h3>
                 </div>
@@ -52,7 +52,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/straits-preserves-pte-ltd-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/straits-preserves-pte-ltd-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Straits Preserves</h3>
                 </div>
@@ -64,7 +64,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/love-sg-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/love-sg-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">LOVE SG</h3>
                 </div>
@@ -76,7 +76,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/sam-sara-holdings-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/sam-sara-holdings-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">ipse ipsa ipsum</h3>
                 </div>
@@ -88,7 +88,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/little-bearnie-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/little-bearnie-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">LITTLE BEARNIE</h3>
                 </div>
@@ -100,7 +100,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/scent-by-six-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/scent-by-six-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Scent by SIX</h3>
                 </div>
@@ -112,7 +112,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/journey-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/journey-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">JOURNEY</h3>
                 </div>
@@ -124,7 +124,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/herbal-pharm-pte-ltd-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/herbal-pharm-pte-ltd-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Herbal Pharm</h3>
                 </div>
@@ -136,7 +136,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/ohanashi-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/ohanashi-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Ohanashi</h3>
                 </div>
@@ -148,7 +148,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/song-fa-bak-kut-teh-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/song-fa-bak-kut-teh-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Song Fa Bak Kut Teh</h3>
                 </div>
@@ -160,7 +160,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/house-of-modern-creations-pte-ltd-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/house-of-modern-creations-pte-ltd-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">The Shirt Bar</h3>
                 </div>
@@ -172,7 +172,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/social-gifting-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/social-gifting-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Social Gifting</h3>
                 </div>
@@ -184,7 +184,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/sin-hwa-dee-foodstuff-pte-ltd-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/sin-hwa-dee-foodstuff-pte-ltd-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Sin Hwa Dee Foodstuff</h3>
                 </div>
@@ -196,7 +196,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/bekind-solutions-pte-ltd-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/bekind-solutions-pte-ltd-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Agegracefully</h3>
                 </div>
@@ -208,7 +208,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/reminiscent-stories-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/reminiscent-stories-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Reminiscent Stories</h3>
                 </div>
@@ -220,7 +220,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/coco-veda-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/coco-veda-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Coco Veda</h3>
                 </div>
@@ -232,7 +232,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/tyron-singapore-pte-ltd-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/tyron-singapore-pte-ltd-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Gnome & Bow</h3>
                 </div>
@@ -244,7 +244,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/lilo-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/lilo-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Lilo</h3>
                 </div>
@@ -256,7 +256,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/faire-holdings-pte-ltd-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/faire-holdings-pte-ltd-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Faire Leather Co.</h3>
                 </div>
@@ -268,7 +268,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/toscano-pte-ltd-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/toscano-pte-ltd-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Tocco Toscano</h3>
                 </div>
@@ -280,7 +280,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/pearlie-white-mamashopimage.jpg">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/pearlie-white-mamashopimage.jpg">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Pearlie White</h3>
                 </div>
@@ -292,7 +292,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/food-culture-singapore-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/food-culture-singapore-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Food Culture Singapore</h3>
                 </div>
@@ -304,7 +304,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/doob-bean-bags-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/doob-bean-bags-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">doob Bean Bags</h3>
                 </div>
@@ -316,7 +316,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/kele-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/kele-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Kele</h3>
                 </div>
@@ -328,7 +328,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/nyananyana-eco-fashion-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/nyananyana-eco-fashion-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Nyananyana Eco Fashion</h3>
                 </div>
@@ -340,7 +340,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/levyr-mamashopimage.jpg">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/levyr-mamashopimage.jpg">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Levyr</h3>
                 </div>
@@ -352,7 +352,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/tea-ideas-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/tea-ideas-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Tea Ideas</h3>
                 </div>
@@ -364,7 +364,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/uncle-saba-s-poppadom-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/uncle-saba-s-poppadom-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Uncle Saba’s Poppadoms</h3>
                 </div>
@@ -376,7 +376,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/chop-wah-on-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/chop-wah-on-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Chop Wah On</h3>
                 </div>
@@ -388,7 +388,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/dandyhands-by-quin-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/dandyhands-by-quin-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Dandyhands by Quin</h3>
                 </div>
@@ -400,7 +400,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/jollies-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/jollies-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Jollies</h3>
                 </div>
@@ -412,7 +412,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/customade-costume-merchandise-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/customade-costume-merchandise-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Customade Costume &amp; Merchandise</h3>
                 </div>
@@ -424,7 +424,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/emery-co-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/emery-co-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Emery Co</h3>
                 </div>
@@ -436,7 +436,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/on-cheong-jewellery-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/on-cheong-jewellery-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">On Cheong Jewellery</h3>
                 </div>
@@ -448,7 +448,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/my-naked-bar-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/my-naked-bar-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">My Naked Bar</h3>
                 </div>
@@ -460,7 +460,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/timeless-gifts-mamashopimage.jpg">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/timeless-gifts-mamashopimage.jpg">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Timeless Gifts</h3>
                 </div>
@@ -472,7 +472,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/hook-coffee-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/hook-coffee-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">HOOK COFFEE</h3>
                 </div>
@@ -484,7 +484,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/koka-mamashopimage.jpg">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/koka-mamashopimage.jpg">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">KOKA</h3>
                 </div>
@@ -496,7 +496,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/oeto-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/oeto-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">OETO</h3>
                 </div>
@@ -508,7 +508,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/minthedimensions-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/minthedimensions-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Minthedimensions</h3>
                 </div>
@@ -520,7 +520,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/salient-label-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/salient-label-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Salient Label</h3>
                 </div>
@@ -532,7 +532,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/upmart-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/upmart-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Upmart</h3>
                 </div>
@@ -544,7 +544,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/penguinlada-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/penguinlada-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">PenguinLada</h3>
                 </div>
@@ -556,7 +556,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/pets-truly-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/pets-truly-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Pets Truly</h3>
                 </div>
@@ -568,7 +568,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/luzerne-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/luzerne-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Luzerne</h3>
                 </div>
@@ -580,7 +580,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/evercasa-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/evercasa-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Evercasa</h3>
                 </div>
@@ -592,7 +592,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/kim-choo-kueh-chang-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/kim-choo-kueh-chang-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Kim Choo Kueh Chang</h3>
                 </div>
@@ -604,7 +604,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/artably-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/artably-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Artably</h3>
                 </div>
@@ -616,7 +616,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/starits-enclave-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/starits-enclave-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Starits Enclave</h3>
                 </div>
@@ -628,7 +628,7 @@ We believe that small changes to our everyday lives can make a significant impac
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/presence-mamashopimage.png">
+                <img style="height:auto;width:228px;" src="/images/MamaShop/presence-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Presence</h3>
                 </div>
