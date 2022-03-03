@@ -16,6 +16,7 @@ description: ""
         <img src="/images/Sponsors%20&%20Donors/singapore-tourism-board-14-october-2019-18-29-42.png" alt="Singapore Tourism Board" style="width:100px;" />
     </div>
 
+
 <table border="0" width="100%">
         <tr>
             <td style="border-bottom: 1px solid black;"><b>Official Cards</b></td>
