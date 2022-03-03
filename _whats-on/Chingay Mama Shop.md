@@ -38,7 +38,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: 210px;width:auto;" src="/images/MamaShop/no-harm-done-mamashopimage.png">
+                <img style="height: auto;width:228px;" src="/images/MamaShop/no-harm-done-mamashopimage.png">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">No Harm Done</h3>
                 </div>
