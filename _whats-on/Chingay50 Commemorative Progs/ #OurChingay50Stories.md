@@ -9,33 +9,46 @@ Chingay turns 50 in 2022 and it's story and journey will be unfolded through the
 Take the journey and reminisce with us!
 
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 2rem; margin: 4rem 5vw; padding: 0; list-style-type: none;">
-	<li>
-    <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-      <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/michael-koh-sharon-lee-50storiesimage.jpg">
-      <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
-        <h3 style="font-size: 1em; margin: 0 0 .3em;">Michael Koh & Sharon Lee</h3>
-      </div>
-      <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-        <b>Aircon Specialist & Homemaker</b>
-        <br /> Love Blossoms Among Costumes and Props<br />
-                <a href="/michael-koh-sharon-lee">Read More..</a>
-      </p>
-    </div>
-  </li>
-	<li>
-    <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-      <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/chingay50---parading-through-time-50storiesimage.jpg">
-      <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
-        <h3 style="font-size: 1em; margin: 0 0 .3em;">Chingay50 - Parading Through Time</h3>
-      </div>
-      <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-        <b>50 Years of Memory Making and Counting</b>
-        <br /> Evolution of Chingay<br />
-                <a href="/chingay50-parading-through-time">Read More..</a>
-      </p>
-    </div>
-  </li>
-</ul>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/michael-koh-sharon-lee-50storiesimage.jpg">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Michael Koh & Sharon Lee</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    <b>Aircon Specialist & Homemaker</b>
+                    <br /> Love Blossoms Among Costumes and Props<br />
+                    <a href="/michael-koh-sharon-lee">Read More..</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/chingay50---parading-through-time-50storiesimage.jpg">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Chingay50 - Parading Through Time</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    <b>50 Years of Memory Making and Counting</b>
+                    <br /> Evolution of Chingay<br />
+                    <a href="/chingay50-parading-through-time">Read More..</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/ken-and-christine-50storiesimage.jpg">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Ken and Christine</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    <b>Sibling Chingay Volunteers</b><br />
+                    Sibling Revelry<br />
+                    <a href="/ken-and-christine">Read More..</a>
+                </p>
+            </div>
+        </li>
+    </ul>
 <table border="0" width="100%">
         <tr>
             <td width="352px">
