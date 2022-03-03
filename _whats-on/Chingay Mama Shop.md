@@ -14,7 +14,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/chingay-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -28,7 +28,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:157px;width:auto;" src="/images/MamaShop/jomingo-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -42,7 +42,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height: auto;width:228px;" src="/images/MamaShop/no-harm-done-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -58,7 +58,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/straits-preserves-pte-ltd-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -72,7 +72,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/love-sg-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -86,7 +86,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:157px;width:auto;" src="/images/MamaShop/sam-sara-holdings-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -100,7 +100,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:157px;width:auto;" src="/images/MamaShop/little-bearnie-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -114,7 +114,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/scent-by-six-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -128,7 +128,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/journey-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -142,7 +142,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/herbal-pharm-pte-ltd-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -156,7 +156,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/ohanashi-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -170,7 +170,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/song-fa-bak-kut-teh-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -184,7 +184,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/house-of-modern-creations-pte-ltd-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -198,7 +198,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/social-gifting-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -212,7 +212,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:157px;width:auto;" src="/images/MamaShop/sin-hwa-dee-foodstuff-pte-ltd-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -226,7 +226,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/bekind-solutions-pte-ltd-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -240,7 +240,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/reminiscent-stories-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -254,7 +254,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:157px;width:auto;" src="/images/MamaShop/coco-veda-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -270,7 +270,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/tyron-singapore-pte-ltd-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -284,7 +284,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/lilo-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -298,7 +298,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/faire-holdings-pte-ltd-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -312,7 +312,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/toscano-pte-ltd-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -326,7 +326,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:157px;width:auto;" src="/images/MamaShop/pearlie-white-mamashopimage.jpg">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -341,7 +341,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/food-culture-singapore-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -355,7 +355,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/doob-bean-bags-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -369,7 +369,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/kele-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -383,7 +383,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/nyananyana-eco-fashion-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -397,7 +397,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/levyr-mamashopimage.jpg">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -411,7 +411,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/tea-ideas-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -425,7 +425,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/uncle-saba-s-poppadom-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -439,7 +439,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/chop-wah-on-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -453,7 +453,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:157px;width:auto;" src="/images/MamaShop/dandyhands-by-quin-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -467,7 +467,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/jollies-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -493,7 +493,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/emery-co-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -510,7 +510,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:157px;width:auto;" src="/images/MamaShop/on-cheong-jewellery-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -524,7 +524,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:157px;width:auto;" src="/images/MamaShop/my-naked-bar-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -538,7 +538,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/timeless-gifts-mamashopimage.jpg">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -552,7 +552,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/hook-coffee-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -566,7 +566,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/koka-mamashopimage.jpg">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -580,7 +580,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/oeto-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -594,7 +594,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/minthedimensions-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -608,7 +608,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/salient-label-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -622,7 +622,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:157px;width:auto" src="/images/MamaShop/upmart-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -636,7 +636,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/penguinlada-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -650,7 +650,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/pets-truly-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -664,7 +664,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/luzerne-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -678,7 +678,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/evercasa-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -692,7 +692,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/kim-choo-kueh-chang-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -706,7 +706,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/artably-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -720,7 +720,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:157px;width:auto;" src="/images/MamaShop/starits-enclave-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
@@ -734,7 +734,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <div style="width:228px;height:157px">
+                <div style="width:228px;height:157px;margin:auto;">
                     <img style="height:auto;width:228px;" src="/images/MamaShop/presence-mamashopimage.png">
                 </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
