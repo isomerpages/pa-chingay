@@ -22,7 +22,7 @@ The Carousel evokes joyous childhood memories. **Time Carousel** features horses
 Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs with artist Salihin Jaafar
 <div style="text-align:center;width:100%">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YNys6TLpLwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	</div>
+</div>
 **The Golden Tomato** takes a spin on the word “Ang Mo Kio” which means tomato in Hokkien.  This installation showcases the diversity and vibrancy of the heartland through the different landmarks and flora and fauna.  Some 100 residents from Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs came together to co-create the installation over 14 workshops.
 
 **Circle of Life**
@@ -92,7 +92,7 @@ Jurong GRC, Bukit Batok and Yuhua SMCs with PA Balloon Sculpting Interest Groups
 Marine Parade GRC, MacPherson and Mountbatten SMCs with artist Mona Malhotra
 <div style="text-align:center;width:100%">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uy1yHLAfKnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	</div>
+</div>
 **Progressive Green Singapore** is a visual representation of a ‘Progressive’ Singapore.  The bamboos in the centre of the installation symbolises strength, growth and resilience.  Flowers made from traditional fabrics from different races signifies Singapore as a melting pot of multiple cultures.  This installation is co-created by about 90 residents from Marine Parade GRC, MacPherson and Mountbatten SMCs.  
 
 **Sky's the Limit. Be the Sun that Lifts Everyone Up** 
@@ -100,7 +100,9 @@ Marine Parade GRC, MacPherson and Mountbatten SMCs with artist Mona Malhotra
  
 
 Marsiling-Yew Tee GRC with artist Jesse Leong
+<div style="text-align:center;width:100%">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HZZdVDoZqVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 **Sky’s the Limit. Be the Sun that Lifts Everyone Up** symbolises our residents' aspiration, positivity and hopes for success.  “Sun Catchers” hand drawn by residents represents their well wishes and is a true exemplification that together, we can lift everyone up and overcome hurdles.  About 80 residents from Marsiling-Yew Tee GRC co-created this installation over 4 workshops.
 
 **Thriving Heart to Heart**
@@ -108,7 +110,9 @@ Marsiling-Yew Tee GRC with artist Jesse Leong
  
 
 Nee Soon GRC with artist Teo Huey Ling
+<div style="text-align:center;width:100%">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oB2uRriAzJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 **Thriving Heart to Heart** features 5 main heart shapes representing the 5 divisions in Nee Soon GRC. This is enhanced by a sea of glowing hearts at its’ bottom to deliver uplifting and well-being messages through the personality of each heart and transmit festive cheers to all.  This installation is co-created by about 95 residents from Nee Soon GRC over 7 workshops.
 
 **Foodie Birdie**
@@ -116,7 +120,9 @@ Nee Soon GRC with artist Teo Huey Ling
  
 
 Pasir Ris – Punggol GRC and Punggol West SMC with artist Cherie Ng
+<div style="text-align:center;width:100%">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_b9k1y2rkUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 Singapore is a renowned food paradise. **Food Birdie** showcases the wide variety of food from different cultures and enjoyed by many.  About 135 residents from Pasir Ris – Punggol GRC and Punggol West SMC co-create the installation over 9 workshops using expired laminates, used bottlecaps, old t-shirts and fallen twigs.
 
 **Upon Our Wings We Soar**
@@ -124,7 +130,9 @@ Singapore is a renowned food paradise. **Food Birdie** showcases the wide variet
  
 
 Sembawang GRC with artist Dzulkarnaen
+<div style="text-align:center;width:100%">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ATsumjSh3hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 **Upon Our Wings We Soar** symbolises the youths, who are the future of Singapore! The extended wings, together with important attributes of courage, resilience, kindness, teamwork and harmony, signifies that Singapore will soar to greater heights and emerge stronger as ONE.  About 20 residents from Sembawang GRC co-created the installation over 2 workshops.
 
 **Singapore DNA**
@@ -132,7 +140,9 @@ Sembawang GRC with artist Dzulkarnaen
  
 
 Sengkang GRC with artist Dr Kho Choon Joo
+<div style="text-align:center;width:100%">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ji5ZA5q-Gwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 **Singapore DNA** is inspired by the DNA structure made up of hereditary material and symbolises our nation moving forward with zest, passion, and determination while reminiscing in the GRC’s past as a fishing village.  About 150 residents from Sengkang GRC co-created the installation.
 
 **Year of the Tiger**
@@ -140,7 +150,9 @@ Sengkang GRC with artist Dr Kho Choon Joo
  
 
 Tampines GRC with PA Balloon Sculpting Interest Groups
+<div style="text-align:center;width:100%">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1UEgwPS0K-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 Ushering in the **Year of the Tiger**, this balloon sculpture symbolises the courage and strength of families that bond together and strength in which Singapore emerge stronger, with new hopes and beginnings.
 
 **Co-Exist**
@@ -148,7 +160,9 @@ Ushering in the **Year of the Tiger**, this balloon sculpture symbolises the cou
  
 
 Tanjong Pagar GRC and Radin Mas SMC with artist Didier Ng
+<div style="text-align:center;width:100%">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6NQsPatecbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 The centrepiece of **Co-Exist** features a huge butterfly which represents the flourishing nature in our tiny but mighty city.  The installation is created with an infusion of upcycled and natural materials.  Only together, can we exist.  Some 60 residents from Tanjong Pagar GRC and Radin Mas SMC co-created the installation over 8 workshops.
 
 **Rainbow Tree**
@@ -156,7 +170,9 @@ The centrepiece of **Co-Exist** features a huge butterfly which represents the f
  
 
 West Coast GRC and Pioneer SMC with artist Lee Yun Ting
+<div style="text-align:center;width:100%">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/98dGrv2m8l0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 **Rainbow Tree** is inspired by the Rainbow Eucalyptus Tree which sheds its outer bark to reveal bright green inner bark that matures into rainbow hues of blue, purple, orange and maroon tones.  It signifies Singaporeans’ resilience and determination to overcome adversity to achieve a more positive and brighter future.  The installation is co-created by about 150 residents from West Coast GRC and Pioneer SMC.
 
 **IMPORTANT NOTES**
