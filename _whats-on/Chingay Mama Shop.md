@@ -43,7 +43,9 @@ Special thanks to Lazada, our Official E-Commerce Platform.
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">No Harm Done</h3>
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-                    No Harm Done is a social enterprise on a mission. Our aim is to make it easy for everyone to be conscious. We are offering convenient eco-fr<br>
+                    We are a social enterprise that simply aims to provide better choices that create a more positive impact in an imperfect world.<br/>
+We believe that small changes to our everyday lives can make a significant impact for future generations, as such, we are providing sustainable alternatives to everyday products. <br/>Starting with compostable coffee capsules.
+<br>
                     <a href="https://www.lazada.sg/products/no-harm-done-compostable-nespresso-compatible-coffee-capsules-kopi-o-i1964258121-s10567869829.html">Purchase Now</a>
                 </p>
             </div>
