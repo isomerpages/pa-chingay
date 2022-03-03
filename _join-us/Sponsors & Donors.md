@@ -11,8 +11,8 @@ description: ""
                         <td style="border-bottom: 1px solid black;"><b>Organised By</b></td>
                     </tr>
                     <tr>
-                        <td><img src="/images/Sponsors%20&%20Donors/pa-14-october-2019-18-19-28.png" alt="People's Association" style="width:141px;" />
-                        <img src="/images/Sponsors%20&%20Donors/chingay-(black)-31-october-2021-11-10-19.png" alt="Chingay Parade Singapore" style="width:161px;" />
+                        <td><img src="/images/Sponsors%20&%20Donors/pa-14-october-2019-18-19-28.png" alt="People's Association" style="width:101px;" />
+                        <img src="/images/Sponsors%20&%20Donors/chingay-(black)-31-october-2021-11-10-19.png" alt="Chingay Parade Singapore" style="width:151px;" />
 </tr>
 </table>
             </td>
