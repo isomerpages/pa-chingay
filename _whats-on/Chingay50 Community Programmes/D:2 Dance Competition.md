@@ -24,12 +24,16 @@ Champion - Chasm<br>
 2nd Runner Up - DROPOUTS<br>
 Consolation - Su Jing & Sheryl, The Freshmakerz
 
+<div style="text-align:center;width:100%">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bboek6W1HQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ![d2-dance-2022](/images/whats-on/d2-dance-2022_s.jpg)
 
+<div style="text-align:center;width:100%">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7fkNqiGA2gk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</div>
+	
 **IMPORTANT NOTES**
 
 Please comply with the prevailing Safe Management Measure (SMM) guidelines while recording. Click [here](/files/whats-on/d2-dance-competition-smm-guidelines-3-dec-2021.pdf) for more details.
