@@ -6,14 +6,14 @@ description: ""
 <div style="width:340px;float:left;">
         <b>Organised By</b><br />
         <hr /><br />
-        <img src="/images/Sponsors%20&%20Donors/pa-14-october-2019-18-19-28.png" alt="People's Association" style="width:141px;" />
-        <img src="/images/Sponsors%20&%20Donors/chingay-(black)-31-october-2021-11-10-19.png" alt="Chingay Parade Singapore" style="width:161px;" />
+        <img src="/images/Sponsors%20&%20Donors/pa-14-october-2019-18-19-28.png" alt="People's Association" style="width:100px;" />
+        <img src="/images/Sponsors%20&%20Donors/chingay-(black)-31-october-2021-11-10-19.png" alt="Chingay Parade Singapore" style="width:130px;" />
     </div>
     <div style="width:340px;float:left;">
         <b>Principal Founding Sponsors</b><br />
         <hr /><br />
-        <img src="/images/Sponsors%20&%20Donors/tote-board-23-october-2019-17-24-12.jpg" alt="Giving Hope Improving Lives" style="width:121px;" />
-        <img src="/images/Sponsors%20&%20Donors/singapore-tourism-board-14-october-2019-18-29-42.png" alt="Singapore Tourism Board" style="width:161px;" />
+        <img src="/images/Sponsors%20&%20Donors/tote-board-23-october-2019-17-24-12.jpg" alt="Giving Hope Improving Lives" style="width:100px;" />
+        <img src="/images/Sponsors%20&%20Donors/singapore-tourism-board-14-october-2019-18-29-42.png" alt="Singapore Tourism Board" style="width:100px;" />
     </div>
 
 <table border="0" width="100%">
