@@ -4,10 +4,10 @@ permalink: /whats-on/Chingay50-Programme/hey-chingay-50-bus
 description: ""
 third_nav_title: Chingay50 Commemorative Progs
 ---
-
-
 Instead of the usual Chingay floats, our #HeyChingay50Bus campaign will transform selected public buses as reimagined Chingay floats with unique in-bus experiences for commuters. These Chingay50 Buses are now on the roads of Singapore to surprise residents and bring cheer to residents all around the island
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WiweyzaJ7B0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="width:100%">
+<iframe style="margin-left:auto;margin-right:auto;" width="560" height="315" src="https://www.youtube.com/embed/WiweyzaJ7B0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <img src="/images/whats-on/Buses/bus1.png" alt="bus-01" style="width:538px; height:272px; float:left;right-margin:20px;"/>
 This newly commissioned design is specially created by local artist Sam Lo for Chingay50.
