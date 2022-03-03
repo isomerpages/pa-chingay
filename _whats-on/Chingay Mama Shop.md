@@ -14,7 +14,9 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:auto;width:228px;" src="/images/MamaShop/chingay-mamashopimage.png">
+                <div style="width:228px;height:157px">
+                    <img style="height:auto;width:228px;" src="/images/MamaShop/chingay-mamashopimage.png">
+                </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Chingay</h3>
                 </div>
@@ -26,7 +28,9 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:157px;width:auto;" src="/images/MamaShop/jomingo-mamashopimage.png">
+                <div style="width:228px;height:157px">
+                    <img style="height:157px;width:auto;" src="/images/MamaShop/jomingo-mamashopimage.png">
+                </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Jomingo</h3>
                 </div>
@@ -38,7 +42,9 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height: auto;width:228px;" src="/images/MamaShop/no-harm-done-mamashopimage.png">
+                <div style="width:228px;height:157px">
+                    <img style="height: auto;width:228px;" src="/images/MamaShop/no-harm-done-mamashopimage.png">
+                </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">No Harm Done</h3>
                 </div>
@@ -52,7 +58,9 @@ Special thanks to Lazada, our Official E-Commerce Platform.
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:auto;width:228px;" src="/images/MamaShop/straits-preserves-pte-ltd-mamashopimage.png">
+                <div style="width:228px;height:157px">
+                    <img style="height:auto;width:228px;" src="/images/MamaShop/straits-preserves-pte-ltd-mamashopimage.png">
+                </div>
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Straits Preserves</h3>
                 </div>
