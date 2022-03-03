@@ -8,11 +8,11 @@ description: ""
             <td width="45%">
                 <table border="0" width="100%">
                     <tr>
-                        <td colspan="2" style="border-bottom: 1px solid black;"><b>Organised By</b></td>
+                        <td style="border-bottom: 1px solid black;"><b>Organised By</b></td>
                     </tr>
                     <tr>
-                        <td><img src="/images/Sponsors%20&%20Donors/pa-14-october-2019-18-19-28.png" alt="People's Association" style="width:141px;" /></td>
-                        <td><img src="/images/Sponsors%20&%20Donors/chingay-(black)-31-october-2021-11-10-19.png" alt="Chingay Parade Singapore" style="width:161px;" /></td>
+                        <td><img src="/images/Sponsors%20&%20Donors/pa-14-october-2019-18-19-28.png" alt="People's Association" style="width:141px;" />
+                        <img src="/images/Sponsors%20&%20Donors/chingay-(black)-31-october-2021-11-10-19.png" alt="Chingay Parade Singapore" style="width:161px;" />
                     </tr>
                 </table>
             </td>
@@ -20,11 +20,11 @@ description: ""
             <td width="45%">
                 <table border="0">
                     <tr>
-                        <td colspan="2" style="border-bottom: 1px solid black;"><b>Principal Founding Sponsors</b></td>
+                        <td style="border-bottom: 1px solid black;"><b>Principal Founding Sponsors</b></td>
                     </tr>
                     <tr>
-                        <td><img src="/images/Sponsors%20&%20Donors/tote-board-23-october-2019-17-24-12.jpg" alt="Giving Hope Improving Lives" style="width:121px;" /></td>
-                        <td><img src="/images/Sponsors%20&%20Donors/singapore-tourism-board-14-october-2019-18-29-42.png" alt="Singapore Tourism Board" style="width:161px;" /></td>
+                        <td><img src="/images/Sponsors%20&%20Donors/tote-board-23-october-2019-17-24-12.jpg" alt="Giving Hope Improving Lives" style="width:121px;" />
+                        <img src="/images/Sponsors%20&%20Donors/singapore-tourism-board-14-october-2019-18-29-42.png" alt="Singapore Tourism Board" style="width:161px;" /></td>
                     </tr>
                 </table>
             </td>
