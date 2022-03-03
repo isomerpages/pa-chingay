@@ -43,9 +43,9 @@ Special thanks to Lazada, our Official E-Commerce Platform.
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">No Harm Done</h3>
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-                    We are a social enterprise that simply aims to provide better choices that create a more positive impact in an imperfect world.<br/>
-We believe that small changes to our everyday lives can make a significant impact for future generations, as such, we are providing sustainable alternatives to everyday products. <br/>Starting with compostable coffee capsules.
-<br>
+                    We are a social enterprise that simply aims to provide better choices that create a more positive impact in an imperfect world.<br />
+                    We believe that small changes to our everyday lives can make a significant impact for future generations, as such, we are providing sustainable alternatives to everyday products. <br />Starting with compostable coffee capsules.
+                    <br>
                     <a href="https://www.lazada.sg/products/no-harm-done-compostable-nespresso-compatible-coffee-capsules-kopi-o-i1964258121-s10567869829.html">Purchase Now</a>
                 </p>
             </div>
@@ -69,7 +69,7 @@ We believe that small changes to our everyday lives can make a significant impac
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">LOVE SG</h3>
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-                    Singapore souvenirs with a heavy dose of local identity. We draw inspiration from all things in our backyard and interpret them into quirky<br>
+                    Singapore souvenirs with a heavy dose of local identity. We draw inspiration from all things in our backyard and interpret them into quirky products ranging from ice cube trays to night lights. In short, we've created a line of souvenirs which break with tradition and appeal to both locals who want to celebrate the Singapore identity, and tourists who want a keepsake from their trip here.<br>
                     <a href="https://www.lazada.sg/products/i380444438.html">Purchase Now</a>
                 </p>
             </div>
@@ -81,7 +81,7 @@ We believe that small changes to our everyday lives can make a significant impac
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">ipse ipsa ipsum</h3>
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-                    At ipse ipsa ipsum, we celebrate the people behind the brand, the unique materials we present and the craftsmanship we provide. The name ref<br>
+                    At ipse ipsa ipsum, we celebrate the people behind the brand, the unique materials we present and the craftsmanship we provide. The name reflects a tapestry of individuals, artisans and designers who collaborate across various disciplines to create individualized pieces that transform ordinary living spaces into extraordinary places. We live to inspire you to see the ordinary in a new light.<br>
                     <a href="https://www.lazada.sg/products/i380444438.html">Purchase Now</a>
                 </p>
             </div>
@@ -93,7 +93,7 @@ We believe that small changes to our everyday lives can make a significant impac
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">LITTLE BEARNIE</h3>
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-                    Little Bearnie is where you'll find cute gifts for bubs from baby swaddles, to bibs, or baby gift bundles. Our teethers BPA-free baby teethi<br>
+                    Little Bearnie is where you'll find cute gifts for bubs from baby swaddles, to bibs, or baby gift bundles. Our teethers BPA-free baby teething accessories in Singapore-inspired designs, including the Gem Biscuit and Shiba teethers and boba-themed accessories. All their teethers are made of 100% food-grade silicone and toxic-free materials.<br>
                     <a href="https://www.lazada.sg/products/i842546220.html">Purchase Now</a>
                 </p>
             </div>
@@ -105,7 +105,7 @@ We believe that small changes to our everyday lives can make a significant impac
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Scent by SIX</h3>
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-                    A homegrown fragrance label that champions mental health, using scents to soothe, to heal and to delight our mental wellness. Scent by SIX i<br>
+                    A homegrown fragrance label that champions mental health, using scents to soothe, to heal and to delight our mental wellness.<br />Scent by SIX is proudly a Singapore brand "using only premium ingredients and raw materials, sourced sustainably."<br>
                     <a href="https://www.lazada.sg/products/i1712456677.html">Purchase Now</a>
                 </p>
             </div>
@@ -117,7 +117,7 @@ We believe that small changes to our everyday lives can make a significant impac
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">JOURNEY</h3>
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-                    JOURNEY is a Singapore brand that represents the creative talents of people with intellectual disabilities. Through this platform, the artwo<br>
+                    JOURNEY is a Singapore brand that represents the creative talents of people with intellectual disabilities. Through this platform, the artworks of special needs artists from TOUCH Community Services are recognised.<br>
                     <a href="https://www.lazada.sg/products/journey-cushion-cover-45cm-x-45cm-i1908050291-s10196544130.html">Purchase Now</a>
                 </p>
             </div>
@@ -129,7 +129,7 @@ We believe that small changes to our everyday lives can make a significant impac
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Herbal Pharm</h3>
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-                    As a home-grown Made With Passion brand, Herbal Pharm is thrilled to be contributing to the betterment of the vulnerable communities in Sing<br>
+                    As a home-grown Made With Passion brand, Herbal Pharm is thrilled to be contributing to the betterment of the vulnerable communities in Singapore. With nutrition and wellness at our heart and soul, we always strive for better products, superior ingredients, and sustainable practices. Herbal Pharm – For A Better You.<br>
                     <a href="https://www.lazada.sg/products/nutrajoint-gold-flex-i1650097532-s7770266377.html">Purchase Now</a>
                 </p>
             </div>
@@ -213,7 +213,7 @@ We believe that small changes to our everyday lives can make a significant impac
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Reminiscent Stories</h3>
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-                    At Reminiscent Stories, we handcraft products using the finest ingredients. Imported from global markets, the fragrances are phthalate free<br />
+                    At Reminiscent Stories, we handcraft products using the finest ingredients. Imported from global markets, the fragrances are phthalate free & the wax is biodegradable, non-toxic, derived from renewable plant source. These beautiful products are made with care, hard work and creative crafting; all blending to create everlasting memories for you and your loved ones.<br />
                     <a href="https://www.lazada.sg/products/i1993770147.html">Purchase Now</a>
                 </p>
             </div>
@@ -225,7 +225,9 @@ We believe that small changes to our everyday lives can make a significant impac
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Coco Veda</h3>
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-                    Coco Veda is a Singapore Social Enterprise that commits to Singapore’s Green Plan and 12 out of 17 of the SDGs.  Our unisex range is 100% ha<br />
+                    Coco Veda is a Singapore Social Enterprise that commits to Singapore’s Green Plan and 12 out of 17 of the SDGs.<br />
+                    Our unisex range is 100% handcrafted by an all women's operations team, which is vegan and organic. All products are waterless; you just need a few drops to lather.<br />
+                    Sustainability is embedded within our business model, so our entire packaging is reusable, refillable, and recyclable.<br />
                     <a href="https://www.lazada.sg/products/coco-veda-anti-hair-fall-scalp-oil-100ml-anti-hair-fall-scalp-oil-repair-scalp-hair-treatment-%20%20dry-scalp-itchy-scalp-vegan-organic-sustainability-lemon-rosemary-oil-wat">Purchase Now</a>
                 </p>
             </div>
@@ -237,7 +239,7 @@ We believe that small changes to our everyday lives can make a significant impac
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Gnome & Bow</h3>
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-                    Gnome & Bow designs personalised leather bags and wallets inspired by storybook classics. Imagine the Hare & Tortoise zipping across your ba <br />
+                    Gnome & Bow designs personalised leather bags and wallets inspired by storybook classics. Imagine the Hare & Tortoise zipping across your bag or a Jekyll & Hyde bag that reverses from classy to wild. Each wallet is aptly packaged in a storybook, making it an ideal gift for Christmas, Valentine's, birthdays, anniversaries and all celebratory occasions.<br />
                     <a href="https://www.lazada.sg/products/gnome-bow-walt-slim-card-holder-blue-i1423382754-s6480188246.html">Purchase Now</a>
                 </p>
             </div>
@@ -249,7 +251,7 @@ We believe that small changes to our everyday lives can make a significant impac
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Lilo</h3>
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-                    Lilo is a Award Winning local brand in Singapore manufacturing 100% food powders (ikan bilis/ mushroom/scallop/white bait/ kombu) in our ver<br />
+                    Lilo is a Award Winning local brand in Singapore manufacturing 100% food powders (ikan bilis/ mushroom/scallop/white bait/ kombu in our very own SFA licensed factory in Singapore. Lilo is made in Singapore specially created to add nutrients to a meal and to enhance the flavour of food for our family. Our powders are suitable for babies 6 months and above and for health loving adults.<br />
                     <a href="https://www.lazada.sg/products/lilo-premium-ikan-bilis-powder-combo-bottle-refill-set-50g-55g-i597692638-s1728024594.html">Purchase Now</a>
                 </p>
             </div>
@@ -261,7 +263,7 @@ We believe that small changes to our everyday lives can make a significant impac
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Faire Leather Co.</h3>
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-                    Faire Leather Co. is a leather goods label that redefines true value as Functional Luxury. Founded by Joseph Lor and Ryan Choy, Faire taps t<br />
+                    Faire Leather Co. is a leather goods label that redefines true value as Functional Luxury.. Founded by Joseph Lor and Ryan Choy, Faire taps traditional know-how from decades of heritage and experience with real-time feedback to create stylish products designed for maximum function. As a vertically integrated company, Faire runs its own factory and offers direct-to- consumer (DTC) pricing.<br />
                     <a href="https://www.lazada.sg/products/faire-leather-co-neo-zip-around-wallet-i1795360218-s9447316416.html">Purchase Now</a>
                 </p>
             </div>
@@ -273,7 +275,7 @@ We believe that small changes to our everyday lives can make a significant impac
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Tocco Toscano</h3>
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-                    Tocco Toscano, meaning “Touch of Tuscany”, originated in Florence, Tuscany, a region in Italy famed for their beautiful art and craftsmanshi <br />
+                    Tocco Toscano, meaning “Touch of Tuscany”, originated in Florence, Tuscany, a region in Italy famed for their beautiful art and craftsmanship. With over 30 years of experience, Tocco Toscano focuses on creating functional luxury for women. Born out of that philosophy are leather goods that present a fine balance of fashion, elegance and utility, complementing the modern woman’s holistic lifestyle.<br />
                     <a href="https://www.lazada.sg/products/tocco-toscano-vera-oval-top-handle-i2044202553-s11188864376.html">Purchase now</a>
                 </p>
             </div>
@@ -285,7 +287,8 @@ We believe that small changes to our everyday lives can make a significant impac
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Pearlie White</h3>
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-                    Pearlie White® is the only home grown Singapore oral care brand that has oral care manufacturing facilities in our country. With a promise to find smarter ways for a healthier smile, Pearlie White® offers quality ingredients on the inside and smart packaging on the outside for truly intelligent and innovative oral care products. <br />
+                    Pearlie White® is the only home grown Singapore oral care brand and the only brand that has oral care manufacturing facilities in our country.<br />
+                    With a promise to find smarter ways for a healthier smile, Pearlie White® offers quality ingredients on the inside and smart packaging on the outside for truly intelligent and innovative oral care products.<br />
                     <a href="https://www.lazada.sg/shop/pearlie-white?tab=promotion&amp;path=promotion-31143-0.htm&amp;spm=a2o42.home.search.1.654346b5ql6GJK&amp;_keyori=ss&amp;from=suggest_sis&amp;sis_suggestion_click=Pearlie%20White%20Flagship%20S">Purchase now</a>
                 </p>
             </div>
@@ -297,7 +300,7 @@ We believe that small changes to our everyday lives can make a significant impac
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Food Culture Singapore</h3>
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-                    Food Culture Singapore is an e-commerce platform that supports both local start-up and heritage brands. We support our brands to Go Digital <br />
+                    Food Culture Singapore is an e-commerce platform that supports both local start-up and heritage brands. We support our brands to Go Digital by selling their products online, Connect with Consumers through digital marketing and experiential pop-ups, and Go Global by connecting with distributors all over the world. We are an initiative by Cheng Yew Heng Candy Factory Pte Ltd.<br />
                     <a href="https://www.lazada.sg/products/i101351543.html">Purchase now</a>
                 </p>
             </div>
@@ -309,7 +312,7 @@ We believe that small changes to our everyday lives can make a significant impac
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">doob Bean Bags</h3>
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-                    doob Bean Bags is the most awesome bean bag brand in Singapore. Designed for comfort, safety, and ease of maintenance, doob bean bags are bu <br />
+                    doob Bean Bags is the most awesome bean bag brand in Singapore. Designed for comfort, safety, and ease of maintenance, doob bean bags are built to last. With a wide assortment of bean bags that are more versatile, space-saving, and comfier than conventional furniture, This "Made With Passion SG"-awarded brand is on a mission to take over the world, one butt at a time.<br />
                     <a href="https://www.lazada.sg/doob/">Purchase now</a>
                 </p>
             </div>
@@ -333,7 +336,7 @@ We believe that small changes to our everyday lives can make a significant impac
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Nyananyana Eco Fashion</h3>
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-                    Nyananyana is a Singapore social enterprise that focuses on a better product for the maker, the consumer, and the earth at every stage of th <br />
+                    Nyananyana is a Singapore social enterprise that focuses on a better product for the maker, the consumer, and the earth at every stage of the supply chain. Our Eco Batik uses natural dye on certified (GOTS/Oekotex), precious hand weave fabric, or recycle pre-consumer waste from ethical factories. We work with craftsmen, seamstresses and a disadvantaged community across Java Island.<br />
                     <a href="https://www.lazada.sg/products/organic-batik-matching-tie-and-mask-gift-set-i1616902468-s7602724145.html">Purchase now</a>
                 </p>
             </div>
@@ -381,7 +384,7 @@ We believe that small changes to our everyday lives can make a significant impac
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Chop Wah On</h3>
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-                    Founded in 1916, Chop Wah On is Singapore’s oldest medicated oil and balm Co. Our products carry our trademark registered in Singapore, Hong <br />
+                    Founded in 1916, Chop Wah On is Singapore’s oldest medicated oil and balm Co. Our products carry our trademark registered in Singapore, Hong Kong and China. In 2015, we were a winner of the SPBA - Heritage Brand. In 2019, the Singapore Book of Records certified us as Singapore’s oldest medicated oil and balm manufacturer and Singapore’s first and best selling crocodile oil manufacturer.<br />
                     <a href="https://www.lazada.sg/shop/chop-wah-on/">Purchase now</a>
                 </p>
             </div>
@@ -393,7 +396,7 @@ We believe that small changes to our everyday lives can make a significant impac
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Dandyhands by Quin</h3>
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-                    Dandyhands by Quin showcases seasonal collections of beautiful handcrafted wearable art, wares, artisanal soaps and wonderbalms. At by Quin, <br />
+                    Dandyhands by Quin showcases seasonal collections of beautiful handcrafted wearable art, wares, artisanal soaps and wonderbalms. At by Quin, every product is unique and designed for anyone and everyone to experience art, beauty and positive vibes through sight, touch and/or smell with the assurance that only the best and highest grade ingredients are used.<br />
                     <a href="https://www.lazada.sg/products/i2167032724.html">Purchase now</a>
                 </p>
             </div>
@@ -429,7 +432,10 @@ We believe that small changes to our everyday lives can make a significant impac
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Emery Co</h3>
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-                    Emery &amp; Co brings you nail art from all corners of the earth: exotic sandy lagoons, windy moonlit moors, dusky urban jungles bathed in neon light, all neatly packaged into beautiful, hassle-free nail stickers and wraps. And that’s our modus operandi. Enjoy having the world at your fingertips. <br />
+                    With just 3 simple steps: Fit, Paste, File, our nail wraps are a DIY manicure in just 10 minutes.<br />
+                    Emery &amp; Co brings you nail art from all corners of the earth: exotic sandy lagoons, windy moonlit moors, dusky urban jungles bathed in neon light, all neatly packaged into beautiful, hassle-free nail stickers and wraps.<br />
+                    And that’s our modus operandi.<br />
+                    Enjoy having the world at your fingertips.<br />
                     <a href="https://s.lazada.sg/s.0a52c">Purchase now</a>
                 </p>
             </div>
@@ -573,7 +579,7 @@ We believe that small changes to our everyday lives can make a significant impac
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Luzerne</h3>
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-                    Drawing on over 70 years of tradition and knowledge, Luzerne designs and creates bespoke fine china for many of the world’s highly regarded brands in the food, hospitality, retail and airline industries. From award-winning establishments to the home, Luzerne brings handcrafted expertise to your table. Luzerne is a homegrown brand and a proud supporter of the Singapore Culinary Olympics Team <br />
+                    Drawing on over 70 years of tradition and knowledge, Luzerne designs and creates bespoke fine china for many of the world’s highly regarded brands in the food, hospitality, retail and airline industries. From award-winning establishments to the home, Luzerne brings handcrafted expertise to your table. Luzerne is a homegrown brand and a proud supporter of the Singapore Culinary Olympics Team.<br />
                     <a href="https://www.lazada.sg/shop/luzerne-pte-ltd/?path=profile.htm&amp;langFlag=en&amp;lang=en&amp;pageTypeId=3">Purchase now</a>
                 </p>
             </div>
