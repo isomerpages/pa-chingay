@@ -128,7 +128,7 @@ description: ""
         </tr>
         <tr>
             <td>
-                <img src="/images/Sponsors%20&%20Donors/jcd-04-february-2022-20-39-40.jpeg" alt="JCDecaux" style="width:161px;float:left;" />
+                <img src="/images/Sponsors%20&%20Donors/jcd-04-february-2022-20-39-40.jpeg" alt="JCDecaux" style="width:161px;float:left;padding-top:15%;" />
             </td>
             <td>
                 <img src="/images/Sponsors%20&%20Donors/changi-airport-group-03-february-2022-18-05-40.png" alt="Changi Airport Group" style="width:161px;float:left;" />
