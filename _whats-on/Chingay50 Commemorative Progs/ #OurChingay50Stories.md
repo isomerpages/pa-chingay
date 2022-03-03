@@ -48,6 +48,58 @@ Take the journey and reminisce with us!
                 </p>
             </div>
         </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/surendran-rachandran-50storiesimage.jpg">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Surendran Rachandran</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    <b>Administrative Executive</b><br />
+                    Dancing To His Own Beat<br />
+                    <a href="/surendran-rachandran">Read More..</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/dina-nerina-50storiesimage.jpg">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Dina Nerina</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    <b>Community Programmes Manager</b><br />
+                    Embracing The Spirit of Multiculturalism<br />
+                    <a href="/chingay50-stories/dina-nerina">Read More..</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/lynn-goh-50storiesimage.jpg">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Lynn Goh</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    <b>Administrator</b><br />
+                    United We Dance<br />
+                    <a href="/chingay50-stories/lynn-goh">Read More..</a>
+                </p>
+            </div>
+        </li>
+        <li>
+            <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/ong-choon-mui-50storiesimage.jpg">
+                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                    <h3 style="font-size: 1em; margin: 0 0 .3em;">Ong Choon Mui</h3>
+                </div>
+                <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+                    <b>Retiree - Still teaching dance @ Macpherson Chinese Dance</b><br />
+                    The Original Big-Headed Dolls<br />
+                    <a href="/chingay50-stories/ong-choon-mui">Read More..</a>
+                </p>
+            </div>
+        </li>
     </ul>
 		
 <table border="0" width="100%">
