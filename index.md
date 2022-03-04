@@ -7,7 +7,7 @@ permalink: /
 notification: <a href="">Sign Up</a> to receive update on Chingay via email!
 sections:
   - hero:
-      background: /images/pa-chingay-1280_438_02.gif
+      background: /images/pa-chingay-1280_438_03.gif
       key_highlights:
         - title: Chingay turns 50 in 2022!
           description: A series of programmes are lined up to commemorate this milestone.
