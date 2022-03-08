@@ -111,7 +111,7 @@ description: ""
 	</tr>
 	<tr>
 		<td>
-			<div style="display: grid; grid-template-columns: repeat(4, 1fr);">
+			<div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(4, 1fr);">
         <div style="text-align: center;"><img src="/images/Sponsors%20&%20Donors/dbs--21-january-2022-10-35-18.png" alt="DBS" style="width:161px;" /> </div>
         <div style="text-align: center;"><img src="/images/Sponsors%20&%20Donors/posb-18-october-2019-16-39-35.png" alt="POSB" style="width:161px;" /> </div>
         <div style="text-align: center;"><img src="/images/Sponsors%20&%20Donors/nunchimarine-10-january-2022-11-10-29.png" alt="Nunchi Marine" style="width:201px;padding-top:12px;" /> </div>
