@@ -9,6 +9,7 @@ description: ""
             <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr));border-top: 1px solid black;">
                 <div style="text-align: left;padding-top:5px;"><img src="/images/Sponsors%20&%20Donors/pa-14-october-2019-18-19-28.png" alt="People's Association" style="width:90px;" /> </div>
                 <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/chingay-(black)-31-october-2021-11-10-19.png" alt="Chingay Parade Singapore" style="width:121px;" /> </div>
+                <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
             </div>
         </div>
         <div style="text-align: left;">
@@ -16,6 +17,7 @@ description: ""
             <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr)); border-top: 1px solid black;">
                 <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/tote-board-23-october-2019-17-24-12.jpg" alt="Giving Hope Improving Lives" style="width:80px;" /> </div>
                 <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/singapore-tourism-board-14-october-2019-18-29-42.png" alt="Singapore Tourism Board" style="width:100px;" /> </div>
+                <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
             </div>
         </div>
     </div>
@@ -30,68 +32,44 @@ description: ""
             <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
         </div>
     </div>
-		
 
-<table border="0" width="100%">
-        <tr>
-            <td width="45%">
-                <table border="0" width="100%">
-                    <tr>
-                        <td style="border-bottom: 1px solid black;"><b>Official Caterers</b></td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <img src="/images/Sponsors%20&%20Donors/stamford-catering-18-october-2019-16-40-27.png" alt="Stamford" style="width:161px;float:left;" />
-                            <img src="/images/Sponsors%20&%20Donors/peach-garden-(colour)-14-october-2019-18-28-03.png" alt="Peach Garden" style="width:161px;float:left;" />
-                        </td>
-                    </tr>
-                </table>
-            </td>
-            <td width="10%">&nbsp;</td>
-            <td width="45%">
-                <table border="0" width="100%">
-                    <tr>
-                        <td style="border-bottom: 1px solid black;"><b>Official Venue Partner</b></td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <img src="/images/Sponsors%20&%20Donors/jewel-02-february-2021-19-11-10.jpg" alt="Jewel Changi Airport" style="width:161px;float:left;" />
-                        </td>
-                    </tr>
-                </table>
-            </td>
-        </tr>
-    </table>
+<div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(325px,1fr));">
+        <div style="text-align: left;">
+            <b>Official Caterers</b>
+            <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr));border-top: 1px solid black;">
+                <div style="text-align: left;padding-top:5px;"><img src="/images/Sponsors%20&%20Donors/stamford-catering-18-october-2019-16-40-27.png" alt="Stamford" style="width:161px;float:left;" /> </div>
+                <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/peach-garden-(colour)-14-october-2019-18-28-03.png" alt="Peach Garden" style="width:161px;float:left;" /> </div>
+                <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
+            </div>
+        </div>
+        <div style="text-align: left;">
+            <b>Official Venue Partner</b>
+            <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr)); border-top: 1px solid black;">
+                <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/jewel-02-february-2021-19-11-10.jpg" alt="Jewel Changi Airport" style="width:161px;float:left;" /> </div>
+                <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
+                <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
+            </div>
+        </div>
+    </div>
 
-<table border="0" width="100%">
-        <tr>
-            <td width="45%">
-                <table border="0" width="100%">
-                    <tr>
-                        <td style="border-bottom: 1px solid black;"><b>Social Media Partner</b></td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <img src="/images/Sponsors%20&%20Donors/tiktok-03-february-2021-10-52-58.png" alt="Tiktok" style="width:161px;float:left;" />
-                        </td>
-                    </tr>
-                </table>
-            </td>
-            <td width="10%">&nbsp;</td>
-            <td width="45%">
-                <table border="0" width="100%">
-                    <tr>
-                        <td style="border-bottom: 1px solid black;"><b>Official E-Commerce Platform</b></td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <img src="/images/Sponsors%20&%20Donors/lazada-02-february-2021-19-08-45.png" alt="Lazada" style="width:121px;float:left;" />
-                        </td>
-                    </tr>
-                </table>
-            </td>
-        </tr>
-    </table>
+<div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(325px,1fr));">
+        <div style="text-align: left;">
+            <b>Social Media Partner</b>
+            <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr));border-top: 1px solid black;">
+                <div style="text-align: left;padding-top:5px;"><img src="/images/Sponsors%20&%20Donors/tiktok-03-february-2021-10-52-58.png" alt="Tiktok" style="width:161px;float:left;" /> </div>
+                <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
+                <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
+            </div>
+        </div>
+        <div style="text-align: left;">
+            <b>Official E-Commerce Platform</b>
+            <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr)); border-top: 1px solid black;">
+                <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/lazada-02-february-2021-19-08-45.png" alt="Lazada" style="width:121px;float:left;" /> </div>
+                <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
+                <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
+            </div>
+        </div>
+    </div>
 		
 <table border="0" width="100%">
         <tr>
