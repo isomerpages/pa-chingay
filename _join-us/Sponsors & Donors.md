@@ -26,6 +26,8 @@ description: ""
             <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/passioncard-black-01-december-2020-17-13-42.jpg" alt="PAssion Card Black" style="width:161px;float: left;" /> </div>
             <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/passioncard-silver-01-december-2020-17-13-59.jpg" alt="PAssion Card Silver" style="width: 161px; float: left;" /> </div>
             <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/passioncard-posb-01-december-2020-17-14-51.jpg" alt="PAssion Card POSB" style="width: 161px; float: left;" /> </div>
+            <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
+            <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
         </div>
     </div>
 		
