@@ -7,19 +7,27 @@ description: ""
         <div style="text-align: left;">
             <b>Organised By</b>
             <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr));border-top: 1px solid black;">
-                <div style="text-align: center;padding-top:5px;"><img src="/images/Sponsors%20&%20Donors/pa-14-october-2019-18-19-28.png" alt="People's Association" style="width:90px;" /> </div>
-                <div style="text-align: center; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/chingay-(black)-31-october-2021-11-10-19.png" alt="Chingay Parade Singapore" style="width:121px;" /> </div>
+                <div style="text-align: left;padding-top:5px;"><img src="/images/Sponsors%20&%20Donors/pa-14-october-2019-18-19-28.png" alt="People's Association" style="width:90px;" /> </div>
+                <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/chingay-(black)-31-october-2021-11-10-19.png" alt="Chingay Parade Singapore" style="width:121px;" /> </div>
             </div>
         </div>
         <div style="text-align: left;">
             <b>Principal Founding Sponsors</b>
             <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr)); border-top: 1px solid black;">
-                <div style="text-align: center; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/tote-board-23-october-2019-17-24-12.jpg" alt="Giving Hope Improving Lives" style="width:80px;" /> </div>
-                <div style="text-align: center; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/singapore-tourism-board-14-october-2019-18-29-42.png" alt="Singapore Tourism Board" style="width:100px;" /> </div>
+                <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/tote-board-23-october-2019-17-24-12.jpg" alt="Giving Hope Improving Lives" style="width:80px;" /> </div>
+                <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/singapore-tourism-board-14-october-2019-18-29-42.png" alt="Singapore Tourism Board" style="width:100px;" /> </div>
             </div>
         </div>
     </div>
-
+    <div style="text-align: left;">
+        <b>Official Cards</b>
+        <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr)); border-top: 1px solid black;">
+            <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/passioncard-black-01-december-2020-17-13-42.jpg" alt="PAssion Card Black" style="width:161px;" /> </div>
+            <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/passioncard-silver-01-december-2020-17-13-59.jpg" alt="PAssion Card Silver" style="width:161px;" /> </div>
+            <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/passioncard-posb-01-december-2020-17-14-51.jpg" alt="PAssion Card POSB" style="width:161px;" /> </div>
+        </div>
+    </div>
+		
 <table border="0" width="100%">
         <tr>
             <td style="border-bottom: 1px solid black;"><b>Official Cards</b></td>
