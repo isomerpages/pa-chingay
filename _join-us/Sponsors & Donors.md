@@ -19,12 +19,13 @@ description: ""
             </div>
         </div>
     </div>
+		
 <div style="text-align: left;">
         <b>Official Cards</b>
         <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr)); border-top: 1px solid black;">
-            <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/passioncard-black-01-december-2020-17-13-42.jpg" alt="PAssion Card Black" style="width:161px;" /> </div>
-            <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/passioncard-silver-01-december-2020-17-13-59.jpg" alt="PAssion Card Silver" style="width:161px;" /> </div>
-            <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/passioncard-posb-01-december-2020-17-14-51.jpg" alt="PAssion Card POSB" style="width:161px;" /> </div>
+            <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/passioncard-black-01-december-2020-17-13-42.jpg" alt="PAssion Card Black" style="width:161px;float: left;" /> </div>
+            <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/passioncard-silver-01-december-2020-17-13-59.jpg" alt="PAssion Card Silver" style="width: 161px; float: left;" /> </div>
+            <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/passioncard-posb-01-december-2020-17-14-51.jpg" alt="PAssion Card POSB" style="width: 161px; float: left;" /> </div>
         </div>
     </div>
 		
