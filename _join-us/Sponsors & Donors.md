@@ -3,6 +3,24 @@ title: Sponsors & Donors
 permalink: /join-us/sponsors-donors
 description: ""
 ---
+<div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(325px,1fr));">
+        <div style="text-align: center;">
+            <b>Organised By</b>
+            <hr />
+            <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr));">
+                <div style="text-align: center;"><img src="/images/Sponsors%20&%20Donors/pa-14-october-2019-18-19-28.png" alt="People's Association" style="width:90px;" /> </div>
+                <div style="text-align: center;"><img src="/images/Sponsors%20&%20Donors/chingay-(black)-31-october-2021-11-10-19.png" alt="Chingay Parade Singapore" style="width:121px;" /> </div>
+            </div>
+        </div>
+        <div style="text-align: center;">
+            <b>Principal Founding Sponsors</b>
+            <hr />
+            <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr));">
+                <div style="text-align: center;"><img src="/images/Sponsors%20&%20Donors/tote-board-23-october-2019-17-24-12.jpg" alt="Giving Hope Improving Lives" style="width:80px;" /> </div>
+                <div style="text-align: center;"><img src="/images/Sponsors%20&%20Donors/singapore-tourism-board-14-october-2019-18-29-42.png" alt="Singapore Tourism Board" style="width:100px;" /> </div>
+            </div>
+        </div>
+    </div>
 <table border="0" width="100%">
         <tr>
             <td width="45%">
