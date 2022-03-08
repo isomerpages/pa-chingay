@@ -1,5 +1,4 @@
 collections:
   edm:
     output: true
-    order:
-      - Test Page.md
+    order: []
