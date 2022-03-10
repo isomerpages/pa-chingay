@@ -4,7 +4,8 @@ title: Chingay 2022
 description: Chingay Parade Singapore
 image: /images/isomer-logo.svg
 permalink: /
-notification: <a href="">Sign Up</a> to receive update on Chingay via email!
+notification: <a href="https://go.gov.sg/stay-in-touch-with-chingay">Sign Up</a>
+  to receive update on Chingay via email!
 sections:
   - hero:
       background: /images/pa-chingay-1280_438_03.gif
