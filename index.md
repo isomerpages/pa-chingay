@@ -13,22 +13,17 @@ sections:
           description: A series of programmes are lined up to commemorate this milestone.
             Stay tuned for more details!
           url: ""
+        - title: Feedback
+          description: ""
+          url: https://form.gov.sg/#!/6204cc24f67235001338f8ae
   - infopic:
-      title: Chingay50 Programme Booklet
-      subtitle: Download Now
-      description: Download the Chingay50 showcase programme booklet.
-      button: Find out more
-      url: /files/chingay50-2022-programme-booklet.pdf
-      image: /images/Highlights/download-the-chingay50-showcase-programme-booklet--highlightimage.png
-      alt: Chingay50 Programme Booklet
-  - infopic:
-      title: Redraw Your World with Chingay50
+      title: Chingay's 50th Anniversary - Launch of Chingay50 Buses
       subtitle: Chingay50 Programme
-      description: Design your own float and stand to win prize pack from Cartoon Network!
+      description: Come onboard and celebrate the Chingay Spirit around the island!
       button: Find Out More
-      url: /whats-on/redraw-your-world-with-chingay50
-      image: /images/Highlights/redraw-your-world-with-chingay50-highlightimage.jpg
-      alt: Chingay50 Redraw Your World
+      url: /whats-on/chingay50-programme/hey-chingay-50-bus
+      image: /images/Highlights/launch-of-chingay50-buses-highlightimage.jpg
+      alt: Chingay50 Buses
   - infopic:
       title: Chingay Mama Shop
       subtitle: Support Local
@@ -39,13 +34,13 @@ sections:
       url: /whats-on/chingay-mama-shop
       image: /images/Highlights/chingay-mamashop-highlightimage.jpg
   - infopic:
-      title: Chingay's 50th Anniversary - Launch of Chingay50 Buses
+      title: Redraw Your World with Chingay50
       subtitle: Chingay50 Programme
-      description: Come onboard and celebrate the Chingay Spirit around the island!
+      description: Design your own float and stand to win prize pack from Cartoon Network!
       button: Find Out More
-      url: /whats-on/chingay50-programme/hey-chingay-50-bus
-      image: /images/Highlights/launch-of-chingay50-buses-highlightimage.jpg
-      alt: Chingay50 Buses
+      url: /whats-on/redraw-your-world-with-chingay50
+      image: /images/Highlights/redraw-your-world-with-chingay50-highlightimage.jpg
+      alt: Chingay50 Redraw Your World
   - infopic:
       title: Chingay As You PHOTO It
       subtitle: Chingay 50 Programme
@@ -55,6 +50,14 @@ sections:
       url: /whats-on/chingay-as-you-photo-it
       image: /images/Highlights/chingay-as-you-photo-it--highlightimage.jpg
       alt: Chingay As You PHOTO It
+  - infopic:
+      title: Chingay50 Programme Booklet
+      subtitle: Download Now
+      description: Download the Chingay50 showcase programme booklet.
+      button: Find out more
+      url: /files/chingay50-2022-programme-booklet.pdf
+      image: /images/Highlights/download-the-chingay50-showcase-programme-booklet--highlightimage.png
+      alt: Chingay50 Programme Booklet
   - infopic:
       title: D:2 Dance Competition
       subtitle: Community Engagement Programme
