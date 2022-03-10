@@ -30,15 +30,6 @@ sections:
       image: /images/Highlights/redraw-your-world-with-chingay50-highlightimage.jpg
       alt: Chingay50 Redraw Your World
   - infopic:
-      title: Spot The Tiger
-      subtitle: Community Engagement Programme
-      description: Watch our Chingay50 live webcast at our website here, Facebook or
-        TikTok on Saturday, 12th February 2022 8.00pm and win vouchers!
-      button: Find Out More
-      url: /whats-on/chingay50-community-programmes/spot-the-tiger
-      image: /images/Highlights/spot-the-tiger-highlightimage.png
-      alt: Chingay50 Spot The Tiger
-  - infopic:
       title: Chingay Mama Shop
       subtitle: Support Local
       description: Are you a local organisation or company that wants to do a part for
