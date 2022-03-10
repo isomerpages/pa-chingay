@@ -72,22 +72,4 @@ sections:
       url: /whats-on/chingay50-community-programmes/d-2-dance-competition
       image: /images/Highlights/d-2-dance-competition-highlightimage.jpg
       alt: D:2 Dance Competition
-  - infopic:
-      title: Chingay50 Chinese New Year Stickers for Whatsapp
-      subtitle: Whatsapp
-      description: Download our Whatsapp sticker pack and have a fun time greeting
-        family and friends this festive period!
-      button: Find Out More
-      url: https://sticker.ly/s/TX7LZ3
-      image: /images/Highlights/chingay50-chinese-new-year-stickers-highlightimage.png
-      alt: Download Whatsapp sticker pack
-  - infopic:
-      title: Chingay50 Chinese New Year Stickers For Telegram
-      subtitle: Telegram
-      description: Download our Telegram sticker pack and have a fun time greeting
-        family and friends this festive period!
-      button: Find Out More
-      url: https://t.me/addstickers/Chingay50
-      image: /images/Highlights/chingay50-chinese-new-year-stickers-for-telegram-highlightimage.png
-      alt: Download Telegram sticker pack
 ---
