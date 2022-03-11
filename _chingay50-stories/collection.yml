@@ -2,7 +2,6 @@ collections:
   chingay50-stories:
     output: true
     order:
-      - Surendran Rachandran.md
       - Sabaria Bte Uma.md
       - Ian Koh.md
       - Mohamed Feroze bin Hasan.md
@@ -14,6 +13,7 @@ collections:
       - Ong Choon Mui.md
       - Lynn Goh.md
       - Dina Nerina.md
+      - Surendran Rachandran.md
       - Surendran Rachandran 01.md
       - Michael Koh & Sharon Lee.md
       - Ken and Christine.md
