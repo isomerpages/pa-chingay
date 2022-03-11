@@ -5,7 +5,6 @@ date: 2022-02-17
 layout: post
 description: ""
 ---
-
 ![](/images/Chingay50%20Stories/michael-koh-sharon-lee-50storiesimage.jpg)
 **Michael Koh & Sharon Lee**
 
