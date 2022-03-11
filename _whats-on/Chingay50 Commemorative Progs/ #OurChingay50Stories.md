@@ -18,7 +18,7 @@ Take the journey and reminisce with us!
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
                     <b>Aircon Specialist & Homemaker</b>
                     <br /> Love Blossoms Among Costumes and Props<br />
-                    <a href="chingay50-stories/michael-koh-sharon-lee">Read More..</a>
+                    <a href="/chingay50-stories/michael-koh-sharon-lee">Read More..</a>
                 </p>
             </div>
         </li>
@@ -31,7 +31,7 @@ Take the journey and reminisce with us!
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
                     <b>50 Years of Memory Making and Counting</b>
                     <br /> Evolution of Chingay<br />
-                    <a href="chingay50-stories/chingay50-parading-through-time">Read More..</a>
+                    <a href="/chingay50-stories/chingay50-parading-through-time">Read More..</a>
                 </p>
             </div>
         </li>
@@ -44,7 +44,7 @@ Take the journey and reminisce with us!
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
                     <b>Sibling Chingay Volunteers</b><br />
                     Sibling Revelry<br />
-                    <a href="chingay50-stories/ken-and-christine">Read More..</a>
+                    <a href="/chingay50-stories/ken-and-christine">Read More..</a>
                 </p>
             </div>
         </li>
@@ -57,7 +57,7 @@ Take the journey and reminisce with us!
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
                     <b>Administrative Executive</b><br />
                     Dancing To His Own Beat<br />
-                    <a href="chingay50-stories/surendran-rachandran">Read More..</a>
+                    <a href="/chingay50-stories/surendran-rachandran">Read More..</a>
                 </p>
             </div>
         </li>
