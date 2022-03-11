@@ -2,7 +2,6 @@ collections:
   chingay50-stories:
     output: true
     order:
-      - Chingay50 Parading Through Time.md
       - Sabaria Bte Uma.md
       - Ian Koh.md
       - Mohamed Feroze bin Hasan.md
@@ -17,4 +16,5 @@ collections:
       - Surendran Rachandran.md
       - Michael Koh & Sharon Lee.md
       - Ken and Christine.md
+      - Chingay50 Parading Through Time.md
       - Chingay50 Parading Through Time 01.md
