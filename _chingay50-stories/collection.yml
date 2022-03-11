@@ -2,6 +2,7 @@ collections:
   chingay50-stories:
     output: true
     order:
+      - Michael Koh & Sharon Lee 01.md
       - Sabaria Bte Uma.md
       - Ian Koh.md
       - Mohamed Feroze bin Hasan.md
