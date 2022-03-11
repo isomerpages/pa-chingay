@@ -5,11 +5,12 @@ date: 2022-02-17
 layout: post
 description: ""
 ---
-
 ![Surendran Rachandran](/images/Chingay50%20Stories/surendran-rachandran-50storiesimage.jpg)
 **Surendran Rachandran**
 
 Administrative Executive
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_S3s-vUJZR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 An administrative executive by day, Surendran Rachandran morphs into a dancer-choreographer in his spare time; he has become a mainstay of Chingay.
 
