@@ -2,7 +2,6 @@ collections:
   chingay50-stories:
     output: true
     order:
-      - Ken and Christine.md
       - Sabaria Bte Uma.md
       - Ian Koh.md
       - Mohamed Feroze bin Hasan.md
@@ -16,5 +15,6 @@ collections:
       - Dina Nerina.md
       - Surendran Rachandran.md
       - Michael Koh & Sharon Lee.md
+      - Ken and Christine.md
       - Ken and Christine 01.md
       - Chingay50 Parading Through Time.md
