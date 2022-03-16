@@ -2,7 +2,6 @@ collections:
   event-gallery:
     output: true
     order:
-      - Chingay50Bus Launch/.keep
       - Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs.md
       - Tanjong Pagar GRC and Radin Mas SMC.md
       - Jalan Besar GRC and Potong Pasir SMC.md
