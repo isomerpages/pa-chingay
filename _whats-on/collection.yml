@@ -2,6 +2,7 @@ collections:
   whats-on:
     output: true
     order:
+      - Chingay50 Commemorative Progs/Hall of Frames (Contributors).md
       - Chingay50 Commemorative Progs/.keep
       - Chingay50 Commemorative Progs/Chingay50 Commemorative Programmes.md
       - "Chingay50 Commemorative Progs/ #OurChingay50Stories.md"
