@@ -19,14 +19,14 @@ Tel: 6506 0900<br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sat, 19 Feb 2022<br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>7:00 PM
 
-**Chingay50 @ Heartlands - Jalan Besar CC**<br>
+**Chingay50 @ Heartlands - Jalan Besar CC (Ended)**<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>Live Stream on Jalan Besar GRC Community News<br>
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>Tel: 6298 4582<br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sat, 26 Feb 2022<br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>7:00 PM
 
-**Chingay50 @ Heartlands - Heartbeat@Bedok**<br>
-<img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>Recorded video availble on Heartbeat Bedok Facebook<br>
+**Chingay50 @ Heartlands - Heartbeat@Bedok (Ended)**<br>
+<img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>Recorded video availble on Heartbeat Bedok Facebook <br>
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>Tel: 6241 9878<br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sun, 27 Feb 2022<br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>7:00 PM
