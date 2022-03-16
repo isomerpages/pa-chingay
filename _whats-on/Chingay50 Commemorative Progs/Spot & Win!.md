@@ -4,12 +4,10 @@ permalink: /whats-on/Chingay50-Programmes/spot-win
 description: ""
 third_nav_title: Chingay50 Commemorative Progs
 ---
-
-
 ![spot & win](/images/spot-win.png)
 
 Prizes Sponsored By
-![sponsors](/images/spot-win-sponsors.png)
+![sponsors](/images/snap-tag-win-sponsor.png)
 
 **IMPORTANT NOTES**<br>
 Please comply with the prevailing Safe Management Measure (SMM) guidelines at all time.<br>
