@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Chingay50 Event Gallery/.keep
       - The Chingay Story.md
       - The Chingay Timeline.md
       - Press Room/.keep
