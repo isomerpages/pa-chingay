@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Chingay50 Event Gallery/Chingay50 at Jewel Changi Airport.md
       - "Chingay50 Event Gallery/ #HeyChingay50Bus.md"
       - Chingay50 Event Gallery/Mini Floats.md
       - Chingay50 Event Gallery/.keep
