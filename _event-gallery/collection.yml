@@ -2,6 +2,7 @@ collections:
   event-gallery:
     output: true
     order:
+      - Chingay 50 Behind The Scenes/.keep
       - Mini Floats/.keep
       - Mini Floats/Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs.md
       - Mini Floats/Tanjong Pagar GRC and Radin Mas SMC.md
