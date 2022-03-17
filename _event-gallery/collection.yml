@@ -2,6 +2,7 @@ collections:
   event-gallery:
     output: true
     order:
+      - Mini Floats/Nee Soon GRC.md
       - Mini Floats/Sengkang GRC.md
       - Mini Floats/Pasir Ris Punggol GRC and Punggol West SMC.md
       - Mini Floats/Bishan Toa Payoh GRC and Marymount SMC.md
