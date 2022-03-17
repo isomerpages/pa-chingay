@@ -2,6 +2,7 @@ collections:
   event-gallery:
     output: true
     order:
+      - Mini Floats/Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs.md
       - Mini Floats/.keep
       - Chingay50 at Jewel/Chingay50.md
       - Chingay50 at Jewel/Happy Chinese New Year!.md
