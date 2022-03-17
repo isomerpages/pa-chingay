@@ -13,7 +13,7 @@ Tel: 6506 0900<br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sun, 13 Feb 2022<br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>7:30 PM
 
-**Chingay50 @ Heartlands - Our Tampines Hub**<br>
+**Chingay50 @ Heartlands - Our Tampines Hub (Ended)**<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>Live Stream on Our Tampines Hub Facebook page<br>
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>Tel: 6340 3636<br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sat, 19 Feb 2022<br>
