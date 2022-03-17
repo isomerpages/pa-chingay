@@ -2,7 +2,6 @@ collections:
   event-gallery:
     output: true
     order:
-      - Chingay50Bus Launch/.keep
       - Mini Floats/.keep
       - Mini Floats/Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs.md
       - Mini Floats/Tanjong Pagar GRC and Radin Mas SMC.md
@@ -14,6 +13,8 @@ collections:
       - Mini Floats/Holland Bukit Timah GRC and Bukit Panjang SMC.md
       - Mini Floats/Marsiling Yew Tee GRC.md
       - Mini Floats/Sembawang GRC.md
+      - Chingay50Bus Launch/.keep
+      - Chingay50 at Jewel/.keep
       - Chingay50 at Jewel/Chingay50.md
       - Chingay50 at Jewel/Happy Chinese New Year!.md
       - Chingay50 at Jewel/Our Free Spirit.md
@@ -31,4 +32,3 @@ collections:
       - Chingay50 at Jewel/Together As One (Performers).md
       - Chingay50 at Jewel/Together As One.md
       - Chingay50 at Jewel/Together As One (Closing).md
-      - Chingay50 at Jewel/.keep
