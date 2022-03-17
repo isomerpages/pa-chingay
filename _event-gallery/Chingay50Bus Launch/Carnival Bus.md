@@ -4,7 +4,7 @@ permalink: /event-gallery/Chingay50Bus-Launch/carnival-bus
 description: ""
 third_nav_title: Chingay50Bus Launch
 ---
-![Carnival Bus](/images/Event%20Gallery/Chingay50Bus%20Launch/SS-CGB%20(16%20of%20132)-01.jpg)
+![Carnival Bus](/images/Event%20Gallery/Chingay50Bus%20Launch/SS-CGB%20(69%20of%20132)-01.jpg)
 
 # **Carnival Bus**
 
