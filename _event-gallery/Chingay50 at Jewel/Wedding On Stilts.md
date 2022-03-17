@@ -9,3 +9,6 @@ third_nav_title: Chingay50 at Jewel
 # **Act 4.5: Wedding On Stilts**
 Performed by the collective effort of 3 Chinese performing arts groups, namely Choy Brothers Opera Troupe, Martial House and People's Association Talents Chinese Dance Ensemble, the Chinese wedding themed dance reached new heights with their performers on stilts.
 
+<a href="http://www.facebook.com/sharer.php?u=http://www.chingay.gov.sg/image/event-gallery/-act-4-5-wedding-on-stilts" style="float:left;">
+	<img src="/images/facebook.png" style="width:auto;height:20px;">
+</a>
