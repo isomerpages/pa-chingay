@@ -2,6 +2,7 @@ collections:
   event-gallery:
     output: true
     order:
+      - Mini Floats/Holland Bukit Timah GRC and Bukit Panjang SMC.md
       - Mini Floats/Nee Soon GRC.md
       - Mini Floats/Sengkang GRC.md
       - Mini Floats/Pasir Ris Punggol GRC and Punggol West SMC.md
