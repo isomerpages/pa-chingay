@@ -2,6 +2,7 @@ collections:
   event-gallery:
     output: true
     order:
+      - Mini Floats/Sembawang GRC.md
       - Mini Floats/Marsiling Yew Tee GRC.md
       - Mini Floats/Holland Bukit Timah GRC and Bukit Panjang SMC.md
       - Mini Floats/Nee Soon GRC.md
