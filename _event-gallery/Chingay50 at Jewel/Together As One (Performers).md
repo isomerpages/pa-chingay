@@ -9,3 +9,6 @@ third_nav_title: Chingay50 at Jewel
 # **Act 5.2: Together As One (Performers)**
 In center, performers of Dance Inspiration are beaming during Chingay50's finale song "Together As One".
 
+<a href="http://www.facebook.com/sharer.php?u=http://www.chingay.gov.sg/image/event-gallery/act-5-2-together-as-one-(performers)" style="float:left;">
+	<img src="/images/facebook.png" style="width:auto;height:20px;">
+</a>
