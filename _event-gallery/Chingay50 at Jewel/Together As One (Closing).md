@@ -12,5 +12,3 @@ Thank you to our sponsors, donors, partners, performers, volunteers, crew, and m
 <a href="http://www.facebook.com/sharer.php?u=http://www.chingay.gov.sg/image/event-gallery/act-5-2-together-as-one-(closing)" style="float:left;">
 	<img src="/images/facebook.png" style="width:auto;height:20px;">
 </a>
-
-[](http://www.facebook.com/sharer.php?u=http://www.chingay.gov.sg/image/event-gallery/act-5-2-together-as-one-(closing))
