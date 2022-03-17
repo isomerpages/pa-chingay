@@ -2,6 +2,7 @@ collections:
   event-gallery:
     output: true
     order:
+      - Mini Floats/Pasir Ris Punggol GRC and Punggol West SMC.md
       - Mini Floats/Bishan Toa Payoh GRC and Marymount SMC.md
       - Mini Floats/Jalan Besar GRC and Potong Pasir SMC.md
       - Mini Floats/Tanjong Pagar GRC and Radin Mas SMC.md
