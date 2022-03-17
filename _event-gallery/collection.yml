@@ -2,6 +2,7 @@ collections:
   event-gallery:
     output: true
     order:
+      - Chingay50 at Jewel/Chingay50.md
       - Chingay50 at Jewel/Happy Chinese New Year!.md
       - Chingay50 at Jewel/Our Free Spirit.md
       - Chingay50 at Jewel/Our Free Spirit (Dancer).md
