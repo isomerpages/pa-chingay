@@ -6,7 +6,7 @@ third_nav_title: Chingay50 Event Gallery
 ---
 <table width="100%" border="0">
 	<tr>
-		<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Chingay50%20at%20Jewel/Act%201%20to%202%20President%20Halimah%20Yacob%20light%20up%20the%20stage-01.jp" alt="Chingay50" style="width:370px;height:auto;" /><br /><b>Chingay50</b><br/><a href="/event-gallery/Chingay50-at-Jewel/chingay50">Read more...</a></td>
+		<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Chingay50%20at%20Jewel/Act%201%20to%202%20President%20Halimah%20Yacob%20light%20up%20the%20stage-01.jpg" alt="Chingay50" style="width:370px;height:auto;" /><br /><b>Chingay50</b><br/><a href="/event-gallery/Chingay50-at-Jewel/chingay50">Read more...</a></td>
 <td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Chingay50%20at%20Jewel/Act%20Dragon%20Dance-01.jpg" alt="Act 1.3: Happy Chinese New Year!" style="width:370px;height:auto;" /><br /><b>Act 1.3: Happy Chinese New Year!</b><br/><a href="/event-gallery/Chingay50-at-Jewel/act-1-3-happy-chinese-new-year">Read more...</a></td>
 	</tr>
 	<tr>
