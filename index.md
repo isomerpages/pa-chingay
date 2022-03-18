@@ -47,7 +47,7 @@ sections:
       description: Have a fond memory of Chingay since 1973? Stay tuned to walk down
         the memory lane as we feature your photo memories!
       button: Find Out More
-      url: /whats-on/chingay-as-you-photo-it
+      url: /whats-on/Chingay50-Programme/hall-of-frames-public
       image: /images/Highlights/chingay-as-you-photo-it--highlightimage.jpg
       alt: Chingay As You PHOTO It
   - infopic:
