@@ -10,10 +10,9 @@ sections:
   - hero:
       background: /images/pa-chingay-1280_438_03.gif
       key_highlights:
-        - title: Chingay turns 50 in 2022!
-          description: A series of programmes are lined up to commemorate this milestone.
-            Stay tuned for more details!
-          url: ""
+        - title: Missed the Chingay50 live webcast?
+          description: Catch on Youtube playback now!
+          url: https://www.youtube.com/watch?v=7LN-OsjmIz8
         - title: Feedback
           description: ""
           url: https://form.gov.sg/#!/6204cc24f67235001338f8ae
