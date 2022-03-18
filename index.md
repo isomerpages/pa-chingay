@@ -43,7 +43,7 @@ sections:
       alt: Chingay50 Redraw Your World
   - infopic:
       title: Chingay As You PHOTO It
-      subtitle: Chingay 50 Programme
+      subtitle: Chingay50 Programme
       description: Have a fond memory of Chingay since 1973? Stay tuned to walk down
         the memory lane as we feature your photo memories!
       button: Find Out More
