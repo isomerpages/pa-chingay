@@ -1,0 +1,46 @@
+collections:
+  event-gallery:
+    output: true
+    order:
+      - Mini Floats/.keep
+      - Mini Floats/Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs.md
+      - Mini Floats/Tanjong Pagar GRC and Radin Mas SMC.md
+      - Mini Floats/Jalan Besar GRC and Potong Pasir SMC.md
+      - Mini Floats/Bishan Toa Payoh GRC and Marymount SMC.md
+      - Mini Floats/Pasir Ris Punggol GRC and Punggol West SMC.md
+      - Mini Floats/Sengkang GRC.md
+      - Mini Floats/Nee Soon GRC.md
+      - Mini Floats/Holland Bukit Timah GRC and Bukit Panjang SMC.md
+      - Mini Floats/Marsiling Yew Tee GRC.md
+      - Mini Floats/Sembawang GRC.md
+      - Chingay50Bus Launch/.keep
+      - Chingay50Bus Launch/Chingay50 Bus Design.md
+      - Chingay50Bus Launch/Close Up of Chingay50 Bus.md
+      - Chingay50Bus Launch/Inside of Chingay50 Bus.md
+      - Chingay50Bus Launch/People's Association Youth Movement Bus.md
+      - Chingay50Bus Launch/Chinese Bus.md
+      - Chingay50Bus Launch/Carnival Bus.md
+      - Chingay50Bus Launch/Inside of Malay Bus.md
+      - Chingay50Bus Launch/Bus Launch.md
+      - Chingay50 at Jewel/.keep
+      - Chingay50 at Jewel/Chingay50.md
+      - Chingay50 at Jewel/Happy Chinese New Year!.md
+      - Chingay50 at Jewel/Our Free Spirit.md
+      - Chingay50 at Jewel/Our Free Spirit (Dancer).md
+      - Chingay50 at Jewel/Dare To Dream.md
+      - Chingay50 at Jewel/We've Got Talent!.md
+      - Chingay50 at Jewel/We've Got Talent! 1.md
+      - Chingay50 at Jewel/We've Got Talent! 2.md
+      - Chingay50 at Jewel/We've Got Talent! 3.md
+      - Chingay50 at Jewel/Maya Vana Thirumanam (Mystical Forest Wedding).md
+      - Chingay50 at Jewel/Ikatan Kasih Samudera (Sea of Love).md
+      - Chingay50 at Jewel/Beautiful Flower Wedding.md
+      - Chingay50 at Jewel/Wedding On Stilts.md
+      - Chingay50 at Jewel/Ignite Your Dreams.md
+      - Chingay50 at Jewel/Together As One (Performers).md
+      - Chingay50 at Jewel/Together As One.md
+      - Chingay50 at Jewel/Together As One (Closing).md
+      - Chingay 50 Behind The Scenes/Our Heritage at Changi Airport Terminal 4.md
+      - Chingay 50 Behind The Scenes/Our Heritage at Terminal 4.md
+      - Chingay 50 Behind The Scenes/We've Got Talent! at Terminal 4.md
+      - Chingay 50 Behind The Scenes/.keep

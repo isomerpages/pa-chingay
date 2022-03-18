@@ -1,17 +1,43 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo-light.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Collection
-    collection: example-collection
-  - title: Resources
-    resource_room: true
+  - title: What's On
+    url: /whats-on/chingay50-commemorative-programmes
+    sublinks:
+      - title: Chingay50 Commemorative Progs
+        url: /whats-on/chingay50-commemorative-programmes
+      - title: "&rarr; #OurChingay50Stories"
+        url: /whats-on/chingay50-programme/our-chingay-50-stories
+      - title: "&rarr; Hall of Frames - Public"
+        url: /whats-on/chingay50-programme/hall-of-frames-public
+      - title: "&rarr; Hall of Frames-Contrib"
+        url: /whats-on/Chingay50-Commemorative-Progs/hall-of-frames-contributors
+      - title: "&rarr; #HeyChingay50Bus"
+        url: /whats-on/chingay50-programme/hey-chingay-50-bus
+      - title: "&rarr; Snap, Tag & Win!"
+        url: /whats-on/chingay50-programmes/snap-tag-win
+      - title: "&rarr; Spot & Win!"
+        url: /whats-on/chingay50-programmes/spot-win
+      - title: "&rarr; Did you know?"
+        url: /whats-on/chingay50-programme/did-you-know
+      - title: Chingay50 Community Programmes
+        url: /whats-on/chingay50-community-programmes/spot-the-tiger
+      - title: "&rarr; Spot The Tiger"
+        url: /whats-on/chingay50-community-programmes/spot-the-tiger
+      - title: "&rarr; Watch Party"
+        url: /whats-on/chingay50-community-programmes/watch-party
+      - title: "&rarr; Chingay50 Mini Floats"
+        url: /whats-on/chingay50-community-programmes/chingay50-mini-floats
+      - title: "&rarr; D:2 Dance Competition"
+        url: /whats-on/chingay50-community-programmes/d-2-dance-competition
+      - title: "&rarr; We've Got Talent!"
+        url: /whats-on/chingay50-community-programmes/we-ve-got-talent
+      - title: Redraw Your World
+        url: /whats-on/redraw-your-world-with-chingay50
+      - title: Chingay Mama Shop
+        url: /whats-on/chingay-mama-shop
+      - title: Chingay50 @ Heartlands
+        url: /whats-on/chingay50-at-heartlands
+  - title: Join Us
+    collection: join-us
+  - title: About Us
+    collection: about-us
