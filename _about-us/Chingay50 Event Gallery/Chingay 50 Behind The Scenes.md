@@ -15,7 +15,7 @@ third_nav_title: Chingay50 Event Gallery
 	</tr>
 	<tr>
 		<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Behind%20The%20Scenes/Act%204%201%20Community%20Star%20Joshua%20Low-01.jpg" alt="Act 3.2 We've Got Talent! at Terminal 4" style="width:370px;height:auto;" /><br /><b>Act 3.2 We've Got Talent! at Terminal 4</b><br/><a href="/event-gallery/Chingay-50-Behind-The-Scenes/Act3-2-We-ve-Got-Talent-at-Terminal-4">Read more...</a></td>
-<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Behind%20The%20Scenes/Category%20Cover%20Photo-01.jpg)" alt="Act 3.2 We've Got Talent at Terminal 4" style="width:370px;height:auto;" /><br /><b>Act 3.2 We've Got Talent at Terminal 4</b><br/><a href="/event-gallery/Chingay-50-Behind-The-Scenes/act-3-2-We-ve-Got-Talent-at-Terminal-4">Read more...</a></td>
+<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Behind%20The%20Scenes/Category%20Cover%20Photo-01.jpg" alt="Act 3.2 We've Got Talent at Terminal 4" style="width:370px;height:auto;" /><br /><b>Act 3.2 We've Got Talent at Terminal 4</b><br/><a href="/event-gallery/Chingay-50-Behind-The-Scenes/act-3-2-We-ve-Got-Talent-at-Terminal-4">Read more...</a></td>
 	</tr>
 	<tr>
 		<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Behind%20The%20Scenes/International%20Friends%20boarding%20bus%20to%20Jewel-01.jpg" alt="Act 4.1: International Friends In Singapore at Terminal 4" style="width:370px;height:auto;" /><br /><b>Act 4.1: International Friends In Singapore at Terminal 4</b><br/><a href="/event-gallery/Chingay-50-Behind-The-Scenes/Act-4-1-International-Friends-In-Singapore-at-Terminal-4">Read more...</a></td>
