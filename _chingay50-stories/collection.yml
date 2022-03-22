@@ -2,6 +2,8 @@ collections:
   chingay50-stories:
     output: true
     order:
+      - Kevin and Bernadette.md
+      - Ting Si Hao.md
       - Finding Love At Chingay.md
       - Let's Build A Float.md
       - Sabaria Bte Uma.md
