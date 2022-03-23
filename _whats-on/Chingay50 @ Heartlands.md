@@ -31,8 +31,7 @@ Tel: 6506 0900<br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sun, 27 Feb 2022<br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>7:00 PM
 
-**Chingay50 @ Heartlands - Taman Jurong CC (Time TBC)**<br>
-<img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>TBC<br>
+**Chingay50 @ Heartlands - Taman Jurong CC (Ended)**<br>
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>Tel: 6265 1711<br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sat, 19 Mar 2022<br>
-<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>7:00 PM
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>11:30 AM
