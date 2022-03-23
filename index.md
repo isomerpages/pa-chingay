@@ -34,14 +34,6 @@ sections:
       url: /whats-on/chingay-mama-shop
       image: /images/Highlights/chingay-mamashop-highlightimage.jpg
   - infopic:
-      title: Redraw Your World with Chingay50
-      subtitle: Chingay50 Programme
-      description: Design your own float and stand to win prize pack from Cartoon Network!
-      button: Find Out More
-      url: /whats-on/redraw-your-world-with-chingay50
-      image: /images/Highlights/redraw-your-world-with-chingay50-highlightimage.jpg
-      alt: Chingay50 Redraw Your World
-  - infopic:
       title: Chingay As You PHOTO It
       subtitle: Chingay50 Programme
       description: Have a fond memory of Chingay since 1973? Stay tuned to walk down
