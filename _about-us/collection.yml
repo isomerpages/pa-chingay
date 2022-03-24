@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Sample.md
       - Chingay50 Event Gallery/.keep
       - Chingay50 Event Gallery/Mini Floats.md
       - "Chingay50 Event Gallery/ #HeyChingay50Bus.md"
