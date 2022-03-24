@@ -1,0 +1,5 @@
+collections:
+  not-in-use:
+    output: true
+    order:
+      - Spot The Tiger.md
