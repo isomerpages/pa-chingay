@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - Sample.md
       - Chingay50 Event Gallery/.keep
       - Chingay50 Event Gallery/Mini Floats.md
       - "Chingay50 Event Gallery/ #HeyChingay50Bus.md"
       - Chingay50 Event Gallery/Chingay50 at Jewel Changi Airport.md
       - Chingay50 Event Gallery/Chingay 50 Behind The Scenes.md
+      - Sample.md
       - The Chingay Story.md
       - The Chingay Timeline.md
       - Press Room/.keep
