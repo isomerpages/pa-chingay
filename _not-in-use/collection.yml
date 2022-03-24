@@ -2,4 +2,5 @@ collections:
   not-in-use:
     output: true
     order:
+      - Redraw Your World with Chingay50.md
       - Spot The Tiger.md
