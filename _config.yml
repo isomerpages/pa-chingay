@@ -53,3 +53,4 @@ plugins:
 staging: https://pa-chingay-staging.netlify.app
 prod: https://pa-chingay-prod.netlify.app
 is_government: true
+google_analytics: UA-28012022-1
