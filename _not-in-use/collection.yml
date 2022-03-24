@@ -1,4 +1,5 @@
 collections:
   not-in-use:
     output: true
-    order: []
+    order:
+      - Spot The Tiger.md
