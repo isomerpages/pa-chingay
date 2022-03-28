@@ -51,11 +51,12 @@ sections:
       image: /images/Highlights/download-the-chingay50-showcase-programme-booklet--highlightimage.png
       alt: Chingay50 Programme Booklet
   - infopic:
-      title: D:2 Dance Competition
-      subtitle: Community Engagement Programme
-      description: Check out the finalists winners results!
+      title: "#OurChingay50Stories"
+      subtitle: Chingay50 Programme
+      description: Chingay turns 50 in 2022 and it’s story and journey will be
+        unfolded through the lenses of the people involved.
       button: Find Out More
-      url: /whats-on/chingay50-community-programmes/d-2-dance-competition
-      image: /images/Highlights/d-2-dance-competition-highlightimage.jpg
-      alt: D:2 Dance Competition
+      url: /whats-on/chingay50-community-programmes/ourchingay50stories
+      image: /images/Chingay50 Stories/DC-Chingay Mdm Ong-3.png
+      alt: "#OurChingay50Stories"
 ---

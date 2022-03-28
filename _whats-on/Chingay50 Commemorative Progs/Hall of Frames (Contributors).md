@@ -6,9 +6,8 @@ third_nav_title: Chingay50 Commemorative Progs
 ---
 Experienced photographers have taken beautiful photos of Chingay over the last 50 years. Be ready to be amazed by them!
 
-# 1st Contributor
-**Photos From 2009 to 2018**<br>
-Courtesy of Liew Tong Leng
+# Liew Tong Leng
+**Photos From 2009 to 2018**<br></br>
 ![Tong Leng - Chingay 2009](/images/Hall%20of%20Frames%20Contributors/Liew%20Tong%20Leng/Tong%20Leng%20-%20Chingay%202009-1.jpg)
 
 ![Tong Leng - Chingay 2011-2](/images/Hall%20of%20Frames%20Contributors/Liew%20Tong%20Leng/Tong%20Leng%20-%20Chingay%202011-2-01.jpg)
@@ -29,9 +28,8 @@ Courtesy of Liew Tong Leng
 
 ![Tong Leng - Chingay 2018](/images/Hall%20of%20Frames%20Contributors/Liew%20Tong%20Leng/Tong%20Leng%20-%20Chingay%202018-9-01.jpg)
 
-# 2nd Contributor
-**An Assortment of Various Years**<br>
-Courtesy of Steven Yee Pui Chung
+# Steven Yee Pui Chung
+**An Assortment of Various Years**<br></br>
 ![STEVEN YEE Pui Chung - chingay 003](/images/Hall%20of%20Frames%20Contributors/Steven%20Yee%20Pui%20Chung/STEVEN%20YEE%20Pui%20Chung%20-%20chingay%20003-01.jpg)
 
 ![STEVEN YEE Pui Chung - chingay 005](/images/Hall%20of%20Frames%20Contributors/Steven%20Yee%20Pui%20Chung/STEVEN%20YEE%20Pui%20Chung%20-%20chingay%20005-01.jpg)

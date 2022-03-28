@@ -1,8 +1,10 @@
 ---
 title: Spot The Tiger
-permalink: /whats-on/Chingay50-Community-Programmes/spot-the-tiger
+permalink: /not-avail
 description: ""
 ---
+
+
 
 ![spot the tiger](/images/whats-on/spot-the-tiger.jpg)
 Supported By:
