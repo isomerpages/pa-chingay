@@ -2,8 +2,9 @@
 title: We've Got Talent!
 permalink: /whats-on/Chingay50-Community-Programmes/we-ve-got-talent
 description: ""
-third_nav_title: Chingay50 Community Programmes
+third_nav_title: Chingay50 Community Progs
 ---
+
 **Presenting We've Got Talent! Chingay Community Star 2022**
 
 @joshua..low ([IG](https://www.instagram.com/p/CW2mZIdFEHT/))

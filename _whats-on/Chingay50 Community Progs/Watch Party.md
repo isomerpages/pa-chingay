@@ -2,8 +2,9 @@
 title: Watch Party
 permalink: /whats-on/Chingay50-Community-Programmes/watch-party
 description: ""
-third_nav_title: Chingay50 Community Programmes
+third_nav_title: Chingay50 Community Progs
 ---
+
 Congratulations to all our Lucky Watch Party Hosts!
 
 | $100 Vouchers | $500 Vouchers | $1000 Voucher|  

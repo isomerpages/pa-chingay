@@ -1,9 +1,10 @@
 ---
-title: Did you know?
+title: Did You Know?
 permalink: /whats-on/Chingay50-Programme/did-you-know
 description: ""
 third_nav_title: Chingay50 Commemorative Progs
 ---
+
 ![did-you-know-01](/images/whats-on/Did%20You%20Know/did-you-know-01.png)
 
 ![did-you-know-02](/images/whats-on/Did%20You%20Know/did-you-know-02.png)
