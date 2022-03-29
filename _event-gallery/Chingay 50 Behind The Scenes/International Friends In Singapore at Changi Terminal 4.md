@@ -6,7 +6,7 @@ third_nav_title: Chingay 50 Behind The Scenes
 ---
 ![Act 4.1: International Friends In Singapore at Terminal 4](/images/Event%20Gallery/Behind%20The%20Scenes/International%20Friends%20Japanese-01.jpg)
 
-# **Act 4.1: International Friends In Singapore at Terminal 4**
+# **International Friends In Singapore All Geared Up**
 
 The Japanese Association, Singapore brandish their costume pieces with practiced poses as they wait for transport to take stage in Jewel to arrive.
 
