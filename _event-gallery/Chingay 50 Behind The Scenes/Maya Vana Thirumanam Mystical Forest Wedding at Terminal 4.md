@@ -4,7 +4,7 @@ permalink: /event-gallery/Chingay-50-Behind-The-Scenes/Act-4-2-Mystical-Forest-W
 description: ""
 third_nav_title: Chingay 50 Behind The Scenes
 ---
-# **A Mystical Forest Wedding**
+# **Dancers Practice Their Moves**
 
 The dancers performing as the deer of the Mystical Forest Wedding by People's Association Indian Activity Executive Committees Council (Narpani Pearavali), People's Association Talents Indian Dance Ensemble and Republic Polytechnic Indian Cultural Group waste no time practicing their performance in full costume!
 
