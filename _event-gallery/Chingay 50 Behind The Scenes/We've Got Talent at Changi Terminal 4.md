@@ -6,7 +6,7 @@ third_nav_title: Chingay 50 Behind The Scenes
 ---
 ![Act 3.2 We've Got Talent at Terminal 4](/images/Event%20Gallery/Behind%20The%20Scenes/Category%20Cover%20Photo-01.jpg)
 
-# **Act 3.2 We've Got Talent at Terminal 4**
+# **Volunteers & Performers Have Fun**
 
 Kang Peh Fang Betty and Chingay50 volunteers show their excitement for the show!
 
