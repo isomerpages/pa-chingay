@@ -6,7 +6,7 @@ third_nav_title: Chingay 50 Behind The Scenes
 ---
 ![Act 4.1: International Friends In Singapore at Terminal 4](/images/Event%20Gallery/Behind%20The%20Scenes/International%20Friends%20boarding%20bus%20to%20Jewel-01.jpg)
 
-# **Act 4.1: International Friends In Singapore at Terminal 4**
+# **International Friends In Singapore Board The Shuttle Bus**
 
 Before boarding the bus, Mexican Association in Singapore hold fistfuls of their flowing dresses going up the stairs.
 
