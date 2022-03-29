@@ -6,7 +6,7 @@ third_nav_title: Chingay 50 Behind The Scenes
 ---
 ![Act 1.1 The First Spark at Terminal 4](/images/Event%20Gallery/Behind%20The%20Scenes/Dance%20Inspiration-01.jpg)
 
-# **Act 1.1 The First Spark at Terminal 4**
+# **Performer Gets Her Make Up Done**
 
 Striking a smile, thumbs up and nearly stage ready, this Dance Inspiration dancer looks excited for the show!
 
