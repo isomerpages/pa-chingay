@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Chingay50 at Jewel
 ---
 ![Act 5.2: Together As One (Closing)](/images/Event%20Gallery/Chingay50%20at%20Jewel/Act%205%202%20Wide%20angle%20Finale-01.jpg)
-# **Act 5.2: Together As One (Closing)**
+# **Act 5: Together As One (3/3)**
 
 Thank you to our sponsors, donors, partners, performers, volunteers, crew, and most importantly you, our audience, for making Chingay50 happen!
 
