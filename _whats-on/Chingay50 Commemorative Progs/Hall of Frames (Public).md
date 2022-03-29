@@ -1,9 +1,10 @@
 ---
-title: Hall of Frames Public
+title: Hall of Frames (Public)
 permalink: /whats-on/Chingay50-Programme/hall-of-frames-public
 description: ""
 third_nav_title: Chingay50 Commemorative Progs
 ---
+
 Check out these treasured photos from past audiences and participants who answered our call to share their fond photo memories through the public campaign - Chingay as You PHOTO it. From the first Chingay in 1973 to our first Digital Chingay in 2021, these photos best represent the Chingay spirit and tell the story of how Chingay has come this far over the last 50 years.
 <br></br>
 

@@ -1,9 +1,10 @@
 ---
-title: Chingay 50 Behind The Scenes
+title: Chingay50 Behind The Scenes
 permalink: /about-us/Chingay50-Event-Gallery/chingay50-behind-the-scenes
 description: ""
 third_nav_title: Chingay50 Event Gallery
 ---
+
 <table width="100%" border="0">
 	<tr>
 		<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Behind%20The%20Scenes/Dance%20Inspiration-01.jpg" alt="Act 1.1 The First Spark at Terminal 4" style="width:370px;height:auto;" /><br /><b>Act 1.1 The First Spark at Terminal 4</b><br/><a href="/event-gallery/Chingay-50-Behind-The-Scenes/act-1-1-the-first-spark-at-termina-4">Read more...</a></td>
