@@ -6,7 +6,7 @@ third_nav_title: Chingay 50 Behind The Scenes
 ---
 ![Act 1.2 Our Heritage at Terminal 4](/images/Event%20Gallery/Behind%20The%20Scenes/Act%202%20Butterfly%20Girls-01.jpg)
 
-# **Act 1.2 Our Heritage at Terminal 4**
+# **Dancers Strike A Pose**
 While waiting for the show to begin, dancers from Taneo Dance Academy stylishly pose for a photo.
 
 <a href="http://www.facebook.com/sharer.php?u=http://www.chingay.gov.sg/image/event-gallery/act-2-buttery-girls-at-terminal-4" style="float:left;">
