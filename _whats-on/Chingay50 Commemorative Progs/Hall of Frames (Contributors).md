@@ -4,11 +4,10 @@ permalink: /whats-on/Chingay50-Commemorative-Progs/hall-of-frames-contributors
 description: ""
 third_nav_title: Chingay50 Commemorative Progs
 ---
-
 Experienced photographers have taken beautiful photos of Chingay over the last 50 years. Be ready to be amazed by them!
 
 # Liew Tong Leng
-**Photos From 2009 to 2018**<br></br>
+**Photos From 2009 to 2018**<br>
 ![Tong Leng - Chingay 2009](/images/Hall%20of%20Frames%20Contributors/Liew%20Tong%20Leng/Tong%20Leng%20-%20Chingay%202009-1.jpg)
 
 ![Tong Leng - Chingay 2011-2](/images/Hall%20of%20Frames%20Contributors/Liew%20Tong%20Leng/Tong%20Leng%20-%20Chingay%202011-2-01.jpg)
