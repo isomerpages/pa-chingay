@@ -11,11 +11,11 @@ sections:
       background: /images/pa-chingay-1280_438_03.gif
       key_highlights:
         - title: Missed the Chingay50 live webcast?
-          description: Catch on Youtube playback now!
+          description: Catch it on Youtube now!
           url: https://www.youtube.com/watch?v=7LN-OsjmIz8
-        - title: Feedback
-          description: ""
-          url: https://form.gov.sg/#!/6204cc24f67235001338f8ae
+        - title: Provide your Feedback
+          description: For the Chingay50 show!
+          url: https://go.gov.sg/chingayfeedback
   - infopic:
       title: "#OurChingay50Stories"
       subtitle: Chingay50 Commemorative Progs
