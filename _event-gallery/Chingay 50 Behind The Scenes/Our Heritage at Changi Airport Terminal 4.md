@@ -6,8 +6,8 @@ third_nav_title: Chingay 50 Behind The Scenes
 ---
 ![Act 1.2 Our Heritage at Terminal 4](/images/Event%20Gallery/Behind%20The%20Scenes/Act%201%20Da%20Tou%20Wawa%20The%20Academy%20of%20Dance%20and%20Shimmyrina-01.jpg)
 
-# **Act 1.2 Our Heritage at Terminal 4**
-During the days and hours leading up to Chingay 50 on 12 February, performers and volunteers worked hard to put on an amazing show. They would arrive to Terminal 4 to do their PET Testing, don their make up and costumes and head towards Jewel Vortex to take stage. Here we have performers from Act 1.2, ScRach MarcS' Classic Mix and Shimmrina.
+# **Performers Peacefully Walking**
+During the days and hours leading up to Chingay 50 on 12 February, performers and volunteers worked hard to put on an amazing show. They would arrive to Terminal 4 to do their PET Testing, don their make up and costumes and head towards Jewel Vortex to take stage. Here we have performers from Act 1.2, ScRach MarcS' Classic Mix and Shimmyrina.
 
 <a href="http://www.facebook.com/sharer.php?u=http://www.chingay.gov.sg/image/event-gallery/act-1-2-our-heritage-at-terminal-4" style="float:left;">
 	<img src="/images/facebook.png" style="width:auto;height:20px;">
