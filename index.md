@@ -36,8 +36,8 @@ sections:
   - infopic:
       title: Chingay As You PHOTO It
       subtitle: Chingay50 Commemorative Progs
-      description: Have a fond memory of Chingay since 1973? Walk down memory lane as
-        we feature your photo memories!
+      description: Walk down memory lane as we feature your photo memories of Chingay
+        since 1973!
       button: Find Out More
       url: /whats-on/Chingay50-Programme/hall-of-frames-public
       image: /images/Highlights/chingay-as-you-photo-it--highlightimage.jpg
