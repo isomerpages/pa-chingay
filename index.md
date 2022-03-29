@@ -18,7 +18,7 @@ sections:
           url: https://go.gov.sg/chingayfeedback
   - infopic:
       title: "#OurChingay50Stories"
-      subtitle: Chingay50 Commemorative Progs
+      subtitle: Chingay50 Programmes
       description: Chingay turns 50 in 2022 and it’s story and journey will be
         unfolded through the lenses of the people involved.
       button: Find Out More
@@ -27,7 +27,7 @@ sections:
       alt: "#OurChingay50Stories"
   - infopic:
       title: Chingay's 50th Anniversary - Launch of Chingay50 Buses
-      subtitle: Chingay50 Commemorative Progs
+      subtitle: Chingay50 Programmes
       description: Come onboard and celebrate the Chingay Spirit around the island!
       button: Find Out More
       url: /whats-on/chingay50-programme/hey-chingay-50-bus
@@ -35,7 +35,7 @@ sections:
       alt: Chingay50 Buses
   - infopic:
       title: Chingay As You PHOTO It
-      subtitle: Chingay50 Commemorative Progs
+      subtitle: Chingay50 Programmes
       description: Walk down memory lane as we feature your photo memories of Chingay
         since 1973!
       button: Find Out More
@@ -53,9 +53,7 @@ sections:
       image: /images/Highlights/chingay-mamashop-highlightimage.jpg
   - infopic:
       title: Chingay50 Programme Booklet
-      subtitle: Download Now
-      description: Download the Chingay50 showcase programme booklet.
-      button: Find out more
+      button: Download now
       url: /files/chingay50-2022-programme-booklet.pdf
       image: /images/Highlights/download-the-chingay50-showcase-programme-booklet--highlightimage.png
       alt: Chingay50 Programme Booklet
