@@ -22,7 +22,7 @@ sections:
       description: Chingay turns 50 in 2022 and it’s story and journey will be
         unfolded through the lenses of the people involved.
       button: Find Out More
-      url: /whats-on/chingay50-community-programmes/ourchingay50stories
+      url: /whats-on/chingay50-programme/ourchingay50stories
       image: /images/Chingay50 Stories/DC-Chingay Mdm Ong-3.png
       alt: "#OurChingay50Stories"
   - infopic:

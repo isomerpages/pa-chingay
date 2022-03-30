@@ -2,5 +2,6 @@ collections:
   not-in-use:
     output: true
     order:
+      - Test Voting.md
       - Redraw Your World with Chingay50.md
       - Spot The Tiger.md
