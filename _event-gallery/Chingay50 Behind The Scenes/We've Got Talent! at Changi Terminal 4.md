@@ -2,12 +2,12 @@
 title: We've Got Talent! at Changi Terminal 4
 permalink: /event-gallery/Chingay-50-Behind-The-Scenes/Act3-2-We-ve-Got-Talent-at-Terminal-4
 description: ""
-third_nav_title: Chingay 50 Behind The Scenes
+third_nav_title: Chingay50 Behind The Scenes
 ---
 
 ![Act 3.2 We've Got Talent! at Terminal 4](/images/Event%20Gallery/Behind%20The%20Scenes/Act%204%201%20Community%20Star%20Joshua%20Low-01.jpg)
 
-# **Act 3.2 We've Got Talent at Terminal 4**
+# **Chingay Community Star 2022 **
 
 Chingay Community Star 2022, Joshua Low, smiles while getting his make up done.
 
