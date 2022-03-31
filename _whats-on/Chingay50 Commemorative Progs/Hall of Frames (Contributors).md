@@ -51,3 +51,46 @@ Experienced photographers have taken beautiful photos of Chingay over the last 5
 ![STEVEN YEE Pui Chung - chingay 031](/images/Hall%20of%20Frames%20Contributors/Steven%20Yee%20Pui%20Chung/STEVEN%20YEE%20Pui%20Chung%20-%20chingay%20031-01.jpg)
 
 ![STEVEN YEE Pui Chung - chingay 035](/images/Hall%20of%20Frames%20Contributors/Steven%20Yee%20Pui%20Chung/STEVEN%20YEE%20Pui%20Chung%20-%20chingay%20035-01.jpg)
+
+ # SPH Media Limited
+**Photos From 1973 to 2013**
+
+![Chingay_unknownYear1](/images/Hall%20of%20Frames%20Contributors/SPH%20Media%20Limited/000772831.jpg)
+
+![Chingay_unknownYear2](/images/Hall%20of%20Frames%20Contributors/SPH%20Media%20Limited/000777799.jpg)
+
+![Chingay_unknownYear3](/images/Hall%20of%20Frames%20Contributors/SPH%20Media%20Limited/3D4F3BE2.jpeg)
+
+![Chingay_unknownYear4](/images/Hall%20of%20Frames%20Contributors/SPH%20Media%20Limited/48B5284E.jpg)
+
+![Chingay_1973](/images/Hall%20of%20Frames%20Contributors/SPH%20Media%20Limited/Chingay%201973.jpg)
+
+![Chingay_1974](/images/Hall%20of%20Frames%20Contributors/SPH%20Media%20Limited/Chingay%201974.jpg)
+
+![Chingay_1975](/images/Hall%20of%20Frames%20Contributors/SPH%20Media%20Limited/Chingay%201975%20(2).jpg)
+
+![Chingay 1975](/images/Hall%20of%20Frames%20Contributors/SPH%20Media%20Limited/Chingay%201975.jpg)
+
+![Chingay_1976](/images/Hall%20of%20Frames%20Contributors/SPH%20Media%20Limited/Chingay%201976.jpg)
+
+![Chingay_1978](/images/Hall%20of%20Frames%20Contributors/SPH%20Media%20Limited/Chingay%201978%20(2).jpg)
+
+![Chingay_1980](/images/Hall%20of%20Frames%20Contributors/SPH%20Media%20Limited/Chingay%201980.jpg)
+
+![Chingay_1988](/images/Hall%20of%20Frames%20Contributors/SPH%20Media%20Limited/PM%20Lee%20ST%2021Feb1988.jpeg)
+
+![Chingay_unknownYear1](/images/Hall%20of%20Frames%20Contributors/SPH%20Media%20Limited/43CAF69C.jpg)
+
+![Chingay_2000](/images/Hall%20of%20Frames%20Contributors/SPH%20Media%20Limited/Chingay%202000%20(3).jpg)
+
+![Chingay_2007](/images/Hall%20of%20Frames%20Contributors/SPH%20Media%20Limited/Chingay%202007.jpg)
+
+![Chingay_2009](/images/Hall%20of%20Frames%20Contributors/SPH%20Media%20Limited/Chingay%202009%20(2).jpg)
+
+![Chingay_2009](/images/Hall%20of%20Frames%20Contributors/SPH%20Media%20Limited/Chingay%202009.jpg)
+
+![Chingay_2010](/images/Hall%20of%20Frames%20Contributors/SPH%20Media%20Limited/Chingay%202010.jpg)
+
+![Chingay_2012](/images/Hall%20of%20Frames%20Contributors/SPH%20Media%20Limited/Chingay%202012%20(2).jpg)
+
+![Chingay_2013](/images/Hall%20of%20Frames%20Contributors/SPH%20Media%20Limited/Chingay%202013.jpg)
