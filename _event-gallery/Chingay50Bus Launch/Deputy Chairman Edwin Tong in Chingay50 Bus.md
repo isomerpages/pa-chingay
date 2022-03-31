@@ -7,7 +7,7 @@ third_nav_title: Chingay50Bus Launch
 ---
 ![Deputy Chairman Edwin Tong in Chingay50 Bus](/images/Event%20Gallery/Chingay50Bus%20Launch/Newly%20selected/SS-CGB%20(39%20of%20132).png)
 
-# **Inside of Carnival Bus**
+# **Deputy Chairman Edwin Tong in Chingay50 Bus**
 
 <a href="http://www.facebook.com/sharer.php?u=http://www.chingay.gov.sg/image/event-gallery/dc-edwin-tong-in-chingay50-bus" style="float:left;">
 	<img src="/images/facebook.png" style="width:auto;height:20px;">
