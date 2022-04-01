@@ -24,7 +24,7 @@ description: ""
 	<tr>
 		<td>
 			<video width="560" height="315" controls>
-  <source src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fnick.ong.7737%2Fvideos%2F480561050390616%2F&show_text=false&width=269&t=0" type="video/mp4">
+  <source src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fnick.ong.7737%2Fvideos%2F480561050390616%2F&show_text=false&width=269&t=0">
 Your browser does not support the video tag.
 </video>
 		</td>
