@@ -8,6 +8,8 @@ description: ""
 
 Community Programmes Manager
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ppdApsUSqSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Long-time Malay dance performer Dina Nerina loves the opportunity provided by Chingay to learn the dance of another culture and also to perform – and it has become a family bonding time of sorts.
 
 Her first Chingay performance turned out to be a dizzying experience, and not because it was different from the traditional Malay dances she was used to. For Dina, taking on the Qiao Hua Dan Chinese dance meant wearing a headpiece with a feather attached on top - and it was very tight and heavy!
