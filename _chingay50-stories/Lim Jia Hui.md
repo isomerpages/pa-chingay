@@ -19,7 +19,7 @@ Jia Hui’s first taste of Chingay was not by choice—she joined to fulfill her
 
  
 
-**From student volunteer to ExCo member**
+**From Student Volunteer To ExCo member**
 
 At Jia Hui’s first Chingay in 2011, she was assigned to the Transport Management Team (TMT). The team helps ensure that performers and audiences have a smooth and safe access in and out of the Chingay venue. She served TMT for seven straight years, rising from student volunteer to volunteer leader before she was seconded to the Executive Committee (ExCo) in 2017 where she served for three years.
 
@@ -29,7 +29,7 @@ Fortunately, Jia Hui had three good mentors with years of ExCo experience to gui
 
  
 
-**Keep calm and count on your friends**
+**Keep Calm and Count On Your Friends**
 
 Sharing the importance of friendship that cemented her love for Chingay,
 
@@ -39,7 +39,7 @@ She has also learnt to keep calm in face of crisis as she believes that only the
 
  
 
-**Irreplaceable joys**
+**Irreplaceable Joys**
 
 Despite having a busy full-time job, Jia Hui has fond memories volunteering at Chingay and would happily do it again when time permits. Her most memorable Chingay was the year it rained so heavily there was a blackout in the car park. Together with her friends, they searched frantically for the buses in the dark. Fortunately, they were issued with raincoats, vests and light sabers to keep them safe, dry and visible. “Volunteering allows me to make a difference in the lives of others,” she explains. “Being in the transport team is a backend job so we don’t get to be seen unlike the performers. But whenever a performer or Bus Driver Uncle said ‘thank you’, it really made my day!”
 
@@ -47,6 +47,6 @@ Jia Hui encourages everyone to give volunteering a try—take some time off to v
 
  
 
-**Hopes and dreams for Chingay**
+**Hopes and dreams For Chingay**
 
 Jia Hui thinks the younger generation is less familiar with Chingay but there are still many people who enjoy the performance. She hopes it will continue for many generations to come, and one day, parade around the entire island.
