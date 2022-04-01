@@ -10,10 +10,10 @@ Take the journey and reminisce with us!
 
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
 	
-	
-	
-	
 <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/nancyRodea.jpeg"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Kevin and Bernadette</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>President of the Mexican Association in Singapore</b><br /> Hola Singapura<br /><a href="/chingay50-stories/nancy-rodea">Read More..</a></p></div></li>
+	
+	
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/nancyRodea.jpeg"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Nancy Rodea</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>President of the Mexican Association in Singapore</b><br /> Hola Singapura<br /><a href="/chingay50-stories/nancy-rodea">Read More..</a></p></div></li>
 
 	
 <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/eurasian%20img.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Kevin and Bernadette</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Student & Bank Worker</b><br /> Here Comes the Bride…and Groom <br /><a href="/chingay50-stories/kevin-and-bernadette">Read More..</a></p></div></li>
