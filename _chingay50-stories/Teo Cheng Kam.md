@@ -21,7 +21,7 @@ Little did she expect that this would bring her many memorable moments of her yo
 
  
 
-**A kaleidoscope of colourful memories**
+**A Kaleidoscope Of Colourful Memories**
 
 She recalls very fondly a humble and patient Japanese teacher who taught the routine for pom pom cheerleading. Communication was not a problem since “we mostly focused on counting the tempo for the performance”, chuckled Cheng Kam.
 
@@ -31,13 +31,13 @@ Her maiden Chingay performance in 1976 was a blur of excitement, thrill and a ti
 
  
 
-**Parading through her ‘hood**
+**Parading Through Her ‘hood**
 
 Vivid in Cheng Kam’s mind was her baton performance in 1978 with the same Chingay contingent. They marched from Marine Terrace where her father’s hawker stall was located, all the way to Joo Chiat – the childhood “kampung” where she grew up in.  Seeing familiar places and faces as she marched down the route was so poignant for her and filled her with an inexplicable joy.  
 
  
 
-**Time marches on**
+**Time Marches On**
 
 Soon, Cheng Kam had to hang up her marching boots to help her father at his hawker stall. Her love for performing took a back seat while the mother of two worked shifts at DFS.
 
@@ -49,7 +49,7 @@ True to form, Cheng Kam rose to the occasion without missing a beat.
 
  
 
-**Feeling like a star**
+**Feeling Like A Star**
 
 The events seemed to transport her back to her Chingay performance in the 1970s.  Yet, she also saw how far Chingay has come through the years.  With modern technology and the use of digital lights, floats and costumes have become more colourful, elaborate and captivating. “The costumes are even more attractive with bling bling lights on them!” she gushed.  
 
@@ -57,6 +57,6 @@ The opportunity to interact with the audience at the F1 Pit and Tampines Hub als
 
  
 
-**Hopes and Dreams for Chingay**
+**Hopes and Dreams For Chingay**
 
-As for her dreams for the future of Chingay, Cheng Kam simply hopes that “the show can go on and on”. She is confident that in this digital age, the show can only get better and social media is also helping to generate a lot of awareness and publicity for Chingay which is really promising for its future. 
+As for her dreams for the future of Chingay, Cheng Kam simply hopes that “the show can go on and on”. She is confident that in this digital age, the show can only get better and social media is also helping to generate a lot of awareness and publicity for Chingay which is really promising for its future.
