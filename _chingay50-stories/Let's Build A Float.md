@@ -5,7 +5,7 @@ description: ""
 ---
 ![Let's Build A Float](/images/Chingay50%20Stories/lets%20build%20a%20float.png)
 
-**# Let's Build A Float**
+**Let's Build A Float**
 
 Cultivate Teamwork & Togetherness
 
