@@ -2,6 +2,7 @@ collections:
   chingay50-stories:
     output: true
     order:
+      - The White Chariot Float.md
       - The Warisan Ku Gemilang Float.md
       - Nancy Rodea.md
       - Kevin and Bernadette.md
