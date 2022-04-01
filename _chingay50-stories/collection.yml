@@ -2,6 +2,7 @@ collections:
   chingay50-stories:
     output: true
     order:
+      - Nancy Rodea.md
       - Kevin and Bernadette.md
       - Ting Si Hao.md
       - Finding Love At Chingay.md
