@@ -17,7 +17,7 @@ The 52-year-old has been capturing the magic of Chingay in pictures since 1995.
 
  
 
-**Early exposure**
+**Early Exposure**
 
 Tong Leng remembers watching many Chingay parades on television as a child, recalling that “It was such a Singapore thing!” In his 20s, having acquired a love for photography, he would watch the festivities on the streets, capturing the moments on his Nikon F301 – his very first camera which he purchased from a friend.  His first winning shot, a consolation prize entry at a photo competition organised by the Jurong Bird Park, was also taken with this camera.
 
@@ -27,7 +27,7 @@ By then, the shutterbug had already chalked up photographic awards, both locally
 
  
 
-**A Chingay experience, forever changed**
+**A Chingay Experience, Forever Changed**
 
 The Chingay experience has never been the same for Tong Leng since then. “With an official photographer pass, I am able to go nearer to the performers to capture photos with more interesting angles, not possible for spectators”, he explains. Other than the colours, movements and energy, Tong Leng loves to capture the moods and expressions of people’s faces.
 
@@ -35,7 +35,7 @@ Being an official photographer at Chingay is “intense”. Having to be very fo
 
  
 
-**Great timing and a bit of luck**
+**Great Timing and A Bit Of Luck**
 
 If there is a subject that captivates Tong Leng more than others, it is the dragon dance. The expressive and energetic choreography presents great potential for dramatic and captivating shots. Hence, the dragon dance at Chingay is a must-see for him.
 
@@ -45,6 +45,6 @@ Tong Leng’s passion to capture winning shots is almost unstoppable and it will
 
  
 
-**Hopes and Dream for Chingay**
+**Hopes and Dream For Chingay**
 
-Tong Leng has grand visions of Chingay. He wants it to be a magnetic crowd-puller on the international events calendar for Singapore. He hopes Chingay will grow to  attract the best of local as well as global talents, both as spectators and performers. He encourages organisers to continue to come up with variety and creative ideas to take the show to the next level. 
+Tong Leng has grand visions of Chingay. He wants it to be a magnetic crowd-puller on the international events calendar for Singapore. He hopes Chingay will grow to  attract the best of local as well as global talents, both as spectators and performers. He encourages organisers to continue to come up with variety and creative ideas to take the show to the next level.
