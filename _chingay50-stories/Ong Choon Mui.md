@@ -7,7 +7,8 @@ description: ""
 
 **Ong Choon Mui**
 
-Retiree - Still teaching dance @ Macpherson Chinese Dance
+Retiree - Still Teaching Dance @ Macpherson 
+
 A performer from the very first Chingay back in 1973 recalls the novel experience and shared camaraderie with her fellow entertainers and yearns for the days of old.
 
 
