@@ -49,6 +49,6 @@ As for working with PA, Feroze appreciates the free-flow of ideas and engaging w
 
  
 
-**Hopes and Dreams for Chingay**
+**Hopes and Dreams For Chingay**
 
 Feroze has a lot of “crazy dreams” for Chingay. He feels excited that, in the past years, Chingay has been reaching out more to people across all parts of Singapore. “I’d like it to become one of the nation’s significant events. I know [Chingay] can be bigger in the future. I’d like to get on a float, and maybe be with the President, to wave to the people,” he adds with a hopeful smile.
