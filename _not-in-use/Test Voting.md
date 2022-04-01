@@ -3,7 +3,6 @@ title: Test Voting
 permalink: /not-in-use/test-voting
 description: ""
 ---
-
 # Testing for WGT Voting
 <table width="100%">
 	<tr>
@@ -20,6 +19,16 @@ description: ""
 		</td>
 		<td>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7LN-OsjmIz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<video width="320" height="240" controls>
+  <source src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fnick.ong.7737%2Fvideos%2F480561050390616%2F&show_text=false&width=269&t=0" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+		</td>
+		<td>
 		</td>
 	</tr>
 </table>
