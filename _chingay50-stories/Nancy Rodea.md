@@ -8,7 +8,7 @@ image: /images/Chingay50 Stories/nancyRodea.jpeg
 
 **Nancy Rodea**
 
-**President of the Mexican Association in Singapore**
+President of the Mexican Association in Singapore
 
 Presenting the Dance of the Jarocho at Chingay50 is Nancy Rodea, President of the Mexican Association in Singapore. She shares the joy of participating in Singapore’s iconic multicultural street parade and reveals a secret symbol behind the specially flown-in costumes.
 
