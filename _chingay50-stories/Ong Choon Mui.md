@@ -3,11 +3,15 @@ title: Ong Choon Mui
 permalink: /chingay50-stories/ong-choon-mui
 description: ""
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e6LfedJwydw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Mdm Ong](/images/Chingay50%20Stories/DC-Chingay%20Mdm%20Ong-3.png)
 
 **Ong Choon Mui**
 
-Retiree - Still teaching dance @ Macpherson Chinese Dance
+Retiree - Still Teaching Dance @ Macpherson 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e6LfedJwydw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 A performer from the very first Chingay back in 1973 recalls the novel experience and shared camaraderie with her fellow entertainers and yearns for the days of old.
 
 

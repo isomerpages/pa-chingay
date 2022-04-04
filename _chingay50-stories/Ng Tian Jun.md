@@ -43,6 +43,6 @@ Kudos to CheerForce, the multi-cultural team, for persevering and sharing their 
 
  
 
-**Hopes and Dreams for Chingay**
+**Hopes and Dreams For Chingay**
 
-TJ’s dream is for Chingay to have more talents from the community performing together and more collaborations. His personal dream is to have an international cheerleading group perform live at the Chingay parade. 
+TJ’s dream is for Chingay to have more talents from the community performing together and more collaborations. His personal dream is to have an international cheerleading group perform live at the Chingay parade.

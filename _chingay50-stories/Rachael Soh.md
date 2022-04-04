@@ -15,7 +15,7 @@ In 2021, the Chingay street parade went digital for the first time due to Covid-
 
  
 
-**No studio, never mind**
+**No Studio, Never Mind**
 
 The 20-something uses her HDB staircase landing to perform her elaborate dance routines. With no access to a studio or other suitable space, Racheal saw this seldom-used domain as her own personal dance floor. After all, its obstacle-free and free of charge too. She was also undeterred even though neighbours could see her when they walked by.
 
@@ -25,7 +25,7 @@ So it was a pleasant surprise when this NTU undergrad found out that her videos 
 
  
 
-**First steps**
+**First Steps**
 
 Dancing did not feature in Rachael’s life until she started to learn ballet in Secondary school. She was drawn to the gracefulness and beauty of this dance form.  From there, her irrepressible need to dance led her to explore other styles, including K-pop and Girls’ Style. The versatile dancer is now adding Hip Hop to her repertoire.
 
@@ -33,7 +33,7 @@ From watching Rachael’s engaging expressions and lively energy as she performs
 
  
 
-**Room to be Racheal**
+**Room to Be Racheal**
 
 Participating at WGT 2021 was a great personal motivation for Racheal to keep practising hard and learning new choreographies so that she can enter more competitions.
 
@@ -47,6 +47,6 @@ All this has added more spring to her steps and spurred her to “continue to gi
 
  
 
-**Hopes and Dream for Chingay**
+**Hopes and Dream For Chingay**
 
 Rachael hopes that Chingay will continue to attract people from all walks of life and from everywhere. The millennial also hopes to see more of a hybrid Chingay where participation and spectatorship of the parade can be onsite and on-ground, truly taking the iconic street parade into its new era.

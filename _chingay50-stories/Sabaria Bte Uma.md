@@ -10,7 +10,6 @@ description: ""
 BIM Modeller Personnel
 
 An opportunity to be part of a unique Chingay 40 celebration was simply too good to pass up for grassroot leader Sabaria bte Uma who enjoyed the multicultural experience of learning a unique Chinese traditional dance form.
- 
 
 Chingay 2012 was a truly special one, and when Madam Sabaria bte Uma heard of an opportunity to be a part of it, she knew she had to be involved.
 

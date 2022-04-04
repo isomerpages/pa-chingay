@@ -27,7 +27,7 @@ Finding time to practise was a challenge for Ian because the sessions were alway
 
  
 
-**It’s All about the People**
+**It’s All About The People**
 
 To Ian, Chingay is a platform that helped him forge stronger bonds with his parents, the team of performers as well as the wider community who look forward to the parade. He feels that a little patience, kindness and a good dose of humour helped his parents and other group members, who were mainly senior citizens, remember and synchronise their routine.
 
@@ -37,7 +37,7 @@ As with all major events, there was a lot of waiting around in the packed waitin
 
  
 
-**Hopes and Dreams for Chingay**
+**Hopes and Dreams For Chingay**
 
 Reflecting on how Chingay has a special role in Singapore’s nation building, “Chingay allows diverse interest groups in multicultural Singapore to showcase their arts and cultures. Participating in the parade and watching it helps us understand what they stand for and fosters greater unity between people from various cultures.”
 
