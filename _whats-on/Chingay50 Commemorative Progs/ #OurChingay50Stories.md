@@ -29,7 +29,7 @@ Take the journey and reminisce with us!
 	
 <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/lets%20build%20a%20float.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Let’s Build A Float</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Cultivate Teamwork & Togetherness</b><br /> Check out the different iconic float designs over the years and be amazed by the creative and innovative constructions of floats. <br /><a href="/chingay50-stories/lets-build-a-float">Read More..</a></p></div></li>
 	
-        <li>
+ <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
                 <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/michael-koh-sharon-lee-50storiesimage.jpg">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
