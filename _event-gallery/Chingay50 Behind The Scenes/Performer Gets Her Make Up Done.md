@@ -11,6 +11,6 @@ image: /images/Event Gallery/Behind The Scenes/Dance Inspiration-01.jpg
 
 Striking a smile, thumbs up and nearly stage ready, this Dance Inspiration dancer looks excited for the show!
 
-<a href="http://www.facebook.com/sharer.php?u=http://www.chingay.gov.sg/image/event-gallery/performer-get-her-make-up-done" style="float:left;">
+<a href="http://www.facebook.com/sharer.php?u=http://www.chingay.gov.sg/image/event-gallery/performer-gets-her-make-up-done" style="float:left;">
 	<img src="/images/facebook.png" style="width:auto;height:20px;">
 </a>
