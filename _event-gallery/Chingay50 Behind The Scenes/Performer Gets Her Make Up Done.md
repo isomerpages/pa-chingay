@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Chingay50 Behind The Scenes
 image: /images/Event Gallery/Behind The Scenes/Dance Inspiration-01.jpg
 ---
-
-![Act 1.1 The First Spark at Terminal 4](/images/Event%20Gallery/Behind%20The%20Scenes/Dance%20Inspiration-01.jpg)
+![Performer Gets Her Make Up Done](/images/Event%20Gallery/Behind%20The%20Scenes/Dance%20Inspiration-01.jpg)
 
 # **Performer Gets Her Make Up Done**
 
