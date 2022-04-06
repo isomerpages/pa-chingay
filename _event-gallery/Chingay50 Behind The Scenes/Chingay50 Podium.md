@@ -12,6 +12,6 @@ third_nav_title: Chingay50 Behind The Scenes
 
 The Chingay50 podium which President Halimah Yacob activated and lit up the Chingay50 stage at Jewel Changi Airport Vortex.
 
-<a href="http://www.facebook.com/sharer.php?u=http://www.chingay.gov.sg/image/event-gallery/finale-at-jewel-changi-airport-vortex" style="float:left;">
+<a href="http://www.facebook.com/sharer.php?u=http://www.chingay.gov.sg/image/event-gallery/chingay50-podium" style="float:left;">
 	<img src="/images/facebook.png" style="width:auto;height:20px;">
 </a>
