@@ -13,9 +13,6 @@ sections:
         - title: Missed the Chingay50 live webcast?
           description: Catch it on Youtube now!
           url: https://www.youtube.com/watch?v=7LN-OsjmIz8
-        - title: Provide your Feedback
-          description: For the Chingay50 show!
-          url: https://go.gov.sg/chingayfeedback
   - infopic:
       title: "#OurChingay50Stories"
       subtitle: Chingay50 Programmes
