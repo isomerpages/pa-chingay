@@ -27,7 +27,7 @@ sections:
       subtitle: Chingay50 Programmes
       description: Come onboard and celebrate the Chingay Spirit around the island!
       button: Find Out More
-      url: /whats-on/chingay50-programme/hey-chingay-50-bus
+      url: /whats-on/Chingay50-Programmes/hey-chingay-50-bus
       image: /images/Highlights/launch-of-chingay50-buses-highlightimage.jpg
       alt: Chingay50 Buses
   - infopic:
@@ -36,7 +36,7 @@ sections:
       description: Walk down memory lane as we feature your photo memories of Chingay
         since 1973!
       button: Find Out More
-      url: /whats-on/Chingay50-Programme/hall-of-frames-public
+      url: /whats-on/Chingay50-Programmes/hall-of-frames-public
       image: /images/Highlights/chingay-as-you-photo-it--highlightimage.jpg
       alt: Chingay As You PHOTO It
   - infopic:
