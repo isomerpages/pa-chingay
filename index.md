@@ -40,15 +40,6 @@ sections:
       image: /images/Highlights/chingay-as-you-photo-it--highlightimage.jpg
       alt: Chingay As You PHOTO It
   - infopic:
-      title: Chingay Mama Shop
-      subtitle: Support Local
-      description: Are you a local organisation or company that wants to do a part for
-        charitable causes? We will love to have you on board!
-      button: Find Out More
-      alt: Chingay Mama Shop
-      url: /whats-on/chingay-mama-shop
-      image: /images/Highlights/chingay-mamashop-highlightimage.jpg
-  - infopic:
       title: Chingay50 Programme Booklet
       button: Download now
       url: /files/chingay50-2022-programme-booklet.pdf
