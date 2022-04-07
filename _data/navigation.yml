@@ -1,18 +1,18 @@
 logo: /images/logo-light.svg
 links:
   - title: What's On
-    url: /whats-on/chingay50-commemorative-programmes
+    url: /whats-on/Chingay50-Programmes
     sublinks:
       - title: Chingay50 Programmes
-        url: /whats-on/chingay50-commemorative-programmes
+        url: /whats-on/Chingay50-Programmes
       - title: "&rarr; #OurChingay50Stories"
-        url: /ourchingay50stories
+        url: /whats-on/Chingay50-Programmes/ourchingay50stories
       - title: "&rarr; Hall of Frames (Public)"
-        url: /whats-on/chingay50-programme/hall-of-frames-public
+        url: /whats-on/Chingay50-Programmes/hall-of-frames-public
       - title: "&rarr; Hall of Frames (Contri)"
-        url: /whats-on/Chingay50-Commemorative-Progs/hall-of-frames-contributors
+        url: /whats-on/Chingay50-Programmes/hall-of-frames-contributors
       - title: "&rarr; #HeyChingay50Bus"
-        url: /whats-on/chingay50-programme/hey-chingay-50-bus
+        url: /whats-on/Chingay50-Programmes/hey-chingay-50-bus
       - title: "&rarr; Snap, Tag & Win!"
         url: /whats-on/chingay50-programmes/snap-tag-win
       - title: "&rarr; Spot & Win!"
