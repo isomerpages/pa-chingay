@@ -4,8 +4,6 @@ permalink: /whats-on/Chingay50-Programmes/hall-of-frames-contributors
 description: ""
 third_nav_title: Chingay50 Programmes
 ---
-
-
 Experienced photographers have taken beautiful photos of Chingay over the last 50 years. Be ready to be amazed by them!
 
 # Liew Tong Leng
