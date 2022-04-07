@@ -19,7 +19,7 @@ sections:
       description: Chingay turns 50 in 2022 and it’s story and journey will be
         unfolded through the lenses of the people involved.
       button: Find Out More
-      url: /whats-on/chingay50-programme/ourchingay50stories
+      url: /whats-on/Chingay50-Programmes/ourchingay50stories
       image: /images/Chingay50 Stories/DC-Chingay Mdm Ong-3.png
       alt: "#OurChingay50Stories"
   - infopic:
@@ -27,7 +27,7 @@ sections:
       subtitle: Chingay50 Programmes
       description: Come onboard and celebrate the Chingay Spirit around the island!
       button: Find Out More
-      url: /whats-on/chingay50-programme/hey-chingay-50-bus
+      url: /whats-on/Chingay50-Programmes/hey-chingay-50-bus
       image: /images/Highlights/launch-of-chingay50-buses-highlightimage.jpg
       alt: Chingay50 Buses
   - infopic:
@@ -36,18 +36,9 @@ sections:
       description: Walk down memory lane as we feature your photo memories of Chingay
         since 1973!
       button: Find Out More
-      url: /whats-on/Chingay50-Programme/hall-of-frames-public
+      url: /whats-on/Chingay50-Programmes/hall-of-frames-public
       image: /images/Highlights/chingay-as-you-photo-it--highlightimage.jpg
       alt: Chingay As You PHOTO It
-  - infopic:
-      title: Chingay Mama Shop
-      subtitle: Support Local
-      description: Are you a local organisation or company that wants to do a part for
-        charitable causes? We will love to have you on board!
-      button: Find Out More
-      alt: Chingay Mama Shop
-      url: /whats-on/chingay-mama-shop
-      image: /images/Highlights/chingay-mamashop-highlightimage.jpg
   - infopic:
       title: Chingay50 Programme Booklet
       button: Download now
