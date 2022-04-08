@@ -4,8 +4,6 @@ permalink: /whats-on/Chingay50-Programmes/hey-chingay-50-bus
 description: ""
 third_nav_title: Chingay50 Programmes
 ---
-
-
 Instead of the usual Chingay floats, our #HeyChingay50Bus campaign will transform selected public buses as reimagined Chingay floats with unique in-bus experiences for commuters. These Chingay50 Buses are now on the roads of Singapore to surprise residents and bring cheer to residents all around the island
 <div style="text-align:center; width:100%;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WiweyzaJ7B0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -84,11 +82,17 @@ This design is inspired by the Community Development Councils (CDCs) Care float 
 <img src="/images/whats-on/Buses/Tiger%20edit.jpg" alt="bus-14" style="width:538px; height:auto; float:left;right-margin:20px;"/>
 This design is inspired by Chingay’s most iconic float, a 9-metre-long papier-mâché “Tiger” float that made its first appearance in 1974, leading the 2,000-strong Chingay Procession to usher in the Year of the Tiger then
 
-**A REIMAGINED CHINGAY FLOAT**<br>
-Brought To You By: 
+<br></br>
+<p style= "text-align: center;"> 
+	<Strong>A REIMAGINED CHINGAY FLOAT </strong>
+	<br>
+	Brought To You By: 
+</p>
+
 ![brought-to-you-by](/images/brought-to-you.png)
 
-Supported By:
+<p style= "text-align: center;"> Supported By: </p>
 <img src="/images/support-by.png" alt="supported-by" style="width:486px; height:92px;"/>
+
 
 Check out Snap, Tag & Win [here](/whats-on/chingay50-programmes/snap-tag-win) or Spot Dreamy the Bus [here](/whats-on/chingay50-programmes/spot-win)!
