@@ -4,13 +4,13 @@ permalink: /whats-on/Chingay50-Programmes/ourchingay50stories
 description: ""
 third_nav_title: Chingay50 Programmes
 ---
-
-
 Chingay turns 50 in 2022 and it's story and journey will be unfolded through the lenses of the people involved. Our performers, volunteers, audiences, crew members and even community partners have come together to share their memories and experiences through 50 stories anchoring on the Chingay50 theme "Ignite our Dreams".
 
 Take the journey and reminisce with us!
 
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
+	
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/gof.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Tay Han Seng</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Real Estate Agent</b><br /> What Drives The Good Fortune <br /><a href="/chingay50-stories/ting-si-hao">Read More..</a></p></div></li>
 	
 <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/pioneer%20generation%20float.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">The Pioneer Generation Float</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><a href="/chingay50-stories/pioneer-generation-float">Read More..</a></p></div></li>
 	
