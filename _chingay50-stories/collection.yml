@@ -2,6 +2,7 @@ collections:
   chingay50-stories:
     output: true
     order:
+      - Tay Han Seng.md
       - The Pioneer Generation Float.md
       - The White Chariot Float.md
       - The Warisan Ku Gemilang Float.md
