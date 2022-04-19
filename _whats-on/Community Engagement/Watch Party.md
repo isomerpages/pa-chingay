@@ -4,12 +4,9 @@ permalink: /whats-on/Community-Engagement/watch-party
 description: ""
 third_nav_title: Community Engagement
 ---
-
-
-
 Congratulations to all our Lucky Watch Party Hosts!
 
-| $100 Vouchers | $500 Vouchers | $1000 Voucher|  
+| **$100 Vouchers** | **$500 Vouchers** |**$1000 Voucher**|  
 | -------- | -------- | -------- |
 | Sethu Ratna | Diasy Koh Swee Hong     | Ng Siew Eng |
 | Dolly  | Stanley  |   |
@@ -33,7 +30,7 @@ Congratulations to all our Lucky Watch Party Hosts!
 
 
 Most Creative Theme Watch Party Hosts
-<br>$500 Vouchers
+<br><Strong>$500 Vouchers</strong>
 <p style= "font-size: 16px;">
 Ho Shueh Yin <br>
 Kenneth Boey<br>

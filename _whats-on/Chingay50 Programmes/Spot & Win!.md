@@ -4,10 +4,10 @@ permalink: /whats-on/Chingay50-Programmes/spot-win
 description: ""
 third_nav_title: Chingay50 Programmes
 ---
-
 ![spot & win](/images/spot-win.png)
 
-Prizes Sponsored By
+<p style= "text-align: center;">Prizes Sponsored By</p>
+
 ![sponsors](/images/snap-tag-win-sponsor.png)
 
 **IMPORTANT NOTES**<br>

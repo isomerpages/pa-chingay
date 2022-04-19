@@ -52,7 +52,7 @@ Experienced photographers have taken beautiful photos of Chingay over the last 5
 
 ![STEVEN YEE Pui Chung - chingay 035](/images/Hall%20of%20Frames%20Contributors/Steven%20Yee%20Pui%20Chung/STEVEN%20YEE%20Pui%20Chung%20-%20chingay%20035-01.jpg)
 
- # SPH Media Limited
+# SPH Media Limited
 **Photos From 1973 to 2013**
 
 ![Chingay_unknownYear1](/images/Hall%20of%20Frames%20Contributors/SPH%20Media%20Limited/000772831.jpg)
