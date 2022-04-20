@@ -4,7 +4,7 @@ permalink: /terms-of-use/
 ---
 **General**
 
-These Terms and Conditions will apply if you register for an account on this website of www.chingay.org.sg ("Website") operated by People's Association ("Company", "our", "we" or "us") to access any of the services provided on the Website from time to time (collectively "Online Service"):
+These Terms and Conditions will apply if you register for an account on this website of www.chingay.gov.sg ("Website") operated by People's Association ("Company", "our", "we" or "us") to access any of the services provided on the Website from time to time (collectively "Online Service"):
 
 By clicking on the "I Agree" button of these terms and conditions and registering for an account, you agree to be legally bound by these terms and conditions, including any variations of the terms and conditions which may be posted on the Website from time to time.
 
@@ -29,14 +29,16 @@ You shall not:
 3.	allow any other person to use the Contents other than in accordance with these Terms and Conditions; and
 4.	post, upload, transmit, distribute, exhibit or otherwise make available on or through the Website any statements, documents, photographs, images, drawings, materials and any other type of content that may be deemed to be defamatory, obscene, offensive or illegal or which violates the rights of any third party (including intellectual property rights).
 You agree not to collect or harvest any personally identifiable information, including any IDs or account names from the Website.
+
 We reserve the right to terminate or suspend your account at any time if you are found in breach of any of these Terms and Conditions.
+
 We further reserve the right to take down any material posted, uploaded, transmitted, distributed, exhibited or otherwise made available on or through the Website by you that we deem to be in breach of any of these Terms and Conditions.
 
 **Consent and Copyright**
 
 By submitting any photos and/or videos to <a href= "www.chingay.gov.sg">www.chingay.gov.sg</a>, you agree to grant PA a perpetual worldwide non-exclusive royalty-free licence to use, reproduce modify, adapt and sub-licence the photos and/or videos and any accompanying statements or captions in any format or platforms (including print publications, electronic media, social media platforms, websites) for non-commercial purposes such as community projects which are in line with PA's objectives and mission. Where possible, you may be credited for your photos and/or videos in such manner and through such platform(s) as we may determine in our sole discretion.
 
-You agree that PA will not be required to pay any additional consideration or seek any additional approval in connection with any of the abovementioned uses of your photo(s)/video(s).
+You agree that we will not be required to pay any additional consideration or seek any additional approval in connection with any of the above mentioned uses of your photo(s)/video(s).
 
 You confirm that you are the sole author and owner of the copyright of the submitted photo(s) and/or video(s).
 
@@ -93,13 +95,13 @@ This Clause will survive these Terms of Use and your use of our Website.
 
 We reserve all rights to deny or restrict access to this Website and Online Services to any particular person, or to block access from a particular Internet address to this Website and Online Services, at any time, without ascribing any reasons whatsoever.
 
-Links from this Website to other websites
+**Links from this Website to other websites**
 
 This Website may contain hyperlinks to websites which are not maintained by us. We shall not be responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of the hyperlinks and access to such websites are entirely at your own risk.
 
-Further, in no circumstances shall PA be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this Website is linked.
+Further, in no circumstances shall we be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this Website is linked.
 
-Links to this Website from other websites
+**Links to this Website from other websites**
 
 Except as set forth below, caching and links to, and the framing of this Website or any of the contents are prohibited.
 
@@ -107,7 +109,7 @@ You must seek and obtain specific permission from us before hyperlinking to or f
 
 Your hyperlinking to or framing of this Website or any of its contents constitute acceptance of these Terms and Conditions. This is deemed to be the case even after the posting of any changes or modifications to these Terms and Conditions. If you do not accept these Terms and Conditions, you must discontinue linking to or framing of this Website or any of the contents.
 
-In no circumstances shall People's Association be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on web sites that link to this Website or any of the Contents.
+In no circumstances shall we be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on web sites that link to this Website or any of the Contents.
 
 We reserve all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.
 
