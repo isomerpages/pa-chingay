@@ -4,9 +4,6 @@ permalink: /whats-on/Community-Engagement/chingay50-mini-floats
 description: ""
 third_nav_title: Community Engagement
 ---
-
-
-
 Together with PAssionArts, Chingay50 will present 17 Chingay50 Mini Floats conceptualised by local community artists, art groups and PA Balloon Sculpting Interest Groups, infused with local GRC characteristics. From November to December 2021, over 1,400 residents attended various art workshops to co-create these art installations and Mini Float making, facilitated by artist, PA Grassroots Organisations, Community Arts and Culture Clubs (CACCs), youth networks and interest groups.
 
 **Time Carousel**
@@ -32,7 +29,7 @@ Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs with artist Salihin Jaafar
 
  
 
-Bishan-Toa Payoh GRC and Marymount SMC with artist Dawn Tam
+Bishan-Toa Payoh GRC and Marymount SMC with artist Fadhlin A.G
 <div style="text-align:center;width:100%">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fhP3PtzZbMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
