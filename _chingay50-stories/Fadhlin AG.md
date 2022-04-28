@@ -4,8 +4,8 @@ permalink: /chingay50-stories/fadhlin-ag
 description: ""
 image: /images/Chingay50 Stories/fadhlin ag.jpg
 ---
-![Fadhilin A.G](/images/Chingay50%20Stories/fadhlin%20ag.jpg)
-**Fadhilin A.G**
+![Fadhilin A.G.](/images/Chingay50%20Stories/fadhlin%20ag.jpg)
+**Fadhilin A.G.**
 
 Art Teacher
 
