@@ -14,7 +14,7 @@ Student & Bank Worker
 Kevin and Bernadette scored the performance of their lives in their first-ever Chingay appearance—playing the bride and groom in a flower-themed wedding showcasing Eurasian culture.
 
 
-**Flying The Eurasian flag High**
+**Flying The Eurasian Flag High**
 
 Neither Bernadette nor Kevin had taken part in Chingay before but in a stroke of serendipity, both of them answered the call from the Eurasian Association, Singapore, particularly Kevin from his dad to perform and ended up being ‘match-made’ in the flower-themed wedding performance. Representing the Eurasians meant a great deal to them: they were proud to bring their relatively small community in Singapore to greater prominence on the Chingay stage. They love how Chingay lets Singaporeans appreciate the cultures of different races; by opening our eyes to how other races live, it promotes multiculturalism.
 
