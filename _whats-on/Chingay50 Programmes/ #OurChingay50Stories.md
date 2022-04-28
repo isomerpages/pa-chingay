@@ -10,6 +10,10 @@ Take the journey and reminisce with us!
 
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
 
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="images/Chingay50%20Stories/george%20chan.jpg"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Geroge Chan</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Multi-Talented Performer</b><br />Embodying The Spirit Of Chingay<br /><a href="/chingay50-stories/geroge-chan">Read More..</a></p></div></li>		
+	
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/fadhlin%20ag.jpg"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Fadhlin A.G</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Artist</b><br /> Inspired By Residents’ Artistry<br /><a href="/chingay50-stories/fadhlin-ag">Read More..</a></p></div></li>		
+	
 <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/low%20cher%20yong.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Low Cher Yong</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Music Choreographer</b><br /> Record Breaking Passion<br /><a href="/chingay50-stories/Low-cher-yong">Read More..</a></p></div></li>		
 	
 <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/joshua%20low.png"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Joshua Low</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Student</b><br /> A Star Is Born <br /><a href="/chingay50-stories/joshua-Low">Read More..</a></p></div></li>	
@@ -147,7 +151,7 @@ Take the journey and reminisce with us!
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
                     <b>Student</b><br />
-                    A GROOVY KIND OF LOVE<br />
+                    A Groovy Kind Of Love<br />
                     <a href="/chingay50-stories/rachael-soh">Read More..</a>
                 </p>
             </div>
@@ -160,7 +164,7 @@ Take the journey and reminisce with us!
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
                     <b>Airworthiness Inspector</b><br />
-                    HIS BEST SHOT, EVERY TIME<br />
+                    His Best Shot, Every Time<br />
                     <a href="/chingay50-stories/liew-tong-leng">Read More..</a>
                 </p>
             </div>
