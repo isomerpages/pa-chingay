@@ -2,6 +2,7 @@ collections:
   chingay50-stories:
     output: true
     order:
+      - George Chan.md
       - Fadhilin A G.md
       - Low Cher Yong.md
       - Joshua Low.md
