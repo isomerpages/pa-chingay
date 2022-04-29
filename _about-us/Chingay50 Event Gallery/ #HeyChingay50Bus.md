@@ -50,4 +50,4 @@ third_nav_title: Chingay50 Event Gallery
 		
 <td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Chingay50Bus%20Launch/SS-CGB%20(116%20of%20132)-01.jpg" alt="Bus Launch" style="width:370px;height:auto;" /><br /><b>Bus Launch</b><br/><a href="/event-gallery/Chingay50Bus-Launch/bus-launch">Read more...</a></td>	
 </tr>
-	</table>
+</table>
