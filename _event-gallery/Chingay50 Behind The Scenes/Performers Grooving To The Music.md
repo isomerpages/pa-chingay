@@ -5,10 +5,9 @@ description: ""
 image: /images/Event Gallery/Behind The Scenes/Act 4 1 International Friends-01.jpg
 third_nav_title: Chingay50 Behind The Scenes
 ---
-
 ![Performers Move To The Music](/images/Event%20Gallery/Behind%20The%20Scenes/Act%204%201%20International%20Friends-01.jpg)
 
-# **Performers Move To The Music**
+# **Performers Grooving To The Music**
 
 In front of the PAssionARTs - Chingay50 Mini Floats are some of the many performers moving along to Act 3.2's musical piece featuring "Chan Mali Chan" in its arrangement.
 
