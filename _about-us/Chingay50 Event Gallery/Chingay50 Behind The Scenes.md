@@ -4,12 +4,14 @@ permalink: /about-us/Chingay50-Event-Gallery/chingay50-behind-the-scenes
 description: ""
 third_nav_title: Chingay50 Event Gallery
 ---
+# Chingay50 Behind The Scenes
+
 <table width="100%" border="0">
 	<tr>
 		<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Behind%20The%20Scenes/Dance%20Inspiration-01.jpg" alt="Performer Gets Her Make Up Done" style="width:370px;height:auto;" /><br /><b>Performer Gets Her Make Up Done</b><br/><a href="/event-gallery/Chingay-50-Behind-The-Scenes/performer-gets-her-make-up-done">Read more...</a></td>
 		
 
-<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Behind%20The%20Scenes/Act%201%20Da%20Tou%20Wawa%20The%20Academy%20of%20Dance%20and%20Shimmyrina-01.jpg" alt="Performers Peacefully Walking" style="width:370px;height:auto;" /><br /><b>Performers Peacefully Walking</b><br/><a href="/event-gallery/Chingay-50-Behind-The-Scenes/performers-peacefully-walking">Read more...</a></td>
+<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Behind%20The%20Scenes/Act%201%20Da%20Tou%20Wawa%20The%20Academy%20of%20Dance%20and%20Shimmyrina-01.jpg" alt="Performers Peacefully Walking" style="width:370px;height:auto;" /><br /><b>Performers</b><br/><a href="/event-gallery/Chingay-50-Behind-The-Scenes/performers">Read more...</a></td>
 	</tr>
 	<tr>
 		<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Behind%20The%20Scenes/Act%202%20Butterfly%20Girls-01.jpg" alt="Dancers Strike A Pose" style="width:370px;height:auto;" /><br /><b>Dancers Strike A Pose</b><br/><a href="/event-gallery/Chingay-50-Behind-The-Scenes/dancers-strike-a-pose">Read more...</a></td>
@@ -37,7 +39,7 @@ third_nav_title: Chingay50 Event Gallery
 	</tr>
 		<tr>
 		<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Behind%20The%20Scenes/dancers%20make%20their%20moves.png" style="width:370px;height:auto;" /><br /><b>Dancers Practice Their Moves</b><br/><a href="/event-gallery/Chingay-50-Behind-The-Scenes/dancers-practice-their-moves">Read more...</a></td>
-<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Behind%20The%20Scenes/Act%204%201%20International%20Friends-01.jpg" alt="Performers Move To The Music" style="width:370px;height:auto;" /><br /><b>Performers Move To The Music</b><br/><a href="/event-gallery/Chingay50-Behind-The-Scenes/performers-move-to-the-music">Read more...</a></td>
+<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Behind%20The%20Scenes/Act%204%201%20International%20Friends-01.jpg" alt="Performers Move To The Music" style="width:370px;height:auto;" /><br /><b>Performers Grooving To The Music</b><br/><a href="/event-gallery/Chingay50-Behind-The-Scenes/performers-grooving-to-the-music">Read more...</a></td>
 	</tr>
 		<tr>
 		<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Behind%20The%20Scenes/Emcees%20Naomi%20and%20Kishan-01.jpg" alt="Chingay50 Hosts in Action" style="width:370px;height:auto;" /><br /><b>Chingay50 Hosts In Action</b><br/><a href="/event-gallery/Chingay-50-Behind-The-Scenes/chingay50-hosts">Read more...</a></td>
