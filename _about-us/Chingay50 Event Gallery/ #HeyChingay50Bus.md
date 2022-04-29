@@ -38,7 +38,7 @@ third_nav_title: Chingay50 Event Gallery
 <tr>
 <td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Chingay50Bus%20Launch/SS-CGB%20(16%20of%20132)-01.jpg" alt="People's Association Youth Movement Bus" style="width:370px;height:auto;" /><br /><b>People's Association Youth Movement Bus</b><br/><a href="/event-gallery/Chingay50Bus-Launch/people-s-association-youth-movement-bus">Read more...</a></td>
 	
-<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Chingay50Bus%20Launch/Newly%20selected/SBS_0227.jpg" alt="Inside of People's Association Youth Movement Bus" style="width:370px;height:auto;" /><br /><b>Inside of People's Association Youth Movement Bus</b><br/><a href="/event-gallery/Chingay50Bus-Launch/inside-of-paym-bus">Read more...</a></td>
+<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Chingay50Bus%20Launch/Newly%20selected/SS-CGB%20(103%20of%20132).png" alt="Inside of People's Association Youth Movement Bus" style="width:370px;height:auto;" /><br /><b>Inside of People's Association Youth Movement Bus</b><br/><a href="/event-gallery/Chingay50Bus-Launch/inside-of-paym-bus">Read more...</a></td>
 	</tr>
 	<tr>
 <td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Chingay50Bus%20Launch/Newly%20selected/SS-CGB%20(89%20of%20132).png" alt="Inside of Malay Community Bus" style="width:370px;height:auto;" /><br /><b>Inside of Malay Community Bus</b><br/><a href="/event-gallery/Chingay50Bus-Launch/inside-of-malay-community-bus">Read more...</a></td>
