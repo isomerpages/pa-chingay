@@ -3,11 +3,13 @@ title: Ken and Christine
 permalink: /chingay50-stories/ken-and-christine
 description: ""
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IHWCq6xTuJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Ken and Christine](/images/Chingay50%20Stories/ken-and-christine-50storiesimage.jpg)
 
 **Ken and Christine**
 
 Sibling Chingay Volunteers
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IHWCq6xTuJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Ken and Christine have chalked up nearly a decade of combined experience as Chingay volunteers, even though the brother and sister pair are only 21 and 20 respectively. 
 
