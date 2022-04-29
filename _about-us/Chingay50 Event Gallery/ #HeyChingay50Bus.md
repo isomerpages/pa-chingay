@@ -26,7 +26,7 @@ third_nav_title: Chingay50 Event Gallery
 
 </tr>
 <tr>
-<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Chingay50Bus%20Launch/Newly%20selected/SBS_0160.jpg" alt="Deputy Chairman Edwin Tong, Chief Executive Director Lim Hock Yu and Bus Captain" style="width:370px;height:auto;" /><br /><b>Deputy Chairman Edwin Tong, Chief Executive Director Lim Hock Yu and Bus Captain</b><br/><a href="/event-gallery/Chingay50Bus-Launch/dc-edwin-tong-ced-lim-hock-yu-and-bus-captain">Read more...</a></td>
+<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Chingay50Bus%20Launch/Newly%20selected/SBS_0160.jpg" alt="Deputy Chairman Edwin Tong, Chief Executive Director Lim Hock Yu and Bus Captain" style="width:370px;height:auto;" /><br /><b>Deputy Chairman Edwin Tong, LTA Group Director Yeo Teck Guan and Chief Executive Director Lim Hock Yu</b><br/><a href="/event-gallery/Chingay50Bus-Launch/dc-edwin-tong-ced-lim-hock-yu-and-bus-captain">Read more...</a></td>
 
 <td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Chingay50Bus%20Launch/Newly%20selected/SBS_0097.jpg" alt="Deputy Chairman Edwin Tong" style="width:370px;height:auto;" /><br /><b>Deputy Chairman Edwin Tong</b><br/><a href="/event-gallery/Chingay50Bus-Launch/deputy-chairman-edwin-tong">Read more...</a></td>
 
