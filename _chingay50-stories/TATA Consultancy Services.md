@@ -70,4 +70,3 @@ Fraulein really hopes that Chingay will be back to normal soon, to the glorious 
 As for the Chingay of the future, Fraulein thinks it will be more prestigious. 
 
 “I can see more people entertained by world-class performances, and I can also see Chingay being really world class and an event that people will enjoy it a lot,” she envisions.
-
