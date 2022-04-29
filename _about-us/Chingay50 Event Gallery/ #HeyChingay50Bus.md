@@ -4,7 +4,7 @@ permalink: /about-us/Chingay50-Event-Gallery/hey-chingay-50-bus
 description: ""
 third_nav_title: Chingay50 Event Gallery
 ---
-# HeyChingay50Bus Launch
+# #HeyChingay50Bus Launch
 
 <table width="100%" border="0">
 <tr>
@@ -49,5 +49,5 @@ third_nav_title: Chingay50 Event Gallery
 <td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Chingay50Bus%20Launch/SS-CGB%20(20%20of%20132)-01.jpg" alt="Chinese Bus" style="width:370px;height:auto;" /><br /><b>Chinese Bus</b><br/><a href="/event-gallery/Chingay50Bus-Launch/chinese-bus">Read more...</a></td>
 		
 <td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Chingay50Bus%20Launch/SS-CGB%20(116%20of%20132)-01.jpg" alt="Bus Launch" style="width:370px;height:auto;" /><br /><b>Bus Launch</b><br/><a href="/event-gallery/Chingay50Bus-Launch/bus-launch">Read more...</a></td>	
-</tr>
-</table>
+	</tr>
+  </table>
