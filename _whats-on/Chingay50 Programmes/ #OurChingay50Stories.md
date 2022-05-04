@@ -65,7 +65,7 @@ Take the journey and reminisce with us!
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Chingay50 - Parading Through Time</h3>
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-                    <b>50 Years of Memory Making and Counting</b>
+                    <b>50 Years of Memory Making & Counting</b>
                     <br /> Evolution of Chingay<br />
                     <a href="/chingay50-stories/chingay50-parading-through-time">Read More..</a>
                 </p>
