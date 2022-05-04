@@ -4,7 +4,7 @@ permalink: /about-us/Chingay50-Event-Gallery/chingay50-at-jewel-changi-airport
 description: ""
 third_nav_title: Chingay50 Event Gallery
 ---
-# Chingay50 Behind The Scenes
+# Chingay50 At Jewel Changi Airport
 
 <table width="100%" border="0">
 <tr>
