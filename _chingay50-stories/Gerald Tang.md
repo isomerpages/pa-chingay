@@ -8,7 +8,7 @@ image: ""
 
 **Gerald Tang**
 
-Grassroots Activist
+Grassroot Activist
 
 Long-time grassroot activist Gerald Tang leads from the front as the Radin Mas Community Arts and Culture Club Chairman rallied the community to help create the Chingay50 mini float.
 
