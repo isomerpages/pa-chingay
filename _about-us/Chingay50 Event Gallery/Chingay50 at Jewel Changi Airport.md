@@ -32,10 +32,10 @@ third_nav_title: Chingay50 Event Gallery
 	</tr>
 	<tr>
 		<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Chingay50%20at%20Jewel/Act%204%205%20Chinese%20Wedding-01.jpg" alt="Act 4.5: Wedding On Stilts" style="width:370px;height:auto;" /><br /><b>Act 4.5: Wedding On Stilts</b><br/><a href="/event-gallery/Chingay50-at-Jewel/act-4-5-wedding-on-stilts">Read more...</a></td>
-		<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Chingay50%20at%20Jewel/Act%205%202%20Finale%20potrait-01.jpg" alt="Act 5.2: Together As One" style="width:370px;height:auto;" /><br /><b>Act 5.2: Together As One</b><br/><a href="/event-gallery/Chingay50-at-Jewel/act-5-2-together-as-0ne">Read more...</a></td>
+<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Chingay50%20at%20Jewel/Act%205%202%20Finale%20potrait-01.jpg" alt="Act 5.2: Together As One" style="width:370px;height:auto;" /><br /><b>Act 5.2: Together As One</b><br/><a href="/event-gallery/Chingay50-at-Jewel/act-5-2-together-as-0ne">Read more...</a></td>
 			<tr>
 				<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Chingay50%20at%20Jewel/Act%205%202%20Finale-01.jpg" alt="Act 5.2: Together As One (Performers)" style="width:370px;height:auto;" /><br /><b>Act 5.2: Together As One (Performers)</b><br/><a href="/event-gallery/Chingay50-at-Jewel/act-5-2-together-as-one-performers">Read more...</a></td>
-		<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Chingay50%20at%20Jewel/Act%205%202%20Wide%20angle%20Finale-01.jpg" alt="Act 5.2: Together As One (Closing)" style="width:370px;height:auto;" /><br /><b>Act 5.2: Together As One (Closing)</b><br/><a href="/event-gallery/Chingay50-at-Jewel/together-as-one">Read more...</a></td>
+<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Chingay50%20at%20Jewel/Act%205%202%20Wide%20angle%20Finale-01.jpg" alt="Act 5.2: Together As One (Closing)" style="width:370px;height:auto;" /><br /><b>Act 5.2: Together As One (Closing)</b><br/><a href="/event-gallery/Chingay50-at-Jewel/together-as-one">Read more...</a></td>
 		<td width="50%" style="border:0px;">&nbsp;</td>
 	</tr>
-	</table>
+</table>
