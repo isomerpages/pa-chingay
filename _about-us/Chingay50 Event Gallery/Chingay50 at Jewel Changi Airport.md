@@ -23,7 +23,7 @@ third_nav_title: Chingay50 Event Gallery
 <td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Chingay50%20at%20Jewel/Act%204%201%20international%20friends2-01.jpg" alt="Act 3.2: We've Got Talent! 2/3" style="width:370px;height:auto;" /><br /><b>Act 3.2: We've Got Talent! 3/3</b><br/><a href="/event-gallery/Chingay50-at-Jewel/act-3-2-we-ve-got-talent-2-3">Read more...</a></td>
 	</tr>
 	<tr>
-<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Chingay50%20at%20Jewel/Act%204%201%20Our%20Chingay%20Friends.jpg)" alt="Act 4.1: Our Chingay Friends" style="width:370px;height:auto;" /><br /><b>Act 4.1: Our Chingay Friends</b><br/><a href="/event-gallery/Chingay50-at-Jewel/act-4-2-maya-vana-thirumanam-mystical-forest-wedding">Read more...</a></td>
+<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Chingay50%20at%20Jewel/Act%204%201%20Our%20Chingay%20Friends.jpg" alt="Act 4.1: Our Chingay Friends" style="width:370px;height:auto;" /><br /><b>Act 4.1: Our Chingay Friends</b><br/><a href="/event-gallery/Chingay50-at-Jewel/act-4-1-our-chingay-friends">Read more...</a></td>
 <td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Chingay50%20at%20Jewel/Act%204%202%20Indian%20Wedding-01.jpg" alt="Act 4.2: Maya Vana Thirumanam - Mystical Forest Wedding" style="width:370px;height:auto;" /><br /><b>Act 4.2: Maya Vana Thirumanam - Mystical Forest Wedding</b><br/><a href="/event-gallery/Chingay50-at-Jewel/act-4-2-maya-vana-thirumanam-mystical-forest-wedding">Read more...</a></td>
 	</tr>
 	<tr>
