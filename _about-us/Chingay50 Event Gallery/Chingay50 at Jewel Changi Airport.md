@@ -139,5 +139,3 @@ third_nav_title: Chingay50 Event Gallery
     </td>
 </tr>
 </table>
-
-
