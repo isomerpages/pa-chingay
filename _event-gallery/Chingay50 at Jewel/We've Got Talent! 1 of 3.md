@@ -1,9 +1,10 @@
 ---
-title: We've Got Talent!
+title: We've Got Talent! 1 of 3
 permalink: /event-gallery/Chingay50-at-Jewel/act-3-1-we-ve-got-talent
 description: ""
 third_nav_title: Chingay50 at Jewel
 ---
+
 ![Act 3.1: We've Got Talent!](/images/Event%20Gallery/Chingay50%20at%20Jewel/Act%203%201%20Sokka%20Gakkai-01.jpg)
 
 # **Act 3: We've Got Talent! (1/3)**

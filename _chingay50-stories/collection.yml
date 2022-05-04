@@ -2,6 +2,8 @@ collections:
   chingay50-stories:
     output: true
     order:
+      - Didier Ng and Cherie Ng.md
+      - Gerald Tang.md
       - Fraulein Lumagui Lindero.md
       - George Chan.md
       - Fadhlin AG.md

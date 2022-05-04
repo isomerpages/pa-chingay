@@ -9,9 +9,12 @@ Chingay turns 50 in 2022 and it's story and journey will be unfolded through the
 Take the journey and reminisce with us!
 
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
+	
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/didier%20and%20cherie%20ng.jpg"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Didier Ng and Cherie Ng</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Artists</b><br />Fun On Floats<br /><a href="/chingay50-stories/didier-ng-and-cherie-ng">Read More..</a></p></div></li>		
+	
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/gerald%20tang.jpg"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Gerald Tang</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Grassroot Activist</b><br />Rallying The Community<br /><a href="/chingay50-stories/gerald-tang">Read More..</a></p></div></li>		
 
-<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/TATA%20Consultancy%20Services.jpg"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Fraulein Lumagui Lindero
-</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Tata Consultancy Services</b><br />Technology Takes Centrestage<br /><a href="/chingay50-stories/fraulein-Lumagui-Lindero">Read More..</a></p></div></li>		
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/TATA%20Consultancy%20Services.jpg"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Fraulein Lumagui Lindero</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Tata Consultancy Services</b><br />Technology Takes Centrestage<br /><a href="/chingay50-stories/fraulein-Lumagui-Lindero">Read More..</a></p></div></li>		
 	
 <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/george%20chan.jpg"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">George Chan</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Multi-Talented Performer</b><br />Embodying The Spirit Of Chingay<br /><a href="/chingay50-stories/george-chan">Read More..</a></p></div></li>		
 	
@@ -62,7 +65,7 @@ Take the journey and reminisce with us!
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Chingay50 - Parading Through Time</h3>
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-                    <b>50 Years of Memory Making and Counting</b>
+                    <b>50 Years of Memory Making & Counting</b>
                     <br /> Evolution of Chingay<br />
                     <a href="/chingay50-stories/chingay50-parading-through-time">Read More..</a>
                 </p>
