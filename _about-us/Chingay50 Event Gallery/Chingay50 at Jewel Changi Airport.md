@@ -84,8 +84,6 @@ third_nav_title: Chingay50 Event Gallery
 <br/>
 <a href="/event-gallery/Chingay50-at-Jewel/act-4-1-our-chingay-friends">Read more...</a>
 </td>
-</tr>
-<tr>
 <td width="50%" style="border:0px;">
 <img src="/images/Event%20Gallery/Chingay50%20at%20Jewel/Act%204%202%20Indian%20Wedding-01.jpg" alt="Act 4.2: Maya Vana Thirumanam - Mystical Forest Wedding" style="width:370px;height:auto;" />
 <br />
@@ -102,8 +100,6 @@ third_nav_title: Chingay50 Event Gallery
 <br/>
 <a href="/event-gallery/Chingay50-at-Jewel/act-4-3-ikatan-kasih-samudera-sea-of-love">Read more...</a>
 </td>
-</tr>
-<tr>
 <td width="50%" style="border:0px;">
 <img src="/images/Event%20Gallery/Chingay50%20at%20Jewel/Act%204%204%20Eurasian-01.jpg" alt="Act 4.4: Beautiful Flower Wedding" style="width:370px;height:auto;" />
 <br />
@@ -120,17 +116,20 @@ third_nav_title: Chingay50 Event Gallery
 <br/>
 <a href="/event-gallery/Chingay50-at-Jewel/act-4-5-wedding-on-stilts">Read more...</a>
 </td>
-<td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Chingay50%20at%20Jewel/Act%205%202%20Finale%20potrait-01.jpg" alt="Act 5.2: Together As One" style="width:370px;height:auto;" />
+<td width="50%" style="border:0px;">
+    <img src="/images/Event%20Gallery/Chingay50%20at%20Jewel/Act%205%202%20Finale%20potrait-01.jpg" alt="Act 5.2: Together As One" style="width:370px;height:auto;" />
 <br />
 <b>Act 5.2: Together As One</b>
 <br/>
-<a href="/event-gallery/Chingay50-at-Jewel/act-5-2-together-as-0ne">Read more...</a></td>
+<a href="/event-gallery/Chingay50-at-Jewel/act-5-2-together-as-0ne">Read more...</a>
+    </td>
 </tr>
 <tr>
 <td width="50%" style="border:0px;"><img src="/images/Event%20Gallery/Chingay50%20at%20Jewel/Act%205%202%20Finale-01.jpg" alt="Act 5.2: Together As One (Performers)" style="width:370px;height:auto;" />
 <br />
 <b>Act 5.2: Together As One (Performers)</b>
 <br/>
-<a href="/event-gallery/Chingay50-at-Jewel/act-5-2-together-as-one-performers">Read more...</a></td>
+<a href="/event-gallery/Chingay50-at-Jewel/act-5-2-together-as-one-performers">Read more...</a>
+    </td>
 </tr>
 </table>
