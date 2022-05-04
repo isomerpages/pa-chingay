@@ -6,7 +6,7 @@ description: ""
 ![Parading Through Time](/images/Chingay50%20Stories/chingay50---parading-through-time-50storiesimage.jpg)
 **Chingay50 - Parading Through Time**
 
-50 Years of Memory Making and Counting
+50 Years of Memory Making & Counting
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oalaKT0ao0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
