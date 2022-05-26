@@ -4,9 +4,10 @@ permalink: /chingay50-stories/taneo-dance-academy
 description: ""
 image: /images/Chingay50 Stories/Taneo_JanelleAlyssa_LeeZhenChun.jpg
 ---
-![Taneo Dance Academy](/images/Chingay50%20Stories/Taneo_JanelleAlyssa_LeeZhenChun.jpg)
-(Group on left: Janelle and Alyssa. </br>
-Group on right: Lee Zhen Chun.)
+![Taneo Dance Academy](/images/Chingay50%20Stories/Taneo_JanelleAlyssa_LeeZhenChun%20v2.jpg)
+
+(Group on top: Janelle and Alyssa. </br>
+Group on bottom: Lee Zhen Chun.)
 
 **Taneo Dance Academy**
 
