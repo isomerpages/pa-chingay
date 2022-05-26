@@ -134,7 +134,7 @@ Take the journey and reminisce with us!
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Ong Choon Mui</h3>
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-                    <b>Retiree - Still teaching dance @ Macpherson Chinese Dance</b><br />
+                    <b>Retiree - Still Teaching Dance @ Macpherson Chinese Dance</b><br />
                     The Original Big-Headed Dolls<br />
                     <a href="/chingay50-stories/ong-choon-mui">Read More..</a>
                 </p>
