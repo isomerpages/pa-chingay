@@ -2,6 +2,7 @@ collections:
   chingay50-stories:
     output: true
     order:
+      - Taneo Dance Academy.md
       - Faizal and Tom.md
       - Didier Ng and Cherie Ng.md
       - Gerald Tang.md
