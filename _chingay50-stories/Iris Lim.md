@@ -6,7 +6,7 @@ image: /images/Chingay50 Stories/Iris.jpg
 ---
 ![Iris Lim](/images/Chingay50%20Stories/Iris.jpg)
 
-(Iris seen in center, holding the Integration Network (WIN) contingent sign at Chingay50.)
+(Iris seen in center, holding the People’s Association’s Women’s  Integration Network contingent sign at Chingay50.)
 
 **Iris Lim**
 
@@ -48,4 +48,3 @@ Perhaps Iris’ attitude towards life’s challenges is best summed up in her in
 Iris hopes Chingay will continue to shine - with greater scale and participation. 
 
 Her dream is to see Singapore’s contingents invited to perform in shows overseas so that Chingay can make an impact internationally and do Singapore proud.
-
