@@ -2,6 +2,7 @@ collections:
   chingay50-stories:
     output: true
     order:
+      - Japanese Association Singapore.md
       - Iris Lim.md
       - Taneo Dance Academy.md
       - Faizal and Tom.md
