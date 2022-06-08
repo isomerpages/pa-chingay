@@ -4,7 +4,7 @@ permalink: /chingay50-stories/zadon
 description: ""
 image: /images/Chingay50 Stories/Zadon.jpg
 ---
-![Zadon](/images/Chingay50%20Stories/gerald%20tang.jpg)
+![Zadon](/images/Chingay50%20Stories/Zadon.jpg)
 
 **Zadon**
 
