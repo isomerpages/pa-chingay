@@ -5,8 +5,11 @@ description: ""
 image: ""
 ---
 ![Japanese Association Singapore](/images/Chingay50%20Stories/JAS.jpg)
+From left to right:
+<br />
+Mr Akaoka Hajime (Company Director), Mr Akaoka Hajime's Wife, Mr Toba Takashi (Company Director), Past Singapore Onda Song Composer, Mr Kawashima Kensuke (Current Singapore Onda Song Composer)
 
-(From left to right: Company Director Mr Akaoka Hajime, Mr Akaoka Hajime's Wife, Company Director Mr Toba Takashi, Past Singapore Onda Song Composer, Current Singapore Onda Song Composer and Operations Manager Mr Kawashima Kensuke.)
+<br />
 
 **Japanese Association Singapore**
 

@@ -5,8 +5,9 @@ description: ""
 image: /images/Chingay50 Stories/Iris.jpg
 ---
 ![Iris Lim](/images/Chingay50%20Stories/Iris.jpg)
+Iris seen in the center holding the signboard
 
-(Iris seen in center, holding the People’s Association’s Women’s  Integration Network contingent sign at Chingay50.)
+<br />
 
 **Iris Lim**
 
