@@ -5,7 +5,7 @@ description: ""
 image: /images/Chingay50 Stories/Iris.jpg
 ---
 ![Iris Lim](/images/Chingay50%20Stories/Iris.jpg)
-[Iris seen in the center holding the signboard.]
+Iris seen in the center holding the signboard
 
 <br />
 
