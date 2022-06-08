@@ -8,6 +8,8 @@ image: /images/Chingay50 Stories/TATA Consultancy Services.jpg
 In front row and in costume, from right to left: 
 Fraulein's husband, Fraulein and Fraulein's daughter
 
+<br/>
+
 **Fraulein Lumagui Lindero**
 
 Human Resource Executive
