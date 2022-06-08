@@ -6,7 +6,7 @@ image: /images/Chingay50 Stories/TATA Consultancy Services.jpg
 ---
 ![Tata Consultancy Services](/images/Chingay50%20Stories/TATA%20Consultancy%20Services%20v2.jpg)
 In front row and in costume, from right to left: 
-Fraulein's husband, Fraulein and Fraulein's daughter
+Fraulein's husband, Fraulein, Fraulein's daughter
 
 <br/>
 
