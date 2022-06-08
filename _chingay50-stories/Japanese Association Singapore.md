@@ -6,6 +6,8 @@ image: ""
 ---
 ![Japanese Association Singapore](/images/Chingay50%20Stories/JAS.jpg)
 
+(From left to right: Company Director Mr Akaoka Hajime, Mr Akaoka Hajime's Wife, Company Director Mr Toba Takashi, Past Singapore Onda Song Composer, Current Singapore Onda Song Composer and Operations Manager Mr Kawashima Kensuke.)
+
 **Japanese Association Singapore**
 
 The Japanese Association Singapore’s 20-year participation in Chingay is highlighted not just by its win in 2014 for Best Float; it also represents the Association’s connection with Singapore as a home away from home.
