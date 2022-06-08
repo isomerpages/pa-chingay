@@ -6,7 +6,8 @@ image: /images/Chingay50 Stories/Taneo_JanelleAlyssa_LeeZhenChun v2.jpg
 ---
 ![Taneo Dance Academy](/images/Chingay50%20Stories/Taneo_JanelleAlyssa_LeeZhenChun%20v2.jpg)
 
-(Group on top: Janelle and Alyssa. Group on bottom: Lee Zhen Chun.)
+Group on top: Janelle and Alyssa <br/>
+Group on bottom: Lee Zhen Chun
 
 **Taneo Dance Academy**
 
