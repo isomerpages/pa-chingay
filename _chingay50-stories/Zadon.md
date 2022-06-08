@@ -38,5 +38,4 @@ His participation also gave him a unique, insider view of the event and left him
 
 **Hopes and Dreams For Chingay**
 
-Zadon’s dream is to see Chingay grow to become an international event in the future. Having seen how Chingay evolved from a cultural event basically to become a slick and polished show that it is today, “I am confident that we have what it takes to bring Chingay to the next level, which is, to an international stage”, he enthused. 
-
+Zadon’s dream is to see Chingay grow to become an international event in the future. Having seen how Chingay evolved from a cultural event basically to become a slick and polished show that it is today, “I am confident that we have what it takes to bring Chingay to the next level, which is, to an international stage”, he enthused.
