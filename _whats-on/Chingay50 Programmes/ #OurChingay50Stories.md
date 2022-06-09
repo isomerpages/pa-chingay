@@ -239,7 +239,7 @@ Take the journey and reminisce with us!
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/sabaria-bte-uma-50storiesimage.jpg">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/sabaria-bte-uma-50storiesimage.jpg" alt="">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Sabaria Bte Uma</h3>
                 </div>
