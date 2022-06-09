@@ -14,9 +14,9 @@ Take the journey and reminisce with us!
 	
 <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/Zadon.jpg" alt=""><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Zadon Lim</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Musician</b><br />Rap Around Nostalgia<br /><a href="/chingay50-stories/zadon-Lim">Read More..</a></p></div></li>
 	
-<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/JAS.jpg" alt=""><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Japanese Association Singapore</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">An Ondo Bridge to Singapore Hearts<br /><a href="/chingay50-stories/japanese-association-singapore">Read More..</a></p></div></li>
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/JAS.jpg" alt="Japanese Association Singapore"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Japanese Association Singapore</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">An Ondo Bridge to Singapore Hearts<br /><a href="/chingay50-stories/japanese-association-singapore">Read More..</a></p></div></li>
 	
-<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/Iris.jpg" alt=""><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Iris Lim</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Financial Service Consultant</b><br />The Show Must Go On<br /><a href="/chingay50-stories/iris-Lim">Read More..</a></p></div></li>
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/Iris.jpg" alt="Iris Lim"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Iris Lim</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Financial Service Consultant</b><br />The Show Must Go On<br /><a href="/chingay50-stories/iris-Lim">Read More..</a></p></div></li>
 	
 <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/Taneo_JanelleAlyssa_LeeZhenChun%20v2.jpg" alt="Taneo_JanelleAlyssa_LeeZhenChun"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Taneo Dance Academy</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Students</b><br />Winning Moves<br /><a href="/chingay50-stories/taneo-dance-academy">Read More..</a></p></div></li>
 	
@@ -42,24 +42,24 @@ Take the journey and reminisce with us!
 	
 <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/white%20chariot%20float.png" alt="The White Chariot Float"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">The White Chariot Float</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><a href="/chingay50-stories/white-chariot-float">Read More..</a></p></div></li>
 	
-<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/gemilang%20float.png" alt=""><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">The Warisan Ku Gemilang Float</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><a href="/chingay50-stories/warisan-ku-gemilang-float">Read More..</a></p></div></li>
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/gemilang%20float.png" alt="Chingay50 Mini Float"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">The Warisan Ku Gemilang Float</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><a href="/chingay50-stories/warisan-ku-gemilang-float">Read More..</a></p></div></li>
 	
 	
-<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/nancyRodea.jpeg" alt=""><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Nancy Rodea</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>President of the Mexican Association in Singapore</b><br /> Hola Singapura<br /><a href="/chingay50-stories/nancy-rodea">Read More..</a></p></div></li>
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/nancyRodea.jpeg" alt="Chingay50 Mini Float"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Nancy Rodea</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>President of the Mexican Association in Singapore</b><br /> Hola Singapura<br /><a href="/chingay50-stories/nancy-rodea">Read More..</a></p></div></li>
 
 	
-<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/eurasian%20img.png" alt=""><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Kevin and Bernadette</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Student & Bank Worker</b><br /> Here Comes the Bride…and Groom <br /><a href="/chingay50-stories/kevin-and-bernadette">Read More..</a></p></div></li>
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/eurasian%20img.png" alt="Eurasian Association, Singapore"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Kevin and Bernadette</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Student & Bank Worker</b><br /> Here Comes the Bride…and Groom <br /><a href="/chingay50-stories/kevin-and-bernadette">Read More..</a></p></div></li>
 	
-<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/Ting%20Si%20Hao%20img.png" alt=""><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Ting Si Hao</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/Ting%20Si%20Hao%20img.png" alt="Ting Si Hao"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Ting Si Hao</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 <b>Music Composer, Arranger & Producer</b><br /> Embracing the Challenge <br /><a href="/chingay50-stories/ting-si-hao">Read More..</a></p></div></li>
 	
-<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/finding%20love%20at%20chingay.png" alt="" ><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Finding Love at Chingay</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">Matchmaking & More<br /><br /><a href="/chingay50-stories/finding-love-at-chingay">Read More..</a></p></div></li>
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/finding%20love%20at%20chingay.png" alt="Chingay Parade Singapore History" ><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Finding Love at Chingay</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">Matchmaking & More<br /><br /><a href="/chingay50-stories/finding-love-at-chingay">Read More..</a></p></div></li>
 	
-<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/lets%20build%20a%20float.png" alt=""><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Let’s Build A Float</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">Cultivate Teamwork & Togetherness<br /> <br /><a href="/chingay50-stories/lets-build-a-float">Read More..</a></p></div></li>
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/lets%20build%20a%20float.png" alt="Chingay50 Mini Float"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Let’s Build A Float</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">Cultivate Teamwork & Togetherness<br /> <br /><a href="/chingay50-stories/lets-build-a-float">Read More..</a></p></div></li>
 	
  <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/michael-koh-sharon-lee-50storiesimage.jpg" alt="">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/michael-koh-sharon-lee-50storiesimage.jpg" alt="Soka Gakkai Singapore costume and props">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Michael Koh & Sharon Lee</h3>
                 </div>
@@ -72,7 +72,7 @@ Take the journey and reminisce with us!
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/chingay50---parading-through-time-50storiesimage.jpg" alt="">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/chingay50---parading-through-time-50storiesimage.jpg" alt="Chingay50 Chingay Parade">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Chingay50 - Parading Through Time</h3>
                 </div>
@@ -85,7 +85,7 @@ Take the journey and reminisce with us!
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/ken-and-christine-50storiesimage.jpg" alt="">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/ken-and-christine-50storiesimage.jpg" alt="Ken and Christine Chingay Parade Volunteers">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Ken and Christine</h3>
                 </div>
@@ -98,7 +98,7 @@ Take the journey and reminisce with us!
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/surendran-rachandran-50storiesimage.jpg" alt="">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/surendran-rachandran-50storiesimage.jpg" alt="Surendran Rachandran Singapore Indian Association">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Surendran Rachandran</h3>
                 </div>
@@ -111,7 +111,7 @@ Take the journey and reminisce with us!
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/dina-nerina-50storiesimage.jpg" alt="">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/dina-nerina-50storiesimage.jpg" alt="Dina Nerina Malay Dance Performer">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Dina Nerina</h3>
                 </div>
@@ -124,7 +124,7 @@ Take the journey and reminisce with us!
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/lynn-goh-50storiesimage.jpg" alt="">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/lynn-goh-50storiesimage.jpg" alt="Lynn Goh Chingay Parade Performer">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Lynn Goh</h3>
                 </div>
@@ -137,7 +137,7 @@ Take the journey and reminisce with us!
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/ong-choon-mui-50storiesimage.jpg" alt="">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/ong-choon-mui-50storiesimage.jpg" alt="Ong Choon Mui Chinese Dance Choreographer Performer">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Ong Choon Mui</h3>
                 </div>
@@ -150,7 +150,7 @@ Take the journey and reminisce with us!
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/teo-cheng-kam-50storiesimage.jpg" alt="">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/teo-cheng-kam-50storiesimage.jpg" alt="Teo Cheng Kam Chingay Parade Performer">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Teo Cheng Kam</h3>
                 </div>
@@ -163,7 +163,7 @@ Take the journey and reminisce with us!
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/rachael-soh-50storiesimage.jpg" alt="">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/rachael-soh-50storiesimage.jpg" alt="Rachel Soh Chingay Parade 2021 We Got Talent!">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Rachael Soh</h3>
                 </div>
@@ -176,7 +176,7 @@ Take the journey and reminisce with us!
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/liew-tong-leng-50storiesimage.jpg" alt="">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/liew-tong-leng-50storiesimage.jpg" alt="Liew Tong Leng Chingay Parade Photograoher">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Liew Tong Leng</h3>
                 </div>
@@ -189,7 +189,7 @@ Take the journey and reminisce with us!
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/lim-jia-hui-50storiesimage.jpg" alt="">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/lim-jia-hui-50storiesimage.jpg" alt="Lim Jia Hui Chingay Parade Volunteer">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Lim Jia Hui</h3>
                 </div>
@@ -202,7 +202,7 @@ Take the journey and reminisce with us!
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/ng-tian-jun-50storiesimage.jpg" alt="">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/ng-tian-jun-50storiesimage.jpg" alt="Ng Tian Jun CheerForce Chingay Parade Performers">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Ng Tian Jun</h3>
                 </div>
@@ -215,8 +215,8 @@ Take the journey and reminisce with us!
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/mohamed-feroze-bin-hasan-50storiesimage.jpg" alt="">
-                <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/mohamed-feroze-bin-hasan-50storiesimage.jpg" alt="Mohamed Feroze bin Hasan Chingay50 Chingay Parade D:2 Competition">
+		    <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Mohamed Feroze bin Hasan</h3>
                 </div>
                 <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
@@ -228,7 +228,7 @@ Take the journey and reminisce with us!
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/ian-koh-50storiesimage.jpg" alt="">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/ian-koh-50storiesimage.jpg" alt="Ian Koh Chingay Parade Photographer Ukulele">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Ian Koh</h3>
                 </div>
@@ -241,7 +241,7 @@ Take the journey and reminisce with us!
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/sabaria-bte-uma-50storiesimage.jpg" alt="">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/sabaria-bte-uma-50storiesimage.jpg" alt="Sabaria Bte Uma Grassroots Leader Chingay40 Chingay Parade Performer">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Sabaria Bte Uma</h3>
                 </div>
