@@ -70,7 +70,7 @@ Take the journey and reminisce with us!
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/chingay50---parading-through-time-50storiesimage.jpg">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/chingay50---parading-through-time-50storiesimage.jpg" alt="">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Chingay50 - Parading Through Time</h3>
                 </div>
@@ -83,7 +83,7 @@ Take the journey and reminisce with us!
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/ken-and-christine-50storiesimage.jpg">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/ken-and-christine-50storiesimage.jpg" alt="">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Ken and Christine</h3>
                 </div>
@@ -96,7 +96,7 @@ Take the journey and reminisce with us!
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/surendran-rachandran-50storiesimage.jpg">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/surendran-rachandran-50storiesimage.jpg" alt="">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Surendran Rachandran</h3>
                 </div>
