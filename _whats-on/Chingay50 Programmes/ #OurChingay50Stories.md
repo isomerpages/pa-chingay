@@ -135,7 +135,7 @@ Take the journey and reminisce with us!
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/ong-choon-mui-50storiesimage.jpg">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/ong-choon-mui-50storiesimage.jpg" alt="">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Ong Choon Mui</h3>
                 </div>
@@ -148,7 +148,7 @@ Take the journey and reminisce with us!
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/teo-cheng-kam-50storiesimage.jpg">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/teo-cheng-kam-50storiesimage.jpg" alt="">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Teo Cheng Kam</h3>
                 </div>
@@ -161,7 +161,7 @@ Take the journey and reminisce with us!
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/rachael-soh-50storiesimage.jpg">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/rachael-soh-50storiesimage.jpg" alt="">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Rachael Soh</h3>
                 </div>
@@ -174,7 +174,7 @@ Take the journey and reminisce with us!
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/liew-tong-leng-50storiesimage.jpg">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/liew-tong-leng-50storiesimage.jpg" alt="">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Liew Tong Leng</h3>
                 </div>
@@ -187,7 +187,7 @@ Take the journey and reminisce with us!
         </li>
         <li>
             <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/lim-jia-hui-50storiesimage.jpg">
+                <img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/lim-jia-hui-50storiesimage.jpg" alt="">
                 <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
                     <h3 style="font-size: 1em; margin: 0 0 .3em;">Lim Jia Hui</h3>
                 </div>
