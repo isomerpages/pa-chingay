@@ -2,6 +2,7 @@ collections:
   chingay50-stories:
     output: true
     order:
+      - Eileen and Casey.md
       - Zadon Lim.md
       - Japanese Association Singapore.md
       - Iris Lim.md
