@@ -12,9 +12,7 @@ Eileen Yap led a contingent of differently-abled performers from the Singapore F
 
 **Everyone’s Got Talent**
 
-Eileen Yap founded the Singapore Fashion Runway (SFR), a community-led social 
-
-enterprise for people from a wide spectrum of backgrounds and abilities. Through fashion, this initiative helps families and youths with special needs learn about Performing Arts, Creative Arts and Entrepreneurship.
+Eileen Yap founded the Singapore Fashion Runway (SFR), a community-led social enterprise for people from a wide spectrum of backgrounds and abilities. Through fashion, this initiative helps families and youths with special needs learn about Performing Arts, Creative Arts and Entrepreneurship.
 
 When the People’s Association first approached SFR to participate in Chingay 2018, Eileen jumped at the opportunity because Chingay’s inclusive values resonate strongly with SFR. 
 
