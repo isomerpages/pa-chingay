@@ -8,6 +8,8 @@ image: /images/Chingay50 Stories/Eileen and Casey.jpg
 
 **Eileen and Casey**
 
+Founder of Sinagpore Fashion Runway and Singapore Fashion Youth Leader
+
 Eileen Yap led a contingent of differently-abled performers from the Singapore Fashion Runway in the Chingay Parade from 2018 to 2020. Along with Casey Ng, they share their journey powering through adversity.  
 
 **Everyone’s Got Talent**
