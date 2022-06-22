@@ -3,11 +3,10 @@ title: Michael Koh & Sharon Lee
 permalink: /chingay50-stories/michael-koh-sharon-lee
 description: ""
 ---
-
 ![](/images/Chingay50%20Stories/michael-koh-sharon-lee-50storiesimage.jpg)
-**Michael Koh & Sharon Lee**
+**Michael Koh and Sharon Lee**
 
-Aircon Specialist & Homemaker
+Aircon Specialist and Homemaker
 
 Michael Koh first noticed Sharon Lee at Chingay in 1991 when they were both part of the Soka Gakkai Singapore team of costume and prop makers for the street parade. Though it took a while for cupid to work its magic, the couple is now married and share fond memories of their experiences at Chingay.
 
