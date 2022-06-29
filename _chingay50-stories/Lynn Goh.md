@@ -3,7 +3,7 @@ title: Lynn Goh
 permalink: /chingay50-stories/lynn-goh
 description: ""
 ---
-![](/images/Chingay50%20Stories/lynn-goh-50storiesimage.jpg)
+![Lynn Goh](/images/Chingay50%20Stories/lynn-goh-50storiesimage.jpg)
 **Lynn Goh**
 
 Administrator
