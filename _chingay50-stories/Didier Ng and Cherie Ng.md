@@ -23,11 +23,11 @@ Together they upcycled trash into art, teaching the participants to work with di
 
 For 40-year-old Didier, her involvement in Chingay started half a dozen years ago, when one of her artist-mentor was invited to create, and she was asked to help out with community craft. Every year since, she has been involved in one way or another, be it to fix the floats, or prepare the props, conduct workshops, or partake in impromptu projects such as painting on some sculptures. 
 
-“I studied product industrial design and can work with any material,” she said. “There were always many ad hoc projects, heaps of ideas to work on and create, and I’ve always been asked for advice.”
+“I studied product industrial design and can work with any material”, she said. “There were always many ad hoc projects, heaps of ideas to work on and create, and I’ve always been asked for advice.”
 
 Along the way, she roped in young Cherie, from when she was 12 or maybe 13 years old, to get her hands on small things. 
 
-“She would get her classmates involved as well,” recalls Didier, who was delighted that Cherie developed a love for craft as she grew up.
+“She would get her classmates involved as well”, recalls Didier, who was delighted that Cherie developed a love for craft as she grew up.
 
 It was no surprise that her niece would go on to become a lead artist, the youngest in fact, for a Chingay50 Mini Float.
 
@@ -35,7 +35,7 @@ It was no surprise that her niece would go on to become a lead artist, the young
 
 Everything begins with ideas, which in turn get transformed into items to be assembled into the Mini Floats.
 
-“I previously helped Didier as assistant artist but this year they opened up a few more slots, and I managed to get a lead artist role instead,’ said Cherie, who graduated two years ago with a Diploma in Industrial and Operations Management from Republic Polytechnic. 
+“I previously helped Didier as assistant artist but this year they opened up a few more slots, and I managed to get a lead artist role instead", said Cherie, who graduated two years ago with a Diploma in Industrial and Operations Management from Republic Polytechnic. 
 
 “As Didier’s assistant, I got to see her hosting the live workshops, but now I got to do my own ones. And we ran everywhere to do workshops, hosting one or two every week.”
 
@@ -43,13 +43,13 @@ They also met with interesting characters, such as one Uncle Patrick who became 
 
 And then there were the aunties who brought home-cooked food to share at the workshops, or offered to get bubble tea.
 
-“One auntie even packed Christmas gifts in advance,” recalls Didier.
+“One auntie even packed Christmas gifts in advance”, recalls Didier.
 
 **Challenges Faced and Conquered**
 
 With participants from each workshop contributing their items to the floats, it was up to the leaders – Didier and Cherie – to ensure enough items were created to be assembled onto the floats, and also make certain nothing goes to waste.
 
-“Each float has a weight limit,” said Cherie, “and we worry at times whether the float will become too heavy. But we also fret about whether there are enough items, or too many, to make up a float… so it was a delicate balancing act.”
+“Each float has a weight limit”, said Cherie, “and we worry at times whether the float will become too heavy. But we also fret about whether there are enough items, or too many, to make up a float… so it was a delicate balancing act.”
 
 “Apart from being a creative lead, Cherie continues to help me a lot, such as with computer stuff which I really dislike!
 
@@ -61,8 +61,8 @@ With participants from each workshop contributing their items to the floats, it 
 
 Cherie echoes her aunt in this, hoping to attract more teenagers and young adults to Chingay as spectators. 
 
-“My peers know about Chingay but they don’t say ‘Let’s go watch it together’,” she said. 
+“My peers know about Chingay but they don’t say ‘Let’s go watch it together’ ”, she said. 
 
 Both also hope for a quick return to physical Chingay where one can go watch the parade in person. 
 
-“There are people who actually fly into Singapore to watch Chingay and to support Chingay. So hopefully it grows bigger and bigger and becomes like the Macy’s Thanksgiving Parade in New York, and be something that people will be proud to say ‘I’m going to Singapore to watch Chingay!’,” said Didier.
+“There are people who actually fly into Singapore to watch Chingay and to support Chingay. So hopefully it grows bigger and bigger and becomes like the Macy’s Thanksgiving Parade in New York, and be something that people will be proud to say ‘I’m going to Singapore to watch Chingay!’ ”, said Didier.
