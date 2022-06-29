@@ -12,21 +12,21 @@ Sibling Chingay Volunteers
 
 Ken and Christine have chalked up nearly a decade of combined experience as Chingay volunteers, even though the brother and sister pair are only 21 and 20 respectively. 
 
-Chingay highlights some of Singapore’s founding values including social cohesion and resilience. However, to siblings Ken and Christine, the one value of Chingay that resonates most strongly with them and got them hooked as volunteers is harmony.  Christine, an NTU undergrad, explains, “I was a performer with my school’s Chingay contingent before I joined my brother as a logistics volunteer in 2020. During performance practice, I made many friends and CCA mates beyond my usual social group. Being able to make new friends from different backgrounds was fun! 
+Chingay highlights some of Singapore’s founding values including social cohesion and resilience. However, to siblings Ken and Christine, the one value of Chingay that resonates most strongly with them and got them hooked as volunteers is harmony. Christine, an NTU undergrad, explains, “I was a performer with my school’s Chingay contingent before I joined my brother as a logistics volunteer in 2020. During performance practice, I made many friends and CCA mates beyond my usual social group. Being able to make new friends from different backgrounds was fun! 
 
 “We bonded over our different and shared experiences and became good friends.”
 
-Agreeing with his sister, Ken added, “It’s more about bonding with everyone regardless of race, background, age…some of us are students, some may be in the workforce. Volunteering helps us understand one another better so we can work together.”
+Agreeing with his sister, Ken added, “It’s more about bonding with everyone regardless of race, background, age… some of us are students, some may be in the workforce. Volunteering helps us understand one another better so we can work together.”
 
 **Sowing The Seed of Volunteerism**
 
 Knowing Ken’s background as a CCA leader, his teachers in church suggested he continued serving the community after secondary school. As luck would have it, Chingay was the next upcoming event so Ken started volunteering in 2017 and is still going strong.
 
-For Christine, it was the supportive network that touched her.  She decided to become a volunteer once her school stopped performing in Chingay. “Chingay is a unique platform where you have to perform as you walk. The actual venue was also very different from the sheltered environment of a dance studio. It was tiring walking back and forth many times. During our first rehearsal at the F1 pit, we struggled with the heat and tried to seek shelter under the seats. Fortunately, our friends kept cheering us on, boosting our morale,” she recalls. 
+For Christine, it was the supportive network that touched her. She decided to become a volunteer once her school stopped performing in Chingay. “Chingay is a unique platform where you have to perform as you walk. The actual venue was also very different from the sheltered environment of a dance studio. It was tiring walking back and forth many times. During our first rehearsal at the F1 pit, we struggled with the heat and tried to seek shelter under the seats. Fortunately, our friends kept cheering us on, boosting our morale,” she recalls. 
 
 **For The Love of Giving**
 
-Having been both  performer and a volunteer, Christine finds volunteering more fulfilling because it is a backend role unlike performers who are under the spotlight and applauded. Ken elaborates, “No one will tell you that you did a great job as a volunteer; you’re like the silent heroes.” To aspiring volunteers, Ken advises: “Do it only if you want to. Have fun and meet new people. Experience the world!”
+Having been both performer and a volunteer, Christine finds volunteering more fulfilling because it is a backend role unlike performers who are under the spotlight and applauded. Ken elaborates, “No one will tell you that you did a great job as a volunteer; you’re like the silent heroes.” To aspiring volunteers, Ken advises: “Do it only if you want to. Have fun and meet new people. Experience the world!”
 
 Christine values volunteering because she finds everyone friendly and easygoing, especially the leaders, who welcome feedback and encourage shared opinions. 
 
@@ -42,4 +42,4 @@ Volunteering together has strengthened the sibling’s relationship. Theirs is c
 
 **Hopes and Dreams For Chingay**
 
-The siblings hope Chingay can grow to the grandeur of the National Day Parade. With Chingay 2021 going digital in response to Covid-19 safety protocols, and successfully premiering Computer-Generated Imagery effects and visual elements, the duo hopes that traditional aspects of street performances given a modern twist will engage newer generations of audiences.
+The siblings hope Chingay can grow to the grandeur of the National Day Parade. With Chingay 2021 having gone digital in response to Covid-19 safety protocols, and successfully premiering Computer-Generated Imagery effects and visual elements, the duo hopes that traditional aspects of street performances given a modern twist will engage newer generations of audiences.
