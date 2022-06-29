@@ -4,7 +4,7 @@ permalink: /chingay50-stories/michael-koh-sharon-lee
 description: ""
 image: /images/Chingay50 Stories/michael-koh-sharon-lee-50storiesimage.jpg
 ---
-![](/images/Chingay50%20Stories/michael-koh-sharon-lee-50storiesimage.jpg)
+![Michael Koh and Sharon Lee](/images/Chingay50%20Stories/michael-koh-sharon-lee-50storiesimage.jpg)
 
 **Michael Koh and Sharon Lee**
 
