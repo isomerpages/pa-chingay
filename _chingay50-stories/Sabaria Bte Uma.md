@@ -19,8 +19,6 @@ As a grassroot leader for her Sengkang West community, Madam Sabaria recalls bei
 
 What made the 2012 Chingay unique was the fact it was held in a 360 metre-long waterway, specially constructed at the F1 Pit Building to appropriately welcome the year of the Water Dragon.
 
- 
-
 **Making the Right Moves**
 
 The item Madam Sabaria took part in was titled Community Dragons of Love, with 28 dragons taking part, a symbol of community and friendship in Singapore. Each dragon needed at least 12 members to make it move and Madam Sabaria made sure the Sengkang West dragon reflected the multi-racial mix of her community.
@@ -52,8 +50,6 @@ Now 61 and with more than 30 years of grassroots activities behind her, Madam Sa
 “It’s nothing new in Singapore for all races to be involved in Chingay, I always see a good mix of races, which is great. We always take turns to attend Chingay” she says.
 
 “I’ve seen overseas performers being invited, which is great as we also get a glimpse of other cultures. For the coming Chingay, my husband and I are contributing ideas for the mini float from our Sengkang West CC and I’m looking forward to playing my part for Chingay50.”
-
- 
 
 **Hopes and Dreams for Chingay**
 
