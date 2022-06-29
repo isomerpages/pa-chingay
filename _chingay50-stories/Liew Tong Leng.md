@@ -24,8 +24,6 @@ Before long, his great eye for the parade came into the view of an event officia
 
 By then, the shutterbug had already chalked up photographic awards, both locally and internationally. To date, he has more than 200 awards to his name.
 
- 
-
 **A Chingay Experience, Forever Changed**
 
 The Chingay experience has never been the same for Tong Leng since then. “With an official photographer pass, I am able to go nearer to the performers to capture photos with more interesting angles, not possible for spectators”, he explains. Other than the colours, movements and energy, Tong Leng loves to capture the moods and expressions of people’s faces.
