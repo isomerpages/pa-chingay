@@ -15,7 +15,7 @@ Fraulein's husband, Fraulein, Fraulein's daughter
 
 Human Resource Executive
 
-Tata Consultancy incorporates technology and innovation into their Chingay performances, showcasing the multi-culturalism of Singapore in a digital light.
+Tata Consultancy incorporates technology and innovation into their Chingay performances, showcasing the multiculturalism of Singapore in a digital light.
 
 In recent years, IT consultancy firm Tata Consultancy Services (TCS) has distinguished itself with participation in Chingay as part of the company’s mission to build a meaningful future through innovation, technology, and collective knowledge.
 
@@ -23,23 +23,21 @@ As a Chingay corporate partner, TCS has participated as a performing group since
 
 In 2020, TCS used holograms to share meaningful messages with the audience which won them the “Best in Contingent Display (Travelling Dance)” Award. 
 
-In 2021, as Chingay went digital, TCS used neon animation to create a fun twist, and showcased the multi-culturalism of Singapore with the display of unique Singapore cultural costumes.
+In 2021, as Chingay went digital, TCS used neon animation to create a fun twist, and showcased the multiculturalism of Singapore with the display of unique Singapore cultural costumes.
 
 This year, the focus turns to sustainability as the audience is made aware of the 17 Sustainable Development Goals mooted by the United Nations.
 
 But through it all, TCS believes that it has been the involvement of staff and family members that has brought alive these ideas that have created enduring memories.
 
-
 **Through The Eyes of A Loyal Staff**
 
 Fraulein Lumagui Lindero, Human Resources Executive at TCS, remembers well how she first got involved.
 
-“I had no idea what Chingay was about, then one fine day, my colleague asked if I would like to take part,” Fraulein recalls. 
+“I had no idea what Chingay was about, then one fine day, my colleague asked if I would like to take part”, Fraulein recalls. 
 
 “At first, I was hesitant. But when he explained that we have to represent our company and dance in the parade, I got excited because dancing is one of my passions. So, I joined in, and even asked my daughter and husband to come along.
 
 “It turned out to be an amazing experience… to see how diverse Chingay is, the different ethnic groups, and all the marvellous costumes during the parade, and to be one of the participants, the feeling is indescribable!”
-
 
 **Technology Plays A Role**
 
@@ -53,26 +51,24 @@ Explains Fraulein: “We wanted to leverage technology, which is everywhere, to 
 
 “With technology, you can do things beyond your imagination, and we show the people what TCS is capable of when it comes to the digital world. Apart from showcasing that, we also worked to bring the community together.”
 
-
 **Challenges Accepted and Met**
 
 The evolution into a digital Chingay due to the pandemic brought many new challenges. Practice had to be done separately and in separate teams, and online.
 
-“The dynamics are now so different, as we can only perform in small groups because of the safety measure guidelines, and it’s recorded and no longer live,” explains Fraulein. 
+“The dynamics are now so different, as we can only perform in small groups because of the safety measure guidelines, and it’s recorded and no longer live”, explains Fraulein. 
 
 “So, we have to work according to each member’s availability, and good thing, all our members were enthusiastic enough to spare their time to join in our practice.
 
-“We are not professional dancers and some of the dance steps are really challenging, and since it’s online practice, we try our best to teach each other. It took real focus to be in sync with each other.
+“We are not professional dancers and some of the dance steps are really challenging, and since it’s online practice, we try our best to teach each other. It took real focus to be in sync with each other."
 
 Fraulein feels that despite having to take things online, organisers were still able to produce a great performance for digital Chingay.  More than that, for TCS, the experiences became opportunities for the staff to create lasting bonds.
-
 
 **Hopes and Dreams For Chingay**
 
 Fraulein really hopes that Chingay will be back to normal soon, to the glorious street-performing pre-pandemic days. 
 
-“I really wish we can perform live again… and can watch Chingay live again, and really enjoy a grand street parade,” she wishes out loud.
+“I really wish we can perform live again… and can watch Chingay live again, and really enjoy a grand street parade”, she wishes out loud.
 
 As for the Chingay of the future, Fraulein thinks it will be more prestigious. 
 
-“I can see more people entertained by world-class performances, and I can also see Chingay being really world class and an event that people will enjoy it a lot,” she envisions.
+“I can see more people entertained by world-class performances, and I can also see Chingay being really world class and an event that people will enjoy it a lot”, she envisions.
