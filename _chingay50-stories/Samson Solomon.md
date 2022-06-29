@@ -5,6 +5,8 @@ description: ""
 image: /images/Chingay50 Stories/samson.png
 ---
 ![Samson Solomon](/images/Chingay50%20Stories/samson.png)
+Samson seen squatting, first in the front row from the extreme right
+
 **Samson Solomon**
 
 Student
