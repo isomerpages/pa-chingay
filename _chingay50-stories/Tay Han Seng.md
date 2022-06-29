@@ -32,7 +32,6 @@ Han Seng, who is a 55-year-old real estate professional, explains, “I think th
 
 Little wonder the GOF is a Chingay crowd magnet, and precisely why the GOF had a two-year hiatus. Han Seng shares, “If not for Covid-19, we would have participated in Chingay this year and last year. But there were concerns that as soon as we appeared, many people would rush towards us to get the red packets. It would have been impossible to maintain safe distancing so we took a two-year break to abide by government regulations.”
 
-
 **The Mystical Emperor’s Robe**
 
 The GOF is decked in a resplendent costume that is similar to the dragon robes worn by the Chinese Emperor. 
@@ -42,7 +41,6 @@ The GOF is decked in a resplendent costume that is similar to the dragon robes w
 “When I wear the headpiece, I feel like I’m glowing,” reveals Han Seng.
 
 Han Seng’s “mystical power” as the GOF extends to his personal life even when he is “off stage”; it is a source of good fun among his friends, who jokingly ask for auspicious lottery numbers to help them strike lottery!
-
 
 **An Enduring Passion For Chingay**
 
@@ -57,7 +55,6 @@ These keeping Han Seng going strong as a GOF performer.
 “We have a very tight schedule. You need to arrive early to put on your makeup and get dressed. Also, it is usually very hot. The shoes we are wearing are those worn for Chinese opera so keeping our balance while walking is a challenge, forcing us to pay close attention with every step and walk slowly.
 
 “We mainly enter the stage from the staircase below. Due to the nature of our shoes and costume, it is rather clumsy moving around. We must remind ourselves constantly to be careful; if we stepped on each other, we may cause them to fall.
-
 
 **Hopes and Dreams For Chingay**
 
