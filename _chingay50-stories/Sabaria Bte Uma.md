@@ -3,7 +3,7 @@ title: Sabaria Bte Uma
 permalink: /chingay50-stories/sabaria-bte-uma
 description: ""
 ---
-![](/images/Chingay50%20Stories/sabaria-bte-uma-50storiesimage.jpg)
+![Sabaria Bte Uma](/images/Chingay50%20Stories/sabaria-bte-uma-50storiesimage.jpg)
 
 **Sabaria Bte Uma**
 
