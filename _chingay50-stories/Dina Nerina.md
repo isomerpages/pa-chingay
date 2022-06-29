@@ -3,7 +3,7 @@ title: Dina Nerina
 permalink: /chingay50-stories/dina-nerina
 description: ""
 ---
-![](/images/Chingay50%20Stories/dina-nerina-50storiesimage.jpg)
+![Dina Nerina](/images/Chingay50%20Stories/dina-nerina-50storiesimage.jpg)
 **Dina Nerina**
 
 Community Programmes Manager
