@@ -17,8 +17,6 @@ It is no mean feat to pull off a cheerleading performance involving heights, ris
 
 The stakes and challenges are even greater when such performance involves a transnational team where each member brings different styles, techniques and traditions to the floor. Add to that the fact that the foreign cheerleaders had never performed in a street parade before their 2019 outing at Chingay.
 
- 
-
 **Linking Lingo and Marrying Movements**
 
 Indeed, there were challenges. However, as 28-year-old TJ shared, these were not insurmountable.
@@ -29,8 +27,6 @@ With the many different moves in their routine, it took some days for the team t
 
 Initially, the foreign cheerleaders also had to contend with fear as they had never performed stunts and tumbles on the road without mats. However much the team practised and prepared themselves for the performance, hiccups on the ground was almost inevitable. TJ recalls an occasion during rehearsal when a memory card for the LED head gear went missing. The equally “gancheong” and flustered Vietnamese and Singaporeans wanted to comb the parade route to search for the lost card immediately. Their “chill” Thai counterparts suggested buying a new card to input the programming for the parade the next day instead.
 
- 
-
 **Diversity Spells Creativity**
 
 Despite the challenges, TJ was very enthused by the dynamism and colour his foreign friends had injected into the performance.
@@ -39,10 +35,8 @@ Their ideas and experiences also inspired the local team to break out of convent
 
 Besides practices, TJ and his team did not overlook the need to relax and bond outside of their performance preparation time. Local food trails organised allowed the foreign counterparts to experience a much-touted slice of Singapore culture. Over chicken rice which was a common favourite, the diverse team bonded and built camaraderie.
 
-Kudos to CheerForce, the multi-cultural team, for persevering and sharing their cheerleading dreams and pulling off a stunning performance which we hope will continue to wow the Chingay crowds for years to come.
-
- 
+Kudos to CheerForce, the multicultural team, for persevering and sharing their cheerleading dreams and pulling off a stunning performance which we hope will continue to wow the Chingay crowds for years to come.
 
 **Hopes and Dreams For Chingay**
 
-TJ’s dream is for Chingay to have more talents from the community performing together and more collaborations. His personal dream is to have an international cheerleading group perform live at the Chingay parade.
+TJ’s dream is for Chingay to have more talents from the community performing together and more collaborations. His personal dream is to have an international cheerleading group perform live at the Chingay Parade.
