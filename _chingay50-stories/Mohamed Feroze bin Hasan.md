@@ -3,7 +3,7 @@ title: Mohamed Feroze bin Hasan
 permalink: /chingay50-stories/mohamed-feroze-bin-hasan
 description: ""
 ---
-![](/images/Chingay50%20Stories/mohamed-feroze-bin-hasan-50storiesimage.jpg)
+![Mohamed Feroze bin Hasan](/images/Chingay50%20Stories/mohamed-feroze-bin-hasan-50storiesimage.jpg)
 
 **Mohamed Feroze bin Hasan**
 
