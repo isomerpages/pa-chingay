@@ -3,7 +3,7 @@ title: Liew Tong Leng
 permalink: /chingay50-stories/liew-tong-leng
 description: ""
 ---
-![](/images/Chingay50%20Stories/liew-tong-leng-50storiesimage.jpg)
+![Liew Tong Leng](/images/Chingay50%20Stories/liew-tong-leng-50storiesimage.jpg)
 
 **Liew Tong Leng**
 
