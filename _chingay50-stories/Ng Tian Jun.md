@@ -3,7 +3,7 @@ title: Ng Tian Jun
 permalink: /chingay50-stories/ng-tian-jun
 description: ""
 ---
-![](/images/Chingay50%20Stories/ng-tian-jun-50storiesimage.jpg)
+![Ng Tian Jun](/images/Chingay50%20Stories/ng-tian-jun-50storiesimage.jpg)
 
 **Ng Tian Jun**
 
