@@ -45,8 +45,6 @@ The events seemed to transport her back to her Chingay performance in the 1970s.
 
 The opportunity to interact with the audience at the F1 Pit and Tampines Hub also added to the gaiety of the event. "Taking photographs with the enthusiastic audience made me feel like a celebrity", she beamed.
 
- 
-
 **Hopes and Dreams For Chingay**
 
 As for her dreams for the future of Chingay, Cheng Kam simply hopes that “the show can go on and on”. She is confident that in this digital age, the show can only get better. Social media is really promising for Chingay's future, already helping to generate a lot of awareness and publicity.
