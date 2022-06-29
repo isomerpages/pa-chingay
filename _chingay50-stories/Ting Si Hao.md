@@ -29,7 +29,7 @@ In his early 30s, Si Hao’s early influences include Nobuo Uemetsu, who wrote t
 
 There is no better time than Chingay50 to check in on the Singapore’s young talents, especially one who has scored for several films, and Si Hao readily accepted the call-up.
 
-“I think what got me interested was the fact that Chingay is Singapore’s largest multi-cultural show, so diverse and so many different talents involved.  I’ve been writing many multicultural music during the last few years, and when this came along, my reaction was ‘Wow, this is perfect!’ ”, he says. 
+“I think what got me interested was the fact that Chingay is Singapore’s largest multicultural show, so diverse and so many different talents involved.  I’ve been writing many multicultural music during the last few years, and when this came along, my reaction was ‘Wow, this is perfect!’ ”, he says. 
 
 “I get to experiment with a diverse range of music on such a large-scale event and the idea of doing it for the 50th anniversary show really excites me. The creative team explained that it is going to be a big show and they wanted my cinematic elements and approach as well, and that piqued my interest.”
 
