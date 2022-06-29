@@ -29,7 +29,7 @@ From watching Rachael’s engaging expressions and lively energy as she performs
 
 **Room To Be Racheal**
 
-Participating at WGT 2021 was a great personal motivation for Racheal to keep practising hard and learning new choreographies so that she can enter more competitions.
+Participating at WGT 2021 was a great source of motivation for Racheal to better herself. Through this, she learnt to keep practising hard and learn new choreographies to enter more competitions.
 
 It has also opened new doors for her as, soon after, she was invited to participate in a mini-series, Chingay on Wheels – a first for Rachael to be featured on a professional media platform. Chingay on Wheels is streamed on YouTube and features various home-grown talents of Chingay like Racheal.
 
