@@ -16,7 +16,7 @@ Fourteen-year-old Joshua Low participated in Chingay’s We’ve Got Talent! 202
 
 “Go easy on me…..didn’t get the chance to feel the world around me….” 
 
-The music of Adele’s song “Easy on Me” wafted dreamily in the air as Joshua played his saxophone in an open-top car travelling down the highway.  In the background, icons of Singapore’s breathtaking downtown skyline glide beautifully along against a clear sky -  the Singapore Flyer, the Marina Bay Sands area, then to Singapore’s civic district where the National Art Gallery sits grandly in the vicinity of the Padang. Finally, cut back to the steps of a colonial-style bungalow where Joshua sits, strumming his guitar. 
+The music of Adele’s song “Easy on Me” wafted dreamily in the air as Joshua played his saxophone in an open-top car travelling down the highway. In the background, icons of Singapore’s breathtaking downtown skyline glide beautifully along against a clear sky -  the Singapore Flyer, the Marina Bay Sands area, then to Singapore’s civic district where the National Art Gallery sits grandly in the vicinity of the Padang. Finally, cut back to the steps of a colonial-style bungalow where Joshua sits, strumming his guitar. 
 
 Those were the scenes from the captivating video which 14-year-old Joshua Low submitted to Chingay’s We’ve Got Talent 2022!. The video which creatively captured Joshua’s impressive talent helped him to clinch the Chingay Community Star 2022 award. 
 
@@ -24,8 +24,7 @@ Joshua was shocked to win the award because he participated “just for the expe
 
  It took him all of two days to complete the video.  He arranged and mixed the music all by himself. But first, there was the brainstorming session with his family to plan and conceptualise the video for the competition. His father, an event producer, helped Joshua shoot his video submission. 
 
-Why did he pick the song “Easy on Me”?  According to Joshua, it was a poignant piece particularly during the pandemic as it echoes his hope that things will get better for everyone again soon. 
-
+Why did he pick the song “Easy on Me”? According to Joshua, it was a poignant piece particularly during the pandemic as it echoes his hope that things will get better for everyone again soon. 
 
 **First Solo Gig At The Jewel**
 
@@ -34,7 +33,6 @@ A memorable highlight for Joshua winning this award was the opportunity to perfo
 At the show, Joshua played a rendition of the popular local folk song, Chan Mali Chan, while community talents who were also scouted through We’ve Got Talent! performed alongside Mini-Floats co-created by residents. The newly minted “Community Star 2022” enthused that he was simply energised and awed by the entire vibe and the “grand atmosphere” at the event. 
 
 This was not Joshua’s first public performance. In 2017, he also performed at Chingay in an ensemble. “I was in Primary 3 then and the saxophone was almost bigger than I was!” he chuckled.  
-
 
 **His Music Dreams Ignited**
 
