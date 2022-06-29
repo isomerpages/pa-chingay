@@ -13,11 +13,9 @@ Real Estate Agent
 
 Likely the only Chingay volunteer to have performed as a belly dancer as well as the God of Fortune, Tay Han Seng shares what sustains his 30-year Chingay association.
 
-
 **Drumming Up The Lunar New Year Vibes**
 
 Han Seng is drawn to Chingay because it creates a very strong Lunar New Year atmosphere that he loves. He wishes to spread the festive spirit to as many people as he can. He began volunteering at Chingay back in 1993, helping behind the scenes in his performance troupe’s props and costumes department. Over the years, he has embraced many different roles, always happy and ready to help wherever he was needed. This includes performing as a belly dancer!
-
 
 **Bountiful Fortune**
 
@@ -38,7 +36,7 @@ The GOF is decked in a resplendent costume that is similar to the dragon robes w
 
 “As soon as I put on the costume, my personality automatically switches over to help me get into the GOF character. It gives me a surge of power every time I wear the costume.
 
-“When I wear the headpiece, I feel like I’m glowing,” reveals Han Seng.
+“When I wear the headpiece, I feel like I’m glowing”, reveals Han Seng.
 
 Han Seng’s “mystical power” as the GOF extends to his personal life even when he is “off stage”; it is a source of good fun among his friends, who jokingly ask for auspicious lottery numbers to help them strike lottery!
 
