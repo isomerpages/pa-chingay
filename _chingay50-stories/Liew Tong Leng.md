@@ -15,7 +15,6 @@ Chingay parades are such spectacular events they often leave their spectators wo
 
 The 52-year-old has been capturing the magic of Chingay in pictures since 1995.
 
- 
 
 **Early Exposure**
 
@@ -33,8 +32,6 @@ The Chingay experience has never been the same for Tong Leng since then. “With
 
 Being an official photographer at Chingay is “intense”. Having to be very focused on his subjects amidst the whirlwind of fanfare, Tong Leng is always hunting for the precise moment to take the click with split-second dexterity. He feels spectators have the luxury of just enjoying the performances as they unfold.
 
- 
-
 **Great Timing and A Bit Of Luck**
 
 If there is a subject that captivates Tong Leng more than others, it is the dragon dance. The expressive and energetic choreography presents great potential for dramatic and captivating shots. Hence, the dragon dance at Chingay is a must-see for him.
@@ -43,8 +40,6 @@ There are also added dimensions to the show experience. Tong Leng recalls a perf
 
 Tong Leng’s passion to capture winning shots is almost unstoppable and it will always keep him coming back to shoot at Chingay. What drives his passion is his personal motto: “My next shot will be my best”.
 
- 
-
-**Hopes and Dream For Chingay**
+**Hopes and Dreams For Chingay**
 
 Tong Leng has grand visions of Chingay. He wants it to be a magnetic crowd-puller on the international events calendar for Singapore. He hopes Chingay will grow to  attract the best of local as well as global talents, both as spectators and performers. He encourages organisers to continue to come up with variety and creative ideas to take the show to the next level.
