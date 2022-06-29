@@ -12,6 +12,4 @@ description: ""
 
 Chingay has brought along different memories for many individuals.
 
- 
-
 Join us as we parade through time and explore the memorable moments of Chingay for the past 50 years.
