@@ -3,7 +3,7 @@ title: Lim Jia Hui
 permalink: /chingay50-stories/lim-jia-hui
 description: ""
 ---
-![](/images/Chingay50%20Stories/lim-jia-hui-50storiesimage.jpg)
+![Lim Jia Hui](/images/Chingay50%20Stories/lim-jia-hui-50storiesimage.jpg)
 
 **Lim Jia Hui**
 
