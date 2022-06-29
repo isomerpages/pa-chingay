@@ -57,7 +57,6 @@ Not taking his appointment lightly, Si Hao is aware of the opportunity accorded 
 
 “I’ve gained different perspectives in life and it’s really enriching to be working with some of the younger talents in Singapore as well.”
 
-
 **Hopes and Dreams For Chingay**
 
 Si Hao's dream for Chingay is quite aligned to what Chingay is all about – celebrating our diverse culture across all ages and celebrating talents in Singapore. And my hope for Chingay is that it gets bigger and bigger, and get recognition in the world as a really great show that everyone should watch.
