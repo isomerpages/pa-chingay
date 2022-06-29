@@ -11,15 +11,11 @@ Retiree
 
 Teo Cheng Kam, 62, first participated as a pom pom cheerleader at Chingay 1976 after completing her ‘O’ Levels. After participating again in 1978, it would be another almost 40 years before she got her long-held dream to perform at Chingay again.
 
- 
-
 Memories of her early days performing at Chingay parades are very special and dear to Cheng Kam.
 
-She was waiting for her ‘O’ Level results when her teacher announced that the People’s Association (PA) was recruiting for the Singapore Girls’ Piper team.  Curious, she immediately signed up together with a few friends.
+She was waiting for her ‘O’ Level results when her teacher announced that the People’s Association (PA) was recruiting for the Singapore Girls’ Piper team. Curious, she immediately signed up together with a few friends.
 
 Little did she expect that this would bring her many memorable moments of her youthful, carefree days.
-
- 
 
 **A Kaleidoscope Of Colourful Memories**
 
@@ -29,13 +25,9 @@ Another memory she cherished was taking bus rides with her friends to the old PA
 
 Her maiden Chingay performance in 1976 was a blur of excitement, thrill and a tinge of nerves. The performing route took them from Mount Faber to Telok Blangah.
 
- 
-
 **Parading Through Her ‘hood**
 
-Vivid in Cheng Kam’s mind was her baton performance in 1978 with the same Chingay contingent. They marched from Marine Terrace where her father’s hawker stall was located, all the way to Joo Chiat – the childhood “kampung” where she grew up in.  Seeing familiar places and faces as she marched down the route was so poignant for her and filled her with an inexplicable joy.  
-
- 
+Vivid in Cheng Kam’s mind was her baton performance in 1978 with the same Chingay contingent. They marched from Marine Terrace where her father’s hawker stall was located, all the way to Joo Chiat – the childhood “kampung” where she grew up in. Seeing familiar places and faces as she marched down the route was so poignant for her and filled her with an inexplicable joy.  
 
 **Time Marches On**
 
@@ -47,16 +39,14 @@ That year, she was part of a dancing contingent representing North East CDC. Clo
 
 True to form, Cheng Kam rose to the occasion without missing a beat.
 
- 
-
 **Feeling Like A Star**
 
-The events seemed to transport her back to her Chingay performance in the 1970s.  Yet, she also saw how far Chingay has come through the years.  With modern technology and the use of digital lights, floats and costumes have become more colourful, elaborate and captivating. “The costumes are even more attractive with bling bling lights on them!” she gushed.  
+The events seemed to transport her back to her Chingay performance in the 1970s. Yet, she also saw how far Chingay has come through the years.  With modern technology and the use of digital lights, floats and costumes have become more colourful, elaborate and captivating. “The costumes are even more attractive with bling bling lights on them!” she gushed.  
 
-The opportunity to interact with the audience at the F1 Pit and Tampines Hub also added to the gaiety of the event. Taking photographs with the enthusiastic audience ‘made me feel like a celebrity’, she beamed.
+The opportunity to interact with the audience at the F1 Pit and Tampines Hub also added to the gaiety of the event. "Taking photographs with the enthusiastic audience made me feel like a celebrity", she beamed.
 
  
 
 **Hopes and Dreams For Chingay**
 
-As for her dreams for the future of Chingay, Cheng Kam simply hopes that “the show can go on and on”. She is confident that in this digital age, the show can only get better and social media is also helping to generate a lot of awareness and publicity for Chingay which is really promising for its future.
+As for her dreams for the future of Chingay, Cheng Kam simply hopes that “the show can go on and on”. She is confident that in this digital age, the show can only get better. Social media is really promising for Chingay's future, already helping to generate a lot of awareness and publicity.
