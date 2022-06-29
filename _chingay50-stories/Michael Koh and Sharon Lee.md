@@ -5,6 +5,7 @@ description: ""
 image: /images/Chingay50 Stories/michael-koh-sharon-lee-50storiesimage.jpg
 ---
 ![](/images/Chingay50%20Stories/michael-koh-sharon-lee-50storiesimage.jpg)
+
 **Michael Koh and Sharon Lee**
 
 Aircon Specialist and Homemaker
