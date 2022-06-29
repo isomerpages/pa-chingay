@@ -3,7 +3,7 @@ title: Ian Koh
 permalink: /chingay50-stories/ian-koh
 description: ""
 ---
-![](/images/Chingay50%20Stories/ian-koh-50storiesimage.jpg)
+![Ian Koh](/images/Chingay50%20Stories/ian-koh-50storiesimage.jpg)
 
 **Ian Koh**
 
