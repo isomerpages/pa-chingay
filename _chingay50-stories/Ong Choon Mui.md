@@ -18,7 +18,7 @@ Today, the 69-year-old retiree recalls how she and her friends, a bunch of 20-so
 
 **The First Chingay Parade**
 
-“When we got the offer to perform during Chingay, we just rehearsed according to our roles,” shares Madam Ong. “It's very exciting because it was our first time. Our trainers arranged practice three days a week, day to night. Tough, but we enjoyed the process.”
+“When we got the offer to perform during Chingay, we just rehearsed according to our roles”, shares Madam Ong. “It's very exciting because it was our first time. Our trainers arranged practice three days a week, day to night. Tough, but we enjoyed the process.”
 
 On parade day, all performers gathered at Jalan Besar Stadium on the morning. Madam Ong recalls, “People from all walks of life lined the streets with parents carrying their children.
 
@@ -28,7 +28,7 @@ On parade day, all performers gathered at Jalan Besar Stadium on the morning. Ma
 
 For Mr Liao, his performance involved riding a bicycle.
 
-“We swapped riders in between so that none of us would become completely exhausted given the heat of the day,” he explains. “There were about six or seven male performers assigned to ride the bicycles, though once you had the mascot head on, it was impossible to tell if it was a male or female performer underneath!”
+“We swapped riders in between so that none of us would become completely exhausted given the heat of the day”, he explains. “There were about six or seven male performers assigned to ride the bicycles, though once you had the mascot head on, it was impossible to tell if it was a male or female performer underneath!”
 
 In later years, Madam Ong also took part in the peacock dance as well as a “Lao Bei Shao” performance performing in 1978 and then again in 2017, when she was invited by People’s Association.
 
@@ -36,7 +36,7 @@ In later years, Madam Ong also took part in the peacock dance as well as a “La
 
 For Madam Ong, the changes have been tremendous. Chingay today is like an international carnival!” she exclaims. “In 1973, we performed along the streets with the audience standing at the sides. In recent years, I watched the performance at the F1 Pit Building, and the props were very high-class.
 
-“Previously held during the day, Chingay is now at night and there’s a lot more electronic elements involved. I still prefer the atmosphere of the performances back in the day because there was more direct interaction between performers and audience,” she adds.
+“Previously held during the day, Chingay is now at night and there’s a lot more electronic elements involved. I still prefer the atmosphere of the performances back in the day because there was more direct interaction between performers and audience”, she adds.
 
 **Friendship Across The Ages**
 
