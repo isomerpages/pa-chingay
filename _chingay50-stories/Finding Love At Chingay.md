@@ -3,8 +3,7 @@ title: Finding Love At Chingay
 permalink: /chingay50-stories/finding-love-at-chingay
 description: ""
 ---
-![finding love at chingay](/images/Chingay50%20Stories/finding%20love%20at%20chingay.png)
-
+![Finding Love At Chingay](/images/Chingay50%20Stories/finding%20love%20at%20chingay.png)
 
 **Finding Love At Chingay**
 

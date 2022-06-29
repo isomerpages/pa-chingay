@@ -29,7 +29,7 @@ First-timer Qi Zhen, who started dancing at 6 years old, described her enjoyable
 
 Teammate Hannah added, “We listened to Spotify and found this song, a mix of ‘Gei Wo Yi Ge Wen’ (给我一个吻) and ‘Wo Yao Ni De Ai’ (我要你的爱), which we found quite entertaining. So, we went with that, and created a Chinese and Jazz dance with it.”
 
-Charis explained, “We spent most of our December holidays in the studio, basically from 9-5 to work on this.” The trio bonded well during practices. “We picked up new skills, and paid a lot of attention to details… even down to the angles of our hands, which was very important in our dance synchronisation,” Hannah shared.
+Charis explained, “We spent most of our December holidays in the studio, basically from 9-5 to work on this.” The trio bonded well during practices. “We picked up new skills, and paid a lot of attention to details… even down to the angles of our hands, which was very important in our dance synchronisation”, Hannah shared.
 
 The girls were very surprised to find out that the video they submitted made it to the finals.
 
@@ -37,7 +37,7 @@ The girls were very surprised to find out that the video they submitted made it 
 
 For Janelle and Alyssa, it was what they learned along the way that made this experience special. 
 
-“The most memorable part was the whole process of preparing for the competition. We learned a lot about Chinese culture through the dance steps, fused with our Broadway Jazz concept,” Alyssa explained.
+“The most memorable part was the whole process of preparing for the competition. We learned a lot about Chinese culture through the dance steps, fused with our Broadway Jazz concept”, Alyssa explained.
 
 Admittedly, she knew little about Chingay at the time, apart from the fact it is an annual street performances parade.
 

@@ -3,7 +3,7 @@ title: Sabaria Bte Uma
 permalink: /chingay50-stories/sabaria-bte-uma
 description: ""
 ---
-![](/images/Chingay50%20Stories/sabaria-bte-uma-50storiesimage.jpg)
+![Sabaria Bte Uma](/images/Chingay50%20Stories/sabaria-bte-uma-50storiesimage.jpg)
 
 **Sabaria Bte Uma**
 
@@ -11,15 +11,13 @@ BIM Modeller Personnel
 
 An opportunity to be part of a unique Chingay 40 celebration was simply too good to pass up for grassroot leader Sabaria bte Uma who enjoyed the multicultural experience of learning a unique Chinese traditional dance form.
 
-Chingay 2012 was a truly special one, and when Madam Sabaria bte Uma heard of an opportunity to be a part of it, she knew she had to be involved.
+Chingay 2012 was a truly special one, and when Madam Sabaria heard of an opportunity to be a part of it, she knew she had to be involved.
 
-As a grassroots leader for her Sengkang West community, Madam Sabaria recalls being asked by one of her fellow committee members to join the dragon dance, for the 40th edition of Chingay, to usher in the Year of the Dragon.
+As a grassroot leader for her Sengkang West community, Madam Sabaria recalls being asked by one of her fellow committee members to join the dragon dance, for the 40th edition of Chingay, to usher in the Year of the Dragon.
 
 “He said to me ‘eh Saba, let’s join the dragon dance’, and I replied ‘are you sure or not?’. Back then I was in my 50s, and when he said that it’s definitely something I’m capable of, I jumped right in,” she says.
 
 What made the 2012 Chingay unique was the fact it was held in a 360 metre-long waterway, specially constructed at the F1 Pit Building to appropriately welcome the year of the Water Dragon.
-
- 
 
 **Making the Right Moves**
 
@@ -52,8 +50,6 @@ Now 61 and with more than 30 years of grassroots activities behind her, Madam Sa
 “It’s nothing new in Singapore for all races to be involved in Chingay, I always see a good mix of races, which is great. We always take turns to attend Chingay” she says.
 
 “I’ve seen overseas performers being invited, which is great as we also get a glimpse of other cultures. For the coming Chingay, my husband and I are contributing ideas for the mini float from our Sengkang West CC and I’m looking forward to playing my part for Chingay50.”
-
- 
 
 **Hopes and Dreams for Chingay**
 

@@ -6,11 +6,13 @@ image: /images/Chingay50 Stories/Eileen and Casey.jpg
 ---
 ![Eileen and Casey](/images/Chingay50%20Stories/Eileen%20and%20Casey.jpg)
 
+Eileen seen on the right and Casey seen on the left
+
 **Eileen and Casey**
 
 Founder of Sinagpore Fashion Runway and Singapore Fashion Youth Leader
 
-Eileen Yap led a contingent of differently-abled performers from the Singapore Fashion Runway in the Chingay Parade from 2018 to 2020. Along with Casey Ng, they share their journey powering through adversity.  
+Eileen Yap led a contingent of differently-abled performers from the Singapore Fashion Runway in the Chingay Parade from 2018 to 2020. Along with Casey Ng, they share their journey powering through adversity.
 
 **Everyone’s Got Talent**
 
@@ -26,7 +28,7 @@ Casey Ng, SFR Youth Leader and Chingay participant, “I enjoyed being part of C
 
 Eileen’s excitement rippled through SRF—all the families and partners responded enthusiastically to the Chingay invitation. 
 
-“Dance is one of the art forms we promote to our members and their families. The chance to participate in Chingay will boost their passion in dance so priority was given to the SFR dance members, before opening up to other SFR partners. Due to the overwhelming response, we could only enrol the first 65 who signed up. That’s how our first contingent was born,” explains Eileen.
+“Dance is one of the art forms we promote to our members and their families. The chance to participate in Chingay will boost their passion in dance so priority was given to the SFR dance members, before opening up to other SFR partners. Due to the overwhelming response, we could only enrol the first 65 who signed up. That’s how our first contingent was born”, explains Eileen.
 
 **Amazing Grit**
 
@@ -48,7 +50,7 @@ SFR is a fashion-forward initiative and its Chingay association grew steadily fr
 
 Chingay offered a platform to hone SFR’s entrepreneurial skills—its merchandise was featured in the online sales channel, Chingay Mama Shop.
 
-“It was nice to see our President, Prime Minister and Ministers wearing SFR-designed face masks at the opening of the Chingay parade, demonstrating Chingay is indeed an inclusive movement,” Eileen shares.
+“It was nice to see our President, Prime Minister and Ministers wearing SFR-designed face masks at the opening of the Chingay parade, demonstrating Chingay is indeed an inclusive movement”, Eileen shares.
 
 **Hopes and Dreams For Chingay**
   

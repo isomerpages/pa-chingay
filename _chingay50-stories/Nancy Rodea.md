@@ -14,8 +14,6 @@ Presenting the Dance of the Jarocho at Chingay50 is Nancy Rodea, President of th
 
 When expatriate Nancy Rodea first arrived in Singapore two years ago, topping her to-do list was to experience our multicultural society. “I have read in articles and heard in the news about the different cultures that exist in Singapore but living it and feeling it is incredible!” enthuses Nancy. 
 
-
-
 **From Mexico To The Multicultural Chingay Stage**
 
 Nancy had observed that, in Singapore, there is strong emphasis on looking for ways of integrating people regardless of religion, language and cultural traditions. Nancy believes this unity in diversity strengthens the nation’s social fabric which resonates with her. She is President of MEXASING, the organisation that helps Mexican families integrate successfully into Singapore, and one of her core missions is to help promote Mexican culture here. 
@@ -24,9 +22,7 @@ So when the People’s Association approached MEXASING to put up a performance f
 
 “My role at MEXASING includes creating social engagement programmes and taking part in cultural events. Chingay is a perfect showcase to present the best of Mexican culture while taking part in Singapore’s iconic street parade.”
 
-
-**Presenting A Taste Of Veracruz for Chingay50
-**
+**Presenting A Taste Of Veracruz for Chingay50**
 
 To celebrate the 50th anniversary of Chingay, MEXASING presented the Jarocho Dance from Veracruz, which has a rich blend of mostly indigenous, ethnic Spanish and Afro-Cuban cultures. These unique cultural influences are seen in the typical dress of the Jarocho costume.
 
@@ -34,11 +30,9 @@ Adhering to the prevailing safe distancing requirements, MEXASING presented only
 
 Nancy and her team chose one of the most popular songs from Veracruz in the dance choreography. The practice sessions were hosted by another member of MEXASING, making this a team effort.
 
-
 **Fun Facts: From Roots To Hair**
 
 Donning these deeply traditional costumes was a great source of regional pride. The Chingay50 dresses were specially imported from Veracruz and a team of volunteers gathered in Nancy’s home to hand stitch the final flourishes and accessories before the show.
-
 
 **Interacting With Other Communities**
 

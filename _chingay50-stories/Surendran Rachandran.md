@@ -18,7 +18,6 @@ With more than 20 years of dance experience, Suren (as he wishes to be known) ha
 
 “We know through dance we are able to tell a story,” says Suren, “so for this year, we’ve decided to go with Indian folklore as our concept for our contingent. We want to show the whole cultural aspect with a modern twist… through this, we want people to know about Indian folklore as well.”
 
-
 **Dancing Every Day**
 
 By his own admission, Suren’s dance journey has been firmly rooted in Indian dance, his main focus since primary school. 
@@ -32,27 +31,23 @@ By his own admission, Suren’s dance journey has been firmly rooted in Indian d
 
 It was through the community centre that Suren first got involved in Chingay. 
 
-“My dad volunteered there and they were looking for people to take part in Chingay so I signed up for the fun of it, along with my sisters and friends,” Suren recalls. “We joined because it was about dance and we wanted to have a feel for the parade.
+“My dad volunteered there and they were looking for people to take part in Chingay so I signed up for the fun of it, along with my sisters and friends”, Suren recalls. “We joined because it was about dance and we wanted to have a feel for the parade.
 
 “I didn’t know Chingay was related to the Chinese New Year celebrations at first but we soon did, and with other ethnic groups taking part, we got to know Singapore as a multicultural society.
 
 “For my first Chingay, we wore costumes and performed an Indian tribal dance. And it was a long route, going from Suntec City to City Hall, dancing on the streets of Singapore. We had troupes from other countries as well, and we took so many photos with the other dance groups and even had busking sessions while awaiting our turns!”
 
-
-
 **From Dancer To Designer of Dances**
 
 While being a dancer, one’s job is just to perform, now being a choreographer there is a lot more to handle, Suren admits.
 
-“I now need to do a lot more prep work, such as concept, themes, music, costumes and even get dancers to come down and perform for the contingent,” he says. “I have to coach my trainers and performers, and carry out what I envision for the performance.
+“I now need to do a lot more prep work, such as concept, themes, music, costumes and even get dancers to come down and perform for the contingent”, he says. “I have to coach my trainers and performers, and carry out what I envision for the performance.
 
 “I’ve done a lot of stage choreography but with Chingay it is definitely a different opportunity for me to choreograph for up to 200 performers on the street parade – they are worlds apart. 
 
 “My instructor shared a lot of details such as the costume, makeup and how the presentation should look like. My dance friends, whom I have been performing with, have also joined me on this journey as trainers and coaches through the dance contingent.
 
 “As I’m in Chingay every year, I am experiencing it ‘live’ but I often look forward to seeing the clips my friends send me and also to catch the repeat telecast on TV.”
-
-
 
 **Hopes and Dreams For Chingay**
 

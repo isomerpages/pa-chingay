@@ -29,7 +29,7 @@ Counting Chingay50, George has been involved on six occasions playing various ro
 
 But what has endured has been the spirit of friendship, and the camaraderie of working with so many people along the way.
 
-“The friendships I made are very special, probably one of the most important and precious takeaways I have from Chingay,” says George. 
+“The friendships I made are very special, probably one of the most important and precious takeaways I have from Chingay”, says George. 
 
 “I’ve come to know a lot of people from when I started in 2009, and when I go back I still see a lot of the same people. Coming together and catching up every now and then, we end up developing a lot of friendships.”
 
@@ -39,14 +39,14 @@ For George, the community means a lot and “it’s also about voice – people 
 
 Chingay50 was not just a milestone for its organiser, the People’s Association (PA), it also proved a landmark for its performers.
 
-“It certainly was a milestone for me also, having done a few Chingay Parades and being able to come all the way to its 50th anniversary,” said George.
+“It certainly was a milestone for me also, having done a few Chingay Parades and being able to come all the way to its 50th anniversary”, said George.
 
 
-“I found it very hard to pick myself up during COVID-19, and keep driving myself forward,” he confessed. “But the creative team here at Chingay was pushing through all the way. It really wasn’t an easy feat, so that really inspired me.
+“I found it very hard to pick myself up during COVID-19, and keep driving myself forward”, he confessed. “But the creative team here at Chingay was pushing through all the way. It really wasn’t an easy feat, so that really inspired me.
 
 As a freelance performer, George is always looking for opportunities to express himself, shows and projects that would challenge him, yet bring him joy.
 
-“That’s why Chingay is a wonderful gig to have, and I'm very glad that Chingay always gives me great platforms to perform on,” he says. “It’s a blessing when I get to sing a great song or do a great show in front of such a large warm audience that claps for you. PA gave me that opportunity and I’m very thankful to them.”
+“That’s why Chingay is a wonderful gig to have, and I'm very glad that Chingay always gives me great platforms to perform on”, he says. “It’s a blessing when I get to sing a great song or do a great show in front of such a large warm audience that claps for you. PA gave me that opportunity and I’m very thankful to them.”
 
 **Hopes and Dreams For Chingay**
 

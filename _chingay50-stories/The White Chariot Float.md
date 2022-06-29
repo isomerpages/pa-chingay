@@ -4,8 +4,6 @@ permalink: /chingay50-stories/white-chariot-float
 description: ""
 image: /images/Chingay50 Stories/white chariot float.png
 ---
-
-
 ![White Chariot Float](/images/Chingay50%20Stories/white%20chariot%20float.png)
 <br></br>
 **The White Chariot Float**

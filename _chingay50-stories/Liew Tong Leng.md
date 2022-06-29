@@ -3,7 +3,7 @@ title: Liew Tong Leng
 permalink: /chingay50-stories/liew-tong-leng
 description: ""
 ---
-![](/images/Chingay50%20Stories/liew-tong-leng-50storiesimage.jpg)
+![Liew Tong Leng](/images/Chingay50%20Stories/liew-tong-leng-50storiesimage.jpg)
 
 **Liew Tong Leng**
 
@@ -15,7 +15,6 @@ Chingay parades are such spectacular events they often leave their spectators wo
 
 The 52-year-old has been capturing the magic of Chingay in pictures since 1995.
 
- 
 
 **Early Exposure**
 
@@ -25,15 +24,11 @@ Before long, his great eye for the parade came into the view of an event officia
 
 By then, the shutterbug had already chalked up photographic awards, both locally and internationally. To date, he has more than 200 awards to his name.
 
- 
-
 **A Chingay Experience, Forever Changed**
 
 The Chingay experience has never been the same for Tong Leng since then. “With an official photographer pass, I am able to go nearer to the performers to capture photos with more interesting angles, not possible for spectators”, he explains. Other than the colours, movements and energy, Tong Leng loves to capture the moods and expressions of people’s faces.
 
 Being an official photographer at Chingay is “intense”. Having to be very focused on his subjects amidst the whirlwind of fanfare, Tong Leng is always hunting for the precise moment to take the click with split-second dexterity. He feels spectators have the luxury of just enjoying the performances as they unfold.
-
- 
 
 **Great Timing and A Bit Of Luck**
 
@@ -43,8 +38,6 @@ There are also added dimensions to the show experience. Tong Leng recalls a perf
 
 Tong Leng’s passion to capture winning shots is almost unstoppable and it will always keep him coming back to shoot at Chingay. What drives his passion is his personal motto: “My next shot will be my best”.
 
- 
-
-**Hopes and Dream For Chingay**
+**Hopes and Dreams For Chingay**
 
 Tong Leng has grand visions of Chingay. He wants it to be a magnetic crowd-puller on the international events calendar for Singapore. He hopes Chingay will grow to  attract the best of local as well as global talents, both as spectators and performers. He encourages organisers to continue to come up with variety and creative ideas to take the show to the next level.

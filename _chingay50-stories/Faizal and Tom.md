@@ -21,7 +21,7 @@ This was Faizal Amir’s first actual brush with Chingay, having taken up an ope
 
 In his words: “It was worth a try, why not?” And soon after he was accepted, he started proposing a design for the 3D art installation, which he envisioned to be a tree of life, full of branches containing the aspirations of the people.
 
-“Branches of Dream is a symbol of growth, chosen to be a main focal point of the installation,” said Faizal. 
+“Branches of Dream is a symbol of growth, chosen to be a main focal point of the installation”, said Faizal. 
 
 “The tree is made of pallet wood. As far as possible, I use recycled materials for the project, infusing into it the fengshui elements of wood, fire, earth, metal and water to create that energy in the project and also to harmonise nature into it.
 
@@ -39,7 +39,7 @@ Tom’s involvement with Chingay dates back to the early 1980s when he was a gra
 
 While the 60 residents had fun building the Mini Float together, they were not to envisage the difficulties ahead.
 
-“Using recycled material was a challenge,” recalls Faizal. “One example is how we use nylon fishing lines to tie the batik artwork onto the tree, but during the rehearsal, there were strong winds and the batik flew all over the place. We re-tied them using wire instead.”
+“Using recycled material was a challenge”, recalls Faizal. “One example is how we use nylon fishing lines to tie the batik artwork onto the tree, but during the rehearsal, there were strong winds and the batik flew all over the place. We re-tied them using wire instead.”
 
 And then there was the representation of the three rivers within Jalan Besar GRC: the Singapore, Kallang and Whampoa Rivers. 
 
@@ -47,7 +47,7 @@ Tom explains, “We used the artificial carpet grass to form the contour of the 
 
 **Mutual Respect**
 
-“The chemistry was already there from the first meeting,” said Faizal. “I had this very strong sense that I can really work with Tom. He’s very passionate and keeps improvising ideas on how to make the design nicer.”
+“The chemistry was already there from the first meeting”, said Faizal. “I had this very strong sense that I can really work with Tom. He’s very passionate and keeps improvising ideas on how to make the design nicer.”
 
 Tom adds, “We sync well together and can discuss openly what’s right and wrong.
 
@@ -55,6 +55,6 @@ Tom adds, “We sync well together and can discuss openly what’s right and wro
 
 **Hope and Dreams For Chingay**
 
-For Tom, innovation is the key to keep the spirit of Chingay alive and strong. “Even though Chingay is tied to Lunar New Year, Singapore is a multi-racial country,” he notes, “so I hope to see ideas that wow every year.” 
+For Tom, innovation is the key to keep the spirit of Chingay alive and strong. “Even though Chingay is tied to Lunar New Year, Singapore is a multiracial country,” he notes, “so I hope to see ideas that wow every year.” 
 
-Faizal’s involvement has strengthened his commitment to community bonding. “I hope Chingay can make community bonds stronger in the future,” he says. “I hope more people can get involved and understand one another better.”
+Faizal’s involvement has strengthened his commitment to community bonding. “I hope Chingay can make community bonds stronger in the future”, he says. “I hope more people can get involved and understand one another better.”

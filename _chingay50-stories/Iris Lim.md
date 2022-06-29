@@ -20,11 +20,11 @@ As leader of the Women’s Integration Network (WIN) contingent at Chingay, Iris
 Iris Lim, a 51-year old Financial Service Consultant, has been leading People’s Association’s Women’s Integration Network (WIN) travelling dance contingent since 2011. Naturally, the contingent has shared much joy and accomplishments over the years.
 
 Yet, it was not without challenges and tears too. 
-Iris shared an incident of a member who, just a couple of hours before the actual performance, dropped a bombshell that she was quitting the show and was heading home instead of the show site. It took Iris more than an hour of heart-to-heart talk, “with plenty of tears shed together”, to convince the member to participate in the parade that night. As it turned out, the lady had some misunderstanding with other members in the contingent.  The tension had been bubbling on the surface for some time already and it finally blew over that evening as the lady was also grappling with a recent, personal grief. 
+Iris shared an incident of a member who, just a couple of hours before the actual performance, dropped a bombshell that she was quitting the show and was heading home instead of the show site. It took Iris more than an hour of heart-to-heart talk, “with plenty of tears shed together”, to convince the member to participate in the parade that night. As it turned out, the lady had some misunderstanding with other members in the contingent. The tension had been bubbling on the surface for some time already and it finally blew over that evening as the lady was also grappling with a recent, personal grief. 
 
 **No Gaps, Please**
 
-Iris recounted another heart-stopping moment when four members, together, informed her that they could no longer participate in the show because of their work schedules. By then, the show was fast approaching and costumes for each dancer had already been custom made.  “Can you imagine having four visible gaps in the contingent?”, Iris asked with a look of distress.  Again, she had to sit down with the four members to talk through their issues. They finally relented after she agreed to accommodate their attendance at rehearsals with their work schedules.
+Iris recounted another heart-stopping moment when four members, together, informed her that they could no longer participate in the show because of their work schedules. By then, the show was fast approaching and costumes for each dancer had already been custom made. “Can you imagine having four visible gaps in the contingent?”, Iris asked with a look of distress. Again, she had to sit down with the four members to talk through their issues. They finally relented after she agreed to accommodate their attendance at rehearsals with their work schedules.
 
 **Nothing’s Going To Stop Her**
 
@@ -40,7 +40,7 @@ She shared how walking the short distance from the carpark to the hall left her 
 
 There were also uplifting moments. In 2016, it poured heavily just as the show was about to commence, dampening everyone’s mood as they expected that the show would be cancelled. Yet, sitting at the spectator stand in the pouring rain then, waiting for the show to commence was Prime Minister Lee Hsien Loong. PM Lee’s strong show of support moved and inspired everyone and they knew immediately that the parade must proceed despite the rain. 
 
-Over the years, Iris’ strong, yet caring leadership has brought out the best of each member in her contingent.  For those who encountered personal struggles, Iris was there to cry with them and yet, she was also a figure of strength and resilience who was able to cheer them on and helped them and their spirits, to dance again. 
+Over the years, Iris’ strong, yet caring leadership has brought out the best of each member in her contingent. For those who encountered personal struggles, Iris was there to cry with them and yet, she was also a figure of strength and resilience who was able to cheer them on and helped them and their spirits, to dance again. 
 
 Perhaps Iris’ attitude towards life’s challenges is best summed up in her instruction to her dancing contingent - “Smile, even if you missed a step”. 
 

@@ -3,7 +3,7 @@ title: Mohamed Feroze bin Hasan
 permalink: /chingay50-stories/mohamed-feroze-bin-hasan
 description: ""
 ---
-![](/images/Chingay50%20Stories/mohamed-feroze-bin-hasan-50storiesimage.jpg)
+![Mohamed Feroze bin Hasan](/images/Chingay50%20Stories/mohamed-feroze-bin-hasan-50storiesimage.jpg)
 
 **Mohamed Feroze bin Hasan**
 
@@ -11,17 +11,13 @@ Entrepreneur
 
 When PA approached entrepreneur Mohamed Feroze bin Hasan with the proposal for a dance competition, he saw his chance to realise an idea to make Chingay a more inclusive event for all.
 
- 
-
 It started with a bid to help choreograph a dance segment for a community centre group back in 2016 and has since grown into a relationship that is encapsulated with one word: Perfect.
 
 That’s how entrepreneur Feroze describes his relationship with People’s Association (PA), especially with Chingay. In many ways, Feroze is a shining example of the multiculturalism that permeates the Chingay of today, reflecting the unique mix that makes the Singapore success story.
 
 “I’ve always had this idea for an event to infuse the traditional with the modern, because in Singapore we seldom see the classic Malay dance styles in competition – it’s always hip-hop, street jazz, modern… that’s what’s popular among the youth.
 
-Feroze feels it is important to push for more inclusion of ethnic dance elements because this generation of youth need to recognise and acknowledge their heritage and cultural dance identity. To attract [the youth] in, we need to include what’s trending now, so that’s why I said let’s bring all the different ethnic flavours together and make it a fusion dance competition.
-
- 
+Feroze feels it is important to push for more inclusion of ethnic dance elements because this generation of youth need to recognise and acknowledge their heritage and cultural dance identity. To attract the youth in, we need to include what’s trending now, so that’s why I said let’s bring all the different ethnic flavours together and make it a fusion dance competition.
 
 **Let’s Dance!**
 
@@ -30,9 +26,7 @@ For Feroze, it is important for the youth of today to always be learning somethi
 “As a dancer and choreographer, I understand that if you want to do a movement, you will have to do your homework, and with that, you gain the basic knowledge so that in future you can say ‘hey, I’ve done zapin, or I’ve done the lotus dance…’
 
 “When PA approached me with their idea, I jumped at it precisely because it’s something I’ve been thinking about but didn’t have the platform or the opportunity to do it. So I said let me be involved, let me curate this, let’s execute this together, and because I’m still teaching in schools, I’m able to help get participants or at least encourage them to come in.”
-
  
-
 **Riding the Rhythm Again**
 
 The first edition of the D:2 Dance Competition launched in November 2020 received overwhelming response.
@@ -47,8 +41,6 @@ As for working with PA, Feroze appreciates the free-flow of ideas and engaging w
 
 “We have a very good chemistry and they really support my ideas, it’s a two-way street and we work perfectly. I enjoy the responsibilities they’ve given me and I can’t wait to deliver a good event,” he says.
 
- 
-
 **Hopes and Dreams For Chingay**
 
-Feroze has a lot of “crazy dreams” for Chingay. He feels excited that, in the past years, Chingay has been reaching out more to people across all parts of Singapore. “I’d like it to become one of the nation’s significant events. I know [Chingay] can be bigger in the future. I’d like to get on a float, and maybe be with the President, to wave to the people,” he adds with a hopeful smile.
+Feroze has a lot of “crazy dreams” for Chingay. He feels excited that, in the past years, Chingay has been reaching out more to people across all parts of Singapore. “I’d like it to become one of the nation’s significant events. I know Chingay can be bigger in the future. I’d like to get on a float, and maybe be with the President, to wave to the people,” he adds with a hopeful smile.

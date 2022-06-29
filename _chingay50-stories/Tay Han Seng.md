@@ -13,11 +13,9 @@ Real Estate Agent
 
 Likely the only Chingay volunteer to have performed as a belly dancer as well as the God of Fortune, Tay Han Seng shares what sustains his 30-year Chingay association.
 
-
 **Drumming Up The Lunar New Year Vibes**
 
 Han Seng is drawn to Chingay because it creates a very strong Lunar New Year atmosphere that he loves. He wishes to spread the festive spirit to as many people as he can. He began volunteering at Chingay back in 1993, helping behind the scenes in his performance troupe’s props and costumes department. Over the years, he has embraced many different roles, always happy and ready to help wherever he was needed. This includes performing as a belly dancer!
-
 
 **Bountiful Fortune**
 
@@ -32,17 +30,15 @@ Han Seng, who is a 55-year-old real estate professional, explains, “I think th
 
 Little wonder the GOF is a Chingay crowd magnet, and precisely why the GOF had a two-year hiatus. Han Seng shares, “If not for Covid-19, we would have participated in Chingay this year and last year. But there were concerns that as soon as we appeared, many people would rush towards us to get the red packets. It would have been impossible to maintain safe distancing so we took a two-year break to abide by government regulations.”
 
-
 **The Mystical Emperor’s Robe**
 
 The GOF is decked in a resplendent costume that is similar to the dragon robes worn by the Chinese Emperor. 
 
 “As soon as I put on the costume, my personality automatically switches over to help me get into the GOF character. It gives me a surge of power every time I wear the costume.
 
-“When I wear the headpiece, I feel like I’m glowing,” reveals Han Seng.
+“When I wear the headpiece, I feel like I’m glowing”, reveals Han Seng.
 
 Han Seng’s “mystical power” as the GOF extends to his personal life even when he is “off stage”; it is a source of good fun among his friends, who jokingly ask for auspicious lottery numbers to help them strike lottery!
-
 
 **An Enduring Passion For Chingay**
 
@@ -57,7 +53,6 @@ These keeping Han Seng going strong as a GOF performer.
 “We have a very tight schedule. You need to arrive early to put on your makeup and get dressed. Also, it is usually very hot. The shoes we are wearing are those worn for Chinese opera so keeping our balance while walking is a challenge, forcing us to pay close attention with every step and walk slowly.
 
 “We mainly enter the stage from the staircase below. Due to the nature of our shoes and costume, it is rather clumsy moving around. We must remind ourselves constantly to be careful; if we stepped on each other, we may cause them to fall.
-
 
 **Hopes and Dreams For Chingay**
 

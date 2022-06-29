@@ -36,12 +36,10 @@ For Cher Yong, this event was also an affirmation that music can be a powerful t
 
 **Breaking A Record**
 
-The feature in the cap for all the performers was having the contingent break the Singapore Book of Records for the largest ukulele ensemble.  
+The feature in the cap for all the performers was having the contingent break the Singapore Book of Records for the largest ukulele ensemble. 
 
 For Cher Yong, the greatest sense of achievement was simply to see the smiles on the happy faces of the participants learning music and playing an instrument. To him, that was the best reward!    
 
 **Hopes and Dreams For Chingay**
 
-Cher Yong hopes that Chingay will continue to innovate to attract more and younger participants to the show.  His dream is for Chingay to draw on the creative talents and passion within the community, waiting to be unleashed.  
-
-
+Cher Yong hopes that Chingay will continue to innovate to attract more and younger participants to the show. His dream is for Chingay to draw on the creative talents and passion within the community, waiting to be unleashed.
