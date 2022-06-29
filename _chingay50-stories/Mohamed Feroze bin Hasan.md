@@ -17,7 +17,7 @@ That’s how entrepreneur Feroze describes his relationship with People’s Asso
 
 “I’ve always had this idea for an event to infuse the traditional with the modern, because in Singapore we seldom see the classic Malay dance styles in competition – it’s always hip-hop, street jazz, modern… that’s what’s popular among the youth.
 
-Feroze feels it is important to push for more inclusion of ethnic dance elements because this generation of youth need to recognise and acknowledge their heritage and cultural dance identity. To attract [the youth] in, we need to include what’s trending now, so that’s why I said let’s bring all the different ethnic flavours together and make it a fusion dance competition.
+Feroze feels it is important to push for more inclusion of ethnic dance elements because this generation of youth need to recognise and acknowledge their heritage and cultural dance identity. To attract the youth in, we need to include what’s trending now, so that’s why I said let’s bring all the different ethnic flavours together and make it a fusion dance competition.
 
 **Let’s Dance!**
 
