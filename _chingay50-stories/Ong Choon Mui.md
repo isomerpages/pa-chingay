@@ -10,17 +10,11 @@ description: ""
 Retiree - Still Teaching Dance @ Macpherson 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e6LfedJwydw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
 A performer from the very first Chingay back in 1973 recalls the novel experience and shared camaraderie with her fellow entertainers and yearns for the days of old.
-
-
 
 The very first Chingay in Singapore was held in 1973. Timed around the Lunar New Year festive period, the boisterous parade featured 大头娃娃 (big-headed dolls), bearers of giant flags and stilt-walkers. That is the memory shared by Madam Ong Choon Mui, who along with her friends Lee Pang Luan, Liow Huang Chat, Mary Choo and Ng Siew Beng were the very original big-headed dolls themselves.
 
 Today, the 69-year-old retiree recalls how she and her friends, a bunch of 20-somethings, took to their task with gusto, entertaining and interacting with the crowd in the streets on the second day of Chinese New Year.
-
- 
 
 **The First Chingay Parade**
 
@@ -38,22 +32,16 @@ For Mr Liao, his performance involved riding a bicycle.
 
 In later years, Madam Ong also took part in the peacock dance as well as a “Lao Bei Shao” performance performing in 1978 and then again in 2017, when she was invited by People’s Association.
 
- 
-
 **Evolution of Chingay**
 
 For Madam Ong, the changes have been tremendous. Chingay today is like an international carnival!” she exclaims. “In 1973, we performed along the streets with the audience standing at the sides. In recent years, I watched the performance at the F1 Pit Building, and the props were very high-class.
 
 “Previously held during the day, Chingay is now at night and there’s a lot more electronic elements involved. I still prefer the atmosphere of the performances back in the day because there was more direct interaction between performers and audience,” she adds.
 
- 
-
 **Friendship Across The Ages**
 
 For Madam Ong and her friends, this is a friendship that has endured. “Our friendship was already quite tight when we were young, and performing together several times has only strengthened it. We still gathered yearly and we look forward to our next gathering after the Covid-19 situation is under control.”
 
- 
-
-**Hopes and Dreams for Chingay**
+**Hopes and Dreams For Chingay**
 
 Madam Ong and her teammates hope that Chingay will continue to help build strong cross-cultural relations. She also hopes to see Chingay returning to its traditional roots to showcase and share more of the spirit of traditional Chinese culture and a Chinese New Year atmosphere.
