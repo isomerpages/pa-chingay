@@ -4,7 +4,6 @@ permalink: /chingay50-stories/ken-and-christine
 description: ""
 ---
 ![Ken and Christine](/images/Chingay50%20Stories/ken-and-christine-50storiesimage.jpg)
-
 **Ken and Christine**
 
 Sibling Chingay Volunteers
@@ -19,13 +18,11 @@ Chingay highlights some of Singapore’s founding values including social cohesi
 
 Agreeing with his sister, Ken added, “It’s more about bonding with everyone regardless of race, background, age…some of us are students, some may be in the workforce. Volunteering helps us understand one another better so we can work together.”
 
-
 **Sowing The Seed of Volunteerism**
 
 Knowing Ken’s background as a CCA leader, his teachers in church suggested he continued serving the community after secondary school. As luck would have it, Chingay was the next upcoming event so Ken started volunteering in 2017 and is still going strong.
 
 For Christine, it was the supportive network that touched her.  She decided to become a volunteer once her school stopped performing in Chingay. “Chingay is a unique platform where you have to perform as you walk. The actual venue was also very different from the sheltered environment of a dance studio. It was tiring walking back and forth many times. During our first rehearsal at the F1 pit, we struggled with the heat and tried to seek shelter under the seats. Fortunately, our friends kept cheering us on, boosting our morale,” she recalls. 
-
 
 **For The Love of Giving**
 
@@ -33,18 +30,15 @@ Having been both  performer and a volunteer, Christine finds volunteering more f
 
 Christine values volunteering because she finds everyone friendly and easygoing, especially the leaders, who welcome feedback and encourage shared opinions. 
 
-
 **Can-Do Spirit Soars**
 
 Ken has fond memories of a particularly challenging Chingay full-dress rehearsal which fell on a weekday. With limited manpower due to work and school commitments, the remaining volunteers divided the workload amongst themselves and pulled it off.
 
 Ken feels that the most physically and mentally demanding part of being a volunteer is during Category One (Cat. One) weather when rain is imminent. When Chingay was held at the F1 pit with limited shelter space, volunteers had to prepare ponchos for the performers and other volunteers. At one time, there were multiple Cat. One calls so Ken and his volunteer team prepared the ponchos on standby; when the weather cleared up, they had to return the ponchos to the garage. Volunteering can be physically grueling, with the added stress of having to complete tasks under time pressure. 
 
-
 **Dynamic Duo**
 
 Volunteering together has strengthened the sibling’s relationship. Theirs is clearly a strong partnership underpinned by mutual trust. Christine defers to her brother’s experience and leadership and finds his feedback helpful while Ken confides in Christine and is confident that whatever tasks he assigns to her will be fulfilled to the best of her abilities. 
-
 
 **Hopes and Dreams For Chingay**
 
