@@ -55,4 +55,4 @@ Says Ms Dina, “Sometimes, when we go for rehearsals, there will be a lot of ch
 
 “My dream for Chingay is to be able to see more cross-cultural opportunities”, Ms Dina shares. “For example, more Malay dancers performing Chinese dance, more Chinese dancers performing Indian dance and so on. I think there's a lot of value in learning dances from different cultures. Not only does it diversify your view towards certain cultures, it also improves your skills as a dancer all in all. 
 
-“I think the future in Chingay is definitely continuing to involve participants of different ages – children, to youths, to senior citizens. Chingay will become a very good platform for them to share experiences and bond. We can also use this time to stay active and embrace the Chingay spirit of togetherness.”
+“I think the future in Chingay is definitely continuing to involve participants of different ages – children, to youths, to senior citizens. Chingay will become a very good platform for them to share experiences and bond. We can also use this time to stay active and also embrace the Chingay spirit of togetherness.”
