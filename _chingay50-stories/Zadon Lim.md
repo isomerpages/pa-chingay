@@ -32,7 +32,7 @@ Zadon’s dive into the history of Chingay revealed interesting nuggets. He foun
 
 Zadon’s performance was lively and poignant. The traditional folk song seemed to have gathered all the nostalgic moments of Chingay through the ages, right at Jewel Changi Airport that evening. By giving the music a modern twist through rap, all the revelry and gaiety of past Chingay parades were effectively gathered and brought into the present too.  
 
-For Zadon, he was also personally delighted he could bring hip hop, a music genre which he fell in love with during his teenage years, to Chingay, an iconic Singaporean event. Zadon shared that hip hop appeals to him because “it allows you to be yourself”. Sharing in Zadon’s joy and watching him perform that night were his proud parents. 
+For Zadon, he was also personally delighted he could bring hip hop, a music genre which he fell in love with during his teenage years, to Chingay, an iconic Singaporean event. Zadon shared that hip hop appeals to him because “it allows you to be yourself.” Sharing in Zadon’s joy and watching him perform that night were his proud parents. 
 
 His participation also gave him a unique, insider view of the event and left him awed at the scale of the preparations involved. “I am amazed and inspired at the amount of work and talent involved to put the entire show together”, Zadon gushed. 
 
