@@ -3,7 +3,7 @@ title: Rachael Soh
 permalink: /chingay50-stories/rachael-soh
 description: ""
 ---
-![](/images/Chingay50%20Stories/rachael-soh-50storiesimage.jpg)
+![Rachael Soh](/images/Chingay50%20Stories/rachael-soh-50storiesimage.jpg)
 
 **Rachael Soh**
 
