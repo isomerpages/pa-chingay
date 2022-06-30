@@ -13,7 +13,7 @@ Veteran Volunteer
 
 Despite pandemic times, Chingay50 proceeded live and with success – thanks to the hard work and passion of the many involved. Long-time Chingay volunteer Foong Wai Kheong was at the centre of the action – at one point juggling three roles! He shares his experience.  
 
-When veteran volunteer Foong Wai Kheong thinks about Chingay, he relates it to “going home”.  
+When veteran volunteer Wai Kheong thinks about Chingay, he relates it to “going home”.  
   
 “Chingay is like a meeting of teams, friends and People’s Association (PA) staff – we all share the same passion!” 
 
