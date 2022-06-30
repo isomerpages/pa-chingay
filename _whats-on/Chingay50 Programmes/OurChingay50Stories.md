@@ -11,6 +11,9 @@ Chingay turns 50 in 2022 and it's story and journey will be unfolded through the
 Take the journey and reminisce with us!
 
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
+	
+	
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/wai%20kheong.jpg" alt="Singapore "><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Foong Wai Kheong</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Veteran Volunteer</b><br />The Show Must Go On<br /><a href="/chingay50-stories/foong-wai-kheong">Read More..</a></p></div></li>
 
 <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/samson.png" alt="Singapore "><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Samson Solomon</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Student</b><br />The Boy Who Loves Dancing<br /><a href="/chingay50-stories/samson-solomon">Read More..</a></p></div></li>
 	
