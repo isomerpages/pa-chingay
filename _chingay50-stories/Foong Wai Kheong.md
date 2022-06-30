@@ -21,7 +21,7 @@ Wai Kheong’s journey with Chingay began about 10 years ago – as part of the 
   
 However, the one that tops it all is probably Chingay50 in 2022.
 
-**COVID-19? No problem!  **
+**COVID-19? No problem! **
 
 The pandemic made the parade a challenging one to prepare for. Processes changed fast, frequently and significantly, with safety being the top priority. There were manpower issues due to a shortage of volunteers. Existing volunteers had to take on additional duties to fill the manpower gaps. 
 
