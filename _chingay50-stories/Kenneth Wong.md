@@ -9,7 +9,7 @@ description: ""
 
 
 
-**THE YOUTHFUL FACE OF CHINGAY**
+**The Youthful Face of Chingay**
 
 Kenneth Wong has been part of the People’s Association Youth Movement (PAYM) contingent at Chingay since 2008. Over the years, he has played various roles in the contingent and has even nurtured the dreams and creative passions of his young performers beyond Chingay.
 
