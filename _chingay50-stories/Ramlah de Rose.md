@@ -6,6 +6,8 @@ description: ""
 ![](/images/Chingay50%20Stories/Ramlah.png)
 Ramlah is the fourth person from the right on the second row.
 
+**Ramlah de Rose**
+
 **Dance, Dance Revolutionary**
 
 Ramlah de Rose, 54, may be visually impaired, but that has not deterred her from creating a buzz and looking to motivate cancer survivors and patients through her dance group “Be Hype & Be Happy”.
