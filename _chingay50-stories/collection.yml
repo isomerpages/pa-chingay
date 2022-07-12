@@ -2,6 +2,7 @@ collections:
   chingay50-stories:
     output: true
     order:
+      - Ramlah de Rose.md
       - Asher Mendelsohn.md
       - Foong Wai Kheong.md
       - Samson Solomon.md
