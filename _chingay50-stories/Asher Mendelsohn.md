@@ -3,15 +3,13 @@ title: Asher Mendelsohn
 permalink: /chingay50-stories/asher-mendelsohn
 description: ""
 ---
-
-
 ![Asher Mendelsohn](/images/Chingay50%20Stories/OurChingay50Stories%20-%20Asher%20Mendelsohn.jpeg)
 
 **Asher Mendelsohn**
 
 **Going Solo**
 
-For 13-year-old Asher Mendelsohn, performing is a passion. This year, the submission to Chingay’s We’ve Got Talent! 2022 unlocked a significant milestone in his life as a performer.
+For 13-year-old Asher Mendelsohn, performing is a passion. This year, the submission to Chingay’s We’ve Got Talent! (WGT) 2022 unlocked a significant milestone in his life as a performer.
 
 Nothing fazes him. Not heavy commitments, or having to forego goodies such as pineapple tarts and _bak kwa_ to be at his best for the longest solo performance of his life.
 
@@ -19,7 +17,7 @@ Nothing fazes him. Not heavy commitments, or having to forego goodies such as pi
 
 A very active child according to his mother Gillian, Asher was easily distracted,  at times exasperating when he would not stay still or pay attention.  
   
-But something clicked in him when Asher watched his kindergarten class perform. Instead of his usual daydreaming or wandering, Gillian noticed that Asher was extremely focus     ed on the singing and dancing the entire time.  
+But something clicked in him when Asher watched his kindergarten class perform. Instead of his usual daydreaming or wandering, Gillian noticed that Asher was extremely focused on the singing and dancing the entire time.  
   
 Later, Asher asked to attend performance arts enrichment classes. Gillian and her husband, realising that Asher’s natural inclination for singing and performing, supported him in exploring his dream.  
   
@@ -32,7 +30,7 @@ Fast forward almost 10 years later, Asher is loving what he does more than ever 
 
 **Longest Solo Ever** 
 
-Asher’s Chingay journey began in 2021 when he submitted his video for _We’ve Got Talent__!_ _(WGT) 2021._ His submission was featured in a dance collage together with other submissions in the online event that year.  
+Asher’s Chingay journey began in 2021 when he submitted his video for WGT 2021. His submission was featured in a dance collage together with other submissions in the online event that year.  
   
 Then came 2022, where Asher sent in another recorded performance online. While he wasn’t selected as a finalist, another door opened. He got a chance to do the longest solo performance in his life.
 
