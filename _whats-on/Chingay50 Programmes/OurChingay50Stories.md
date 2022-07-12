@@ -11,8 +11,6 @@ Chingay turns 50 in 2022 and it's story and journey will be unfolded through the
 Take the journey and reminisce with us!
 
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
-
-	![](/images/Chingay50%20Stories/Kenneth.png)
 	
 <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/Kenneth.png" alt="Asher Mendelsohn"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Kenneth Wong</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>People’s Association Youth Movement (PAYM)</b><br />The Youthful Face of Chingay<br /><a href="/chingay50-stories/kenneth-wong">Read More..</a></p></div></li>
 	
