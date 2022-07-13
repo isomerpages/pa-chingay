@@ -7,4 +7,6 @@ description: ""
 
 ![wgt test](/images/whats-on/final%20screen%20shot.png)
 
+![](/images/whats-on/final%20screen%20shot.png)
+
 [TERMS & CONDITIONS]()
