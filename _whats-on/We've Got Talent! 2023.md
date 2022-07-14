@@ -14,4 +14,4 @@ description: ""
 
 <div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
 
-[TERMS & CONDITIONS]()
+[TERMS & CONDITIONS](/files/whats-on/Chingay%202023%20We%20Got%20Talent_Terms%20and%20Conditions_Final_13Jul22.pdf)
