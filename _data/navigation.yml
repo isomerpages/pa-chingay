@@ -3,6 +3,8 @@ links:
   - title: What's On
     url: /whats-on/Chingay50-Programmes
     sublinks:
+      - title: We've Got Talent! 2023
+        url: /wgt2023
       - title: Chingay50 Programmes
         url: /whats-on/Chingay50-Programmes
       - title: "&rarr; #OurChingay50Stories"
@@ -31,8 +33,6 @@ links:
         url: /whats-on/Community-Engagement/we-ve-got-talent
       - title: Chingay50 @ Heartlands
         url: /whats-on/chingay50-at-heartlands
-      - title: We've Got Talent! 2023
-        url: /wgt2023
   - title: Join Us
     collection: join-us
   - title: About Us
