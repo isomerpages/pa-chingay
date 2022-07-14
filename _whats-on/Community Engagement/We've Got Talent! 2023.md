@@ -4,9 +4,7 @@ permalink: /wgt2023
 description: ""
 third_nav_title: Community Engagement
 ---
-[Page update in progress, last updated 13 Jul 2022]
-
-![](/images/whats-on/final%20screen%20shot.png)
+![](/images/whats-on/WGT2023.jpg)
 
 <div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/628debc1528538001689b63a">here</a>.</div>
 
