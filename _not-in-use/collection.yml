@@ -2,6 +2,7 @@ collections:
   not-in-use:
     output: true
     order:
+      - We've Got Talent!.md
       - Chingay Mama Shop.md
       - Test Voting.md
       - Redraw Your World with Chingay50.md
