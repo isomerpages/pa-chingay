@@ -4,7 +4,6 @@ permalink: /wgt2023
 description: ""
 third_nav_title: Community Engagement
 ---
-
 [Page update in progress, last updated 13 Jul 2022]
 
 ![](/images/whats-on/final%20screen%20shot.png)
@@ -16,4 +15,4 @@ third_nav_title: Community Engagement
 
 <div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
 
-[TERMS & CONDITIONS](/files/whats-on/Chingay%202023%20We%20Got%20Talent_Terms%20and%20Conditions_Final_13Jul22.pdf)
+[TERMS & CONDITIONS](/files/whats-on/Chingay%202023%20We%20Got%20Talent_Terms%20and%20Conditions_Final_14Jul22.pdf)
