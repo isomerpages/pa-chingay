@@ -1,5 +1,5 @@
 title: Chingay 2022
-url: "https://www.chingay.gov.sg"
+url: https://www.chingay.gov.sg
 favicon: /images/favicon.ico
 colors:
   primary-color: "#053d60"
@@ -54,3 +54,5 @@ staging: https://pa-chingay-staging.netlify.app
 prod: https://pa-chingay-prod.netlify.app
 is_government: true
 google_analytics: UA-28012022-1
+facebook-pixel: ""
+linkedin-insights: ""

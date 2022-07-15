@@ -2,8 +2,8 @@
 title: We've Got Talent!
 permalink: /whats-on/Community-Engagement/we-ve-got-talent
 description: ""
-third_nav_title: Community Engagement
 ---
+
 
 
 

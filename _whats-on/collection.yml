@@ -2,6 +2,11 @@ collections:
   whats-on:
     output: true
     order:
+      - Community Engagement/.keep
+      - Community Engagement/We've Got Talent! 2023.md
+      - Community Engagement/Watch Party.md
+      - Community Engagement/Chingay50 Mini Floats.md
+      - Community Engagement/D:2 Dance Competition.md
       - Chingay50 Programmes/.keep
       - Chingay50 Programmes/Chingay50 Programmes.md
       - Chingay50 Programmes/OurChingay50Stories.md
@@ -11,9 +16,4 @@ collections:
       - Chingay50 Programmes/Snap, Tag & Win!.md
       - Chingay50 Programmes/Spot & Win!.md
       - Chingay50 Programmes/Did You Know?.md
-      - Community Engagement/.keep
-      - Community Engagement/Watch Party.md
-      - Community Engagement/Chingay50 Mini Floats.md
-      - Community Engagement/D:2 Dance Competition.md
-      - Community Engagement/We've Got Talent!.md
       - Chingay50 @ Heartlands.md
