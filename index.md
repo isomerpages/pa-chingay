@@ -40,10 +40,14 @@ sections:
       image: /images/Highlights/chingay-as-you-photo-it--highlightimage.jpg
       alt: Chingay As You PHOTO It
   - infopic:
+      button: Find out more
+      url: https://www.chingay.gov.sg/wgt2023
+      image: /images/Target Media top halfpng.png
+      alt: WGT 2023
+  - infopic:
       title: Chingay50 Programme Booklet
       button: Download now
       url: /files/chingay50-2022-programme-booklet.pdf
       image: /images/Highlights/download-the-chingay50-showcase-programme-booklet--highlightimage.png
       alt: Chingay50 Programme Booklet
 ---
-
