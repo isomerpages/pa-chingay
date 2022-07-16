@@ -14,6 +14,12 @@ sections:
           description: Catch it on Youtube now!
           url: https://www.youtube.com/watch?v=7LN-OsjmIz8
   - infopic:
+      button: Find out more
+      url: https://www.chingay.gov.sg/wgt2023
+      image: /images/Target Media top halfpng.png
+      alt: WGT 2023
+      title: Post your 1 minute talent video now!
+  - infopic:
       title: "#OurChingay50Stories"
       subtitle: Chingay50 Programmes
       description: Chingay turns 50 in 2022 and it’s story and journey will be
@@ -39,11 +45,6 @@ sections:
       url: /whats-on/Chingay50-Programmes/hall-of-frames-public
       image: /images/Highlights/chingay-as-you-photo-it--highlightimage.jpg
       alt: Chingay As You PHOTO It
-  - infopic:
-      button: Find out more
-      url: https://www.chingay.gov.sg/wgt2023
-      image: /images/Target Media top halfpng.png
-      alt: WGT 2023
   - infopic:
       title: Chingay50 Programme Booklet
       button: Download now
