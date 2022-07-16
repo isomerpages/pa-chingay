@@ -18,7 +18,8 @@ sections:
       url: https://www.chingay.gov.sg/wgt2023
       image: /images/Target Media top halfpng.png
       alt: WGT 2023
-      title: Post your 1 minute talent video now!
+      title: We've Got Talent! 2023
+      description: Share your 1 minute talent video with us now!
   - infopic:
       title: "#OurChingay50Stories"
       subtitle: Chingay50 Programmes
