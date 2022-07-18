@@ -6,7 +6,10 @@ third_nav_title: Community Engagement
 ---
 ![](/images/whats-on/WGT2023.jpg)
 
+Please submit your contact details with the form below after sharing your 1 minute talent video.
+
 <div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/628debc1528538001689b63a">here</a>.</div>
+
 
 <!-- Change the width and height values to suit you best -->
 <iframe id="iframe" src="https://form.gov.sg/628debc1528538001689b63a" style="width:100%;height:500px"></iframe>
