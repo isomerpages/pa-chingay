@@ -21,6 +21,7 @@ sections:
       url: https://www.chingay.gov.sg/d22023
       image: /images/D2 Dance Competition Logo.png
       alt: d2
+      subtitle: Community Engagement Programme
   - infopic:
       button: Find out more
       url: https://www.chingay.gov.sg/wgt2023
@@ -28,6 +29,7 @@ sections:
       alt: WGT 2023
       title: We've Got Talent! 2023
       description: Share your 1 minute talent video with us now!
+      subtitle: Community Engagement Programme
   - infopic:
       title: "#OurChingay50Stories"
       subtitle: Chingay50 Programmes
