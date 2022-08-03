@@ -14,12 +14,22 @@ sections:
           description: Catch it on Youtube now!
           url: https://www.youtube.com/watch?v=7LN-OsjmIz8
   - infopic:
+      title: D:2 Dance Competition 2023
+      description: Challenge yourselves by fusing your favourite moves with one of our
+        local culture dance movement!
+      button: Find out more
+      url: https://www.chingay.gov.sg/d22023
+      image: /images/D2 Dance Competition Logo.png
+      alt: d2
+      subtitle: Community Engagement Programme
+  - infopic:
       button: Find out more
       url: https://www.chingay.gov.sg/wgt2023
       image: /images/Target Media top halfpng.png
       alt: WGT 2023
       title: We've Got Talent! 2023
       description: Share your 1 minute talent video with us now!
+      subtitle: Community Engagement Programme
   - infopic:
       title: "#OurChingay50Stories"
       subtitle: Chingay50 Programmes
@@ -53,4 +63,3 @@ sections:
       image: /images/Highlights/download-the-chingay50-showcase-programme-booklet--highlightimage.png
       alt: Chingay50 Programme Booklet
 ---
-

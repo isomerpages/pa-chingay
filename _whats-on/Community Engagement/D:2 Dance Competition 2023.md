@@ -38,4 +38,4 @@ Join us for the Masterclass to learn how to choreograph a fusion dance by infusi
 <div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
 
 
-[TERMS & CONDITIONS]()
+[TERMS & CONDITIONS](/files/D2%20Dance%20Competition%20TCs%20Chingay%202023.pdf)
