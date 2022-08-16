@@ -16,7 +16,7 @@ Submission by 31 October 2022.
 
 # Sign up for Masterclass 
 
-Join us for the Masterclass to learn how to choreograph a fusion dance by infusing our local traditional dance moves. Each group may send up to 2 participants for the Masterclass on 3 September 2022, 2.30pm to 5.00pm. Registration is on a first come first serve basis so sign up now!
+Join us for the Masterclass to learn how to choreograph a fusion dance by infusing our local traditional dance moves. Each group may send up to 2 participants for the Masterclass on 3 September 2022, 10.00am to 12.30pm. Registration is on a first come first serve basis so sign up now!
 
 <div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/62c6b9179123c00013fdce6e">here</a>.</div>
 
