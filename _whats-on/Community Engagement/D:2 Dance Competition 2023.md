@@ -4,7 +4,7 @@ permalink: /d22023
 description: ""
 third_nav_title: Community Engagement
 ---
-![d2](/images/D2%20Dance%20Competition%20Logo.png)
+![EDM for D2 Dance Competition 2023](/images/D2%20EDM.jpg)
 
 # About D:2 Dance Competition
 
