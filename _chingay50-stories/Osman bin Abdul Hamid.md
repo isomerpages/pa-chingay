@@ -3,7 +3,7 @@ title: Osman bin Abdul Hamid
 permalink: /chingay50-stories/osman
 description: ""
 ---
-![picture of osman with his dancers](/images/Chingay50%20Stories/osman.jpeg)
+![Osman and his dancers](/images/Chingay50%20Stories/osman.png)
 
 **Osman bin Abdul Hamid**
 
