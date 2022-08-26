@@ -2,6 +2,7 @@ collections:
   chingay50-stories:
     output: true
     order:
+      - Emmalyn Tan.md
       - Osman bin Abdul Hamid.md
       - Jesse Leong.md
       - Kenneth Wong.md
