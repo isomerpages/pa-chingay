@@ -3,7 +3,7 @@ title: Jesse Leong
 permalink: /chingay50-stories/jesseleong
 description: ""
 ---
-![Picture of Jesse Leong and dad](/images/Chingay50%20Stories/jesse%20leong.jpeg)
+![Jesse and her dad](/images/Chingay50%20Stories/jesseleong.png)
 
 **Jesse Leong**
 
