@@ -9,7 +9,7 @@ description: ""
 
 **Master of Movement**
 
- A sportsman from a very young age, Osman bin Abdul Hamid, 60, never thought that he would actually be drawn into the world of dance, Chingay and so much more.
+A sportsman from a very young age, Osman bin Abdul Hamid, 60, never thought that he would actually be drawn into the world of dance, Chingay and so much more.
  
 As a student, Osman represented his school in basketball, volleyball, hockey, football, and field events. He never imagined dance would be his life.
  
