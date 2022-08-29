@@ -25,7 +25,7 @@ In 2021, the first-ever digital Chingay with the theme “Light of Hope” was h
 
 ![light of hope 2021](/images/About%20Us/light-of-hope-2021.jpg)
 
-Chingay is now a uniquely Singaporean tradition that is usually held during the second weekend of the Chinese New Year and celebrated by Singaporeans and Singapore residents from all ethnicities - Chinesea, Malays, Indians, Eurasians and many others. For Chingay audiences, the event offers a treasured glimpse into the dynamism of Singapore’s vibrant multi-culturalism and exciting global cultures. 
+Chingay is now a uniquely Singaporean tradition that is usually held during the second weekend of the Chinese New Year and celebrated by Singaporeans and Singapore residents from all ethnicities - Chinese, Malays, Indians, Eurasians and many others. For Chingay audiences, the event offers a treasured glimpse into the dynamism of Singapore’s vibrant multi-culturalism and exciting global cultures. 
 
 A dazzling extravaganza of colours and cultural diversity, this signature and iconic event is proudly created by our people, regardless of age, race, language and creed, as we welcome everyone to come together to celebrate as ONE.
 
