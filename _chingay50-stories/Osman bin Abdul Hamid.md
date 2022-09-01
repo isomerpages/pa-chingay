@@ -29,7 +29,7 @@ Osman shared, “I feel that it is my responsibility to promote Malay arts and c
  
 **From Neighbourhood to the World**
 
-Osman has witnessed Chingay's evolution. From when it felt like a people’s parade because performers were closer to the audiences, he felt a different kind of energy when Chingay moved to Orchard Road which included performers from other countries, and subsequently to Singapore’s Civic District     .
+Osman has witnessed Chingay's evolution. He felt a different kind of energy when Chingay moved to Orchard Road which included performers from other countries, and subsequently to Singapore’s Civic District to bring the parade closer to the audiences at central locations.
  
 Reminiscing, he said, "In our early years, we had small contingents of 30 to 60 people. In 2011, that number grew to 1,110 participants for a spectacular 11-minute performance at the F1 Pit Building that spanned 360 metres. We had not only dancers, but singers, musicians, and drummers of all ages. We also had the largest array of wedding costumes and the longest piece of batik on parade.”
  
