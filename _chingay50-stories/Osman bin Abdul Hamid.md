@@ -1,6 +1,6 @@
 ---
 title: Osman bin Abdul Hamid
-permalink: /chingay50-stories/osman
+permalink: /chingay50-stories/osman/
 description: ""
 ---
 ![Osman and his dancers](/images/Chingay50%20Stories/osman.png)
@@ -21,7 +21,7 @@ Besides PA Talents Malay Dance, Osman is also artistic director and choreographe
 
 "I participated in my first Chingay in 1978. We started preparing as early as 5.30am for the parade. It was so exciting because I got to meet other contingents. I made friends from different races and cultures.
  
-Crowds lined the route. Because we could interact with them, I really enjoyed myself. "Back then, it was a people's parade," recalled Osman.
+Crowds lined the route. Because we could interact with them, I really enjoyed myself. "It was a people's parade," recalled Osman.
  
 He choreographed his first Malay dance in 1981 at Sriwana. A decade later, he became chief choreographer and artistic director of PA Malay Dance Group.
  
