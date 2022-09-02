@@ -1,6 +1,6 @@
 ---
 title: The Chingay Timeline
-permalink: /about-us/the-chingay-timeline
+permalink: /about-us/the-chingay-timeline/
 description: ""
 ---
 <table border="0" style="border: none;">
@@ -69,7 +69,7 @@ description: ""
                 <td style="border-top: none;">Chingay celebrated The Arrival of The New Millennium at City Hall, chosen as a venue of historical significance.</td>
             </tr>
             <tr>
-                <td colspan="2" style="border-bottom: none;"><b>2004 - Special Guest - Jackie Chen</b></td>
+                <td colspan="2" style="border-bottom: none;"><b>2004 - Special Guest - Jackie Chan</b></td>
             </tr>
             <tr>
                 <td width="161px" style="border-top: none;"><img src="/images/About%20Us/Timeline/2004.png" alt="special guest - jackie chen" style="width:160px; float:left;" /></td>
