@@ -14,6 +14,5 @@ We would like to invite you to join us as volunteers for some of our activities 
 1. Meals will be provided on key dates of involvement
 2. Chingay Volunteer T-shirt
 3. Certificate of Appreciation 
-4. Letter of acknowledgement of your participation (VIA letter) upon request
+4. Letter of acknowledgement of your participation (VIA letter) upon request <br>
 
-**Register Here**
