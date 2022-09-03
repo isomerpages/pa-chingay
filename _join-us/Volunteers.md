@@ -22,7 +22,7 @@ We would like to invite you to join us as volunteers for some of our activities 
 3. Certificate of Appreciation 
 4. Letter of acknowledgement of your participation (VIA letter) upon request <br><br>
 
-| Roles </a>  | Registration Link  </a>  |
+| Roles   | Registration Link   |
 | ------- | -------- | 
 | **Parade Management and Liaison EXCO** ![PM Exco](/images/Volunteers/EXCO.png)      | [https://go.gov.sg/chingay23excovolunteers](https://go.gov.sg/chingay23excovolunteers) <br>*Register by 18 September 2022* <br>*Application may close earlier due to overwhelming responses*      
 
@@ -34,7 +34,7 @@ We would like to invite you to join us as volunteers for some of our activities 
 6\. Post-parade administrative matters    
 
 
-|  </a>  | </a>  |
+|    |   |
 | -------- | -------- | 
 | **Volunteers Leader** ![leader](/images/Volunteers/leader%201.png)     |          [https://go.gov.sg/chingay23excovolunteers](https://go.gov.sg/chingay23excovolunteers) <br> *Register by 16 October 2022* <br>*Application may close earlier due to overwhelming responses* 
 
@@ -48,7 +48,7 @@ We would like to invite you to join us as volunteers for some of our activities 
 
 
 
-| </a>  |   |
+|   |   |
 | -------- | -------- | 
 | **Liaison**<br> ![liaison](/images/Volunteers/Liaison.png)|   [https://go.gov.sg/chingay23-liaisonvol](https://go.gov.sg/chingay23-liaisonvol) <br> *Register by   *<br>*Application may close earlier due to overwhelming responses*   |          
 
@@ -56,7 +56,7 @@ We would like to invite you to join us as volunteers for some of our activities 
 2\. Manage the buses at the various Coach Reporting areas  
 3\. Ensure the orderliness at the Coach Reporting areas 
 
-|</a>  | </a>  |
+| |   |
 | -------- | -------- | 
 |**Logistics** ![logistics](/images/Volunteers/Logistics.png)          | [https://go.gov.sg/chingay23-logsvol](https://go.gov.sg/chingay23-logsvol) <br>*Register by   *<br>*Application may close earlier due to overwhelming responses*    |
 
@@ -65,7 +65,7 @@ Assist in preparation and movement of production logistics & props prior to the 
 2\. Manage the logistics storage space during the parade  
 3\. Assist in stock taking and keeping of logistics and props after the parade  
 
-| </a>  | </a>  |
+|   |   |
 | -------- | -------- | 
 |**Crowd Management** ![crowd management](/images/Volunteers/Crowd%20Management.png) |           [https://go.gov.sg/chingay23-cmvol](https://go.gov.sg/chingay23-cmvol)  <br>*Register by *<br>*Application may close earlier due to overwhelming responses*  |        
 
@@ -76,7 +76,7 @@ Assist in preparation and movement of production logistics & props prior to the 
 5\. Assist with the crowd orderliness at the carnival area      
 
 
-| </a>  | </a>  |
+|   |   |
 | -------- | -------- | 
 |**General Hospitality** ![general hospitality](/images/Volunteers/General%20Hospitality.png) |      [https://go.gov.sg/chingay23-ghvol](https://go.gov.sg/chingay23-ghvol) <br>*Register by *<br>*Application may close earlier due to overwhelming responses*    |         
 
@@ -85,13 +85,13 @@ Assist in preparation and movement of production logistics & props prior to the 
 3\. Answer general queries from guests  
 4\. To distribute goodies bags / collaterals (if any)      
 
-| </a>  | </a>  |
+|  |   |
 | -------- | -------- | 
 |**F&B (Food & Beverage)** ![f&b](/images/Volunteers/F&B.png)     |     [https://go.gov.sg/chingay23-fnbvol](https://go.gov.sg/chingay23-fnbvol)  <br>*Register by *<br>*Application may close earlier due to overwhelming responses*   |
 
 1\. Distribution of food and drinks to performers, volunteers and working crew    
 
-| </a>  | </a>  |
+|  |   |
 | -------- | -------- | 
 | **Production Crew**![production crew](/images/Volunteers/Production%20Crew.png)    |        [https://go.gov.sg/chingay23-pcvol](https://go.gov.sg/chingay23-pcvol) <br>*Register by *<br>*Application may close earlier due to overwhelming responses*     |       
 
@@ -99,7 +99,7 @@ Assist in preparation and movement of production logistics & props prior to the 
 2\. To prepare and cue the performers for their entry/exit at specific timings  
 3\. To guide the performers and floats to the correct position on the parade route    
 
-| </a>  | </a>  |
+|  |   |
 | -------- | -------- | 
 | **Media Volunteer**![media volunteer](/images/Volunteers/Media.png)          |         [https://go.gov.sg/chingay23-mediavol](https://go.gov.sg/chingay23-mediavol)  <br>*Register by *<br>*Application may close earlier due to overwhelming responses*   |
 
@@ -107,7 +107,7 @@ Assist in preparation and movement of production logistics & props prior to the 
 2\. Capture the volunteers in action during their trainings, briefings and during actual event days  
 3\. Assist with the social media publicity to showcase the various volunteer groups     
 
-| </a>  | </a>  |
+|   |   |
 | -------- | -------- | 
 | **Admin & Logs**![admin & logs](/images/Volunteers/Admin%20&%20Logs.png)       |       [https://go.gov.sg/chingay23-admnlogsvol](https://go.gov.sg/chingay23-admnlogsvol) <br>*Register by *<br>*Application may close earlier due to overwhelming responses*   |    
 
@@ -115,7 +115,7 @@ Assist in preparation and movement of production logistics & props prior to the 
 2\. Assist in the distribution of logistics to volunteers and ensure that their welfare have been taken care of     
 
 
-| </a>  | </a>  |
+|   |   |
 | -------- | -------- | 
 | **Assembly Area**![assembly area](/images/Volunteers/Assembly%20Area.png)          |         [https://go.gov.sg/chingay23-aavol](https://go.gov.sg/chingay23-aavol) <br>*Register by *<br>*Application may close earlier due to overwhelming responses*   |
 
