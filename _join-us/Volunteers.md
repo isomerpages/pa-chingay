@@ -36,7 +36,7 @@ We would like to invite you to join us as volunteers for some of our activities 
 
 |  </a>  | </a>  |
 | -------- | -------- | 
-| **Volunteers Leader** ![leader](/images/Volunteers/Leader.png)     |          [https://go.gov.sg/chingay23excovolunteers](https://go.gov.sg/chingay23excovolunteers) <br> *Register by 16 October 2022* <br>*Application may close earlier due to overwhelming responses* 
+| **Volunteers Leader** ![leader](/images/Volunteers/leader%201.png)     |          [https://go.gov.sg/chingay23excovolunteers](https://go.gov.sg/chingay23excovolunteers) <br> *Register by 16 October 2022* <br>*Application may close earlier due to overwhelming responses* 
 
 1\. Oversee and manage a group of volunteers  
 2\. Attend additional recce / briefing sessions with planning committee to understand the operational plans  
@@ -50,7 +50,7 @@ We would like to invite you to join us as volunteers for some of our activities 
 
 | </a>  |   |
 | -------- | -------- | 
-| **Liaison** ![liaison](/images/Volunteers/Liaison.png)|   [https://go.gov.sg/chingay23-liaisonvol](https://go.gov.sg/chingay23-liaisonvol) <br> *Register by   *<br>*Application may close earlier due to overwhelming responses*   |          
+| **Liaison**<br> ![liaison](/images/Volunteers/Liaison.png)|   [https://go.gov.sg/chingay23-liaisonvol](https://go.gov.sg/chingay23-liaisonvol) <br> *Register by   *<br>*Application may close earlier due to overwhelming responses*   |          
 
 1\. Manage the arrival and departure of performers and organized groups by chartered buses  
 2\. Manage the buses at the various Coach Reporting areas  
@@ -121,4 +121,4 @@ Assist in preparation and movement of production logistics & props prior to the 
 
 1\. Provide directions, information and assistance to members of the public  
 2\. Support the security officers in managing the crowd and ensuring safety of the public along the closed road and surrounding areas towards Chingay Parade site.  
-3\. Direct performers to walk back to the Assembly Area in a safe and orderly manner    
+3\. Direct performers to walk back to the Assembly Area in a safe and orderly manner
