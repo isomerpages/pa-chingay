@@ -14,7 +14,8 @@ We would like to invite you to join us as volunteers for some of our activities 
 1. Aged 16 - 80 years old 
 2. Fully Vaccinated 
 3. Able to commit for all the sessions stated in the application form  
- <br>
+ 
+ 
 **Appreciation for All Volunteers**
 
 1. Meals will be provided on key dates of involvement
@@ -56,7 +57,7 @@ We would like to invite you to join us as volunteers for some of our activities 
 2\. Manage the buses at the various Coach Reporting areas  
 3\. Ensure the orderliness at the Coach Reporting areas 
 
-| |   |
+|  |   |
 | -------- | -------- | 
 |**Logistics** ![logistics](/images/Volunteers/Logistics.png)          | [https://go.gov.sg/chingay23-logsvol](https://go.gov.sg/chingay23-logsvol) <br>*Register by   *<br>*Application may close earlier due to overwhelming responses*    |
 
@@ -91,7 +92,7 @@ Assist in preparation and movement of production logistics & props prior to the 
 
 1\. Distribution of food and drinks to performers, volunteers and working crew    
 
-|  |   |
+|  |  |
 | -------- | -------- | 
 | **Production Crew**![production crew](/images/Volunteers/Production%20Crew.png)    |        [https://go.gov.sg/chingay23-pcvol](https://go.gov.sg/chingay23-pcvol) <br>*Register by *<br>*Application may close earlier due to overwhelming responses*     |       
 
@@ -99,7 +100,7 @@ Assist in preparation and movement of production logistics & props prior to the 
 2\. To prepare and cue the performers for their entry/exit at specific timings  
 3\. To guide the performers and floats to the correct position on the parade route    
 
-|  |   |
+|   |   |
 | -------- | -------- | 
 | **Media Volunteer**![media volunteer](/images/Volunteers/Media.png)          |         [https://go.gov.sg/chingay23-mediavol](https://go.gov.sg/chingay23-mediavol)  <br>*Register by *<br>*Application may close earlier due to overwhelming responses*   |
 
