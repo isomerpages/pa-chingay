@@ -91,14 +91,34 @@ Assist in preparation and movement of production logistics & props prior to the 
 
 1\. Distribution of food and drinks to performers, volunteers and working crew    
 
-| I1 Asher <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I1%20Asher">Vote</a>  | F2 Robert <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F1%20Robert%20Lim">Vote</a>  |
+| </a>  | </a>  |
 | -------- | -------- | 
-| ![](/images/wgt%20test.png) Watch it [here](https://www.instagram.com/p/Cc483XzpEQc/)!      | ![](/images/wgt%20test.png) Watch it [here](https://www.facebook.com/passionchingayclub/videos/399598828467382)!     |
+| **Production Crew**![production crew](/images/Volunteers/Production%20Crew.png)    |        [https://go.gov.sg/chingay23-pcvol](https://go.gov.sg/chingay23-pcvol) <br>*Register by *<br>*Application may close earlier due to overwhelming responses*     |       
 
-| I1 Asher <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I1%20Asher">Vote</a>  | F2 Robert <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F1%20Robert%20Lim">Vote</a>  |
-| -------- | -------- | 
-| ![](/images/wgt%20test.png) Watch it [here](https://www.instagram.com/p/Cc483XzpEQc/)!      | ![](/images/wgt%20test.png) Watch it [here](https://www.facebook.com/passionchingayclub/videos/399598828467382)!     |
+1\. To assist in preparation and movement of logistics and props during the parade (might need to carry and standby heavy props)  
+2\. To prepare and cue the performers for their entry/exit at specific timings  
+3\. To guide the performers and floats to the correct position on the parade route    
 
-| I1 Asher <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I1%20Asher">Vote</a>  | F2 Robert <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F1%20Robert%20Lim">Vote</a>  |
+| </a>  | </a>  |
 | -------- | -------- | 
-| ![](/images/wgt%20test.png) Watch it [here](https://www.instagram.com/p/Cc483XzpEQc/)!      | ![](/images/wgt%20test.png) Watch it [here](https://www.facebook.com/passionchingayclub/videos/399598828467382)!     |
+| **Media Volunteer**![media volunteer](/images/Volunteers/Media.png)          |         [https://go.gov.sg/chingay23-mediavol](https://go.gov.sg/chingay23-mediavol)  <br>*Register by *<br>*Application may close earlier due to overwhelming responses*   |
+
+1\. Be the photographer or videographer for Volunteers of Chingay  
+2\. Capture the volunteers in action during their trainings, briefings and during actual event days  
+3\. Assist with the social media publicity to showcase the various volunteer groups     
+
+| </a>  | </a>  |
+| -------- | -------- | 
+| **Admin & Logs**![admin & logs](/images/Volunteers/Admin%20&%20Logs.png)       |       [https://go.gov.sg/chingay23-admnlogsvol](https://go.gov.sg/chingay23-admnlogsvol) <br>*Register by *<br>*Application may close earlier due to overwhelming responses*   |    
+
+1\. Ensure a smooth administrative process for our volunteers during training and event days  
+2\. Assist in the distribution of logistics to volunteers and ensure that their welfare have been taken care of     
+
+
+| </a>  | </a>  |
+| -------- | -------- | 
+| **Assembly Area**![assembly area](/images/Volunteers/Assembly%20Area.png)          |         [https://go.gov.sg/chingay23-aavol](https://go.gov.sg/chingay23-aavol) <br>*Register by *<br>*Application may close earlier due to overwhelming responses*   |
+
+1\. Provide directions, information and assistance to members of the public  
+2\. Support the security officers in managing the crowd and ensuring safety of the public along the closed road and surrounding areas towards Chingay Parade site.  
+3\. Direct performers to walk back to the Assembly Area in a safe and orderly manner    
