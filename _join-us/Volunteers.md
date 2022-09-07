@@ -25,7 +25,7 @@ We would like to invite you to join us as volunteers for some of our activities 
 
 | Roles   | Registration Link   |
 | ------- | -------- | 
-| **Parade Management and Liaison EXCO**<br> ![exco](/images/Volunteers/EXCO.png)|   https://go.gov.sg/chingay23excovolunteers <br>*Register by 18 September 2022* <br>*Application may close earlier due to overwhelming responses*  |    
+| **Parade Management and Liaison EXCO**<br> ![exco](/images/Volunteers/EXCO.png)|   https://go.gov.sg/chingay23excovolunteers <br>*Register by 21 September 2022* <br>*Application may close earlier due to overwhelming responses*  |    
 
 1\. Recruitment of Volunteers  
 2\. Planning of training sessions and preparation of materials required  
@@ -74,8 +74,7 @@ Assist in preparation and movement of production logistics & props prior to the 
 1.Provide directions and information to members of the public  
 2\. Facilitate orderly arrival and dispersal of crowd before and after the parade  
 3\. Facilitate the performers movement during the parade  
-4\. Control the entry-exit points of the parade  
-5\. Assist with the crowd orderliness at the carnival area      
+4\. Control the entry-exit points of the parade       
 
 
 |   |   |
@@ -111,7 +110,7 @@ Assist in preparation and movement of production logistics & props prior to the 
 
 |   |   |
 | -------- | -------- | 
-| **Admin & Welfare**![admin & logs](/images/Volunteers/Admin%20&%20logs%202.png)       |       [https://go.gov.sg/chingay23-admnlogsvol](https://go.gov.sg/chingay23-admnlogsvol) <br>*Register by 13 November 2022*<br>*Application may close earlier due to overwhelming responses*   |    
+| **Admin & Welfare**![admin & logs](/images/Volunteers/Admin%20&%20logs%202.png)       |       https://go.gov.sg/chingay23-awvol <br>*Register by 13 November 2022*<br>*Application may close earlier due to overwhelming responses*   |    
 
 1\. Ensure a smooth administrative process for our volunteers during training and event days  
 2\. Assist in the distribution of logistics to volunteers and ensure that their welfare have been taken care of     
