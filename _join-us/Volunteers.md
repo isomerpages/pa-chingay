@@ -11,9 +11,10 @@ We would like to invite you to join us as volunteers for some of our activities 
 
 #### **Pre-Requisites for Volunteer Application**
 
-1. Aged 16 - 80 years old 
-2. Fully Vaccinated 
-3. Able to commit for all the sessions stated in the application form  
+1. General Volunteers - 15 years old and above
+2. EXCO / Volunteer Leaders - 17 years old and above 
+3. Fully Vaccinated 
+4. Able to commit for all the sessions stated in the application form  
  
  
 #### **Appreciation for All Volunteers**
@@ -27,7 +28,7 @@ We would like to invite you to join us as volunteers for some of our activities 
 
 | Roles   | Registration Link   |
 | ------- | -------- | 
-| **Parade Management and Liaison EXCO**<br> ![exco](/images/Volunteers/EXCO.png) | [ https://go.gov.sg/chingay23excovolunteers]( https://go.gov.sg/chingay23excovolunteers)    <br>*Register by 21 September 2022* <br>*Application may close earlier due to overwhelming responses*  |    
+| **Parade Management EXCO**<br> ![exco](/images/Volunteers/EXCO.png) | [ https://go.gov.sg/chingay23excovolunteers]( https://go.gov.sg/chingay23excovolunteers)    <br>*Register by 21 September 2022* <br>*Application may close earlier due to overwhelming responses*  |    
 
 1\. Recruitment of Volunteers  
 2\. Planning of training sessions and preparation of materials required  
@@ -36,11 +37,21 @@ We would like to invite you to join us as volunteers for some of our activities 
 5\. Management of Volunteers and Volunteers leaders <br>
 6\. Post-parade administrative matters    
 
+|   |   |
+| -------- | -------- | 
+| **Liaison EXCO**![liaison exco](/images/Volunteers/EXCO.png)         |         https://go.gov.sg/chingay23excovolunteers <br>*Register by 21 September 2022*<br>*Application may close earlier due to overwhelming responses*   |
 
+1\. Recruitment of Volunteers  
+2\. Planning of training sessions and preparation of materials required   
+3\. Planning of operational plans for coach arrangements  
+4\. Deployment of Volunteers based on plans or requirements  
+5\. On-ground operations with fellow volunteers in assigned area/sector      
+6\. Management of Volunteers and Volunteers leaders  
+7\. Post-parade administrative matters 
 
 |   |   |
 | -------- | -------- | 
-| **Volunteers Leader**<br> ![leader](/images/Volunteers/Leader%202.png) | [https://go.gov.sg/chingay23-volunteersleader](https://go.gov.sg/chingay23-volunteersleader)    <br> *Register by 16 October 2022*<br>*Application may close earlier due to overwhelming responses*   |         
+| **Volunteers Leader**<br> ![leader](/images/Volunteers/Leader%202.png) | [https://go.gov.sg/chingay23-volunteersleader](https://go.gov.sg/chingay23-volunteersleader)    <br> *Register by 19 October 2022*<br>*Application may close earlier due to overwhelming responses*   |         
 
 1\. Oversee and manage a group of volunteers  
 2\. Attend additional recce / briefing sessions with planning committee to understand the operational plans  
@@ -58,7 +69,7 @@ We would like to invite you to join us as volunteers for some of our activities 
 
 1\. Manage the arrival and departure of performers and organized groups by chartered buses  
 2\. Manage the buses at the various Coach Reporting areas  
-3\. Ensure the orderliness at the Coach Reporting areas 
+3\. Ensure the orderliness at the Coach Reporting Centre 
 
 |  |   |
 | -------- | -------- | 
@@ -73,7 +84,7 @@ Assist in preparation and movement of production logistics & props prior to the 
 | -------- | -------- | 
 |**Crowd Management** ![crowd management](/images/Volunteers/Crowd%20Management%202.png) |           [https://go.gov.sg/chingay23-cmvol](https://go.gov.sg/chingay23-cmvol)  <br>*Register by 13 November 2022*<br>*Application may close earlier due to overwhelming responses*  |        
 
-1.Provide directions and information to members of the public  
+1\. Provide directions and information to members of the public  
 2\. Facilitate orderly arrival and dispersal of crowd before and after the parade  
 3\. Facilitate the performers movement during the parade  
 4\. Control the entry-exit points of the parade       
@@ -85,8 +96,7 @@ Assist in preparation and movement of production logistics & props prior to the 
 
 1\. Check tickets and usher guests to their designated seats  
 2\. Hype up atmosphere and engage the audience before, during and after the parade  
-3\. Answer general queries from guests  
-4\. To distribute goodies bags / collaterals (if any)      
+3\. Answer general queries from guests     
 
 |  |   |
 | -------- | -------- | 
@@ -117,11 +127,3 @@ Assist in preparation and movement of production logistics & props prior to the 
 1\. Ensure a smooth administrative process for our volunteers during training and event days  
 2\. Assist in the distribution of logistics to volunteers and ensure that their welfare have been taken care of     
 
-
-|   |   |
-| -------- | -------- | 
-| **Assembly Area**![assembly area](/images/Volunteers/Assembly%20area%202.png)         |         [https://go.gov.sg/chingay23-aavol](https://go.gov.sg/chingay23-aavol) <br>*Register by 13 November 2022*<br>*Application may close earlier due to overwhelming responses*   |
-
-1\. Provide directions, information and assistance to members of the public  
-2\. Support the security officers in managing the crowd and ensuring safety of the public along the closed road and surrounding areas towards Chingay Parade site.  
-3\. Direct performers to walk back to the Assembly Area in a safe and orderly manner
