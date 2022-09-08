@@ -16,7 +16,7 @@ description: ""
       <img style="height:235px;width:auto;" src="/images/WGT23/Picture1.png">
     </div>
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-			<b>Watch it <a href="">here</a></b>
+			<b>Watch it <a href="https://www.instagram.com/p/CgI8ziFsfZB/">here</a></b>
     </p>
   </div>
 </li>	
