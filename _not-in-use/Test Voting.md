@@ -9,9 +9,9 @@ description: ""
 | -------- | -------- | 
 | ![I1 junelimhz](/images/WGT23/I1%20junelimhz.jpg)  Watch it [here](https://www.instagram.com/p/CgI8ziFsfZB/)!      | ![I2 yizhou_xue](/images/WGT23/I2%20yizhou_xue.jpg) Watch it [here](https://www.instagram.com/p/CgIYDqPh8xT/)!     | 
 
-| I3 @bambi.ambi.music <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I3%20@bambi.ambi.music">Vote</a>  | I4 @serena_hl <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F4%20@serena_hl">Vote</a>  |
+| I3 bambi.ambi music <br> <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I3%20@bambi.ambi.music">Vote</a>  | I4 @serena_hl <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F4%20@serena_hl">Vote</a>  |
 | -------- | -------- | 
-|  Watch it [here](https://www.instagram.com/p/CgMpotaDvM7/)!      | ![](/images/wgt%20test.png) Watch it [here](https://www.instagram.com/p/CgLXajTJJP5/)!     | 
+| ![I3 bambi ambi music](/images/WGT23/I3%20bambi%20ambi%20music.jpg) Watch it [here](https://www.instagram.com/p/CgMpotaDvM7/)!      | ![I4 serena_hl](/images/WGT23/I4%20serena_hl.jpg) Watch it [here](https://www.instagram.com/p/CgLXajTJJP5/)!     | 
 
 | I1 Asher <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I1%20Asher">Vote</a>  | F2 Robert <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F1%20Robert%20Lim">Vote</a>  |
 | -------- | -------- | 
