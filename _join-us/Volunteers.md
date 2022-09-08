@@ -33,19 +33,20 @@ We would like to invite you to join us as volunteers for some of our activities 
 2\. Planning of training sessions and preparation of materials required  
 3\. Deployment of Volunteers based on plans or requirements  
 4\. On-ground operations with fellow volunteers in assigned area / sector  
-5\. Management of Volunteers and Volunteers leaders  6\. Post-parade administrative matters    
+5\. Management of Volunteers and Volunteers leaders <br>
+6\. Post-parade administrative matters    
 
 
 
 |   |   |
 | -------- | -------- | 
-| **Volunteers Leader**<br> ![leader](/images/Volunteers/Leader%202.png) | [https://go.gov.sg/chingay23-volunteersleader](https://go.gov.sg/chingay23-volunteersleader) <br> *Register by 16 October 2022*<br>*Application may close earlier due to overwhelming responses*   |         
+| **Volunteers Leader**<br> ![leader](/images/Volunteers/Leader%202.png) | [https://go.gov.sg/chingay23-volunteersleader](https://go.gov.sg/chingay23-volunteersleader)    <br> *Register by 16 October 2022*<br>*Application may close earlier due to overwhelming responses*   |         
 
 1\. Oversee and manage a group of volunteers  
 2\. Attend additional recce / briefing sessions with planning committee to understand the operational plans  
 3\. Assist in administrative issues (contacting of or disseminating information to volunteers, marking of attendance etc.)  
 4\. Communicate the plans to the volunteers under their charge  
-5\. Resolve any issues/situations that occur <br>
+5\. Resolve any issues/situations that occur  
 6\. Encourage and motivate the volunteers     
 
 
