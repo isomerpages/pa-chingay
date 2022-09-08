@@ -39,7 +39,7 @@ We would like to invite you to join us as volunteers for some of our activities 
 
 |   |   |
 | -------- | -------- | 
-| **Liaison EXCO**![liaison exco](/images/Volunteers/EXCO.png)         |         [ https://go.gov.sg/chingay23excovolunteers]( https://go.gov.sg/chingay23excovolunteers)  <br>*Register by 21 September 2022*<br>*Application may close earlier due to overwhelming responses*   |
+| **Liaison EXCO**![liaison exco](/images/Volunteers/EXCO.png)         |         [https://go.gov.sg/chingay23excovolunteers](https://go.gov.sg/chingay23excovolunteers)  <br>*Register by 21 September 2022*<br>*Application may close earlier due to overwhelming responses*   |
 
 1\. Recruitment of Volunteers  
 2\. Planning of training sessions and preparation of materials required   
