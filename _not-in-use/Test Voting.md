@@ -36,26 +36,6 @@ description: ""
   </div>
 </li>	
 </ul>
-<table>
-	<tr>
-		<td width="50%">
-			I1 @junelimhz <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I1%20@junelimhz">Vote</a>
-		</td>
-		<td width="50%">
-			I2 @yizhou\_xue <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I2%20@yizhou_xue ">Vote</a>
-		</td>			
-	</tr>
-	<tr>
-		<td>
-			<img src="/images/WGT23/I1%20junelimhz.jpg" alt=""><br>
-			Watch it <a href="https://www.instagram.com/p/CgI8ziFsfZB/">here</a>
-		</td>
-		<td>
-			<img src="/images/WGT23/I2%20yizhou_xue.jpg" alt=""><br>
-			Watch it <a href="https://www.instagram.com/p/CgIYDqPh8xT/">here</a>
-		</td>
-	</tr>
-</table>
 
 | I1 @junelimhz <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I1%20@junelimhz">Vote</a>  | I2 @yizhou\_xue <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I2%20@yizhou_xue ">Vote</a>  |
 | -------- | -------- | 
