@@ -50,21 +50,6 @@ description: ""
     </p>
   </div>
 </li>
-<li>
-  <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-        <div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
-      <h3 style="font-size: 1em; margin: 0; color:black;">
-                I4 @serena_hl <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I4%20@serena_hl">Vote</a>
-            </h3>
-    </div>
-    <div style="width:343px;height:235px;">
-      <img style="height:235px;width:auto;" src="/images/WGT23/Picture4.png">
-    </div>
-    <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-            <b>Watch it <a href="https://www.instagram.com/p/CgLXajTJJP5/">here</a></b>
-    </p>
-  </div>
-</li>
 </ul>
 
 
