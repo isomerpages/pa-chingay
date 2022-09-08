@@ -27,20 +27,19 @@ We would like to invite you to join us as volunteers for some of our activities 
 
 | Roles   | Registration Link   |
 | ------- | -------- | 
-| **Parade Management and Liaison EXCO**<br> ![exco](/images/Volunteers/EXCO.png)|   https://go.gov.sg/chingay23excovolunteers <br>*Register by 21 September 2022* <br>*Application may close earlier due to overwhelming responses*  |    
+| **Parade Management and Liaison EXCO**<br> ![exco](/images/Volunteers/EXCO.png) | [ https://go.gov.sg/chingay23excovolunteers]( https://go.gov.sg/chingay23excovolunteers)    <br>*Register by 21 September 2022* <br>*Application may close earlier due to overwhelming responses*  |    
 
 1\. Recruitment of Volunteers  
 2\. Planning of training sessions and preparation of materials required  
 3\. Deployment of Volunteers based on plans or requirements  
 4\. On-ground operations with fellow volunteers in assigned area / sector  
-5\. Management of Volunteers and Volunteers leaders  
-6\. Post-parade administrative matters    
+5\. Management of Volunteers and Volunteers leaders  6\. Post-parade administrative matters    
 
 
 
 |   |   |
 | -------- | -------- | 
-| **Volunteers Leader**<br> ![leader](/images/Volunteers/Leader%202.png)|   https://go.gov.sg/chingay23-volunteersleader <br> *Register by 16 October 2022*<br>*Application may close earlier due to overwhelming responses*   |         
+| **Volunteers Leader**<br> ![leader](/images/Volunteers/Leader%202.png) | [https://go.gov.sg/chingay23-volunteersleader](https://go.gov.sg/chingay23-volunteersleader) <br> *Register by 16 October 2022*<br>*Application may close earlier due to overwhelming responses*   |         
 
 1\. Oversee and manage a group of volunteers  
 2\. Attend additional recce / briefing sessions with planning committee to understand the operational plans  
