@@ -3,25 +3,27 @@ title: Volunteers
 permalink: /join-us/volunteers/
 description: ""
 ---
-**Volunteer Recruitment for Chingay 2023 is back!**<br>
+# **Volunteer Recruitment for Chingay 2023 is back!**
 
 Chingay 2023 is organised and managed by the Arts & Culture Division (ACD) of the People’s Association (PA).
 
 We would like to invite you to join us as volunteers for some of our activities happening in December 2022, January and February 2023. Alternatively, you can always be part of Chingay 2023 by participating in our other engagement activities such as [We've Got Talent! 2023](https://www.chingay.gov.sg/wgt2023) and [D:2 Dance Competition 2023](https://www.chingay.gov.sg/d22023).
 
-**Pre-Requisites for Volunteer Application**
+#### **Pre-Requisites for Volunteer Application**
 
 1. Aged 16 - 80 years old 
 2. Fully Vaccinated 
 3. Able to commit for all the sessions stated in the application form  
  
  
-**Appreciation for All Volunteers**
+#### **Appreciation for All Volunteers**
 
 1. Meals will be provided on key dates of involvement
 2. Chingay Volunteer T-shirt
 3. Certificate of Appreciation 
-4. Letter of acknowledgement of your participation (VIA letter) upon request <br><br>
+4. Letter of acknowledgement of your participation (VIA letter) upon request
+
+#### **Roles Available**
 
 | Roles   | Registration Link   |
 | ------- | -------- | 
@@ -88,7 +90,7 @@ Assist in preparation and movement of production logistics & props prior to the 
 
 |  |   |
 | -------- | -------- | 
-|**F&B (Food & Beverage)** ![F&B ](/images/Volunteers/F&B%202.png)     |     [https://go.gov.sg/chingay23-fnbvol](https://go.gov.sg/chingay23-fnbvol)  <br>*Register by 13 November 2022*<br>*Application may close earlier due to overwhelming responses*   |
+|**Food & Beverage** ![F&B ](/images/Volunteers/F&B%202.png)     |     [https://go.gov.sg/chingay23-fnbvol](https://go.gov.sg/chingay23-fnbvol)  <br>*Register by 13 November 2022*<br>*Application may close earlier due to overwhelming responses*   |
 
 1\. Distribution of food and drinks to performers, volunteers and working crew    
 
