@@ -13,7 +13,7 @@ description: ""
 			</h3>
     </div>
     <div style="width:343px;height:235px;">
-      <img style="height:235px;width:auto;" src="/images/WGT23/Picture1.png">
+      <img style="height:235px;width:auto;" src="/images/WGT23/I1 junelimhz.jpg">
     </div>
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/p/CgI8ziFsfZB/">here</a>!
@@ -28,7 +28,7 @@ description: ""
 			</h3>
     </div>
     <div style="width:343px;height:235px;">
-      <img style="height:235px;width:auto;" src="/images/WGT23/Picture2.png">
+      <img style="height:235px;width:auto;" src="/images/WGT23/I2 yizhou_xue.jpg">
     </div>
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/p/CgIYDqPh8xT/">here</a>!
@@ -43,7 +43,7 @@ description: ""
 			</h3>
     </div>
     <div style="width:343px;height:235px;">
-      <img style="height:235px;width:auto;" src="/images/WGT23/Picture3.png">
+      <img style="height:235px;width:auto;" src="/images/WGT23/I3 bambi ambi music.jpg">
     </div>
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/p/CgMpotaDvM7/">here</a>!
@@ -58,7 +58,7 @@ description: ""
 			</h3>
     </div>
     <div style="width:343px;height:235px;">
-      <img style="height:235px;width:auto;" src="/images/WGT23/Picture4.png">
+      <img style="height:235px;width:auto;" src="/images/WGT23/I4 serena_hl.jpg">
     </div>
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/p/CgLXajTJJP5/">here</a>!
