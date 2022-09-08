@@ -45,7 +45,7 @@ We would like to invite you to join us as volunteers for some of our activities 
 2\. Attend additional recce / briefing sessions with planning committee to understand the operational plans  
 3\. Assist in administrative issues (contacting of or disseminating information to volunteers, marking of attendance etc.)  
 4\. Communicate the plans to the volunteers under their charge  
-5\. Resolve any issues/situations that occur  
+5\. Resolve any issues/situations that occur <br>
 6\. Encourage and motivate the volunteers     
 
 
