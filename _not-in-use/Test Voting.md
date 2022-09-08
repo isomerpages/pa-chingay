@@ -16,7 +16,7 @@ description: ""
       <img style="height:235px;width:auto;" src="/images/WGT23/Picture1.png">
     </div>
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-			<b>Watch it <a href="https://www.instagram.com/p/CgI8ziFsfZB/">here</a></b>
+			Watch it <a href="https://www.instagram.com/p/CgI8ziFsfZB/">here</a>!
     </p>
   </div>
 </li>	
@@ -31,7 +31,7 @@ description: ""
       <img style="height:235px;width:auto;" src="/images/WGT23/Picture2.png">
     </div>
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-			<b>Watch it <a href="https://www.instagram.com/p/CgIYDqPh8xT/">here</a></b>
+			Watch it <a href="https://www.instagram.com/p/CgIYDqPh8xT/">here</a>!
     </p>
   </div>
 </li>
@@ -46,7 +46,7 @@ description: ""
       <img style="height:235px;width:auto;" src="/images/WGT23/Picture3.png">
     </div>
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-			<b>Watch it <a href="https://www.instagram.com/p/CgMpotaDvM7/">here</a></b>
+			Watch it <a href="https://www.instagram.com/p/CgMpotaDvM7/">here</a>!
     </p>
   </div>
 </li>
