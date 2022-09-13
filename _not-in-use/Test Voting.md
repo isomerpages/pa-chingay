@@ -13,7 +13,7 @@ description: ""
 			</h3>
     </div>
     <div style="width:343px;height:235px;">
-      <img style="height:235px;width:auto;" src="/images/WGT23/I1 junelimhz.jpg">
+      <img style="height:235px;width:auto;" src="/images/WGT23/I1 1029px 705px.png">
     </div>
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/p/CgI8ziFsfZB/">here</a>!
@@ -28,7 +28,7 @@ description: ""
 			</h3>
     </div>
     <div style="width:343px;height:235px;">
-      <img style="height:235px;width:auto;" src="/images/WGT23/I2 yizhou_xue.jpg">
+      <img style="height:235px;width:auto;" src="/images/WGT23/I2 1029px 705px.png">
     </div>
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/p/CgIYDqPh8xT/">here</a>!
@@ -43,7 +43,7 @@ description: ""
 			</h3>
     </div>
     <div style="width:343px;height:235px;">
-      <img style="height:235px;width:auto;" src="/images/WGT23/I3 bambi ambi music.jpg">
+      <img style="height:235px;width:auto;" src="/images/WGT23/I3 1029px 705px.png">
     </div>
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/p/CgMpotaDvM7/">here</a>!
@@ -58,7 +58,7 @@ description: ""
 			</h3>
     </div>
     <div style="width:343px;height:235px;">
-      <img style="height:235px;width:auto;" src="/images/WGT23/I4 serena_hl.jpg">
+      <img style="height:235px;width:auto;" src="/images/WGT23/I4 1029px 705px.png">
     </div>
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/p/CgLXajTJJP5/">here</a>!
@@ -73,7 +73,7 @@ description: ""
 			</h3>
     </div>
     <div style="width:343px;height:235px;">
-      <img style="height:235px;width:auto;" src="/images/WGT23/I5 stellan_yu.jpg">
+      <img style="height:235px;width:auto;" src="/images/WGT23/I5 1029px 705px.png">
     </div>
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/tv/CgCUUwthNfk/?igshid=YmMyMTA2M2Y=">here</a>!
@@ -88,7 +88,7 @@ description: ""
 			</h3>
     </div>
     <div style="width:343px;height:235px;">
-      <img style="height:235px;width:auto;" src="/images/WGT23/I6 ljxiao_.jpg">
+      <img style="height:235px;width:auto;" src="/images/WGT23/I6 1029px 705px.png">
     </div>
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/p/Cg3-yFLpVDH/">here</a>!
