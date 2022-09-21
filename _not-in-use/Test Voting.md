@@ -13,7 +13,7 @@ description: ""
 			</h3>
     </div>
     <div style="width:343px;height:235px;">
-      <img style="height:235px;width:auto;" src="/images/WGT23/I1 1029px 705px.png">
+      <img style="height:235px;width:343px;" src="/images/WGT23/I1 1029px 705px.png">
     </div>
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/p/CgI8ziFsfZB/">here</a>!
