@@ -13,7 +13,7 @@ description: ""
 			</h3>
     </div>
     <div style="width:343px;height:235px;">
-      <img style="height:235px;width:auto;" src="/images/WGT23/I1 junelimhz.jpg">
+      <img style="height:auto;width:auto;" src="/images/WGT23/I1 1029px 705px.png">
     </div>
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/p/CgI8ziFsfZB/">here</a>!
@@ -28,7 +28,7 @@ description: ""
 			</h3>
     </div>
     <div style="width:343px;height:235px;">
-      <img style="height:235px;width:auto;" src="/images/WGT23/I2 yizhou_xue.jpg">
+      <img style="height:235px;width:343px;" src="/images/WGT23/I2 1029px 705px.png">
     </div>
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/p/CgIYDqPh8xT/">here</a>!
@@ -43,7 +43,7 @@ description: ""
 			</h3>
     </div>
     <div style="width:343px;height:235px;">
-      <img style="height:235px;width:auto;" src="/images/WGT23/I3 bambi ambi music.jpg">
+      <img style="height:235px;width:343px;;" src="/images/WGT23/I3 1029px 705px.png">
     </div>
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/p/CgMpotaDvM7/">here</a>!
@@ -58,7 +58,7 @@ description: ""
 			</h3>
     </div>
     <div style="width:343px;height:235px;">
-      <img style="height:235px;width:auto;" src="/images/WGT23/I4 serena_hl.jpg">
+      <img style="height:235px;width:343px;" src="/images/WGT23/I4 1029px 705px.png">
     </div>
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/p/CgLXajTJJP5/">here</a>!
@@ -73,7 +73,7 @@ description: ""
 			</h3>
     </div>
     <div style="width:343px;height:235px;">
-      <img style="height:235px;width:auto;" src="/images/WGT23/Picture5.png">
+      <img style="height:235px;width:343px;;" src="/images/WGT23/I5 1029px 705px.png">
     </div>
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/tv/CgCUUwthNfk/?igshid=YmMyMTA2M2Y=">here</a>!
@@ -88,7 +88,7 @@ description: ""
 			</h3>
     </div>
     <div style="width:343px;height:235px;">
-      <img style="height:235px;width:auto;" src="/images/WGT23/Picture6.png">
+      <img style="height:235px;width:343px;;" src="/images/WGT23/I6 1029px 705px.png">
     </div>
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/p/Cg3-yFLpVDH/">here</a>!
@@ -96,25 +96,3 @@ description: ""
   </div>
 </li>
 </ul>
-
-
-
-
-
-
-
-
-
-
-
-| I1 @junelimhz <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I1%20@junelimhz">Vote</a>  | I2 @yizhou\_xue <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I2%20@yizhou_xue ">Vote</a>  |
-| -------- | -------- | 
-| ![I1 junelimhz](/images/WGT23/I1%20junelimhz.jpg) Watch it [here](https://www.instagram.com/p/CgI8ziFsfZB/)!      | ![I2 yizhou_xue](/images/WGT23/I2%20yizhou_xue.jpg) Watch it [here](https://www.instagram.com/p/CgIYDqPh8xT/)!     | 
-
-| I3 @bambi.ambi.music <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I3%20@bambi.ambi.music">Vote</a>  | I4 @serena_hl <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F4%20@serena_hl">Vote</a>  |
-| -------- | -------- | 
-| ![I3 bambi ambi music](/images/WGT23/I3%20bambi%20ambi%20music.jpg) Watch it [here](https://www.instagram.com/p/CgMpotaDvM7/)!      | ![I4 serena_hl](/images/WGT23/I4%20serena_hl.jpg) Watch it [here](https://www.instagram.com/p/CgLXajTJJP5/)!     | 
-
-| I1 Asher <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I1%20Asher">Vote</a>  | F2 Robert <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F1%20Robert%20Lim">Vote</a>  |
-| -------- | -------- | 
-| ![](/images/wgt%20test.png) Watch it [here](https://www.instagram.com/p/Cc483XzpEQc/)!      | ![](/images/wgt%20test.png) Watch it [here](https://www.facebook.com/passionchingayclub/videos/399598828467382)!     |
