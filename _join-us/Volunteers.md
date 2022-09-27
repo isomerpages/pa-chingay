@@ -28,7 +28,7 @@ We would like to invite you to join us as volunteers for some of our activities 
 
 | Roles   | Registration Link   |
 | ------- | -------- | 
-| **Parade Management EXCO**<br> ![exco](/images/Volunteers/EXCO.png) | [ https://go.gov.sg/chingay23excovolunteers]( https://go.gov.sg/chingay23excovolunteers)    <br>*Register by 21 September 2022* <br>*Application may close earlier due to overwhelming responses*  |    
+| **Parade Management EXCO**<br> ![exco](/images/Volunteers/EXCO.png) |     **Registration has closed** <br>*Interested applicants please apply for other available roles.*  |    
 
 1\. Recruitment of Volunteers  
 2\. Planning of training sessions and preparation of materials required  
@@ -39,7 +39,7 @@ We would like to invite you to join us as volunteers for some of our activities 
 
 |   |   |
 | -------- | -------- | 
-| **Liaison EXCO**![liaison exco](/images/Volunteers/EXCO.png)         |         [https://go.gov.sg/chingay23excovolunteers](https://go.gov.sg/chingay23excovolunteers)  <br>*Register by 21 September 2022*<br>*Application may close earlier due to overwhelming responses*   |
+| **Liaison EXCO**![liaison exco](/images/Volunteers/EXCO.png)         |           **Registration has closed.** <br>*Interested applicants please apply for other available roles.*   |
 
 1\. Recruitment of Volunteers  
 2\. Planning of training sessions and preparation of materials required   
@@ -65,7 +65,7 @@ We would like to invite you to join us as volunteers for some of our activities 
 
 |   |   |
 | -------- | -------- | 
-| **Liaison**<br> ![liaison](/images/Volunteers/Liaison%202.png)|    <br> *Registration from 27 September to 13 November 2022*<br>*Application may close earlier due to overwhelming responses*   |          
+| **Liaison**<br> ![liaison](/images/Volunteers/Liaison%202.png)|   [https://go.gov.sg/chingay23-liaisonvol](https://go.gov.sg/chingay23-liaisonvol) <br> *Register by 13 November 2022*<br>*Application may close earlier due to overwhelming responses*   |          
 
 1\. Manage the arrival and departure of performers and organized groups by chartered buses  
 2\. Manage the buses at the various Coach Reporting areas  
@@ -73,7 +73,7 @@ We would like to invite you to join us as volunteers for some of our activities 
 
 |  |   |
 | -------- | -------- | 
-|**Logistics** ![logistics](/images/Volunteers/Logistics%202.png)        |  <br>*Registration from 27 September to 13 November 2022*<br>*Application may close earlier due to overwhelming responses*    |
+|**Logistics** ![logistics](/images/Volunteers/Logistics%202.png)        | [https://go.gov.sg/chingay23-logsvol](https://go.gov.sg/chingay23-logsvol) <br>*Register by 13 November 2022*<br>*Application may close earlier due to overwhelming responses*    |
 
 Assist in preparation and movement of production logistics & props prior to the parade  
 1\. Distribute logistics items such as parade props, walkie talkie and lanyards  
@@ -82,7 +82,7 @@ Assist in preparation and movement of production logistics & props prior to the 
 
 |   |   |
 | -------- | -------- | 
-|**Crowd Management** ![crowd management](/images/Volunteers/Crowd%20Management%202.png) |            <br>*Registration from 27 September to by 13 November 2022*<br>*Application may close earlier due to overwhelming responses*  |        
+|**Crowd Management** ![crowd management](/images/Volunteers/Crowd%20Management%202.png) |       [https://go.gov.sg/chingay23-cmvol](https://go.gov.sg/chingay23-cmvol)     <br>*Register by 13 November 2022*<br>*Application may close earlier due to overwhelming responses*  |        
 
 1\. Provide directions and information to members of the public  
 2\. Facilitate orderly arrival and dispersal of crowd before and after the parade  
@@ -92,7 +92,7 @@ Assist in preparation and movement of production logistics & props prior to the 
 
 |   |   |
 | -------- | -------- | 
-|**General Hospitality** ![general hospitality](/images/Volunteers/General%20Hospi.png) |       <br>*Registration from 27 September to 13 November 2022*<br>*Application may close earlier due to overwhelming responses*    |         
+|**General Hospitality** ![general hospitality](/images/Volunteers/General%20Hospi.png) |    [https://go.gov.sg/chingay23-ghvol](https://go.gov.sg/chingay23-ghvol)   <br>*Register by 13 November 2022*<br>*Application may close earlier due to overwhelming responses*    |         
 
 1\. Check tickets and usher guests to their designated seats  
 2\. Hype up atmosphere and engage the audience before, during and after the parade  
@@ -100,13 +100,13 @@ Assist in preparation and movement of production logistics & props prior to the 
 
 |  |   |
 | -------- | -------- | 
-|**Food & Beverage** ![F&B ](/images/Volunteers/F&B%202.png)     |       <br>*Registration from 27 September to 13 November 2022*<br>*Application may close earlier due to overwhelming responses*   |
+|**Food & Beverage** ![F&B ](/images/Volunteers/F&B%202.png)     |      [https://go.gov.sg/chingay23-fnbvol](https://go.gov.sg/chingay23-fnbvol) <br>*Register by 13 November 2022*<br>*Application may close earlier due to overwhelming responses*   |
 
 1\. Distribution of food and drinks to performers, volunteers and working crew    
 
 |  |  |
 | -------- | -------- | 
-| **Production Crew**![production crew](/images/Volunteers/Production%20crew%202.png)    |         <br>*Registration from 27 September to 13 November 2022*<br>*Application may close earlier due to overwhelming responses*     |       
+| **Production Crew**![production crew](/images/Volunteers/Production%20crew%202.png)    |       [https://go.gov.sg/chingay23-pcvol](https://go.gov.sg/chingay23-pcvol)  <br> **Note: Applicants need to be 17 - 65 years old for this role.** <br> *Register by 13 November 2022*<br>*Application may close earlier due to overwhelming responses*     |       
 
 1\. To assist in preparation and movement of logistics and props during the parade (might need to carry and standby heavy props)  
 2\. To prepare and cue the performers for their entry/exit at specific timings  
@@ -114,7 +114,7 @@ Assist in preparation and movement of production logistics & props prior to the 
 
 |   |   |
 | -------- | -------- | 
-| **Media Volunteer**![media](/images/Volunteers/Media%202.png)          |           <br>*Registration from 27 September to  13 November 2022*<br>*Application may close earlier due to overwhelming responses*   |
+| **Media Volunteer**![media](/images/Volunteers/Media%202.png)          |     [https://go.gov.sg/chingay23-mediavol](https://go.gov.sg/chingay23-mediavol)      <br>*Register by 13 November 2022*<br>*Application may close earlier due to overwhelming responses*   |
 
 1\. Be the photographer or videographer for Volunteers of Chingay  
 2\. Capture the volunteers in action during their trainings, briefings and during actual event days  
@@ -122,7 +122,7 @@ Assist in preparation and movement of production logistics & props prior to the 
 
 |   |   |
 | -------- | -------- | 
-| **Admin & Welfare**![admin & logs](/images/Volunteers/Admin%20&%20logs%202.png)       |       <br>*Registration from 27 September to 13 November 2022*<br>*Application may close earlier due to overwhelming responses*   |    
+| **Admin & Welfare**![admin & logs](/images/Volunteers/Admin%20&%20logs%202.png)       |     [https://go.gov.sg/chingay23-awvol](https://go.gov.sg/chingay23-awvol)  <br>*Register by 13 November 2022*<br>*Application may close earlier due to overwhelming responses*   |    
 
 1\. Ensure a smooth administrative process for our volunteers during training and event days  
 2\. Assist in the distribution of logistics to volunteers and ensure that their welfare have been taken care of
