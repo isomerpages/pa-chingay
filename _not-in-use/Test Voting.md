@@ -12,7 +12,7 @@ description: ""
 				I1 @junelimhz <br> <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I1%20@junelimhz">Vote</a>
 			</h3>
     </div>
-      <img style="height:235px;width:343px;" src="/images/WGT23/I1 1029px 705px.png">
+      <img style="height:auto;width:343px;" src="/images/WGT23/I1 1029px 705px.png">
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/p/CgI8ziFsfZB/">here</a>!
     </p>
@@ -25,9 +25,7 @@ description: ""
 				I2 @yizhou_xue <br> <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I2%20@yizhou_xue ">Vote</a>
 			</h3>
     </div>
-    <div style="width:343px;height:235px;">
-      <img style="height:235px;width:343px;" src="/images/WGT23/I2 1029px 705px.png">
-    </div>
+      <img style="height:auto;width:343px;" src="/images/WGT23/I2 1029px 705px.png">
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/p/CgIYDqPh8xT/">here</a>!
     </p>
@@ -40,9 +38,7 @@ description: ""
 				I3 @bambi.ambi.music <br> <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I3%20@bambi.ambi.music">Vote</a>
 			</h3>
     </div>
-    <div style="width:343px;height:235px;">
-      <img style="height:235px;width:343px;;" src="/images/WGT23/I3 1029px 705px.png">
-    </div>
+      <img style="height:auto;width:343px;;" src="/images/WGT23/I3 1029px 705px.png">
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/p/CgMpotaDvM7/">here</a>!
     </p>
@@ -55,9 +51,7 @@ description: ""
 				I4 @serena_hl <br> <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I4%20@serena_hl">Vote</a>
 			</h3>
     </div>
-    <div style="width:343px;height:235px;">
-      <img style="height:235px;width:343px;" src="/images/WGT23/I4 1029px 705px.png">
-    </div>
+      <img style="height:auto;width:343px;" src="/images/WGT23/I4 1029px 705px.png">
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/p/CgLXajTJJP5/">here</a>!
     </p>
@@ -70,9 +64,7 @@ description: ""
 				I5 @stellan_yu <br> <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I5%20@stellan_yu">Vote</a>
 			</h3>
     </div>
-    <div style="width:343px;height:235px;">
-      <img style="height:235px;width:343px;;" src="/images/WGT23/I5 1029px 705px.png">
-    </div>
+      <img style="height:auto;width:343px;;" src="/images/WGT23/I5 1029px 705px.png">
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/tv/CgCUUwthNfk/?igshid=YmMyMTA2M2Y=">here</a>!
     </p>
@@ -85,9 +77,7 @@ description: ""
 				I6 @ljxiao_ <br> <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I6%20@ljxiao_">Vote</a>
 			</h3>
     </div>
-    <div style="width:343px;height:235px;">
       <img style="height:235px;width:343px;;" src="/images/WGT23/I6 1029px 705px.png">
-    </div>
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/p/Cg3-yFLpVDH/">here</a>!
     </p>
