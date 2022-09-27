@@ -38,7 +38,7 @@ description: ""
 				I3 @bambi.ambi.music <br> <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I3%20@bambi.ambi.music">Vote</a>
 			</h3>
     </div>
-      <img style="height:auto;width:343px;;" src="/images/WGT23/I3 1029px 705px.png">
+      <img style="height:auto;width:343px;" src="/images/WGT23/I3 1029px 705px.png">
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/p/CgMpotaDvM7/">here</a>!
     </p>
