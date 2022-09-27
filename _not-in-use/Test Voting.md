@@ -12,9 +12,7 @@ description: ""
 				I1 @junelimhz <br> <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I1%20@junelimhz">Vote</a>
 			</h3>
     </div>
-    <div style="width:343px;height:235px;">
-      <img style="height:auto;width:auto;" src="/images/WGT23/I1 1029px 705px.png">
-    </div>
+      <img style="height:235px;width:343px;" src="/images/WGT23/I1 1029px 705px.png">
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/p/CgI8ziFsfZB/">here</a>!
     </p>
