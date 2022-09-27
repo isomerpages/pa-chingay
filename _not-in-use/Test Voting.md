@@ -77,7 +77,7 @@ description: ""
 				I6 @ljxiao_ <br> <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I6%20@ljxiao_">Vote</a>
 			</h3>
     </div>
-      <img style="height:235px;width:343px;;" src="/images/WGT23/I6 1029px 705px.png">
+      <img style="height:auto;width:343px;;" src="/images/WGT23/I6 1029px 705px.png">
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/p/Cg3-yFLpVDH/">here</a>!
     </p>
