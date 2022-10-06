@@ -2,6 +2,7 @@ collections:
   not-in-use:
     output: true
     order:
+      - Snap, Tag & Win!.md
       - We've Got Talent!.md
       - Chingay Mama Shop.md
       - Test Voting.md
