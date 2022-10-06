@@ -2,6 +2,7 @@ collections:
   not-in-use:
     output: true
     order:
+      - Watch Party.md
       - Spot & Win!.md
       - Snap, Tag & Win!.md
       - We've Got Talent!.md
