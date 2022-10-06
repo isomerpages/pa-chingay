@@ -1,9 +1,10 @@
 ---
 title: Chingay50 Mini Floats
-permalink: /whats-on/Community-Engagement/chingay50-mini-floats
+permalink: /whats-on/Community-Engagement/chingay50-mini-floats/
 description: ""
-third_nav_title: Community Engagement
+third_nav_title: Chingay50 Programmes
 ---
+
 Together with PAssionArts, Chingay50 will present 17 Chingay50 Mini Floats conceptualised by local community artists, art groups and PA Balloon Sculpting Interest Groups, infused with local GRC characteristics. From November to December 2021, over 1,400 residents attended various art workshops to co-create these art installations and Mini Float making, facilitated by artist, PA Grassroots Organisations, Community Arts and Culture Clubs (CACCs), youth networks and interest groups.
 
 **Time Carousel**

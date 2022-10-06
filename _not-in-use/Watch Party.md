@@ -1,9 +1,9 @@
 ---
 title: Watch Party
-permalink: /whats-on/Community-Engagement/watch-party
+permalink: /whats-on/Community-Engagement/watch-party/
 description: ""
-third_nav_title: Community Engagement
 ---
+
 Congratulations to all our Lucky Watch Party Hosts!
 
 | **$100 Vouchers** | **$500 Vouchers** |**$1000 Voucher**|  
