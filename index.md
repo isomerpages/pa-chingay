@@ -40,7 +40,7 @@ sections:
       image: /images/Chingay50 Stories/DC-Chingay Mdm Ong-3.png
       alt: "#OurChingay50Stories"
   - infopic:
-      title: Chingay's 50th Anniversary - Launch of Chingay50 Buses
+      title: "#HEY CHINGAY50 BUS"
       subtitle: Chingay50 Programmes
       description: Come onboard and celebrate the Chingay Spirit around the island!
       button: Find Out More
