@@ -28,7 +28,7 @@ sections:
       image: /images/Target Media top halfpng.png
       alt: WGT 2023
       title: We've Got Talent! 2023
-      description: Share your 1 minute talent video with us now!
+      description: "Vote for your favourite talent in November! "
       subtitle: Community Engagement Programme
   - infopic:
       title: "#OurChingay50Stories"
@@ -56,10 +56,4 @@ sections:
       url: /whats-on/Chingay50-Programmes/hall-of-frames-public
       image: /images/Highlights/chingay-as-you-photo-it--highlightimage.jpg
       alt: Chingay As You PHOTO It
-  - infopic:
-      title: Chingay50 Programme Booklet
-      button: Download now
-      url: /files/chingay50-2022-programme-booklet.pdf
-      image: /images/Highlights/download-the-chingay50-showcase-programme-booklet--highlightimage.png
-      alt: Chingay50 Programme Booklet
 ---
