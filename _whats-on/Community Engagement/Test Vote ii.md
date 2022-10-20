@@ -31,7 +31,7 @@ Watch it <a href="https://www.facebook.com/heidi.huang.165/videos/38598203367663
 <li>
 <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none; background-color:hsla(208, 100%, 97%, .5); padding: 15px; border-radius: 10px;">
 <span style="font-size: 24px; font-weight: bold; font-color: pink;">F4 Judy Yap</span>
-<img style="height:auto;width:auto;" src="/images/WGT23/FB/F4.jpeg">
+<img style="max-height:10em; height:auto;width:auto;" src="/images/WGT23/FB/F4.jpeg">
 Watch it <a href="https://www.facebook.com/judy.yap.18/videos/1257475258382437/"     target="_blank">here</a>!<br>
 <span style="font-size: 22px; font-weight: bold; font-color: pink;">VOTE</span></div>
 </li>
