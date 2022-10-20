@@ -55,7 +55,7 @@ Watch it <a href="https://www.facebook.com/joan.lim.75685/videos/524854312640461
 <li>
 <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none; background-color:hsla(208, 100%, 97%, .5); padding: 15px; border-radius: 10px;">
 <span style="font-size: 24px; font-weight: bold; font-color: pink;">F7 Joan Lim</span>
-<img style="height:auto;width:auto;" src="/images/WGT23/FB/F7.png">
+<img style="height:auto;width:auto;" src="/images/WGT23/FB/F7.jpeg">
 Watch it <a href="https://www.facebook.com/joan.lim.75685/videos/601058184966004"     target="_blank">here</a>!<br>
 <span style="font-size: 22px; font-weight: bold; font-color: pink;">VOTE</span></div>
 </li>
