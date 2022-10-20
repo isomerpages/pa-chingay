@@ -12,7 +12,7 @@ Text text text...
 				 <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none; background-color:hsla(208, 100%, 97%, .5); padding: 15px; border-radius: 10px;">
 				 <span style="font-size: 24px; font-weight: bold; font-color: pink;">T2 imperfectfactory</span>
 					 <img style="height:auto;width:auto;" src="/images/WGT23/TT/T2.png">
-Watch it <a href="https://www.instagram.com/p/CgI8ziFsfZB/">here</a>!<br>
+Watch it <a href="https://www.instagram.com/p/CgI8ziFsfZB/"     target="_blank">here</a>!<br>
 	 <span style="font-size: 22px; font-weight: bold; font-color: pink;">VOTE</span>
 				 </div>
 </li>
