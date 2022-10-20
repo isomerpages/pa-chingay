@@ -16,7 +16,6 @@ Text text text...
             <a href="https://www.facebook.com/hwee.mei.5/videos/544031027456734" target="_blank">VOTE</a></span>
 <img style="max-height:12rem; height:auto; width:auto;" src="/images/WGT23/FB/F1.jpeg">
 <span style="font-size: 0.8rem; font-weight:normal;">Watch it <a href="https://www.facebook.com/hwee.mei.5/videos/544031027456734" target="_blank">here</a>!
-</div></li>
 
 
 
