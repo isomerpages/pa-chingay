@@ -8,6 +8,9 @@ third_nav_title: Community Engagement
 			Watch it <a href="https://www.instagram.com/p/CgI8ziFsfZB/" target=”_blank”>here</a>!
     </p>
 
+
+[https://www.instagram.com/p/CgI8ziFsfZB/](here)
+
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
 <li>
 				 <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none; background-color:hsla(208, 100%, 97%, .5); padding: 15px; border-radius: 10px;">
