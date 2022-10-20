@@ -11,10 +11,11 @@ Text text text...
 
 <li>
 <div style="position: relative; display: block; height: 100%;  overflow:hidden; text-decoration: none; background-color:hsla(331, 100%, 50%, .06); padding: 15px; border-radius: 10px; width: 100%">
-<p style="text-align:left;font-size: 1.2rem; font-weight: bold;"> F1 Jane Zheng 
+<p style="text-align:left;font-size: 1.2rem; font-weight: bold;">
+<img style="max-height:12rem; height:auto; width:auto;" src="/images/WGT23/FB/F1.jpeg">
+	F1 Jane Zheng 
         <span style="float:right; font-weight:bold;">
             <a href="https://www.facebook.com/hwee.mei.5/videos/544031027456734" target="_blank">VOTE</a></span>
-<img style="max-height:12rem; height:auto; width:auto;" src="/images/WGT23/FB/F1.jpeg">
 <span style="font-size: 0.8rem; font-weight:normal;">Watch it <a href="https://www.facebook.com/hwee.mei.5/videos/544031027456734" target="_blank">here</a>!
 
 
