@@ -4,7 +4,7 @@ permalink: /whats-on/Community-Engagement/testvoteii/
 description: ""
 third_nav_title: Community Engagement
 ---
-  <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
+<p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
 			Watch it <a href="https://www.instagram.com/p/CgI8ziFsfZB/" target=”_blank”>here</a>!
     </p>
 
@@ -22,7 +22,7 @@ Watch it <a href="https://www.instagram.com/p/CgI8ziFsfZB/" target=”_blank”>
 				 <img style="height:auto;width:auto;" src="/images/WGT23/TT/T2.png">
 	 <b>T2  imperfectfactory</b><br>
 				Video
-	 <p style="font-size: 18px; font-weight: bold">VOTE</p>
+	 <div style="font-size: 18px; font-weight: bold">VOTE</div>
 				 </div>
 </li>
 <li>
