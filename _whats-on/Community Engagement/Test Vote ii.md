@@ -14,7 +14,7 @@ Text text text...
 <span style="font-size: 20px; font-weight: bold;">F1 Jane Zheng </span>
 <img style="height:auto;width:auto;" src="/images/WGT23/FB/F1.png">
 <p style="text-align:left;"> Watch it <a href="https://www.facebook.com/hwee.mei.5/videos/544031027456734" target="_blank">here</a>!
-        <span style="float:right;font-weight:bold; text-indent: -3em">
+        <span style="float:right; font-weight:bold; text-indent: -3em">
             <a href="https://www.facebook.com/hwee.mei.5/videos/544031027456734" target="_blank">VOTE</a>
         </span></p>
 </div>
