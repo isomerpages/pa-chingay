@@ -9,7 +9,7 @@ third_nav_title: Community Engagement
 				 <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none; background-color:Tomato; padding: 20px; border-radius: 10px;">
 				 <img style="height:auto;width:auto;" src="/images/WGT23/TT/T2.png">
 	 <b>T2  imperfectfactory</b><br>
-				Watch it <a href="https://www.instagram.com/p/CgI8ziFsfZB/" target=”\_blank”>here</a>!<br>
+				Watch it <a href="https://www.instagram.com/p/CgI8ziFsfZB/" target=”_blank”>here</a>!<br>
 	 <span style="font-size: 20px; font-weight: bold; font-color: pink;">VOTE</span>
 				 </div>
 </li>
