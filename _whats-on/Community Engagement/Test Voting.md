@@ -17,7 +17,7 @@ Text text text...
     </div>
       <img style="height:auto;width:343px;" src="/images/WGT23/I1 1029px 705px.png">
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-			Watch it <a href="https://www.instagram.com/p/CgI8ziFsfZB/" target=”\_blank”>here</a>!
+			Watch it <a href="https://www.instagram.com/p/CgI8ziFsfZB/" target=”_blank”>here</a>!
     </p>
   </div>
 </li>	
