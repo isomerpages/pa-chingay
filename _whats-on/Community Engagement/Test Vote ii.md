@@ -14,7 +14,7 @@ Text text text...
 <p style="text-align:left;font-size: 1.2rem; font-weight: bold;"> F1 Jane Zheng
         <span style="float:right; font-weight:bold;">
             <a href="https://www.facebook.com/hwee.mei.5/videos/544031027456734" target="_blank">VOTE</a></span>
-<img style="height:auto;width:auto;" src="/images/WGT23/FB/F1.png">
+<img style="height:auto;width:auto;" src="/images/WGT23/FB/F1.jpeg">
 <span style="font-size: 0.8rem; font-weight:normal;">Watch it <a href="https://www.facebook.com/hwee.mei.5/videos/544031027456734" target="_blank">here</a>!</div>
 	
 </div>
@@ -23,7 +23,7 @@ Text text text...
 <li>
 <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none; background-color:hsla(208, 100%, 97%, .5); padding: 15px; border-radius: 10px;">
 <span style="font-size: 24px; font-weight: bold; font-color: pink;">F3 Heidi Huang</span>
-<img style="height:auto;width:auto;" src="/images/WGT23/FB/F3.png">
+<img style="height:auto;width:auto;" src="/images/WGT23/FB/F3.jpeg">
 Watch it <a href="https://www.facebook.com/heidi.huang.165/videos/385982033676634"     target="_blank">here</a>!<br>
 <span style="font-size: 22px; font-weight: bold; font-color: pink;">VOTE</span></div>
 </li>
@@ -31,7 +31,7 @@ Watch it <a href="https://www.facebook.com/heidi.huang.165/videos/38598203367663
 <li>
 <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none; background-color:hsla(208, 100%, 97%, .5); padding: 15px; border-radius: 10px;">
 <span style="font-size: 24px; font-weight: bold; font-color: pink;">F4 Judy Yap</span>
-<img style="height:auto;width:auto;" src="/images/WGT23/FB/F4.png">
+<img style="height:auto;width:auto;" src="/images/WGT23/FB/F4.jpeg">
 Watch it <a href="https://www.facebook.com/judy.yap.18/videos/1257475258382437/"     target="_blank">here</a>!<br>
 <span style="font-size: 22px; font-weight: bold; font-color: pink;">VOTE</span></div>
 </li>
