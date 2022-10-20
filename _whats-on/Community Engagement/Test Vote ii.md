@@ -7,12 +7,8 @@ third_nav_title: Community Engagement
 # Testing for WGT Voting
 Text text text...
 
-<p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-		Watch it <a href="https://www.instagram.com/p/CgI8ziFsfZB/" target=”_blank”>here</a>!
-	</p>
-
-
-[https://www.instagram.com/p/CgI8ziFsfZB/](here)
+<div>
+<a href="https://www.instagram.com/p/CgI8ziFsfZB/" target=”_blank”>here</a></div>
 
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
 <li>
