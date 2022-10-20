@@ -10,7 +10,7 @@ Text text text...
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
 
 <li>
-<div style="position: relative; display: block; height: 100%;  overflow:hidden; text-decoration: none; background-color:hsla(208, 100%, 97%, .5); padding: 15px; border-radius: 10px; width: 100%">
+<div style="position: relative; display: block; height: 100%;  overflow:hidden; text-decoration: none; background-color:hsla(331, 100%, 50%, .06); padding: 15px; border-radius: 10px; width: 100%">
 <p style="text-align:left;font-size: 1.2rem; font-weight: bold;"> F1 Jane Zheng 
         <span style="float:right; font-weight:bold;">
             <a href="https://www.facebook.com/hwee.mei.5/videos/544031027456734" target="_blank">VOTE</a></span>
@@ -21,7 +21,7 @@ Text text text...
 
 
 <li>
-<div style="position: relative; display: block; height: 100%;  overflow:hidden; text-decoration: none; background-color:hsla(208, 100%, 97%, .5); padding: 15px; border-radius: 10px; width: 100%">
+<div style="position: relative; display: block; height: 100%;  overflow:hidden; text-decoration: none; background-color:hsla(331, 100%, 50%, .06); padding: 15px; border-radius: 10px; width: 100%">
 <p style="text-align:left;font-size: 1.2rem; font-weight: bold;"> F3 Heidi Huang
         <span style="float:right; font-weight:bold;">
             <a href="https://www.facebook.com/hwee.mei.5/videos/544031027456734" target="_blank">VOTE</a></span>
@@ -32,7 +32,7 @@ Text text text...
 
 
 <li>
-<div style="position: relative; display: block; height: 100%;  overflow:hidden; text-decoration: none; background-color:hsla(208, 100%, 97%, .5); padding: 15px; border-radius: 10px; width: 100%">
+<div style="position: relative; display: block; height: 100%;  overflow:hidden; text-decoration: none; background-color:hsla(331, 100%, 50%, .06); padding: 15px; border-radius: 10px; width: 100%">
 <p style="text-align:left;font-size: 1.2rem; font-weight: bold;"> F4 Judy Yap
         <span style="float:right; font-weight:bold;">
             <a href="https://www.facebook.com/hwee.mei.5/videos/544031027456734" target="_blank">VOTE</a></span>
