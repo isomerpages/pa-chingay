@@ -12,7 +12,7 @@ Text text text...
 <li>
 <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none; background-color:hsla(208, 100%, 97%, .5); padding: 15px; border-radius: 10px;">
 <p style="text-align:left;font-size: 1.2rem; font-weight: bold;"> F1 Jane Zheng
-        <span style="float:right; font-weight:bold; text-indent: -3em">
+        <span style="float:right; font-weight:bold;">
             <a href="https://www.facebook.com/hwee.mei.5/videos/544031027456734" target="_blank">VOTE</a></span>
 <img style="height:auto;width:auto;" src="/images/WGT23/FB/F1.png">
 <span style="font-size: 0.8rem; font-weight:normal;">Watch it <a href="https://www.facebook.com/hwee.mei.5/videos/544031027456734" target="_blank">here</a>!</div>
@@ -55,7 +55,7 @@ Watch it <a href="https://www.facebook.com/joan.lim.75685/videos/524854312640461
 <li>
 <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none; background-color:hsla(208, 100%, 97%, .5); padding: 15px; border-radius: 10px;">
 <span style="font-size: 24px; font-weight: bold; font-color: pink;">F7 Joan Lim</span>
-<img style="height:auto;width:auto;" src="/images/WGT23/FB/F7.jpeg">
+<img style="height:auto;width:auto;" src="!/images/WGT23/FB/F7.jpeg">
 Watch it <a href="https://www.facebook.com/joan.lim.75685/videos/601058184966004"     target="_blank">here</a>!<br>
 <span style="font-size: 22px; font-weight: bold; font-color: pink;">VOTE</span></div>
 </li>
