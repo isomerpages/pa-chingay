@@ -12,5 +12,5 @@ Text text text...
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="; min-height:10rem; max-height: 15rem; object-fit: cover;" src="/images/WGT23/FB/F1.jpeg"></div>
-<div style="padding:.5rem; text-align:left;font-size: 1.2rem; font-weight: bold;  line-height: 1em;">F1 Jane Zheng <span style="float:right; font-weight:bold;"><a href="https://www.facebook.com/hwee.mei.5/videos/544031027456734" target="_blank">VOTE</a></span></div></div>
+<div style="padding:.5rem; text-align:left"><span style= "font-size: 1.2rem; font-weight: bold;">F1 Jane Zheng </span><span style="float:right; font-size: 1.2rem; font-weight: bold;"><a href="https://www.facebook.com/hwee.mei.5/videos/544031027456734" target="_blank">VOTE</a></span><br>Watch it <a href="https://www.facebook.com/hwee.mei.5/videos/544031027456734" target="_blank">here</a>!</div></div>
 </li>
