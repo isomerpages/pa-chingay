@@ -4,7 +4,8 @@ permalink: /whats-on/Community-Engagement/testvoteii/
 description: ""
 third_nav_title: Community Engagement
 ---
-# Testing for WGT Voting
+# **Voting - We've Got Talent! 2023**
+Vote for your favourite talent<br>
 • Top 5 videos with highest votes will win attractive prizes Lucky Draw <br>
 • 10 lucky voters will be selected randomly to win attractive prizes
 
