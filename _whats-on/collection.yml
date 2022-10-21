@@ -2,7 +2,6 @@ collections:
   whats-on:
     output: true
     order:
-      - Community Engagement/Test Voting iii.md
       - Community Engagement/Test Vote ii.md
       - Community Engagement/Test Voting.md
       - Community Engagement/.keep
