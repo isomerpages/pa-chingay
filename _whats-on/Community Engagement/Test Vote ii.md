@@ -12,7 +12,7 @@ Text text text...
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
 <div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="; min-height:10rem; max-height: 15rem; object-fit: cover;" src="/images/WGT23/FB/F1.jpeg"></div>
-<div style="padding:.5rem; text-align:left; line-height: 1.5em;"><span style= "font-size: 1rem; font-weight: bold;">F1 Jane Zheng  </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://www.facebook.com/hwee.mei.5/videos/544031027456734" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.facebook.com/hwee.mei.5/videos/544031027456734" target="_blank">here</a>!</span></div></div>
+<div style="padding:.5rem; text-align:left; line-height: 1.5em;"><span style= "font-size: 1rem; font-weight: bold;">F1 Jane Zheng  </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F1%20Jane%20Zheng" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.facebook.com/hwee.mei.5/videos/544031027456734" target="_blank">here</a>!</span></div></div>
 </li><li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="; min-height:10rem; max-height: 15rem; object-fit: cover;" src="/images/WGT23/FB/F3.jpeg"></div>
