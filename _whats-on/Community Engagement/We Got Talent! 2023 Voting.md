@@ -23,12 +23,12 @@ Click on VOTE<br>
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F4%20Judy%20Yap" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:-6rem;" src="/images/WGT23/FB/F4.jpeg"></a></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F4%20Judy%20Yap" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:-4rem;" src="/images/WGT23/FB/F4.jpeg"></a></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">F4 Judy Yap </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F4%20Judy%20Yap" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.facebook.com/judy.yap.18/videos/1257475258382437/" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F5%20Judy%20Yap" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:-15rem;" src="/images/WGT23/FB/F5.jpeg"></a></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F5%20Judy%20Yap" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:-10rem;" src="/images/WGT23/FB/F5.jpeg"></a></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">F5 Judy Yap </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F5%20Judy%20Yap" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.facebook.com/judy.yap.18/videos/5710897982294326/" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
@@ -68,7 +68,7 @@ Click on VOTE<br>
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F13%20Rajitha%20Parameswaran" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:-15rem;" src="/images/WGT23/FB/F13.jpeg"></a></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F13%20Rajitha%20Parameswaran" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:-10rem;" src="/images/WGT23/FB/F13.jpeg"></a></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">F13 Rajitha Parameswaran </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F13%20Rajitha%20Parameswaran" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.facebook.com/rajitha.parameswaran.5/videos/432354305387564" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
@@ -103,7 +103,7 @@ Click on VOTE<br>
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F25%20Tan%20Yu%20Qing" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:-4rem;" src="/images/WGT23/FB/F25.png"></a></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F25%20Tan%20Yu%20Qing" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:-3rem;" src="/images/WGT23/FB/F25.png"></a></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">F25 Tan Yu Qing </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F25%20Tan%20Yu%20Qing" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.facebook.com/tan.yuqing.35/videos/1107149076572489" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
