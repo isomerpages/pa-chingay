@@ -4,7 +4,6 @@ permalink: /whats-on/Community-Engagement/test/
 description: ""
 third_nav_title: Community Engagement
 ---
-
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
@@ -16,7 +15,7 @@ third_nav_title: Community Engagement
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">T3 judyyap1 </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F3%20judyyap1" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://vt.tiktok.com/ZSR27BJ7P/?k=1" target="_blank">here</a>!</span></div></div>
 </li><li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F4%20faithchong23" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:-6rem;" src="/images/WGT23/TT/T4.png"></a></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F4%20faithchong23" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:-3rem;" src="/images/WGT23/TT/T4.png"></a></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">T4 faithchong23 </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F4%20faithchong23" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.tiktok.com/@faithchong23/video/7127489483343285505" target="_blank">here</a>!</span></div></div>
 </li><li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
