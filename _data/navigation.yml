@@ -1,10 +1,12 @@
 logo: /images/logo-light.svg
 links:
   - title: What's On
-    url: /whats-on/Chingay50-Programmes
+    url: /whats-on/wgt2023/
     sublinks:
       - title: Community Engagement
         url: /wgt2023/
+      - title: "&rarr; WGT!2023 Voting"
+        url: /wgt2023
       - title: "&rarr; We've Got Talent! 2023"
         url: /wgt2023
       - title: "&rarr; D:2 Dance Competition"
