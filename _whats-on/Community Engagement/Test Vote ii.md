@@ -229,3 +229,6 @@ Click on VOTE<br>
 <div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F68%20Malawa%20Cultural%20Association,%20Singapore" target="_blank"><img style="; min-height:10rem; max-height: 15rem; object-fit: cover;" src="/images/WGT23/FB/F68.png"></a></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">F68 Malawa Cultural Association, Singapore</span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F68%20Malawa%20Cultural%20Association,%20Singapore" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.facebook.com/MCASingapore/videos/441667224612909" target="_blank">here</a>!</span></div></div>
 </li>
+	
+	
+	
