@@ -16,7 +16,7 @@ Text text text...
 <div style="padding:.5rem; text-align:left;font-size: 1.2rem; font-weight: bold;">F1 Jane Zheng   
 <span style="float:right; font-weight:bold;">
 <a href="https://www.facebook.com/hwee.mei.5/videos/544031027456734" target="_blank">VOTE</a></span><br>
-<span style="font-size: 0.8rem; font-weight:normal;">Watch it <a href="https://www.facebook.com/hwee.mei.5/videos/544031027456734" target="_blank">here</a>!</div></div>
+<span style="font-size: 0.8rem; font-weight:normal;">Watch it <a href="https://www.facebook.com/hwee.mei.5/videos/544031027456734" target="_blank">here</a>!
 </li>
 <li>
 <div style="position: relative; display: block; height: 100%;  overflow:hidden; text-decoration: none; background-color:hsla(307, 41%, 80%, 0.5); border-radius: 10px; max-width: 20rem">
@@ -495,4 +495,3 @@ Text text text...
 <a href="https://www.facebook.com/MCASingapore/videos/441667224612909" target="_blank">VOTE</a></span><br>
 <span style="font-size: 0.8rem; font-weight:normal;">Watch it <a href="https://www.facebook.com/MCASingapore/videos/441667224612909" target="_blank">here</a>!</div></div>
 </li>
-
