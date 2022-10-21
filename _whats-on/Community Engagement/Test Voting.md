@@ -12,7 +12,7 @@ Text text text...
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
 		<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
       <h3 style="font-size: 1em; margin: 0; color:black;">
-				I1 @junelimhz <br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I1%20@junelimhz" target="_blank">Vote</a>
+				I1 @junelimhz <br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I1%20@junelimhz"> Vote</a>
 			</h3>
     </div>
       <img style="height:auto;width:343px;" src="/images/WGT23/I1 1029px 705px.png">
