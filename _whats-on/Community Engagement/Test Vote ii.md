@@ -35,7 +35,7 @@ Text text text...
 <p style="text-align:left;font-size: 1.2rem; font-weight: bold;"> F4 Judy Yap
         <span style="float:right; font-weight:bold;">
             <a href="https://www.facebook.com/hwee.mei.5/videos/544031027456734" target="_blank">VOTE</a></span>
-<img style="max-height:12rem; height:auto; width:auto;" src="/images/WGT23/FB/F4.jpeg">
+<img style="max-height:8rem; height:auto; width:auto;" src="/images/WGT23/FB/F4.jpeg">
 <span style="font-size: 0.8rem; font-weight:normal;">Watch it <a href="https://www.facebook.com/judy.yap.18/videos/1257475258382437/" target="_blank">here</a>!
 </div></li>
 
