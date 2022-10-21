@@ -4,6 +4,8 @@ permalink: /whats-on/Community-Engagement/test/
 description: ""
 third_nav_title: Community Engagement
 ---
+<ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
+
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
 <div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F1%20imperfectfactory" target="_blank"><img style="; min-height:10rem; max-height: 15rem; object-fit: cover;" src="/images/WGT23/TT/T2.png"></a></div>
