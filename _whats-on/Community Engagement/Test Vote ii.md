@@ -35,7 +35,7 @@ Text text text...
 <p style="text-align:left;font-size: 1.2rem; font-weight: bold;"> F4 Judy Yap
         <span style="float:right; font-weight:bold;">
             <a href="https://www.facebook.com/hwee.mei.5/videos/544031027456734" target="_blank">VOTE</a></span>
-<img style="max-height:8rem; height:auto; width:auto;" src="/images/WGT23/FB/F4.jpeg">
+	<div style="     max-width:10rem; max-height:10rem; object-fit: cover; overflow:hidden; align:center;"><img src="/images/WGT23/FB/F4.jpeg" alt="F4 Judy Yap"></div>
 <span style="font-size: 0.8rem; font-weight:normal;">Watch it <a href="https://www.facebook.com/judy.yap.18/videos/1257475258382437/" target="_blank">here</a>!
 </div></li>
 
@@ -112,7 +112,7 @@ Text text text...
 <p style="text-align:left;font-size: 1.2rem; font-weight: bold;"> F11 Cindy Zhao
         <span style="float:right; font-weight:bold;">
             <a href="https://www.facebook.com/hwee.mei.5/videos/544031027456734" target="_blank">VOTE</a></span>
-<img style="max-height:12rem; height:auto; width:auto;" src="/images/WGT23/FB/F11.jpeg">
+<img style="max-height:12rem; height:auto; width:auto;" src="/images/WGT23/FB/F11.jpeg" alt="Cindy Zhao">
 <span style="font-size: 0.8rem; font-weight:normal;">Watch it <a href="https://www.facebook.com/cindy.zhao.796/videos/761661825097173" target="_blank">here</a>!
 </div></li>
 
