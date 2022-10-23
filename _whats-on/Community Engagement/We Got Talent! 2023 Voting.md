@@ -1247,7 +1247,7 @@ Attractive prizes to be won by<br>
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F51%20Jennifer%20Lee" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:-7rem;" src="/images/WGT23/FB/F51.png"></a></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F51%20Jennifer%20Lee" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:-5rem;" src="/images/WGT23/FB/F51.png"></a></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">F51 Jennifer Lee </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F51%20Jennifer%20Lee" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.facebook.com/JenniferLeeLeeLee/videos/579188720662131" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
