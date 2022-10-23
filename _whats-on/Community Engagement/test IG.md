@@ -383,12 +383,12 @@ third_nav_title: Community Engagement
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F90%20LeeJieEnAntroyce" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I111.png"></a></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F90%20LeeJieEnAntroyce" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:-1rem;" src="/images/WGT23/IG/I111.png"></a></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">I111 nondormapiu </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F90%20LeeJieEnAntroyce" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.instagram.com/reel/Ci9pbVhjcIn/?igshid=NzNkNDdiOGI=" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F91%20thelesslars" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I112.png"></a></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F91%20thelesslars" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:-9rem;" src="/images/WGT23/IG/I112.png"></a></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">I112 rozliana_aziz </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F91%20thelesslars" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.instagram.com/reel/Chub-lkhTAP/?igshid=NzNkNDdiOGI=" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
