@@ -403,7 +403,7 @@ third_nav_title: Community Engagement
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F94%20LeeJieEnAntroyce" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I116.png"></a></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F94%20LeeJieEnAntroyce" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:-2rem;" src="/images/WGT23/IG/I116.png"></a></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">I116 paym_wegottalent </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F94%20LeeJieEnAntroyce" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.instagram.com/reel/CjCFaY_sD1B/?igshid=NzNkNDdiOGI=" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
@@ -418,7 +418,7 @@ third_nav_title: Community Engagement
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F97%20handfx" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I119.png"></a></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F97%20handfx" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:-5rem;" src="/images/WGT23/IG/I119.png"></a></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">I119 paym_wegottalent </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F97%20handfx" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.instagram.com/p/CjANO8JLXbS/" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
