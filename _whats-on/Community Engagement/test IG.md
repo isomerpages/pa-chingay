@@ -46,7 +46,7 @@ third_nav_title: Community Engagement
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F10%20LeeJieEnAntroyce" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I12.png"></a></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F10%20LeeJieEnAntroyce" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:-5rem;" src="/images/WGT23/IG/I12.png"></a></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">I12 dagezk </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F10%20LeeJieEnAntroyce" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.instagram.com/reel/Cgy4RZ3jTG2/?igshid=YmMyMTA2M2Y=" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
@@ -101,22 +101,22 @@ third_nav_title: Community Engagement
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F26%20LeeJieEnAntroyce" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I28.png"></a></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F26%20LeeJieEnAntroyce" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:-2rem;" src="/images/WGT23/IG/I28.png"></a></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">I28 jeremytanmagic </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F26%20LeeJieEnAntroyce" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.instagram.com/reel/CgOhbdSA9SE/?igshid=NmNmNjAwNzg%3D" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F27%20LeeJieEnAntroyce" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I29.png"></a></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F27%20LeeJieEnAntroyce" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:-1rem;" src="/images/WGT23/IG/I29.png"></a></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">I29 yap327 </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F27%20LeeJieEnAntroyce" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.instagram.com/reel/Ch1UCo_BAhi/?igshid=YmMyMTA2M2Y=" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F30%20LeeJieEnAntroyce" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I30.png"></a></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F30%20LeeJieEnAntroyce" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:-2rem;" src="/images/WGT23/IG/I30.png"></a></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">I30 yap327 </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F30%20LeeJieEnAntroyce" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.instagram.com/reel/Ch1RAvUhcu0/?igshid=YmMyMTA2M2Y=" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F31%20LeeJieEnAntroyce" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I32.png"></a></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F31%20LeeJieEnAntroyce" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:-2rem;" src="/images/WGT23/IG/I32.png"></a></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">I32 jade.kerr </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F31%20LeeJieEnAntroyce" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.instagram.com/reel/CgrQ8sxs1Xz/?igshid=YmMyMTA2M2Y=" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
@@ -126,7 +126,7 @@ third_nav_title: Community Engagement
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F33%20karenleeofficial" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I35.png"></a></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F33%20karenleeofficial" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:-4rem;" src="/images/WGT23/IG/I35.png"></a></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">I35 hanakuuru_kyoko </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F33%20karenleeofficial" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.instagram.com/p/Ch9F7GvhXjF/" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
@@ -136,7 +136,7 @@ third_nav_title: Community Engagement
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F36%20LeeJieEnAntroyce" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I39.png"></a></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F36%20LeeJieEnAntroyce" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:-4rem;" src="/images/WGT23/IG/I39.png"></a></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">I39 jasp.er_quah </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=F36%20LeeJieEnAntroyce" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.instagram.com/p/CiEShWRBW1n/" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
