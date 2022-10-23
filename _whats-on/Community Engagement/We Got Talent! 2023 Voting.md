@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Community Engagement
 ---
 # **We've Got Talent! 2023 - Voting**
-<p>To vote for your favourite talent click on <span style="color:blue;text-decoration: underline;">VOTE</span><br>
+To vote for your favourite talent click on <span style="color:blue;text-decoration: underline;">VOTE</span><br>
 Attractive prizes to be won by<br>
 • Top 5 videos with highest votes<br>
-• 10 lucky voters</p>
+• 10 lucky voters
 
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
 
