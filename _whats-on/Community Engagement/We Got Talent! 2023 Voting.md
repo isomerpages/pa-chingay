@@ -6,8 +6,9 @@ third_nav_title: Community Engagement
 ---
 # **We've Got Talent! 2023 - Voting**
 Vote for your favourite talent click on VOTE<br>
-• Top 5 videos with highest votes will win attractive prizes Lucky Draw <br>
-• 10 lucky voters will be selected randomly to win attractive prizes
+Attractive prizes to be won by <br>
+• Top 5 videos with highest votes<br>
+• 10 lucky voters
 
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
 
