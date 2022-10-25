@@ -9,7 +9,7 @@ Click on <span style="color:rgb(45, 111, 250);text-decoration: underline; font-w
 You will be directed to FormSG to complete your information in order for your vote to be valid.<br>
 
 <span style="font-weight:bold;">Top 5 videos</span>  with the highest vote and <span style="font-weight:bold;">10 Lucky Voters</span> will win attractive prizes<br>
-<span style="font-size:.8rem;">Terms and Conditions applies*</span>
+[TERMS & CONDITIONS](/files/whats-on/Chingay%202023%20We%20Got%20Talent_Terms%20and%20Conditions_Final_14Jul22.pdf)
 
 
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
