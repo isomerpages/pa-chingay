@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Community Engagement
 ---
 # **We've Got Talent! 2023 - Voting**
-<div>Click on <span style="color:rgb(45, 111, 250);text-decoration: underline; font-weight: bold;">VOTE</span> to cast your vote for your favourite talent. <br>
-You will be directed to FormSG to complete your information in order for your vote to be valid.</div>
+<p>Click on <span style="color:rgb(45, 111, 250);text-decoration: underline; font-weight: bold;">VOTE</span> to cast your vote for your favourite talent. <br>
+You will be directed to FormSG to complete your information in order for your vote to be valid.
 
-<div><span style="font-weight:bold;">Top 5 videos</span>  with the highest vote and <span style="font-weight:bold;">10 Lucky Voters</span> will win attractive prize!<br></div>
+<span style="font-weight:bold;">Top 5 videos</span>  with the highest vote and <span style="font-weight:bold;">10 Lucky Voters</span> will win attractive prize!<br></p>
 
 <div style="font-size:0.8rem"><a href="/files/whats-on/Chingay%202023%20We%20Got%20Talent_Terms%20and%20Conditions_Final_14Jul22.pdf">TERMS & CONDITIONS</a>
 </div>
