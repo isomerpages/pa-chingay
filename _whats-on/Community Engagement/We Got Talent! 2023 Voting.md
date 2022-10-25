@@ -9,7 +9,8 @@ Click on <span style="color:rgb(45, 111, 250);text-decoration: underline; font-w
 You will be directed to FORMSG to complete your information in order for your vote to be valid.<br><br>
 
 <span style="font-weight:bold;">Top 5</span> videos with the hightst vote and <span style="font-weight:bold;">10 lucky voters</span> will win attractive prizes<br>
-Terms and Conditions applies*
+<span style="font-size:.8rem;">Terms and Conditions applies*</span>
+
 
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
 
