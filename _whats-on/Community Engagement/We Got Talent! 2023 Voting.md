@@ -8,7 +8,7 @@ third_nav_title: Community Engagement
 <p>Click on <span style="color:rgb(45, 111, 250);text-decoration: underline; font-weight: bold;">VOTE</span> to cast your vote for your favourite talent. <br>
 You will be directed to FormSG to complete your information in order for your vote to be valid.<br><br>
 
-<span style="font-weight:bold;">Top 5 videos</span>  with the highest vote and <span style="font-weight:bold;">10 Lucky Voters</span> will win attractive prize!<br></p>
+<span style="font-weight:bold;">Top 5 Talent</span>  with the highest vote and <span style="font-weight:bold;">10 Lucky Voters</span> will win attractive prize!<br></p>
 
 
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
