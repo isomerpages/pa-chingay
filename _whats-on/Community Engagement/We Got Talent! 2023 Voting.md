@@ -11,7 +11,7 @@ You will be directed to FormSG to complete your information in order for your vo
 <span style="font-weight:bold;">Top 5 Video</span>  with the highest vote and <span style="font-weight:bold;">10 Lucky Voters</span> will win attractive prize!<br></p>
 
 
-<ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
+<ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: rem 2vw; list-style: none; padding: 0;">
 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
