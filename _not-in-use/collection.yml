@@ -2,6 +2,7 @@ collections:
   not-in-use:
     output: true
     order:
+      - Test Voting.md
       - test IG.md
       - test TT.md
       - Watch Party.md
