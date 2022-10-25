@@ -15,7 +15,7 @@ Are you interested to showcase your dance moves? Challenge yourselves by fusing 
 
 Chingay Parade Singapore and FitnessArts Pte. Ltd will be jointly organising Chingay fusion dance competition for the youths. D:2 serves as a platform for youth dancers of all genre to express their creativity by infusing local traditional dance moves into their choreography.
 
-~~Submission by 31 October 2022~~ <span style="color:red;">14 November 2022.</span>
+Submission by ~~31 October 2022~~ <span style="color:red;">14 November 2022.</span>
 
 # Sign up for Masterclass 
 
