@@ -2,6 +2,7 @@ collections:
   not-in-use:
     output: true
     order:
+      - We Got Talent! 2023 Voting.md
       - Test Voting.md
       - test IG.md
       - test TT.md
