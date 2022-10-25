@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Community Engagement
 ---
 # **We've Got Talent! 2023 - Voting**
-Click on <span style="color:rgb(45, 111, 250);text-decoration: underline;">VOTE</span> to cast your vote for your favourite talent. You will be directed to FORMSG to complete your information in order for your vote to be valid.<br>
+Click on <span style="color:rgb(45, 111, 250);text-decoration: underline; font-weight: bold;">VOTE</span> to cast your vote for your favourite talent. You will be directed to FORMSG to complete your information in order for your vote to be valid.<br>
 Attractive prizes to be won by<br>
 • Top 5 videos with highest votes<br>
 • 10 lucky voters
