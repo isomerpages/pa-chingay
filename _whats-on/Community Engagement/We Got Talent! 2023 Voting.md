@@ -516,8 +516,8 @@ You will be directed to FormSG to complete your information in order for your vo
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I146%20carlson.pdf" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I146.png"></a></div>
-<div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">I146 carlson.pdf </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I146%20carlson.pdf" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.instagram.com/p/CjFHHMyhYLW/" target="_blank">here</a>!</span></div></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I146%20carlson" target="_blank"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I146.png"></a></div>
+<div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">I146 carlson.pdf </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I146%20carlson" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.instagram.com/p/CjFHHMyhYLW/" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
