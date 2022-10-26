@@ -8,7 +8,7 @@ notification: <a href="https://go.gov.sg/stay-in-touch-with-chingay">Sign Up</a>
   to receive update on Chingay via email!
 sections:
   - hero:
-      background: /images/pa-chingay-1280_438_03.gif
+      background: /images/FA_Chingay2023_Key_Visual 3.png
       key_highlights:
         - title: Missed the Chingay50 live webcast?
           description: Catch it on Youtube now!
