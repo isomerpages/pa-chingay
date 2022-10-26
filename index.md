@@ -8,10 +8,9 @@ notification: <a href="https://go.gov.sg/stay-in-touch-with-chingay">Sign Up</a>
   to receive update on Chingay via email!
 sections:
   - hero:
-      background: /images/FA_Chingay2023_Key_Visual 3.png
       key_highlights:
-        - title: Missed the Chingay50 live webcast?
-          description: Catch it on Youtube now!
+        - title: Grab your tickets from sistic now!
+          description: ""
           url: https://www.youtube.com/watch?v=7LN-OsjmIz8
   - infopic:
       title: D:2 Dance Competition 2023
