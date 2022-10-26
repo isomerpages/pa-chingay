@@ -9,10 +9,10 @@ notification: <a href="https://go.gov.sg/stay-in-touch-with-chingay">Sign Up</a>
 sections:
   - hero:
       key_highlights:
-        - title: Grab your tickets from sistic now!
+        - title: Book your tickets from sistic now!
           description: ""
           url: https://www.youtube.com/watch?v=7LN-OsjmIz8
-      background: /images/FA_Chingay2023_Key_Visual 3 v2.png
+      background: /images/FA_Chingay2023_Key_Visual 3 v3.png
   - infopic:
       title: D:2 Dance Competition 2023
       description: Challenge yourselves by fusing your favourite moves with one of our
