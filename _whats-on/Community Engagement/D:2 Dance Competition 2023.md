@@ -8,7 +8,7 @@ third_nav_title: Community Engagement
 
 # About D:2 Dance Competition
 
-<p style="color:red; font-size:22px; font-weight:bold;">We've heard you! We're EXTENDING the deadline of submission to 14 November 2022.</p>
+<p style="color:red; font-size:22px; font-weight:bold;">We Heard You! We're EXTENDING the deadline of submission to 14 November 2022.</p>
 
 
 Are you interested to showcase your dance moves? Challenge yourselves by fusing your favourite moves with one of our local culture dance movement to wow the crowd through D:2 Dance Competition.
