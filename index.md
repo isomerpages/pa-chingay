@@ -8,11 +8,11 @@ notification: <a href="https://go.gov.sg/stay-in-touch-with-chingay">Sign Up</a>
   to receive update on Chingay via email!
 sections:
   - hero:
-      background: /images/pa-chingay-1280_438_03.gif
       key_highlights:
-        - title: Missed the Chingay50 live webcast?
-          description: Catch it on Youtube now!
+        - title: Missed the Chingay50 Live Webcast?
+          description: Catch it on YouTube now!
           url: https://www.youtube.com/watch?v=7LN-OsjmIz8
+      background: /images/pa-chingay-1280_438_03.gif
   - infopic:
       title: D:2 Dance Competition 2023
       description: Challenge yourselves by fusing your favourite moves with one of our

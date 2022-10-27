@@ -3,18 +3,21 @@ title: Test Voting
 permalink: /not-in-use/test-voting/
 description: ""
 ---
+
 # Testing for WGT Voting
+Text text text...
+
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
 <li>
   <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;">
 		<div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;">
       <h3 style="font-size: 1em; margin: 0; color:black;">
-				I1 @junelimhz <br> <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I1%20@junelimhz">Vote</a>
+				I1 @junelimhz <br>  <a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=I1%20@junelimhz ">Vote</a>
 			</h3>
     </div>
       <img style="height:auto;width:343px;" src="/images/WGT23/I1 1029px 705px.png">
     <p style="padding: 0 1em 1em;margin: 0; overflow: hidden;">
-			Watch it <a href="https://www.instagram.com/p/CgI8ziFsfZB/">here</a>!
+			Watch it <a href="https://www.instagram.com/p/CgI8ziFsfZB/" target=”_blank”>here</a>!
     </p>
   </div>
 </li>	
