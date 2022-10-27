@@ -9,7 +9,7 @@ notification: <a href="https://go.gov.sg/stay-in-touch-with-chingay">Sign Up</a>
 sections:
   - hero:
       key_highlights:
-        - title: Book your tickets from sistic now!
+        - title: <div style="font-size:10px">Book your tickets from sistic now!</div>
           description: ""
           url: https://www.youtube.com/watch?v=7LN-OsjmIz8
       background: /images/FA_Chingay2023_Key_Visual 6 v3.png
