@@ -43,22 +43,22 @@ description: ""
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I10.png"></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:-3rem;" src="/images/WGT23/IG/I10.png"></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">007 dagezk </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=007%20dagezk" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.instagram.com/p/CgeTXEGDMwH/" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I11.png"></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:-2rem;" src="/images/WGT23/IG/I11.png"></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">008 alvin_uke_ </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=008%20alvin_uke_" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.instagram.com/p/CgR1AXADraS/" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I12.png"></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:-6rem;" src="/images/WGT23/IG/I12.png"></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">009 dagezk </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=009%20dagezk" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.instagram.com/reel/Cgy4RZ3jTG2/?igshid=YmMyMTA2M2Y=" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I14.png"></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:-1rem;" src="/images/WGT23/IG/I14.png"></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">010 dagezk </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=010%20dagezk" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.instagram.com/p/ChBSz7xD_AH/" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
@@ -113,17 +113,17 @@ description: ""
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I29.png"></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:-2rem;" src="/images/WGT23/IG/I29.png"></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">021 yap327 </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=021%20yap327" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.instagram.com/reel/Ch1UCo_BAhi/?igshid=YmMyMTA2M2Y=" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I30.png"></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:-2rem;" src="/images/WGT23/IG/I30.png"></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">022 yap327 </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=022%20yap327" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.instagram.com/reel/Ch1RAvUhcu0/?igshid=YmMyMTA2M2Y=" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I32.png"></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:-2rem;" src="/images/WGT23/IG/I32.png"></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">023 jade.kerr </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=023%20jade.kerr" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.instagram.com/reel/CgrQ8sxs1Xz/?igshid=YmMyMTA2M2Y=" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
@@ -133,7 +133,7 @@ description: ""
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I35.png"></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:-4rem;" src="/images/WGT23/IG/I35.png"></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">025 hanakuuru_kyoko </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=025%20hanakuuru_kyoko" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.instagram.com/p/Ch9F7GvhXjF/" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
