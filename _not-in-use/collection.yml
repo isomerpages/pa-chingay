@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Test Voting.md
-      - We Got Talent Voting ii.md
       - Watch Party.md
       - Spot & Win!.md
       - Snap, Tag & Win!.md
