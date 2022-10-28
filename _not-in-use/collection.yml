@@ -2,7 +2,6 @@ collections:
   not-in-use:
     output: true
     order:
-      - Test Voting.md
       - Watch Party.md
       - Spot & Win!.md
       - Snap, Tag & Win!.md
