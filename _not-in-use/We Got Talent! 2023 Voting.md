@@ -353,7 +353,7 @@ description: ""
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:-2rem;" src="/images/WGT23/IG/I103.png"></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:-5rem;" src="/images/WGT23/IG/I103.png"></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">069 rajitha_parameswaran </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=069%20rajitha_parameswaran" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.instagram.com/reel/CioUDTms0UN/?igshid=NzNkNDdiOGI=" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
@@ -608,7 +608,7 @@ description: ""
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I167.png"></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:-7rem;" src="/images/WGT23/IG/I167.png"></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">120 melisafanny274 </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=120%20melisafanny274" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.instagram.com/p/CjIIjfdMuIM/?next=%2F" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
@@ -1163,7 +1163,7 @@ description: ""
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/FB/F13.jpeg"></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:-9rem;" src="/images/WGT23/FB/F13.jpeg"></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">231 Rajitha Parameswaran </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=231%20Rajitha%20Parameswaran" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.facebook.com/rajitha.parameswaran.5/videos/432354305387564" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
@@ -1218,7 +1218,7 @@ description: ""
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:-8rem;" src="/images/WGT23/FB/F31.png"></div>
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:-6rem;" src="/images/WGT23/FB/F31.png"></div>
 <div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">242 Lai Lin Tang </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=242%20Lai%20Lin%20Tang" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.facebook.com/lailin.tang.73/videos/489265993068362" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
