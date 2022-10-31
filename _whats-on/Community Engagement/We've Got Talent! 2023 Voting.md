@@ -4,9 +4,6 @@ permalink: /wgt2023-voting/
 description: ""
 third_nav_title: Community Engagement
 ---
-
-
-# **Vote For Your Favourite Video**
 <p>Click on <span style="color:rgb(45, 111, 250);text-decoration: underline; font-weight: bold;">VOTE</span> to support your favourite video. <br><br>
 
 <span style="font-weight:bold;">Top 5 Videos</span>  with the highest votes and <span style="font-weight:bold;">10 Lucky Voters</span> will win attractive prizes!<br></p>
