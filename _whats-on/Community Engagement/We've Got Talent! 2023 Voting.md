@@ -1239,7 +1239,7 @@ third_nav_title: Community Engagement
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
 <div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/FB/F36.png"></div>
-<div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">246 Cathrine Lau </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=246%20Cathrine%20Lau" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.facebook.com/catherine.lau.37604/videos/657913192417234" target="_blank">here</a>!</span></div></div>
+<div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">246 Catherine Lau </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=246%20Catherine%20Lau" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://www.facebook.com/catherine.lau.37604/videos/657913192417234" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
@@ -1254,7 +1254,7 @@ third_nav_title: Community Engagement
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
 <div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:-5rem;" src="/images/WGT23/FB/F40.png"></div>
-<div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">249 Jae Chong </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=249%20Jae%20Chong" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://m.facebook.com/story.php?story_fbid=pfbid02initAUVKDadC1XK9RkKNq8yDhpvFPzvVgLRefT3Jq9VCEMcHX7K7habLm5jW1KQil&id=571266228" target="_blank">here</a>!</span></div></div>
+<div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">249 峻邑 </span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=249%20Junyi" target="_blank">VOTE</a></span><br><span style="font-size: 0.8rem; "> Watch it <a href="https://m.facebook.com/story.php?story_fbid=pfbid02initAUVKDadC1XK9RkKNq8yDhpvFPzvVgLRefT3Jq9VCEMcHX7K7habLm5jW1KQil&id=571266228" target="_blank">here</a>!</span></div></div>
 </li> 
 <li>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
