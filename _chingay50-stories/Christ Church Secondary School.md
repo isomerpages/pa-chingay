@@ -5,6 +5,8 @@ description: ""
 ---
 ![Christ Church Secondary School](/images/Chingay50%20Stories/ChristChurch2.png)
 
+**Ashleigh, Ritz, Rhys and Thivieya**
+
 **Forging An Unbreakable Bond**
 
 Now 16-year-olds, Ashleigh, Thivieya, and brothers, Ritz and Rhys, reminisce on the impact of their 2019 Chingay performance on their personality, friendships and appreciation for multi-cultural Singapore.
