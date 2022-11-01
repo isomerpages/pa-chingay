@@ -3,6 +3,10 @@ title: Chang Hsiao Min and Tay Poh Soon
 permalink: /chingay50-stories/chang-hsiao-min-and-tay-poh-soon/
 description: ""
 ---
+![Chang Hsiao Min and Tay Poh Soon](/images/Chingay50%20Stories/CHM&TPS.png)
+
+Tay Poh Soon and Chang Hsiao Min (left to right)
+
 **A Lifetime of Dance**
 
 Chinese dance choreographers, Chang Hsiao Min and Tay Poh Soon reflect on their decades-long Chingay experiences.
