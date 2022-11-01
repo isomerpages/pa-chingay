@@ -23,12 +23,12 @@ sections:
       alt: d2
       subtitle: Community Engagement Programme
   - infopic:
-      button: Find out more
-      url: https://www.chingay.gov.sg/wgt2023
+      button: Vote Now
+      url: https://www.chingay.gov.sg/wgt2023-voting/
       image: /images/Target Media top halfpng.png
       alt: WGT 2023
-      title: We've Got Talent! 2023
-      description: "Vote for your favourite talent in November! "
+      title: We've Got Talent! 2023 - Voting
+      description: Voting is now open!
       subtitle: Community Engagement Programme
   - infopic:
       title: "#OurChingay50Stories"

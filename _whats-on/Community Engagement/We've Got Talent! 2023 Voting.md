@@ -4,9 +4,11 @@ permalink: /wgt2023-voting/
 description: ""
 third_nav_title: Community Engagement
 ---
-<p>Click on <span style="color:rgb(45, 111, 250);text-decoration: underline; font-weight: bold;">VOTE</span> to support your favourite video. <br><br>
+<p>Click on <span style="color:rgb(45, 111, 250);text-decoration: underline; font-weight: bold;">VOTE</span> to support your favourite video. Voting closes on 15 November 2022, 2359hrs.<br><br>
 
 <span style="font-weight:bold;">Top 5 Videos</span>  with the highest votes and <span style="font-weight:bold;">10 Lucky Voters</span> will win attractive prizes!<br></p>
+
+
 
 
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: rem 2vw; list-style: none; padding: 0;">
