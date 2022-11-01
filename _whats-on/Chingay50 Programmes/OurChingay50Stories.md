@@ -1,6 +1,6 @@
 ---
 title: " #OurChingay50Stories"
-permalink: /whats-on/Chingay50-Programmes/ourchingay50stories
+permalink: /whats-on/Chingay50-Programmes/ourchingay50stories/
 description: ""
 third_nav_title: Chingay50 Programmes
 ---
@@ -12,6 +12,8 @@ Take the journey and reminisce with us!
 
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
 
+<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/CSM&TPS.png" alt="Chang Hsiao Min and Tay Poh Soon"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Chang Hsiao Min and Tay Poh Soon</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>xxxxxxxxxxx</b><br />A Lifetime of Dance<br /><a href="/chingay50-stories/chang-hsiao-min-and-tay-poh-soon/">Read More..</a></p></div></li>
+	
 <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/emmalyntan.png" alt="Emmalyn and her group mates"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Emmalyn Tan</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>We've Got Talent! 2022</b><br />Salsa-ing for Singapore<br /><a href="/chingay50-stories/emmalyntan">Read More..</a></p></div></li>
 	
 <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><img style="height:auto;width:228px;" src="/images/Chingay50%20Stories/osman.png" alt="osman with his dancers"><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Osman bin Abdul Hamid</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"><b>Dance Choreographer</b><br />Master of Movement<br /><a href="/chingay50-stories/osman">Read More..</a></p></div></li>
