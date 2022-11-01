@@ -3,8 +3,6 @@ title: Chang Hsiao Min and Tay Poh Soon
 permalink: /chingay50-stories/chang-hsiao-min-and-tay-poh-soon/
 description: ""
 ---
-
-
 **A Lifetime of Dance**
 
 Chinese dance choreographers, Chang Hsiao Min and Tay Poh Soon reflect on their decades-long Chingay experiences.
@@ -55,5 +53,3 @@ As for the future of Chingay, both Hsiao Min and Poh Soon dream of sharing the e
 “I believe Chingay will find its own ways of creativity and new performances after the storm of COVID and continue to grow and become famous worldwide like Brazil’s Carnival,” said Poh Soon.
 
 Hsiao Min was of the same opinion, saying, “I hope Chingay continues to expand cultural exchanges internationally with other countries and spread to every corner of Singapore in an even bigger scale with a wider audience capacity”.
-
-
