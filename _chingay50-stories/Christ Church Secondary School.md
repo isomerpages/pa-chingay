@@ -14,6 +14,7 @@ In 2019, these four students entered Christ Church Secondary School, and faced t
 All were first-time participants in Chingay 2019, and for Ashleigh and brothers Ritz and Rhys, their participation was what introduced them to the event. However, Thivieya had seen her sister perform in Chingay 2016 and was excited for her turn to do the same.
 
 **Shared perspectives** 
+
 The foursome shares the perception that Chingay unites people.
 
 Ashleigh elaborates, “We used to wait in a big white tent for practices to start. I think that was when the bonding started. We would sit in our classes and start conversations, and through these conversations and games like Truth or Dare, we forged friendships that made the whole Chingay experience even more memorable.”
