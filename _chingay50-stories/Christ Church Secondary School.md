@@ -5,7 +5,7 @@ description: ""
 ---
 ![Christ Church Secondary School](/images/Chingay50%20Stories/ChristChurch2.png)
 
-Ashleigh, Ritz, Rhys and Thivieya and Schoolmates
+Ashleigh, Ritz, Rhys, Thivieya and Schoolmates
 
 **Forging An Unbreakable Bond**
 
