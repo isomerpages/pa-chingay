@@ -8,6 +8,8 @@ third_nav_title: Community Engagement
 
 <span style="font-weight:bold;">Top 5 Videos</span>  with the highest votes and <span style="font-weight:bold;">10 Lucky Voters</span> will win attractive prizes!<br></p>
 
+Voting will closes on 15 November 2022, 2359hrs
+
 
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: rem 2vw; list-style: none; padding: 0;">
 
