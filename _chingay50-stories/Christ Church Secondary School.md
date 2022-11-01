@@ -3,7 +3,7 @@ title: Christ Church Secondary School
 permalink: /chingay50-stories/christ-church-sec-sch/
 description: ""
 ---
-![Christ Church Secondary School](/images/Chingay50%20Stories/ChristChurch1.png)
+![Christ Church Secondary School](/images/Chingay50%20Stories/ChristChurch2.png)
 
 Ashleigh, Ritz, Rhys and Thivieya and Schoolmates
 
