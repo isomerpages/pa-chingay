@@ -51,7 +51,7 @@ We would like to invite you to join us as volunteers for some of our activities 
 
 |   |   |
 | -------- | -------- | 
-| **Volunteers Leader**<br> ![leader](/images/Volunteers/Leader%202.png) | [https://go.gov.sg/chingay23-volunteersleader](https://go.gov.sg/chingay23-volunteersleader)    <br> *Register by 19 October 2022*<br>*Application may close earlier due to overwhelming responses*   |         
+| **Volunteers Leader**<br> ![leader](/images/Volunteers/Leader%202.png) |     **Registration has closed**<br>*Interested applicants please apply for other available roles.*   |         
 
 1\. Oversee and manage a group of volunteers  
 2\. Attend additional recce / briefing sessions with planning committee to understand the operational plans  
@@ -106,7 +106,7 @@ Assist in preparation and movement of production logistics & props prior to the 
 
 |  |  |
 | -------- | -------- | 
-| **Production Crew**![production crew](/images/Volunteers/Production%20crew%202.png)    |       [https://go.gov.sg/chingay23-pcvol](https://go.gov.sg/chingay23-pcvol)  <br> **Note: Applicants need to be 17 - 65 years old for this role.** <br> *Register by 13 November 2022*<br>*Application may close earlier due to overwhelming responses*     |       
+| **Production Crew**![production crew](/images/Volunteers/Production%20crew%202.png)    |       **Registration has closed** <br> *Interested applicants please apply for other available roles.*     |       
 
 1\. To assist in preparation and movement of logistics and props during the parade (might need to carry and standby heavy props)  
 2\. To prepare and cue the performers for their entry/exit at specific timings  
