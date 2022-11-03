@@ -114,7 +114,7 @@ Assist in preparation and movement of production logistics & props prior to the 
 
 |   |   |
 | -------- | -------- | 
-| **Media Volunteer**![media](/images/Volunteers/Media%202.png)          |     [https://go.gov.sg/chingay23-mediavol](https://go.gov.sg/chingay23-mediavol)      <br>*Register by 13 November 2022*<br>*Application may close earlier due to overwhelming responses*   |
+| **Media Volunteer**![media](/images/Volunteers/Media%202.png)          |           **Registration has closed**<br>*Interested applicants please apply for other available roles.*   |
 
 1\. Be the photographer or videographer for Volunteers of Chingay  
 2\. Capture the volunteers in action during their trainings, briefings and during actual event days  
