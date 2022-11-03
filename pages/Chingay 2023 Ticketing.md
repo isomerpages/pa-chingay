@@ -10,4 +10,5 @@ description: ""
 <tr>
     <th>Month</th>
     <td>Savings</th>
-  </tr>
+ </tr>
+ </table>
