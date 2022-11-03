@@ -11,7 +11,7 @@ Time: xPM
 	
 Venue: xxxx
 
-Tickets: $60 | $50 | $40 | $28.50 | $20 (excludes booking fee)
+Tickets: $60 / $50 / $40 / $28.50 / $20 (excludes booking fee)
 
 
 20% off PAssion Card Members
