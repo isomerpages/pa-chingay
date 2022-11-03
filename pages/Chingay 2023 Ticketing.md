@@ -16,4 +16,4 @@ Tickets: $60 | $50 | $40 | $28.50 | $20 (excludes booking fee)
 
 20% off PAssion Card Members
 
-<a href="https://www.sistic.com.sg" target="_blank"><div style="background-color:hsla(208, 100%, 97%, 1); padding:.5rem; text-align:Center; line-height: 1.3em;"><b>Book your tickets from XXX now!</b></span><br></div></div></a>
+<div style="background-color:hsla(208, 100%, 97%, 1); padding:.5rem; text-align:Center; line-height: 1.3em;"><a href="https://www.sistic.com.sg" target="_blank"><b>Book your tickets from XXX now!</b></a></div>
