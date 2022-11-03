@@ -5,7 +5,7 @@ description: ""
 ---
 <table border="0">
     <tr>
-        <td> 
+        <td style="width:30%;"> 
           <div style="text-align: center;"> 
 	<span style= "font-size: 1rem; font-weight: bold;">
 		FRI & SAT
@@ -18,7 +18,7 @@ description: ""
 	</span><br>
 </div>
         </td>
-        <td> 
+        <td style="width:70%;"> 
           <span style= "font-size: 3rem; font-weight: bold;">
 		CHINGAY PARADE 2023
 	</span>
