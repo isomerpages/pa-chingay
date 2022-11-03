@@ -18,7 +18,7 @@ description: ""
 	</span><br>
 </div>
         </td>
-        <td style="width:70%;"> 
+        <td style="width:70%; vertical-align: bottom;"> 
           <span style= "font-size: 3rem; font-weight: bold;">
 		CHINGAY PARADE 2023
 	</span>
