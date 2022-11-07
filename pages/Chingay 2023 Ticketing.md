@@ -3,7 +3,7 @@ title: Chingay 2023 Ticketing
 permalink: /tickets/
 description: ""
 ---
-<h3><u><b>Chingay Parade Singapore 2023: Embrace Tomorrow</b></u></h3>
+<u><b>Chingay Parade Singapore 2023: Embrace Tomorrow</b></u>
 
 <p>Date: xx February 2023 <br>
 Time: xPM <br>
