@@ -13,7 +13,7 @@ description: ""
 
 
 
-<div style="display: grid; grid-template-columns: auto, auto; gap: 10px; background-color: #FFF; padding: 10px;">
+<div style="display: grid; grid-template-columns: auto, min-content; gap: 10px; background-color: #FFF; padding: 10px;">
 <div>
 <p><img src="/images/Date.png" style="float:left; width:30px;height:30px"/>&nbsp; &nbsp; &nbsp;  0 & 0 February 2023<br>
 <img src="/images/Time.png" style="float:left; width:30px;height:30px"/>
