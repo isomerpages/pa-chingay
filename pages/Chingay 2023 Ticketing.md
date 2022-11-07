@@ -16,7 +16,7 @@ description: ""
 <img src="/images/Venue.png" style="float:left; width:30px;height:30px"/>&nbsp; &nbsp; &nbsp; 
 Xx Xxxx Xxxxxxx<br>
 <img src="/images/Tickets.png" style="float:left; width:30px;height:30px"/>&nbsp; &nbsp; &nbsp;  $60 / $50 / $40 / $28.50 / $20 (excludes booking fee) <br>
-	20% off PAssion Card Members</p><br>
+	20% off PAssion Card Members</p>
 
 <div style="margin: auto; box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; padding:1rem; background-color:hsla(208, 100%, 97%, 1); text-align:center; max-width:15rem;"><a href="https://www.sistic.com.sg/" target="_blank"><b>BOOK NOW</b></a></div>
 
