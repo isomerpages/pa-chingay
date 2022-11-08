@@ -13,7 +13,7 @@ sections:
             color:white;">GRAB YOUR TICKET FROM SISTIC NOW!</div>
           description: ""
           url: https://www.youtube.com/watch?v=7LN-OsjmIz8
-      background: /images/Website KV.png
+      background: /images/Website KV 3.png
   - infopic:
       title: D:2 Dance Competition 2023
       description: Challenge yourselves by fusing your favourite moves with one of our
