@@ -10,7 +10,7 @@ description: ""
 <p>
  </p>
 	
-<div style="font-size: 1rem; line-height:2rem;"><img src="/images/Date.png" style="float:left; width:30px;height:30px"/>&nbsp; &nbsp; &nbsp;  0 & 0 February 2023<br>
+<div style="line-height:2rem;"><img src="/images/Date.png" style="float:left; width:30px;height:30px"/>&nbsp; &nbsp; &nbsp;  0 & 0 February 2023<br>
 <img src="/images/Time.png" style="float:left; width:30px;height:30px"/>
 &nbsp; &nbsp; &nbsp; 8PM<br>
 <img src="/images/Venue.png" style="float:left; width:30px;height:30px"/>&nbsp; &nbsp; &nbsp; 
