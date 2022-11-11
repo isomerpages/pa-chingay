@@ -31,6 +31,15 @@ sections:
       description: Voting is now open!
       subtitle: Community Engagement Programme
   - infopic:
+      title: Volunteer Recruitment
+      subtitle: Chingay 2023
+      description: " Join us as volunteers for some of our activities happening in
+        December 2022, January and February 2023."
+      button: Find Out More
+      url: /join-us/volunteers/
+      image: /images/Volunteers/Chingay Vol Avatar Combine FA-02.png
+      alt: Chingay Volunteer
+  - infopic:
       title: "#OurChingay50Stories"
       subtitle: Chingay50 Programmes
       description: Chingay turns 50 in 2022 and it’s story and journey will be
@@ -47,13 +56,4 @@ sections:
       url: /whats-on/Chingay50-Programmes/hey-chingay-50-bus
       image: /images/Highlights/launch-of-chingay50-buses-highlightimage.jpg
       alt: Chingay50 Buses
-  - infopic:
-      title: Volunteer Recruitment
-      subtitle: Chingay 2023
-      description: " Join us as volunteers for some of our activities happening in
-        December 2022, January and February 2023."
-      button: Find Out More
-      url: /join-us/volunteers/
-      image: /images/Volunteers/Chingay Vol Avatar Combine FA-02.png
-      alt: Chingay Volunteer
 ---
