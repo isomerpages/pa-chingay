@@ -9,11 +9,10 @@ notification: <a href="https://go.gov.sg/stay-in-touch-with-chingay">Sign Up</a>
 sections:
   - hero:
       key_highlights:
-        - title: <div class="no-icon" style="font-size:15px; text-decoration:none;
-            color:white;">GRAB YOUR TICKET FROM SISTIC NOW!</div>
-          description: ""
+        - title: Missed the Chingay50 Live Webcast?
+          description: Catch it on YouTube now!
           url: https://www.youtube.com/watch?v=7LN-OsjmIz8
-      background: /images/Website KV 3.png
+      background: /images/pa-chingay-1280_438_03.gif
   - infopic:
       title: D:2 Dance Competition 2023
       description: Challenge yourselves by fusing your favourite moves with one of our
