@@ -7,8 +7,8 @@ third_nav_title: Community Engagement
 ![EDM for D2 Dance Competition 2023](/images/D2-Extended-EDM.jpg)
 
 
-<span style="color:red;">**Submission has closed.  
-Check back soon for D:2 Finals**</span>
+**Submission has closed.  
+Check back soon for D:2 Finals**
 # About D:2 Dance Competition
 
 Are you interested to showcase your dance moves? Challenge yourselves by fusing your favourite moves with one of our local culture dance movement to wow the crowd through D:2 Dance Competition.
