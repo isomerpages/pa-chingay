@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Community Engagement
 ---
 **-- Voting has closed --** <br>
-**Come back to check result in December.** <br>
+**Come back for result in December.** <br>
