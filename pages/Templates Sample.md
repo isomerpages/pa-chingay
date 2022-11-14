@@ -4,7 +4,7 @@ permalink: /templates/
 description: ""
 ---
 <!--START Template for cards-->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
 <div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div>
