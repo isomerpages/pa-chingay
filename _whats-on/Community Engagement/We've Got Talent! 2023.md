@@ -11,4 +11,4 @@ third_nav_title: Community Engagement
 [TERMS & CONDITIONS](/files/whats-on/Chingay%202023%20We%20Got%20Talent_Terms%20and%20Conditions_Final_14Jul22.pdf)
 
 **Submission has closed. <br>
-Vote for your favourite talent in November!**
+Vote for your favourite talent now!**

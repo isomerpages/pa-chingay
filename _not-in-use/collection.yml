@@ -2,6 +2,8 @@ collections:
   not-in-use:
     output: true
     order:
+      - Chingay50 @ Heartlands.md
+      - D:2 Dance Competition.md
       - Watch Party.md
       - Spot & Win!.md
       - Snap, Tag & Win!.md

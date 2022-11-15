@@ -10,13 +10,13 @@ description: ""
 <p>
  </p>
 	
-<p><img src="/images/Date.png" style="float:left; width:30px;height:30px"/>&nbsp; &nbsp; &nbsp;  0 & 0 February 2023<br>
+<div style="line-height:2rem;"><img src="/images/Date.png" style="float:left; width:30px;height:30px"/>&nbsp; &nbsp; 0 & 0 February 2023<br>
 <img src="/images/Time.png" style="float:left; width:30px;height:30px"/>
-&nbsp; &nbsp; &nbsp; 8PM<br>
-<img src="/images/Venue.png" style="float:left; width:30px;height:30px"/>&nbsp; &nbsp; &nbsp; 
+&nbsp;  &nbsp; 8PM<br>
+<img src="/images/Venue.png" style="float:left; width:30px;height:30px"/> &nbsp; &nbsp; 
 Xx Xxxx Xxxxxxx<br>
-<img src="/images/Tickets.png" style="float:left; width:30px;height:30px"/>&nbsp; &nbsp; &nbsp;  $60 / $50 / $40 / $28.50 / $20 (excludes booking fee) <br>
-	20% off PAssion Card Members</p>
+<img src="/images/Tickets.png" style="float:left; width:30px;height:30px"/>&nbsp; &nbsp;  $60 / $50 / $40 / $28.50 / $20 (excludes booking fee) <br><br>
+	20% off PAssion Card Members</div>
 
 <div style="display: block; margin: auto; text-align:center; border:3px solid #2d6ffa; width:fit-content;"><a style="text-decoration:none;" href="https://www.sistic.com.sg/"><div style="padding:1rem"><b>BOOK NOW</b></div></a></div>
 
