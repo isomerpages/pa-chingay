@@ -10,5 +10,5 @@ third_nav_title: Community Engagement
 
 [TERMS & CONDITIONS](/files/whats-on/Chingay%202023%20We%20Got%20Talent_Terms%20and%20Conditions_Final_14Jul22.pdf)
 
-**-- Voting has ended -- <br>
+**-- Voting has closed -- <br>
 Winners will be announced after 1 January 2023**
