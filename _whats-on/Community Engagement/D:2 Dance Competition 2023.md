@@ -15,6 +15,6 @@ Chingay Parade Singapore and FitnessArts Pte. Ltd will be jointly organising Chi
 
 
 **Submission has closed.  
-Check back soon for D:2 Finals.**
+Stay tuned for more information on D:2 Finals.**
 
 [TERMS & CONDITIONS](/files/D2%20Dance%20Competition%20TCs%20Chingay%202023.pdf)
