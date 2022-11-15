@@ -40,7 +40,7 @@ sections:
       description: Community Engagement Programme for Chingay 2023
       subtitle: Community Engagement Programme
   - infopic:
-      title: <div style="font-size:3rem;>#OurChingay50Stories</div>
+      title: "#OurChingay50Stories"
       subtitle: Chingay50 Programmes
       description: Chingay turns 50 in 2022 and it’s story and journey will be
         unfolded through the lenses of the people involved.
