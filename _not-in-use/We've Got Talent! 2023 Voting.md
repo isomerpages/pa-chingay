@@ -1,9 +1,11 @@
 ---
 title: We've Got Talent! 2023 Voting
-permalink: /wgt2023-voting/
+permalink: /wgt2023-voting-backup/
 description: ""
-third_nav_title: Community Engagement
 ---
+
+
+
 <p>Click on <span style="color:rgb(45, 111, 250);text-decoration: underline; font-weight: bold;">VOTE</span> to support your favourite video. Voting closes on 15 November 2022, 2359hrs.<br><br>
 
 <span style="font-weight:bold;">Top 5 Videos</span>  with the highest votes and <span style="font-weight:bold;">10 Lucky Voters</span> will win attractive prizes!<br></p>

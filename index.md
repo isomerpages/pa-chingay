@@ -14,23 +14,6 @@ sections:
           url: https://www.youtube.com/watch?v=7LN-OsjmIz8
       background: /images/pa-chingay-1280_438_03.gif
   - infopic:
-      title: D:2 Dance Competition 2023
-      description: Challenge yourselves by fusing your favourite moves with one of our
-        local culture dance movement!
-      button: Find out more
-      url: https://www.chingay.gov.sg/d22023
-      image: /images/D2 Dance Competition Logo.png
-      alt: d2
-      subtitle: Community Engagement Programme
-  - infopic:
-      button: Vote Now
-      url: https://www.chingay.gov.sg/wgt2023-voting/
-      image: /images/Target Media top halfpng.png
-      alt: WGT 2023
-      title: We've Got Talent! 2023 - Voting
-      description: Voting is now open!
-      subtitle: Community Engagement Programme
-  - infopic:
       title: Volunteer Recruitment
       subtitle: Chingay 2023
       description: " Join us as volunteers for some of our activities happening in
@@ -40,6 +23,23 @@ sections:
       image: /images/Volunteers/Chingay Vol Avatar Combine FA-02.png
       alt: Chingay Volunteer
   - infopic:
+      title: D:2 Dance Competition 2023
+      description: Challenge yourselves by fusing your favourite moves with one of our
+        local culture dance movement!
+      button: Find out more
+      url: https://www.chingay.gov.sg/d22023
+      image: /images/D2 Dance Competition Logo.png
+      alt: d2
+      subtitle: Community Engagement Programme
+  - infopic:
+      button: Find out more
+      url: https://www.chingay.gov.sg/wgt2023-voting/
+      image: /images/Target Media top halfpng.png
+      alt: WGT 2023
+      title: We've Got Talent! 2023
+      description: Community Engagement Programme for Chingay 2023
+      subtitle: Community Engagement Programme
+  - infopic:
       title: "#OurChingay50Stories"
       subtitle: Chingay50 Programmes
       description: Chingay turns 50 in 2022 and it’s story and journey will be
@@ -48,12 +48,4 @@ sections:
       url: /whats-on/Chingay50-Programmes/ourchingay50stories
       image: /images/Chingay50 Stories/DC-Chingay Mdm Ong-3.png
       alt: "#OurChingay50Stories"
-  - infopic:
-      title: "#HeyChingay50Bus"
-      subtitle: Chingay50 Programmes
-      description: Come onboard and celebrate the Chingay Spirit around the island!
-      button: Find Out More
-      url: /whats-on/Chingay50-Programmes/hey-chingay-50-bus
-      image: /images/Highlights/launch-of-chingay50-buses-highlightimage.jpg
-      alt: Chingay50 Buses
 ---
