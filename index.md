@@ -48,12 +48,4 @@ sections:
       url: /whats-on/Chingay50-Programmes/ourchingay50stories
       image: /images/Chingay50 Stories/DC-Chingay Mdm Ong-3.png
       alt: "#OurChingay50Stories"
-  - infopic:
-      title: "#HeyChingay50Bus"
-      subtitle: Chingay50 Programmes
-      description: Come onboard and celebrate the Chingay Spirit around the island!
-      button: Find Out More
-      url: /whats-on/Chingay50-Programmes/hey-chingay-50-bus
-      image: /images/Highlights/launch-of-chingay50-buses-highlightimage.jpg
-      alt: Chingay50 Buses
 ---
