@@ -9,9 +9,6 @@ description: ""
 Indulge in the colourful and vibrant Chingay Parade brought to you by the diverse talents and multi-ethnic community, performed in front of a street-style container art backdrop that is co-created by youths. Be enticed by the return of the iconic Chingay floats and 17 community co-created mini floats which exemplifies our strong community spirit and togetherness. 
 </div>
 
-<p>
- </p>
-	
 <div style="line-height:2rem;"><img src="/images/Date.png" style="float:left; width:30px;height:30px"/>&nbsp; &nbsp; 0 & 0 February 2023<br>
 <img src="/images/Time.png" style="float:left; width:30px;height:30px"/>
 &nbsp;  &nbsp; 8PM<br>
