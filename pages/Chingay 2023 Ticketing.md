@@ -5,7 +5,7 @@ description: ""
 ---
 <u><b>Chingay Parade Singapore 2023: Embrace Tomorrow</b></u>
 
-<div>Chingay Parade Singapore is back to F1 Pit! Join us as we stride into the first year after its Golden Jubilee, presenting an entirely different experience of arts, culture, and heritage set in a musical format to mark a new beginning. Chingay Parade 2023 completes the trilogy that began with 2021’s “Light of Hope”, followed by 2022’s “Ignite Our Dreams” and 2023’s “Embrace Tomorrow”. It calls on Singaporeans to treasure the present and embrace tomorrow together as a community with hope, dream, and confidence as we commit to a brighter Singapore.
+<div>Chingay Parade Singapore is back to F1 Pit! Join us as we stride into the first year after its Golden Jubilee, presenting an entirely different experience of arts, culture, and heritage set in a musical format to mark a new beginning. Chingay Parade 2023 completes the trilogy that began with 2021’s “Light of Hope”, followed by 2022’s “Ignite Our Dreams” and 2023’s “Embrace Tomorrow”. It calls on Singaporeans to treasure the present and embrace tomorrow together as a community with hope, dream, and confidence as we commit to a brighter Singapore.<br><br>
 Indulge in the colourful and vibrant Chingay Parade brought to you by the diverse talents and multi-ethnic community, performed in front of a street-style container art backdrop that is co-created by youths. Be enticed by the return of the iconic Chingay floats and 17 community co-created mini floats which exemplifies our strong community spirit and togetherness. 
 </div>
 
