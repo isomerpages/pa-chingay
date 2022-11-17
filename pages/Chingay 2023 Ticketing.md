@@ -21,8 +21,3 @@ Xx Xxx Xxxxxxxx<br>
 PAssion Card Members get to enjoy 20% discount!</div>
 
 <div style="display: block; margin: auto; text-align:center; border:3px solid #2d6ffa; width:fit-content;"><a style="text-decoration:none;" href="https://www.sistic.com.sg/"><div style="padding:1rem"><b>GET YOUR TICKETS NOW!</b></div></a></div>
-
-
-
-	
-[TERMS & CONDITIONS](/files/xxx.pdf)
