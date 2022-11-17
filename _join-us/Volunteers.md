@@ -122,7 +122,7 @@ Assist in preparation and movement of production logistics & props prior to the 
 
 |   |   |
 | -------- | -------- | 
-| **Admin & Welfare**![admin & logs](/images/Volunteers/Admin%20&%20logs%202.png)       |     [https://go.gov.sg/chingay23-awvol](https://go.gov.sg/chingay23-awvol)  <br>*Register by 28 November 2022*<br>*Application may close earlier due to overwhelming responses*   |    
+| **Admin & Welfare**![admin & logs](/images/Volunteers/Admin%20&%20logs%202.png)       |     **Registration has closed**<br>*Interested applicants please apply for other available roles.*    |    
 
 1\. Ensure a smooth administrative process for our volunteers during training and event days  
 2\. Assist in the distribution of logistics to volunteers and ensure that their welfare have been taken care of
