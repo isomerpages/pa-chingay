@@ -20,4 +20,4 @@ Xx Xxx Xxxxxxxx<br>
 <img src="/images/Tickets.png" style="float:left; width:30px;height:30px"/>&nbsp; &nbsp;  $60 / $50 / $40 / $28.50 / $20 (excludes booking fee) <br><br>
 PAssion Card Members get to enjoy 20% discount!</div>
 
-<br><div style="display: block; margin: auto; text-align:center; border:3px solid #2d6ffa; width:fit-content;"><a style="text-decoration:none;" href="https://www.sistic.com.sg/"><div style="padding:1rem"><b>GET YOUR TICKETS NOW!</b></div></a></div>
+<br><br><div style="display: block; margin: auto; text-align:center; border:3px solid #2d6ffa; width:fit-content;"><a style="text-decoration:none;" href="https://www.sistic.com.sg/"><div style="padding:1rem"><b>GET YOUR TICKETS NOW!</b></div></a></div>
