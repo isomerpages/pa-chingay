@@ -3,6 +3,9 @@ title: Chingay 2023 Ticketing
 permalink: /tickets/
 description: ""
 ---
+
+<div style="display: block; margin: auto; text-align:center; border:3px solid #2d6ffa; width:fit-content;"><a style="text-decoration:none;" href="https://www.sistic.com.sg/"><div style="padding:1rem"><b>GET YOUR TICKETS NOW!</b></div></a></div>
+
 <u><b>Chingay Parade Singapore 2023: Embrace Tomorrow</b></u>
 
 <div>Chingay Parade Singapore is back to F1 Pit! Join us as we stride into the first year after its Golden Jubilee, presenting an entirely different experience of arts, culture, and heritage set in a musical format to mark a new beginning. Chingay Parade 2023 completes the trilogy that began with 2021’s “Light of Hope”, followed by 2022’s “Ignite Our Dreams” and 2023’s “Embrace Tomorrow”. It calls on Singaporeans to treasure the present and embrace tomorrow together as a community with hope, dream, and confidence as we commit to a brighter Singapore.<br><br>
