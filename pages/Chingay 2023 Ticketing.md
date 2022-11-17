@@ -3,7 +3,6 @@ title: Chingay 2023 Ticketing
 permalink: /tickets/
 description: ""
 ---
-
 <div style="display: block; margin: auto; text-align:center; border:3px solid #2d6ffa; width:fit-content;"><a style="text-decoration:none;" href="https://www.sistic.com.sg/"><div style="padding:1rem"><b>GET YOUR TICKETS NOW!</b></div></a></div>
 
 <u><b>Chingay Parade Singapore 2023: Embrace Tomorrow</b></u>
