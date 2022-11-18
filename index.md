@@ -9,10 +9,11 @@ notification: <a href="https://go.gov.sg/stay-in-touch-with-chingay">Sign Up</a>
 sections:
   - hero:
       key_highlights:
-        - title: Missed the Chingay50 Live Webcast?
-          description: Catch it on YouTube now!
-          url: https://www.youtube.com/watch?v=7LN-OsjmIz8
-      background: /images/pa-chingay-1280_438_03.gif
+        - title: <div style"=font-size:.9rem; text-decoration:none;">GET YOUR TICKETS FROM
+            SISTIC NOW!</div>
+          description: ""
+          url: https://go.gov.sg/chingay2023tickets
+      background: /images/Website KV 3.png
   - infopic:
       title: Volunteer Recruitment
       subtitle: Chingay 2023
