@@ -2,5 +2,6 @@ collections:
   chingay50-photo-gallery:
     output: true
     order:
+      - Chingay50 Behind The Scenes.md
       - Mini Floats.md
       - " #HeyChingay50Bus.md"
