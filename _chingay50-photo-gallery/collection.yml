@@ -1,4 +1,5 @@
 collections:
   chingay50-photo-gallery:
     output: true
-    order: []
+    order:
+      - " #HeyChingay50Bus.md"
