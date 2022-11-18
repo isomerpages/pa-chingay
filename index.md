@@ -14,6 +14,11 @@ sections:
           description: ""
           url: https://go.gov.sg/chingay2023tickets
       background: /images/Website KV 3.png
+  - infobar:
+      title: Tickets are on sale now!
+      subtitle: Chingay 2023
+      description: GET YOUR TICKETS FROM SISTIC NOW!
+      url: https://go.gov.sg/chingay2023tickets
   - infopic:
       title: Volunteer Recruitment
       subtitle: Chingay 2023
