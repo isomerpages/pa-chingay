@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Chingay50 Event Gallery/.keep
-      - Chingay50 Event Gallery/Chingay50 Behind The Scenes.md
       - The Chingay Story.md
       - The Chingay Timeline.md
       - Press Room/.keep
