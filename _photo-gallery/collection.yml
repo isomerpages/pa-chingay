@@ -2,7 +2,7 @@ collections:
   photo-gallery:
     output: true
     order:
-      - Hall of Frames (Contributors).md
+      - Contributors.md
       - 2010 to 2021.md
       - 2000 to 2009.md
       - 1985 to 1999.md
