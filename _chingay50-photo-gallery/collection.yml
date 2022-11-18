@@ -1,5 +1,4 @@
 collections:
   chingay50-photo-gallery:
     output: true
-    order:
-      - Chingay50 at Jewel Changi Airport.md
+    order: []
