@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - Chingay Photo Gallery.md
       - The Chingay Story.md
       - The Chingay Timeline.md
-      - Press Room/2023.md
+      - Chingay Photo Gallery.md
       - Press Room/.keep
+      - Press Room/2023.md
       - Press Room/2022.md
       - Chingay50/.keep
       - Chingay50/Ignite Our Dreams.md
