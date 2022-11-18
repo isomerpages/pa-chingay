@@ -2,7 +2,6 @@ collections:
   photo-gallery:
     output: true
     order:
-      - 2010 to 2021.md
       - 2000 to 2009.md
       - 1985 to 1999.md
       - 1973 to 1984.md
