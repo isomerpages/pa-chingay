@@ -2,4 +2,5 @@ collections:
   chingay50:
     output: true
     order:
+      - Did You Know?.md
       - Chingay50 Mini Floats.md
