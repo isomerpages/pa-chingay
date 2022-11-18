@@ -1,28 +1,18 @@
 logo: /images/logo-light.svg
 links:
   - title: What's On
-    url: /d22023/
+    url: /Chingay2023/
     sublinks:
+      - title: Chingay2023
+        url: /Chingay2023/
       - title: Community Engagement
         url: /d22023/
       - title: "&rarr; D:2 Dance Competition"
         url: /d22023/
       - title: "&rarr; We've Got Talent! 2023"
         url: /wgt2023/
-      - title: Chingay50 Programmes
-        url: /whats-on/Chingay50-Programmes
-      - title: "&rarr; Chingay50 Mini Floats"
-        url: /whats-on/Community-Engagement/chingay50-mini-floats
-      - title: "&rarr; #OurChingay50Stories"
+      - title: "#OurChingay50Stories"
         url: /whats-on/Chingay50-Programmes/ourchingay50stories
-      - title: "&rarr; Hall of Frames (Public)"
-        url: /whats-on/Chingay50-Programmes/hall-of-frames-public
-      - title: "&rarr; Hall of Frames (Contri)"
-        url: /whats-on/Chingay50-Programmes/hall-of-frames-contributors
-      - title: "&rarr; #HeyChingay50Bus"
-        url: /whats-on/Chingay50-Programmes/hey-chingay-50-bus
-      - title: "&rarr; Did You Know?"
-        url: /whats-on/Chingay50-Programmes/did-you-know
   - title: Ticketing
     collection: ticketing
   - title: Join Us
