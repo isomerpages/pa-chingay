@@ -1,5 +1,4 @@
 collections:
   edm:
     output: true
-    order:
-      - Dreamy.md
+    order: []
