@@ -2,6 +2,7 @@ collections:
   chingay50:
     output: true
     order:
+      - Chingay50 Programmes/Chingay50 Mini Floats.md
       - Chingay50 Programmes/Did You Know?.md
       - Chingay50 Programmes/HeyChingay50Bus.md
       - Chingay50 Programmes/Chingay50 Programmes.md
