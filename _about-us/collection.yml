@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Chingay Photo Gallery/Chingay Photo Gallery.md
       - Chingay Photo Gallery/.keep
       - The Chingay Story.md
       - The Chingay Timeline.md
