@@ -4,10 +4,6 @@ permalink: /Chingay50/Chingay50-Photo-Gallery/
 description: ""
 third_nav_title: Chingay50 Photo Gallery
 ---
-
-
-
-
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
