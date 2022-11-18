@@ -2,8 +2,8 @@ collections:
   whats-on:
     output: true
     order:
-      - Chingay50Stories/OurChingay50Stories.md
-      - Chingay50Stories/.keep
+      - OurChingay50Stories/OurChingay50Stories.md
+      - OurChingay50Stories/.keep
       - Community Engagement/.keep
       - Community Engagement/D:2 Dance Competition 2023.md
       - Community Engagement/We've Got Talent! 2023.md
