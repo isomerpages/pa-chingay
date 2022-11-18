@@ -17,5 +17,14 @@ links:
     collection: ticketing
   - title: Join Us
     collection: join-us
-  - title: About Us
-    collection: about-us
+  - title: ABOUT US
+    url: /about-us/the-chingay-story/
+    sublinks:
+      - title: The Chingay Timeline
+        url: /about-us/the-chingay-timeline/
+      - title: Chingay Photo Gallery
+        url: /chingay-photo-gallery/
+      - title: Press Room
+        url: /about-us/press-room/
+      - title: Chingay50
+        url: /Chingay50/
