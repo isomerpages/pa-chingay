@@ -1,5 +1,5 @@
 collections:
-  tickets:
+  ticketing:
     output: true
     order:
       - Chingay 2023 Ticketing.md
