@@ -1,4 +1,5 @@
 collections:
   chingay50:
     output: true
-    order: []
+    order:
+      - Chingay50 Mini Floats.md
