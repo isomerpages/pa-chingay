@@ -1,5 +1,5 @@
 collections:
-  chingay-photo-gallery:
+  photo-gallery:
     output: true
     order:
       - Hall of Frames (Contributors).md
