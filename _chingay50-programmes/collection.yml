@@ -1,5 +1,4 @@
 collections:
   chingay50-programmes:
     output: true
-    order:
-      - HeyChingay50Bus.md
+    order: []
