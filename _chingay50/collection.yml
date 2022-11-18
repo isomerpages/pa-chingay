@@ -2,6 +2,7 @@ collections:
   chingay50:
     output: true
     order:
+      - Ignite Our Dreams.md
       - Chingay50 Programmes.md
       - Chingay50 Photo Gallery.md
       - Did You Know?.md
