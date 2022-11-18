@@ -2,6 +2,7 @@ collections:
   whats-on:
     output: true
     order:
+      - Chingay2023/.keep
       - Community Engagement/.keep
       - Community Engagement/D:2 Dance Competition 2023.md
       - Community Engagement/We've Got Talent! 2023.md
