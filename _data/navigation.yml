@@ -18,10 +18,12 @@ links:
   - title: ABOUT US
     url: /about-us/the-chingay-story/
     sublinks:
+      - title: The Chingay Story
+        url: /about-us/the-chingay-story
       - title: The Chingay Timeline
         url: /about-us/the-chingay-timeline/
       - title: Chingay Photo Gallery
-        url: /chingay-photo-gallery/
+        url: chingay50/chingay50-photo-gallery/
       - title: Press Room
         url: /about-us/press-room/
       - title: Chingay50
