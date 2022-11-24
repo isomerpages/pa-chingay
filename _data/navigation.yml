@@ -9,21 +9,22 @@ links:
         url: /d22023/
       - title: "&rarr; We've Got Talent! 2023"
         url: /wgt2023/
-      - title: Chingay50 Programmes
-        url: /whats-on/Chingay50-Programmes
-      - title: "&rarr; Chingay50 Mini Floats"
-        url: /whats-on/Community-Engagement/chingay50-mini-floats
-      - title: "&rarr; #OurChingay50Stories"
+      - title: "#OurChingay50Stories"
         url: /whats-on/Chingay50-Programmes/ourchingay50stories
-      - title: "&rarr; Hall of Frames (Public)"
-        url: /whats-on/Chingay50-Programmes/hall-of-frames-public
-      - title: "&rarr; Hall of Frames (Contri)"
-        url: /whats-on/Chingay50-Programmes/hall-of-frames-contributors
-      - title: "&rarr; #HeyChingay50Bus"
-        url: /whats-on/Chingay50-Programmes/hey-chingay-50-bus
-      - title: "&rarr; Did You Know?"
-        url: /whats-on/Chingay50-Programmes/did-you-know
+  - title: Ticketing
+    collection: ticketing
   - title: Join Us
     collection: join-us
-  - title: About Us
-    collection: about-us
+  - title: ABOUT US
+    url: /about-us/the-chingay-story/
+    sublinks:
+      - title: The Chingay Story
+        url: /about-us/the-chingay-story
+      - title: The Chingay Timeline
+        url: /about-us/the-chingay-timeline/
+      - title: Chingay Photo Gallery
+        url: chingay50/chingay50-photo-gallery/
+      - title: Press Room
+        url: /about-us/press-room/
+      - title: Chingay50
+        url: /Chingay50/ignite-our-dreams/

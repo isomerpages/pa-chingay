@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Chingay 2022
+title: Chingay 2023
 description: Chingay Parade Singapore
 image: /images/isomer-logo.svg
 permalink: /
@@ -9,10 +9,11 @@ notification: <a href="https://go.gov.sg/stay-in-touch-with-chingay">Sign Up</a>
 sections:
   - hero:
       key_highlights:
-        - title: Missed the Chingay50 Live Webcast?
-          description: Catch it on YouTube now!
-          url: https://www.youtube.com/watch?v=7LN-OsjmIz8
-      background: /images/pa-chingay-1280_438_03.gif
+        - title: <div style="font-size:15px; text-decoration:none; color:white;">GET YOUR
+            TICKET FROM SISTIC FROM 25 NOVEMBER</div>
+          description: ""
+          url: /tickets/
+      background: /images/Website KV 3.png
   - infopic:
       title: Volunteer Recruitment
       subtitle: Chingay 2023
@@ -49,3 +50,4 @@ sections:
       image: /images/Chingay50 Stories/DC-Chingay Mdm Ong-3.png
       alt: "#OurChingay50Stories"
 ---
+
