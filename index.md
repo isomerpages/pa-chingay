@@ -12,7 +12,7 @@ sections:
         - title: <div style="font-size:15px; text-decoration:none; color:white;">GET YOUR
             TICKET FROM SISTIC FROM 25 NOVEMBER</div>
           description: ""
-          url: ""
+          url: /tickets/
       background: /images/Website KV 3.png
   - infopic:
       title: Volunteer Recruitment
