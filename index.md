@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Chingay 2022
+title: Chingay 2023
 description: Chingay Parade Singapore
 image: /images/isomer-logo.svg
 permalink: /
@@ -50,3 +50,4 @@ sections:
       image: /images/Chingay50 Stories/DC-Chingay Mdm Ong-3.png
       alt: "#OurChingay50Stories"
 ---
+
