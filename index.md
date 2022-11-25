@@ -10,7 +10,7 @@ sections:
   - hero:
       key_highlights:
         - title: <div style="font-size:15px; text-decoration:none; color:white;">GET YOUR
-            TICKET FROM SISTIC FROM 25 NOVEMBER</div>
+            TICKET FROM SISTIC NOW!</div>
           description: ""
           url: https://go.gov.sg/chingay2023tickets
       background: /images/Website KV 3.png
