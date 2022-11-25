@@ -15,4 +15,4 @@ F1 Pit<br>
 <img src="/images/Tickets.png" style="float:left; width:30px;height:30px"/>&nbsp; &nbsp;  $60 / $50 / $40 / $28.50 / $20 (excludes booking fee) <br>
 PAssion Card Members get to enjoy 20% discount!<br><br></div>
 
-<div style="display: block; margin: auto; text-align:center; border:3px solid #2d6ffa; width:fit-content;"><div style="padding:1rem; color:#2d6ffa"><b>GET YOUR TICKETS FROM 25 NOVEMBER</b></div></div>
+<div style="display: block; margin: auto; text-align:center; border:3px solid #2d6ffa; width:fit-content;"><a style="text-decoration:none;" href="https://go.gov.sg/chingay2023tickets/"><div style="padding:1rem"><b>GET YOUR TICKETS from 25 November!</b></div></a></div>
