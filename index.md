@@ -18,8 +18,8 @@ sections:
   - infobar:
       title: Chingay Parade 2023
       subtitle: Chingay 2023
-      description: We are back at F1 Pit presenting an entirely different experience
-        of arts, culture, and heritage set in a musical format.
+      description: "We are back at F1 Pit! Indulge in the colourful and vibrant parade
+        in front of a street-style container art backdrop. "
       button: Find out more
       url: /tickets/
   - infopic:
