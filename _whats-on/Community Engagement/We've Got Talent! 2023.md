@@ -9,7 +9,7 @@ third_nav_title: Community Engagement
 Catch amazing performances by our community talents at the various heartland locations.
 
 <div style="line-height:2rem;">
-CENTRAL  (Ended)<br>
+<strong><U>CENTRAL</u></strong>  (Ended)<br>
 <img src="/images/Date.png" style="float:left; width:30px;height:30px"/>&nbsp; &nbsp; 26 November 2022<br>
 <img src="/images/Time.png" style="float:left; width:30px;height:30px"/>
 &nbsp;  &nbsp; 6PM<br>
@@ -23,7 +23,7 @@ Open space outside Boon Keng Mrt Station<br>
 </div>
 
 <div style="line-height:2rem;">
-SOUTH WEST<br>
+<strong><U>SOUTH WEST</u></strong><br>
 <img src="/images/Date.png" style="float:left; width:30px;height:30px"/>&nbsp; &nbsp; 3 December 2022<br>
 <img src="/images/Time.png" style="float:left; width:30px;height:30px"/>
 &nbsp;  &nbsp; 11AM<br>
@@ -37,17 +37,7 @@ href="https://www.instagram.com/reel/CjIf4SdMRMc/?igshid=YmMyMTA2M2Y%3D/" target
 </div>
 
 <div style="line-height:2rem;">
-SOUTH EAST<br>
-<img src="/images/Date.png" style="float:left; width:30px;height:30px"/>&nbsp; &nbsp; 3 December 2022<br>
-<img src="/images/Time.png" style="float:left; width:30px;height:30px"/>
-&nbsp;  &nbsp; 6PM<br>
-<img src="/images/Venue.png" style="float:left; width:30px;height:30px"/> &nbsp; &nbsp; 
-Geylang East Town Centre<br>
-	Performances by: To be announced<br><br>
-</div>
-
-<div style="line-height:2rem;">
-NORTH WEST<br>
+<strong><U>NORTH WEST</u></strong><br>
 <img src="/images/Date.png" style="float:left; width:30px;height:30px"/>&nbsp; &nbsp; 3 December 2022<br>
 <img src="/images/Time.png" style="float:left; width:30px;height:30px"/>
 &nbsp;  &nbsp; 6PM<br>
@@ -66,7 +56,17 @@ href="https://www.instagram.com/p/Ci7KCiuvhpN/" target="_blank">dsaonstage</a>
 </div>
 
 <div style="line-height:2rem;">
-NORTH EAST<br>
+<strong><U>SOUTH EAST</u></strong><br>
+<img src="/images/Date.png" style="float:left; width:30px;height:30px"/>&nbsp; &nbsp; 3 December 2022<br>
+<img src="/images/Time.png" style="float:left; width:30px;height:30px"/>
+&nbsp;  &nbsp; 6PM<br>
+<img src="/images/Venue.png" style="float:left; width:30px;height:30px"/> &nbsp; &nbsp; 
+Geylang East Town Centre<br>
+	Performances by: To be announced<br><br>
+</div>
+
+<div style="line-height:2rem;">
+<strong><U>NORTH EAST</u></strong><br>
 <img src="/images/Date.png" style="float:left; width:30px;height:30px"/>&nbsp; &nbsp; 4 December 2022<br>
 <img src="/images/Time.png" style="float:left; width:30px;height:30px"/>
 &nbsp;  &nbsp; 6PM<br>
