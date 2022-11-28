@@ -23,6 +23,15 @@ sections:
       button: Find out more
       url: /tickets/
   - infopic:
+      button: Find out more
+      url: /wgt2023/
+      image: /images/Target Media top halfpng.png
+      alt: WGT 2023
+      title: Hype the Street
+      description: Catch amazing performances by our community talents at the various
+        heartland loactions.
+      subtitle: Community Engagement Programme
+  - infopic:
       title: Volunteer Recruitment
       subtitle: Chingay 2023
       description: " Join us as volunteers for some of our activities happening in
@@ -39,14 +48,6 @@ sections:
       url: https://www.chingay.gov.sg/d22023
       image: /images/D2 Dance Competition Logo.png
       alt: d2
-      subtitle: Community Engagement Programme
-  - infopic:
-      button: Find out more
-      url: /wgt2023/
-      image: /images/Target Media top halfpng.png
-      alt: WGT 2023
-      title: We've Got Talent! 2023
-      description: Community Engagement Programme for Chingay 2023
       subtitle: Community Engagement Programme
   - infopic:
       title: "#OurChingay50Stories"
