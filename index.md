@@ -14,6 +14,14 @@ sections:
           description: ""
           url: https://go.gov.sg/chingay2023tickets
       background: /images/Website KV 3.png
+      url: /tickets/
+  - infobar:
+      title: Chingay Parade 2023
+      subtitle: Chingay 2023
+      description: We are back at F1 Pit presenting an entirely different experience
+        of arts, culture, and heritage set in a musical format.
+      button: Find out more
+      url: /tickets/
   - infopic:
       title: Volunteer Recruitment
       subtitle: Chingay 2023
