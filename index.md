@@ -27,7 +27,7 @@ sections:
       subtitle: Chingay 2023
       button: LISTEN NOW ON SPOTIFY
       url: https://open.spotify.com/track/1sMkRalE2tz9M5ZUz2NiDl?si=Y1e1fPS5RhCrw53_H7fajQ
-      image: /images/FA_Chingay2023_Spotify_Covert_Art Landscape.png
+      image: /images/FA_Chingay2023_Spotify_Covert_Art Blank 4-5.png
       alt: Chingay 2023 Spotify Album Art
   - infopic:
       button: Find out more
