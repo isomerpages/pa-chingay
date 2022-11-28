@@ -23,6 +23,13 @@ sections:
       button: Find out more
       url: /tickets/
   - infopic:
+      title: "Theme Song: Embrace Tomorrow"
+      subtitle: Chingay 2023
+      button: LISTEN NOW ON SPOTIFY
+      url: https://open.spotify.com/track/1sMkRalE2tz9M5ZUz2NiDl?si=Y1e1fPS5RhCrw53_H7fajQ
+      image: /images/FA_Chingay2023_Spotify_Covert_Art Landscape.png
+      alt: Chingay 2023 Spotify Album Art
+  - infopic:
       button: Find out more
       url: /wgt2023/
       image: /images/Target Media top halfpng.png
@@ -31,13 +38,6 @@ sections:
       description: Catch amazing performances by our community talents at the various
         heartland loactions.
       subtitle: Community Engagement Programme
-  - infopic:
-      title: "Theme Song: Embrace Tomorrow"
-      subtitle: Chingay 2023
-      button: LISTEN NOW ON SPOTIFY
-      url: https://open.spotify.com/track/1sMkRalE2tz9M5ZUz2NiDl?si=Y1e1fPS5RhCrw53_H7fajQ
-      image: /images/FA_Chingay2023_Spotify_Covert_Art (1).png
-      alt: Chingay 2023 Spotify Album Art
   - infopic:
       title: Volunteer Recruitment
       subtitle: Chingay 2023
