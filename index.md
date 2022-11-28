@@ -58,4 +58,11 @@ sections:
       url: /whats-on/Chingay50-Programmes/ourchingay50stories
       image: /images/Chingay50 Stories/DC-Chingay Mdm Ong-3.png
       alt: "#OurChingay50Stories"
+  - infopic:
+      title: Theme Song
+      subtitle: Chingay 2023
+      description: xxxx
+      button: Click here To listen
+      url: /link/
+      alt: Image alt text
 ---
