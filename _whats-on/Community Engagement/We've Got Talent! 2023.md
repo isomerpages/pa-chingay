@@ -69,7 +69,17 @@ NORTH EAST<br>
 <img src="/images/Time.png" style="float:left; width:30px;height:30px"/>
 &nbsp;  &nbsp; 6PM<br>
 <img src="/images/Venue.png" style="float:left; width:30px;height:30px"/> &nbsp; &nbsp; 
-One Punggol<br><br>
+One Punggol<br>
+	Performances by: 
+	<a href="https://www.tiktok.com/@thelesslars/video/7147215679316364546?_r=1&_t=8VyLQeEP93C&is_from_webapp=v1&item_id=7147215679316364546" target="_blank">thelesslars</a>, 
+<a 
+href="https://www.instagram.com/p/Ch9MsT6slmN/" target="_blank">Asher</a>, 
+<a 
+href="https://www.instagram.com/p/CipxICzpemx/" target="_blank">Odelia Foong</a>, 
+<a 
+href="https://www.instagram.com/p/CjCTE1TB1wg/?next=%2F" target="_blank">cheerforcesg</a> and 
+<a href="https://www.instagram.com/p/CiEShWRBW1n/" target="_blank">Jasper Quah</a>
+	<br><br>
 </div>
 
 
