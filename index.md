@@ -14,6 +14,23 @@ sections:
           description: ""
           url: https://go.gov.sg/chingay2023tickets
       background: /images/Website KV 3.png
+      url: /tickets/
+  - infobar:
+      title: Chingay Parade 2023
+      subtitle: Chingay 2023
+      description: "We are back at F1 Pit! Indulge in the colourful and vibrant parade
+        in front of a street-style container art backdrop. "
+      button: Find out more
+      url: /tickets/
+  - infopic:
+      button: Find out more
+      url: /wgt2023/
+      image: /images/Target Media top halfpng.png
+      alt: WGT 2023
+      title: Hype the Street
+      description: Catch amazing performances by our community talents at the various
+        heartland loactions.
+      subtitle: Community Engagement Programme
   - infopic:
       title: Volunteer Recruitment
       subtitle: Chingay 2023
@@ -31,14 +48,6 @@ sections:
       url: https://www.chingay.gov.sg/d22023
       image: /images/D2 Dance Competition Logo.png
       alt: d2
-      subtitle: Community Engagement Programme
-  - infopic:
-      button: Find out more
-      url: https://www.chingay.gov.sg/wgt2023-voting/
-      image: /images/Target Media top halfpng.png
-      alt: WGT 2023
-      title: We've Got Talent! 2023
-      description: Community Engagement Programme for Chingay 2023
       subtitle: Community Engagement Programme
   - infopic:
       title: "#OurChingay50Stories"
