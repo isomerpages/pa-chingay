@@ -4,6 +4,8 @@ permalink: /wgt2023/
 description: ""
 third_nav_title: Community Engagement
 ---
+<h1>Hype The Street </h1>
+
 Catch amazing performances by our community talents at the various heartland locations.
 
 <div style="line-height:2rem;">
