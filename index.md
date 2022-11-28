@@ -29,8 +29,8 @@ sections:
       url: https://open.spotify.com/track/1sMkRalE2tz9M5ZUz2NiDl?si=Y1e1fPS5RhCrw53_H7fajQ
       image: /images/FA_Chingay2023_Spotify_Covert_Art 16-9 Blank.png
       alt: Chingay 2023 Spotify Album Art
-      description: Embrace Tomorrow's Chapters, Embrace what we've become, Embrace
-        Tomorrow's Answers
+      description: 🎶Embrace Tomorrow's Chapters, Embrace what we've become, Embrace
+        Tomorrow's Answers🎶
   - infopic:
       button: Find out more
       url: /wgt2023/
