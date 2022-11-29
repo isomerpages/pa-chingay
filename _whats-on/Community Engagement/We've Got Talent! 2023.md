@@ -6,7 +6,7 @@ third_nav_title: Community Engagement
 ---
 <h1>Hype The Street </h1>
 
-Catch amazing performances by our community talents at the various heartland locations.
+Catch amazing performances from We’ve Got Talent! 2023 at the various heartland by our community talents.
 
 <div style="line-height:2rem;">
 <strong><U>CENTRAL</u></strong>  (Ended)<br>
@@ -86,12 +86,4 @@ href="https://www.instagram.com/p/CjCTE1TB1wg/?next=%2F" target="_blank">cheerfo
 
 
 
-
-![](/images/whats-on/WGT2023.jpg)
-
-
-
-[TERMS & CONDITIONS](/files/whats-on/Chingay%202023%20We%20Got%20Talent_Terms%20and%20Conditions_Final_14Jul22.pdf)
-
-**-- Voting has closed -- <br>
-Winners will be announced after 1 January 2023**
+![](/images/whats-on/WGT%20Hype%20The%20Street%20Poster%20Template%20V2%20-%20Copy.jpg)
