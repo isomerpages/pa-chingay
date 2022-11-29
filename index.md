@@ -23,6 +23,16 @@ sections:
       button: Find out more
       url: /tickets/
   - infopic:
+      title: "Theme Song: Embrace Tomorrow"
+      subtitle: Chingay 2023
+      button: LISTEN NOW ON SPOTIFY
+      url: https://open.spotify.com/track/1sMkRalE2tz9M5ZUz2NiDl?si=Y1e1fPS5RhCrw53_H7fajQ
+      image: /images/FA_Chingay2023_Spotify_Covert_Art 16-9 Blank.png
+      alt: Chingay 2023 Spotify Album Art
+      description: A song to rally everyone to singalong and feel a sense of pride and
+        instill a great sense of fearlessness for what is to come and build a
+        brighter future!
+  - infopic:
       button: Find out more
       url: /wgt2023/
       image: /images/Target Media top halfpng.png
