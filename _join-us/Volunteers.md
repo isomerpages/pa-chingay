@@ -3,7 +3,6 @@ title: Volunteers
 permalink: /join-us/volunteers/
 description: ""
 ---
-
 # **Volunteer Recruitment for Chingay 2023 is back!**
 
 Chingay 2023 is organised and managed by the Arts & Culture Division (ACD) of the People’s Association (PA).
@@ -28,7 +27,25 @@ We would like to invite you to join us as volunteers for some of our activities 
 #### **Roles Available**
 
 | Roles   | Registration Link   |
-| ------- | -------- | 
+| -------- | -------- | 
+|**Crowd Management** ![crowd management](/images/Volunteers/Crowd%20Management%202.png) |       [https://go.gov.sg/chingay23-cmvol](https://go.gov.sg/chingay23-cmvol)     <br>*Register by 5 December 2022*<br>*Application may close earlier due to overwhelming responses*  |        
+
+1\. Provide directions and information to members of the public  
+2\. Facilitate orderly arrival and dispersal of crowd before and after the parade  
+3\. Facilitate the performers movement during the parade  
+4\. Control the entry-exit points of the parade       
+
+
+|   |   |
+| -------- | -------- | 
+|**General Hospitality** ![general hospitality](/images/Volunteers/General%20Hospi.png) |    [https://go.gov.sg/chingay23-ghvol](https://go.gov.sg/chingay23-ghvol)   <br>*Register by 5 December 2022*<br>*Application may close earlier due to overwhelming responses*    |         
+
+1\. Check tickets and usher guests to their designated seats  
+2\. Hype up atmosphere and engage the audience before, during and after the parade  
+3\. Answer general queries from guests     
+
+|   |   |
+| -------- | -------- | 
 | **Parade Management EXCO**<br> ![exco](/images/Volunteers/EXCO.png) |     **Registration has closed** <br>*Interested applicants please apply for other available roles.*  |    
 
 1\. Recruitment of Volunteers  
@@ -66,7 +83,7 @@ We would like to invite you to join us as volunteers for some of our activities 
 
 |   |   |
 | -------- | -------- | 
-| **Liaison**<br> ![liaison](/images/Volunteers/Liaison%202.png)|   [https://go.gov.sg/chingay23-liaisonvol](https://go.gov.sg/chingay23-liaisonvol) <br> *Register by 28 November 2022*<br>*Application may close earlier due to overwhelming responses*   |          
+| **Liaison**<br> ![liaison](/images/Volunteers/Liaison%202.png)|   **Registration has closed.** <br>*Interested applicants please apply for other available roles.*   |          
 
 1\. Manage the arrival and departure of performers and organized groups by chartered buses  
 2\. Manage the buses at the various Coach Reporting areas  
@@ -81,24 +98,6 @@ Assist in preparation and movement of production logistics & props prior to the 
 2\. Manage the logistics storage space during the parade  
 3\. Assist in stock taking and keeping of logistics and props after the parade  
 
-|   |   |
-| -------- | -------- | 
-|**Crowd Management** ![crowd management](/images/Volunteers/Crowd%20Management%202.png) |       [https://go.gov.sg/chingay23-cmvol](https://go.gov.sg/chingay23-cmvol)     <br>*Register by 28 November 2022*<br>*Application may close earlier due to overwhelming responses*  |        
-
-1\. Provide directions and information to members of the public  
-2\. Facilitate orderly arrival and dispersal of crowd before and after the parade  
-3\. Facilitate the performers movement during the parade  
-4\. Control the entry-exit points of the parade       
-
-
-|   |   |
-| -------- | -------- | 
-|**General Hospitality** ![general hospitality](/images/Volunteers/General%20Hospi.png) |    [https://go.gov.sg/chingay23-ghvol](https://go.gov.sg/chingay23-ghvol)   <br>*Register by 28 November 2022*<br>*Application may close earlier due to overwhelming responses*    |         
-
-1\. Check tickets and usher guests to their designated seats  
-2\. Hype up atmosphere and engage the audience before, during and after the parade  
-3\. Answer general queries from guests     
-
 |  |   |
 | -------- | -------- | 
 |**Food & Beverage** ![F&B ](/images/Volunteers/F&B%202.png)     |      **Registration has closed**<br>*Interested applicants please apply for other available roles.*    |
@@ -107,7 +106,7 @@ Assist in preparation and movement of production logistics & props prior to the 
 
 |  |  |
 | -------- | -------- | 
-| **Production Crew**![production crew](/images/Volunteers/Production%20crew%202.png)    |       [https://go.gov.sg/chingay23-pcvol](https://go.gov.sg/chingay23-pcvol)  <br>*Register by 28 November 2022*<br>*Application may close earlier due to overwhelming responses* <br>    |       
+| **Production Crew**![production crew](/images/Volunteers/Production%20crew%202.png)    |  **Registration has closed.** <br>*Interested applicants please apply for other available roles.*    |       
 
 1\. To assist in preparation and movement of logistics and props during the parade (might need to carry and standby heavy props)  
 2\. To prepare and cue the performers for their entry/exit at specific timings  
