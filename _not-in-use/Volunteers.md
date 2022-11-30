@@ -3,6 +3,7 @@ title: Volunteers
 permalink: /join-us/volunteers/
 description: ""
 ---
+
 # **Volunteer Recruitment for Chingay 2023 is back!**
 
 Chingay 2023 is organised and managed by the Arts & Culture Division (ACD) of the People’s Association (PA).

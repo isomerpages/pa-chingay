@@ -2,6 +2,7 @@ collections:
   not-in-use:
     output: true
     order:
+      - Volunteers.md
       - Dreamy.md
       - We've Got Talent! 2023 Voting.md
       - Chingay50 @ Heartlands.md

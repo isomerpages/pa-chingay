@@ -42,15 +42,6 @@ sections:
         heartland loactions.
       subtitle: Community Engagement Programme
   - infopic:
-      title: Volunteer Recruitment
-      subtitle: Chingay 2023
-      description: " Join us as volunteers for some of our activities happening in
-        December 2022, January and February 2023."
-      button: Find Out More
-      url: /join-us/volunteers/
-      image: /images/Volunteers/Chingay Vol Avatar Combine FA-02.png
-      alt: Chingay Volunteer
-  - infopic:
       title: D:2 Dance Competition 2023
       description: Challenge yourselves by fusing your favourite moves with one of our
         local culture dance movement!
@@ -68,4 +59,11 @@ sections:
       url: /whats-on/Chingay50-Programmes/ourchingay50stories
       image: /images/Chingay50 Stories/DC-Chingay Mdm Ong-3.png
       alt: "#OurChingay50Stories"
+  - infopic:
+      title: Volunteer Recruitment
+      subtitle: Chingay 2023
+      description: Volunteer recruitment for Chingay 2023 has closed. Thank you for
+        your interest in participating as a volunteer.
+      image: /images/Volunteers/Chingay Vol Avatar Combine FA-02.png
+      alt: Chingay Volunteer
 ---
