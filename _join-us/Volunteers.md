@@ -27,7 +27,25 @@ We would like to invite you to join us as volunteers for some of our activities 
 #### **Roles Available**
 
 | Roles   | Registration Link   |
-| ------- | -------- | 
+| -------- | -------- | 
+|**Crowd Management** ![crowd management](/images/Volunteers/Crowd%20Management%202.png) |       [https://go.gov.sg/chingay23-cmvol](https://go.gov.sg/chingay23-cmvol)     <br>*Register by 5 December 2022*<br>*Application may close earlier due to overwhelming responses*  |        
+
+1\. Provide directions and information to members of the public  
+2\. Facilitate orderly arrival and dispersal of crowd before and after the parade  
+3\. Facilitate the performers movement during the parade  
+4\. Control the entry-exit points of the parade       
+
+
+|   |   |
+| -------- | -------- | 
+|**General Hospitality** ![general hospitality](/images/Volunteers/General%20Hospi.png) |    [https://go.gov.sg/chingay23-ghvol](https://go.gov.sg/chingay23-ghvol)   <br>*Register by 5 December 2022*<br>*Application may close earlier due to overwhelming responses*    |         
+
+1\. Check tickets and usher guests to their designated seats  
+2\. Hype up atmosphere and engage the audience before, during and after the parade  
+3\. Answer general queries from guests     
+
+|   |   |
+| -------- | -------- | 
 | **Parade Management EXCO**<br> ![exco](/images/Volunteers/EXCO.png) |     **Registration has closed** <br>*Interested applicants please apply for other available roles.*  |    
 
 1\. Recruitment of Volunteers  
@@ -79,24 +97,6 @@ Assist in preparation and movement of production logistics & props prior to the 
 1\. Distribute logistics items such as parade props, walkie talkie and lanyards  
 2\. Manage the logistics storage space during the parade  
 3\. Assist in stock taking and keeping of logistics and props after the parade  
-
-|   |   |
-| -------- | -------- | 
-|**Crowd Management** ![crowd management](/images/Volunteers/Crowd%20Management%202.png) |       [https://go.gov.sg/chingay23-cmvol](https://go.gov.sg/chingay23-cmvol)     <br>*Register by 28 November 2022*<br>*Application may close earlier due to overwhelming responses*  |        
-
-1\. Provide directions and information to members of the public  
-2\. Facilitate orderly arrival and dispersal of crowd before and after the parade  
-3\. Facilitate the performers movement during the parade  
-4\. Control the entry-exit points of the parade       
-
-
-|   |   |
-| -------- | -------- | 
-|**General Hospitality** ![general hospitality](/images/Volunteers/General%20Hospi.png) |    [https://go.gov.sg/chingay23-ghvol](https://go.gov.sg/chingay23-ghvol)   <br>*Register by 28 November 2022*<br>*Application may close earlier due to overwhelming responses*    |         
-
-1\. Check tickets and usher guests to their designated seats  
-2\. Hype up atmosphere and engage the audience before, during and after the parade  
-3\. Answer general queries from guests     
 
 |  |   |
 | -------- | -------- | 
