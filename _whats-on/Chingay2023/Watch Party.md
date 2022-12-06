@@ -4,7 +4,6 @@ permalink: /chingay2023-watchparty/
 description: ""
 third_nav_title: Chingay2023
 ---
-
 ![watch party](/images/whats-on/watch-party.jpg)
 
 For more details, check out the watch party info guide [here](/files/whats-on/chingay50-watch-party-info-kit-(as-at-14-jan-2021).pdf)!
