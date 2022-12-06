@@ -33,15 +33,6 @@ sections:
         instill a great sense of fearlessness for what is to come and build a
         brighter future!
   - infopic:
-      title: Volunteer Recruitment
-      subtitle: Chingay 2023
-      description: " Join us as volunteers for some of our activities happening in
-        December 2022, January and February 2023. "
-      image: /images/Volunteers/Chingay Vol Avatar Combine FA-02.png
-      alt: Chingay Volunteer
-      button: Find Out More
-      url: /join-us/volunteers/
-  - infopic:
       button: Find out more
       url: /wgt2023/
       image: /images/Target Media top halfpng.png
@@ -68,4 +59,11 @@ sections:
       url: /whats-on/Chingay50-Programmes/ourchingay50stories
       image: /images/Chingay50 Stories/DC-Chingay Mdm Ong-3.png
       alt: "#OurChingay50Stories"
+  - infopic:
+      title: Volunteer Recruitment
+      subtitle: Chingay 2023
+      description: Volunteer recruitment for Chingay 2023 has closed. Thank you
+        for         your interest in participating as a volunteer.
+      image: /images/Volunteers/Chingay Vol Avatar Combine FA-02.png
+      alt: Chingay Volunteer
 ---
