@@ -2,7 +2,6 @@ collections:
   whats-on:
     output: true
     order:
-      - Watch Party.md
       - Chingay2023/.keep
       - Community Engagement/.keep
       - Community Engagement/D:2 Dance Competition 2023.md
