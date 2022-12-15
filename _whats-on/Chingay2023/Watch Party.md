@@ -12,7 +12,7 @@ For more details, check out the watch party info guide [here](/files/whats-on/ch
 
 -->
 
-# Register here to be part of D:2 Dance Competition 
+# Register here to be a host of a Chingay 2023 Watch Party 
 
 <div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in at <a href="INSERT LINK HERE">here</a>.</div>
 
