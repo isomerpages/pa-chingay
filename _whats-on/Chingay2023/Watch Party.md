@@ -14,7 +14,7 @@ For more details, check out the watch party info guide [here](/files/whats-on/ch
 
 # Register here to be a host of a Chingay 2023 Watch Party 
 
-<div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in <a href="INSERT LINK HERE">here</a>.</div>
+<div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in <a href="https://go.gov.sg/chingay2023watchpartyregistration/">here</a>.</div>
 
 
 <!-- Change the width and height values to suit you best -->
