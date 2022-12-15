@@ -18,9 +18,9 @@ For more details, check out the watch party info guide [here](/files/whats-on/ch
 
 
 <!-- Change the width and height values to suit you best -->
-<iframe id="iframe" src="https://form.gov.sg/#!/62c663741284cf0012fa1fa9" style="width:100%;height:500px"></iframe>
+<iframe id="iframe" src="https://form.gov.sg/6350c1d4e765ca001218ba15" style="width:100%;height:500px"></iframe>
 
-<div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="INSERT LINK HERE" style="color: #999">FormSG</a></div>
+<div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg/" style="color: #999">FormSG</a></div>
 
 
 
