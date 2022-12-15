@@ -4,7 +4,7 @@ permalink: /chingay2023-watchparty/
 description: ""
 third_nav_title: Chingay2023
 ---
-![watch party](/images/whats-on/watch-party.jpg)
+![Chingay 2023 Watch Party EDM](/images/whats-on/Chingay%202023%20Watch%20Party%20EDM.jpeg)
 
 <!--for future use - to incude once info guide is ready
 
