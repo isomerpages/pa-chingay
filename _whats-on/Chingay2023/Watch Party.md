@@ -12,4 +12,16 @@ For more details, check out the watch party info guide [here](/files/whats-on/ch
 
 -->
 
+# Register here to be part of D:2 Dance Competition 
+
+<div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in at <a href="INSERT LINK HERE">here</a>.</div>
+
+
+<!-- Change the width and height values to suit you best -->
+<iframe id="iframe" src="https://form.gov.sg/#!/62c663741284cf0012fa1fa9" style="width:100%;height:500px"></iframe>
+
+<div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="INSERT LINK HERE" style="color: #999">FormSG</a></div>
+
+
+
 [TERMS & CONDITIONS](/files/whats-on/Chingay%202023%20Watch%20Party%20-%20Terms%20and%20Conditions.pdf)
