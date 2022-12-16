@@ -7,9 +7,7 @@ third_nav_title: Community Engagement
 <h3><strong>D:2 Dance Competition 2023 Finalists Winners </strong></h3>
 
 <h5><strong>Category A</strong></h5>
-
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
-
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 	<div style= "font-size: 1.2rem; font-weight: bold; padding:.5rem;"> Champion - TOFU KIDS </div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
