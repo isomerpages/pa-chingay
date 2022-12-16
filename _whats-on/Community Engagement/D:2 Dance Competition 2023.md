@@ -6,7 +6,7 @@ third_nav_title: Community Engagement
 ---
 <h3>D:2 Dance Competition 2023 Finalists Winners </strong></h3>
 
-<h5>Category A</strong></h5>
+<h5>Category A</h5>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 
@@ -19,7 +19,7 @@ third_nav_title: Community Engagement
 </div>
 
 
-<h5>Category B</strong></h5>
+<h5>Category B</h5>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 
@@ -34,7 +34,7 @@ third_nav_title: Community Engagement
 </div>
 
 
-<h5>Category C</strong></h5>
+<h5>Category C</h5>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 
