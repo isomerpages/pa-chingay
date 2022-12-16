@@ -10,10 +10,10 @@ third_nav_title: Community Engagement
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-	<div style= "font-size: 1.2rem; font-weight: ; padding:.5rem;"> Champion - TOFU KIDS </div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
+	<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"> Champion - TOFU KIDS </div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-	<div style= "font-size: 1.2rem; font-weight: ; padding:.5rem;">2nd Place - THE PHONIES</div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
+	<div style= "font-size: 1rem; font-weight: ; padding:.5rem;">2nd Place - THE PHONIES</div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;"></div>
 </div>
@@ -25,13 +25,13 @@ Test
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-	<div style= "font-size: 1.2rem; font-weight: ; padding:.5rem;"> Champion - DRPTS </div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
+	<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"> Champion - DRPTS </div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1.2rem; font-weight: ; padding:.5rem;">2nd Place - MOONLIGHT </div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem;">2nd Place - MOONLIGHT </div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-	<div style= "font-size: 1.2rem; font-weight: ; padding:.5rem;">3rd Place - DRAGONSLAYERS </div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
+	<div style= "font-size: 1rem; font-weight: ; padding:.5rem;">3rd Place - DRAGONSLAYERS </div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
 </div>
 
 
@@ -40,13 +40,13 @@ Test
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-	<div style= "font-size: 1.2rem; font-weight: ; padding:.5rem;"> Champion - DROPOUTS </div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
+	<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"> Champion - DROPOUTS </div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1.2rem; font-weight: ; padding:.5rem;">2nd Place - YLT </div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem;">2nd Place - YLT </div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-	<div style= "font-size: 1.2rem; font-weight: ; padding:.5rem;">3rd Place - EMPIRE </div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
+	<div style= "font-size: 1rem; font-weight: ; padding:.5rem;">3rd Place - EMPIRE </div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
 </div>
 <br>
 <div>
