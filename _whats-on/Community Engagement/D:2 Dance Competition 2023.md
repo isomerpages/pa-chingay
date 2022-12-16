@@ -47,7 +47,10 @@ third_nav_title: Community Engagement
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 	<div style= "font-size: 1.2rem; font-weight: bold; padding:.5rem;">3rd Place - EMPIRE </div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
 </div>
-
+<br><br>
+<div>
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fchingayparadesg%2Fvideos%2F921946405457093%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+</div>
 
 <br><br>
 
