@@ -18,7 +18,6 @@ third_nav_title: Community Engagement
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;"></div>
 </div>
 
-Test
 
 <h5><strong>Category B </strong></h5>
 
