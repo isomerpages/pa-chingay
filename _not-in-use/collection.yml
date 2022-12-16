@@ -2,6 +2,7 @@ collections:
   not-in-use:
     output: true
     order:
+      - Chingay 2023 Mama Shop.md
       - Volunteers.md
       - Watch Party.md
       - Dreamy.md
