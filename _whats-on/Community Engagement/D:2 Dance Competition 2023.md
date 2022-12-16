@@ -16,6 +16,8 @@ third_nav_title: Community Engagement
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 	<div style= "font-size: 1.2rem; font-weight: bold; padding:.5rem;">2nd Place - THE PHONIES</div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
+
+<div></div>
 </div>
 
 
