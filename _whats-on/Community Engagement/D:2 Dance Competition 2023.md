@@ -6,14 +6,15 @@ third_nav_title: Community Engagement
 ---
 <h3><strong>D:2 Dance Competition 2023 Finalists Winners </strong></h3>
 
+
 <h5><strong>Category A</strong></h5>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-	<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"> Champion - TOFU KIDS </div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
+	<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"> Champion - TOFU KIDS </div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-	<div style= "font-size: 1rem; font-weight: ; padding:.5rem;">2nd Place - THE PHONIES</div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
+	<div style= "font-size: 1rem; font-weight: ; padding:.5rem;">2nd Place - THE PHONIES</div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-2.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;"></div>
 </div>
@@ -24,13 +25,13 @@ third_nav_title: Community Engagement
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-	<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"> Champion - DRPTS </div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
+	<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"> Champion - DRPTS </div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-4.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem; font-weight: ; padding:.5rem;">2nd Place - MOONLIGHT </div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem;">2nd Place - MOONLIGHT </div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-3.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-	<div style= "font-size: 1rem; font-weight: ; padding:.5rem;">3rd Place - DRAGONSLAYERS </div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
+	<div style= "font-size: 1rem; font-weight: ; padding:.5rem;">3rd Place - DRAGONSLAYERS </div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-5.jpg"></div></div>
 </div>
 
 
@@ -39,13 +40,13 @@ third_nav_title: Community Engagement
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-	<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"> Champion - DROPOUTS </div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
+	<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"> Champion - DROPOUTS </div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-7.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem; font-weight: ; padding:.5rem;">2nd Place - YLT </div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem;">2nd Place - YLT </div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-6.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-	<div style= "font-size: 1rem; font-weight: ; padding:.5rem;">3rd Place - EMPIRE </div><div style="min-height:10rem; max-height:10rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
+	<div style= "font-size: 1rem; font-weight: ; padding:.5rem;">3rd Place - EMPIRE </div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-8.jpg"></div></div>
 </div>
 <br>
 <div>
