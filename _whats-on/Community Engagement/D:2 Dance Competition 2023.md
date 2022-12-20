@@ -11,7 +11,7 @@ third_nav_title: Community Engagement
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-	<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"> Champion - TOFU KIDS </div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div></div>
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"> Champion - TOFU KIDS </div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 	<div style= "font-size: 1rem; font-weight: ; padding:.5rem;">2nd Place - THE PHONIES</div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-2.jpg"></div></div>
@@ -19,6 +19,7 @@ third_nav_title: Community Engagement
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;"></div>
 </div>
 
+</div>
 
 <h5><strong>Category B </strong></h5>
 
@@ -40,14 +41,17 @@ third_nav_title: Community Engagement
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-	<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"> Champion - DROPOUTS </div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-7.jpg"></div></div>
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"> Champion - DROPOUTS </div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-7.jpg"></div></div>
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-	<div style= "font-size: 1rem; font-weight: ; padding:.5rem;">2nd Place - YLT </div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-6.jpg"></div>
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem;">2nd Place - YLT </div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-6.jpg"></div></div>
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-	<div style= "font-size: 1rem; font-weight: ; padding:.5rem;">3rd Place - EMPIRE </div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-8.jpg"></div></div>
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem;">3rd Place - EMPIRE </div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-8.jpg"></div>
 </div>
+
+</div>
+
 <br>
 <div>
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fchingayparadesg%2Fvideos%2F921946405457093%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
