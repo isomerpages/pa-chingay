@@ -38,7 +38,7 @@ sections:
         on 3 Feb and/or 4 Feb. More than $6,000 worth of vouchers to be won.
       button: Find out more
       url: /chingay2023-watchparty
-      image: /images/Watch Parties.png
+      image: /images/Watch Party.png
       alt: Watch Parties
       subtitle: Chingay 2023
   - infopic:
