@@ -14,7 +14,7 @@ third_nav_title: Community Engagement
 <div style= "font-size: 1rem; font-weight: ; padding:.5rem;"> Champion - TOFU KIDS </div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-	<div style= "font-size: 1rem; font-weight: ; padding:.5rem;">2nd Place - THE PHONIES</div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-2.jpg"></div></div>
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem;">2nd Place - THE PHONIES</div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-2.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;"></div>
 </div>
