@@ -33,32 +33,14 @@ sections:
         instill a great sense of fearlessness for what is to come and build a
         brighter future!
   - infopic:
+      title: Watch Party
+      description: Watch Chingay Parade 2023 with your family, friends or neighbours
+        on 3 Feb and/or 4 Feb. More than $6,000 worth of vouchers to be won.
       button: Find out more
-      url: /wgt2023/
-      image: /images/Target Media top halfpng.png
-      alt: WGT 2023
-      title: Hype the Street
-      description: Catch amazing performances by our community talents at the various
-        heartland loactions.
-      subtitle: Community Engagement Programme
-  - infopic:
-      title: D:2 Dance Competition 2023
-      description: Challenge yourselves by fusing your favourite moves with one of our
-        local culture dance movement!
-      button: Find out more
-      url: https://www.chingay.gov.sg/d22023
+      url: /chingay2023-watchparty
       image: /images/D2 Dance Competition Logo.png
-      alt: d2
-      subtitle: Community Engagement Programme
-  - infopic:
-      title: "#OurChingay50Stories"
-      subtitle: Chingay50 Programmes
-      description: Chingay turns 50 in 2022 and it’s story and journey will be
-        unfolded through the lenses of the people involved.
-      button: Find Out More
-      url: /whats-on/Chingay50-Programmes/ourchingay50stories
-      image: /images/Chingay50 Stories/DC-Chingay Mdm Ong-3.png
-      alt: "#OurChingay50Stories"
+      alt: Watch Party
+      subtitle: Chingay 2023
   - infopic:
       title: Volunteer Recruitment
       subtitle: Chingay 2023
