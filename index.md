@@ -33,13 +33,13 @@ sections:
         instill a great sense of fearlessness for what is to come and build a
         brighter future!
   - infopic:
-      title: Watch Party
+      title: Watch Parties
       description: Watch Chingay Parade 2023 with your family, friends or neighbours
         on 3 Feb and/or 4 Feb. More than $6,000 worth of vouchers to be won.
       button: Find out more
       url: /chingay2023-watchparty
-      image: /images/D2 Dance Competition Logo.png
-      alt: Watch Party
+      image: /images/Watch Parties.png
+      alt: Watch Parties
       subtitle: Chingay 2023
   - infopic:
       title: Volunteer Recruitment
