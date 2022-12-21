@@ -59,10 +59,11 @@ third_nav_title: Community Engagement
 
 <br><br>
 
-![EDM for D2 Dance Competition 2023](/images/D2-Extended-EDM.jpg)
-
 
 # About D:2 Dance Competition
+
+![EDM for D2 Dance Competition 2023](/images/D2-Extended-EDM.jpg)
+
 
 Are you interested to showcase your dance moves? Challenge yourselves by fusing your favourite moves with one of our local culture dance movement to wow the crowd through D:2 Dance Competition.
 
