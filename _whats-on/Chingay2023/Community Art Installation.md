@@ -6,11 +6,15 @@ third_nav_title: Chingay2023
 ---
 <h2>Container Installation & Rabbits ART-Venture</h2>
 <Strong>[FREE ADMISSION]</strong><br>
-<img src="/images/Date.png" style="float:left; width:30px;height:30px"/>
+
+<div>
+	<img src="/images/Date.png" style="float:left; width:30px;height:30px"/>
 &nbsp; &nbsp; 5 February 2023 | 2pm - 10pm<br>
-&nbsp; &nbsp;6 - 9 February 2023 | 6pm - 10pm<br>
+&nbsp; &nbsp;6 - 9 February 2023 | 6pm - 10pm<br></div>
+
+<div style="line-height:2rem;">
 <img src="/images/Venue.png" style="float:left; width:30px;height:30px"/> &nbsp; &nbsp; 
-F1 Pit<br>
+F1 Pit</div>
 
 
 <h3>Container Installation</h3>
