@@ -4,10 +4,13 @@ permalink: /chingay2023-cai/
 description: ""
 third_nav_title: Chingay2023
 ---
-<h1>Chingay 2023 Community Art Installation <br>(FREE ADMISSION)</h1>
-<p>5 February 2023 | 2pm - 10pm<br>
-6 - 9 February 2023 | 6pm - 10pm<br>
-F1 Pit Building</p>
+<p>
+<Strong>[FREE ADMISSION]</strong><br>
+<img src="/images/Date.png" style="float:left; width:30px;height:30px"/>
+&nbsp; &nbsp; 5 February 2023 | 2pm - 10pm<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 6 - 9 February 2023 | 6pm - 10pm<br>
+<img src="/images/Venue.png" style="float:left; width:30px;height:30px"/> &nbsp; &nbsp; 
+F1 Pit<br>
 
 
 <h3>Rabbit Art Ilstallation</h3>
