@@ -3,8 +3,7 @@ title: Chingay Mama Shop
 permalink: /Chingay2023-Mamashop/
 description: ""
 ---
-
-We would like to invite YOU to be part of the third edition of Chingay Mama Shop. Come on board and be part of our movement to #SupportLocal businesses and #DoGoodWithUS!
+We would like to invite YOU to be part of the third edition of ***Chingay Mama Shop***. Come on board and be part of our movement to ***#SupportLocal*** businesses and ***#DoGoodWithUS***!
 
 Click on [Chingay 2023 Mama Shop](/files/whats-on/Invite%20to%20Chingay%202023%20Mama%20Shop.pdf) to find out how you can join this meaningful movement.  
 
