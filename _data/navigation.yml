@@ -5,17 +5,19 @@ links:
     sublinks:
       - title: Chingay 2023
         url: /tickets/
-      - title: "&rarr; Tickets"
+      - title: → Tickets
         url: /tickets/
-      - title: "&rarr; Chingay Mama Shop"
+      - title: → Chingay Mama Shop
         url: /Chingay2023-Mamashop/
-      - title: "&rarr; Watch Party"
+      - title: → Watch Party
         url: /chingay2023-watchparty/
+      - title: → Community Art Installation
+        url: /chingay2023-cai/
       - title: Community Engagement
         url: /d22023/
-      - title: "&rarr; D:2 Dance Competition"
+      - title: → D:2 Dance Competition
         url: /d22023/
-      - title: "&rarr; We've Got Talent! 2023"
+      - title: → We've Got Talent! 2023
         url: /wgt2023/
   - title: Ticketing
     url: /tickets/
