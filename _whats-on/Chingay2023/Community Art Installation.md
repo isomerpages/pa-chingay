@@ -22,8 +22,5 @@ F1 Pit Building</div>
 
 <h3>Rabbits ART-Venture</h3>
 
-<p>This Year of the Rabbit brings renewed sense of vigour and rejuvenated energy and through these Chingay Rabbits, our YOUTHs expressed their passions and aspirations, ready and eager to EMBRACE TOMORROW and take on whatever the future brings.<br><br>
-
-Over 2,000 students from eight schools and institutions curated and put together each unique space, as guided and supported by the community artists and PA’s Community Arts & Culture Clubs; creating their own Chingay Rabbits in various sizes to portray the theme of FUTURE SINGAPORE with their imagination and creativity.  <br><br>
-
-We hope you will enjoy this special Rabbits ART-venture with us!</p>
+<p>
+Over 2,000 students from eight schools and institutions curated and put together each unique space, as guided and supported by the community artists and PA’s Community Arts & Culture Clubs; creating their own Chingay Rabbits in various sizes to portray the theme of FUTURE SINGAPORE with their imagination and creativity.</p>
