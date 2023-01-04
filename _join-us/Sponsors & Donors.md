@@ -51,14 +51,15 @@ description: ""
         <div style="text-align: center;"><img src="/images/Sponsors%20&%20Donors/dbs--21-january-2022-10-35-18.png" alt="DBS" style="width:161px;" /> </div>
         <div style="text-align: center;"><img src="/images/Sponsors%20&%20Donors/posb-18-october-2019-16-39-35.png" alt="POSB" style="width:161px;" /> </div>
         <div style="text-align: center;"><img src="/images/Sponsors%20&%20Donors/nunchimarine-10-january-2022-11-10-29.png" alt="Nunchi Marine" style="width:201px;padding-top:12px;" /> </div>
+        <div style="text-align: center;"><img src="/images/Sponsors%20&%20Donors/sccc_logo_rgb.png" alt="Nunchi Marine" style="width:201px;padding-top:12px;" /> </div>
         <div style="text-align: center;"><img src="/images/Sponsors%20&%20Donors/kkl-14-october-2019-18-47-18.png" alt="KKL" style="width:161px;" /> </div>
+<div style="text-align: center;"><img src="/images/Sponsors%20&%20Donors/lorong-koo-chye-sheng-hong-14-october-2019-18-26-25.png" alt="Lorong Koo Chye Sheng Hong" style="width:161px;" /> </div>
+        <div style="text-align: center;"><img src="/images/Sponsors%20&%20Donors/loyang-tua-pek-gong-14-october-2019-18-26-36.jpg" alt="Loyang Tua Pek Gong" style="width:161px;" /> </div>
+        <div style="text-align: center;"><img src="/images/Sponsors%20&%20Donors/hock-lam-11-february-2021-21-54-16.png" alt="Hock Lam" style="width:161px;padding-top:25%;" /> </div>
         <div style="text-align: center;"><img src="/images/Sponsors%20&%20Donors/jcd-04-february-2022-20-39-40.jpeg" alt="JCDecaux" style="width:161px;padding-top:15%;" /> </div>
         <div style="text-align: center;"><img src="/images/Sponsors%20&%20Donors/sketchers-31-october-2021-10-42-19.png" alt="Skechers" style="width:161px;padding-top:25%;" /> </div>
         <div style="text-align: center;"><img src="/images/Sponsors%20&%20Donors/dfi-retail-group-20-january-2022-15-08-36.png" alt="DFI" style="width:161px;" /> </div>
-        <div style="text-align: center;"><img src="/images/Sponsors%20&%20Donors/lorong-koo-chye-sheng-hong-14-october-2019-18-26-25.png" alt="Lorong Koo Chye Sheng Hong" style="width:161px;" /> </div>
-        <div style="text-align: center;"><img src="/images/Sponsors%20&%20Donors/loyang-tua-pek-gong-14-october-2019-18-26-36.jpg" alt="Loyang Tua Pek Gong" style="width:161px;" /> </div>
-        <div style="text-align: center;"><img src="/images/Sponsors%20&%20Donors/hock-lam-11-february-2021-21-54-16.png" alt="Hock Lam" style="width:161px;padding-top:25%;" /> </div>
-    </div>
+</div>
 </div>
 
 
