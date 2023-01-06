@@ -6,6 +6,7 @@ description: ""
 <h3><strong>Container Installation & Rabbits ART-Venture</strong></h3>
 
 
+
 <div style="line-height:2rem;">
 <Strong>[FREE ADMISSION]</strong><br>
 5 February 2023 | 2pm - 10pm<br>
@@ -27,6 +28,8 @@ F1 Pit Building</div>
  <!--<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"> CAPTIONS</div>-->
 </div>
 </div>
+
+
 
 <p>Standing 18 metres high, and spanning over 60 metres, the Container Art Installation is made up of 28 20-footer and 40-footer containers, designed and conceptualised by Sam Lo. It is co-created by 480 youths and is the largest-ever Community Art installation at the Chingay parade. The Continer Installation serves as a performance backdrop for Chingay 2023.</p>
 
