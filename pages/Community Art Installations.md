@@ -13,19 +13,39 @@ description: ""
 F1 Pit Building</div>
 
 
-<h4>Container Installation</h4>
+<h4><strong>Container Art Installation</strong></h4>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div>
+ <!--<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"> CAPTIONS</div>-->
+</div>
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div>
+ <!--<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"> CAPTIONS</div>-->
+</div>
+
 <p>Standing 18 metres high, and spanning over 60 metres, the Container Art Installation is made up of 28 20-footer and 40-footer containers, designed and conceptualised by Sam Lo. It is co-created by 480 youths and is the largest-ever Community Art installation at the Chingay parade. The Continer Installation serves as a performance backdrop for Chingay 2023.</p>
 
 
 
 
-<h4>Rabbits ART-Venture</h4>
-<div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(216px,1fr));">
- <div style="text-align: left;padding-top:5px;">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
+<h4><strong>Rabbits ART-Venture</strong></h4>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div>
+ <!--<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"> CAPTIONS</div>-->
+</div>
 
-<div style="text-align: left;padding-top:5px;">
-<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div>
+ <!--<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"> CAPTIONS</div>-->
+</div>
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;"></div>
+
 </div>
 <p>
 Over 2,000 students from eight schools and institutions curated and put together each unique space, as guided and supported by the community artists and PA’s Community Arts & Culture Clubs; creating their own Chingay Rabbits in various sizes to portray the theme of FUTURE SINGAPORE with their imagination and creativity.</p>
