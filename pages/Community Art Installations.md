@@ -12,7 +12,6 @@ description: ""
 F1 Pit Building</div>
 
 
-<br><br>
 <div>
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Container Art Installation</span>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
@@ -32,7 +31,8 @@ F1 Pit Building</div>
 
 <p>Standing 18 metres high, and spanning over 60 metres, the Container Art Installation is made up of 28 20-footer and 40-footer containers, designed and conceptualised by Sam Lo. It is co-created by 480 youths and is the largest-ever Community Art installation at the Chingay parade. The Continer Installation serves as a performance backdrop for Chingay 2023.</p>
 </div>
-<br><br>
+
+
 <div>
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Rabbits ART-Venture</span>
 
@@ -51,7 +51,7 @@ F1 Pit Building</div>
 <p>
 Over 2,000 students from eight schools and institutions curated and put together each unique space, as guided and supported by the community artists and PA’s Community Arts & Culture Clubs; creating their own Chingay Rabbits in various sizes to portray the theme of FUTURE SINGAPORE with their imagination and creativity.</p>
 </div>
-<br><br>
+
 <div>
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Floats by the Community</span>
 
