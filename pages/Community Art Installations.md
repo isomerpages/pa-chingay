@@ -14,7 +14,7 @@ F1 Pit Building</div>
 
 
 <h4><strong>Container Art Installation</strong></h4>
-
+<br>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
@@ -34,7 +34,7 @@ F1 Pit Building</div>
 
 
 <h4><strong>Rabbits ART-Venture</strong></h4>
-
+<br>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
