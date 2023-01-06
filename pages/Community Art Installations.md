@@ -21,9 +21,11 @@ F1 Pit Building</div>
 
 <h4>Rabbits ART-Venture</h4>
 <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(216px,1fr));">
-            <div style="text-align: left;padding-top:5px;"><div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div> 
-	</div>
-            <div style="text-align: left;padding-top:5px;"><div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
+ <div style="text-align: left;padding-top:5px;">
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
+
+<div style="text-align: left;padding-top:5px;">
+<div style="min-height:10rem; max-height:10rem; overflow:hidden;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div></div>
 </div>
 <p>
 Over 2,000 students from eight schools and institutions curated and put together each unique space, as guided and supported by the community artists and PA’s Community Arts & Culture Clubs; creating their own Chingay Rabbits in various sizes to portray the theme of FUTURE SINGAPORE with their imagination and creativity.</p>
