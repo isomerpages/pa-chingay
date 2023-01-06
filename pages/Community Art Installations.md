@@ -3,7 +3,7 @@ title: Community Art Installations
 permalink: /chingay2023-cai/
 description: ""
 ---
-<h3>Container Installation & Rabbits ART-Venture</h3>
+<h3><strong>Container Installation & Rabbits ART-Venture</strong></h3>
 
 
 <div style="line-height:2rem;">
