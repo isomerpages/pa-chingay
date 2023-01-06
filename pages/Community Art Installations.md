@@ -12,7 +12,7 @@ description: ""
 F1 Pit Building</div>
 
 
-<div>
+<div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Container Art Installation</span>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding-top:1rem">
 	
@@ -33,7 +33,7 @@ F1 Pit Building</div>
 </div>
 
 
-<div>
+<div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Rabbits ART-Venture</span>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding-top:1rem">
@@ -52,7 +52,7 @@ F1 Pit Building</div>
 Over 2,000 students from eight schools and institutions curated and put together each unique space, as guided and supported by the community artists and PA’s Community Arts & Culture Clubs; creating their own Chingay Rabbits in various sizes to portray the theme of FUTURE SINGAPORE with their imagination and creativity.</p>
 </div>
 
-<div>
+<div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Floats by the Community</span>
 
 
