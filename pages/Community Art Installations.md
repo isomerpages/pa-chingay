@@ -3,19 +3,18 @@ title: Community Art Installations
 permalink: /chingay2023-cai/
 description: ""
 ---
-<h3><strong>Container Installation & Rabbits ART-Venture</strong></h3>
-
-
+<h2><strong>Community Art Installations</strong></h2>
 
 <div style="line-height:2rem;">
+<span style="color:	#FFAC1C;font-weight: bold;">• Containder Art Installation • Rabbits ART-Venture • Floats by the Community •</span><br>
 <Strong>[FREE ADMISSION]</strong><br>
 5 February 2023 | 2pm - 10pm<br>
 6 - 9 February 2023 | 6pm - 10pm<br>
 F1 Pit Building</div>
 
 
-<h4><strong>Container Art Installation</strong></h4>
-<br>
+<div>
+<span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Container Art Installation</span>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
@@ -32,12 +31,11 @@ F1 Pit Building</div>
 
 
 <p>Standing 18 metres high, and spanning over 60 metres, the Container Art Installation is made up of 28 20-footer and 40-footer containers, designed and conceptualised by Sam Lo. It is co-created by 480 youths and is the largest-ever Community Art installation at the Chingay parade. The Continer Installation serves as a performance backdrop for Chingay 2023.</p>
+</div>
 
+<div>
+<span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Rabbits ART-Venture</span>
 
-
-
-<h4><strong>Rabbits ART-Venture</strong></h4>
-<br>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
@@ -52,3 +50,12 @@ F1 Pit Building</div>
 
 <p>
 Over 2,000 students from eight schools and institutions curated and put together each unique space, as guided and supported by the community artists and PA’s Community Arts & Culture Clubs; creating their own Chingay Rabbits in various sizes to portray the theme of FUTURE SINGAPORE with their imagination and creativity.</p>
+</div>
+
+<div>
+<span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Floats by the Community</span>
+
+
+
+	
+</div>
