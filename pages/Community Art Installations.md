@@ -45,7 +45,7 @@ F1 Pit Building</div>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div>
  <!--<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"> CAPTIONS</div>-->
-</div>
+</div></div>
 
 <p>
 Over 2,000 students from eight schools and institutions curated and put together each unique space, as guided and supported by the community artists and PA’s Community Arts & Culture Clubs; creating their own Chingay Rabbits in various sizes to portray the theme of FUTURE SINGAPORE with their imagination and creativity.</p>
