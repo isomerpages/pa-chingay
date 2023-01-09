@@ -41,6 +41,13 @@ sections:
       image: /images/Watch Party.png
       alt: Watch Parties
       subtitle: Chingay 2023
+  - infobar:
+      title: CHINGAY MAMA SHOP
+      subtitle: Chingay 2023
+      description: We would like to invite YOU to be part of the third edition of
+        Chingay Mama Shop. Come on board and be part of our movement.
+      button: Find Out More
+      url: /chingay2023-mamashop/
   - infopic:
       title: Community Art Installations
       subtitle: Chingay 2023
