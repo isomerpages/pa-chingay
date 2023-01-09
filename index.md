@@ -48,4 +48,13 @@ sections:
         for         your interest in participating as a volunteer.
       image: /images/Volunteers/Chingay Vol Avatar Combine FA-02.png
       alt: Chingay Volunteer
+  - infopic:
+      title: Community Art Installations
+      subtitle: Chingay 2023
+      description: "[FREE ADMISSION] to the various Community Art Installations on 5
+        February 2023 | 2pm - 10pm and 6 - 9 February 2023 | 6pm - 10pm."
+      button: find out more
+      url: /chingay2023-cai/
+      image: /images/whats-on/5IMG1378.jpg
+      alt: Image alt text
 ---
