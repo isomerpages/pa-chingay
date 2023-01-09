@@ -41,11 +41,20 @@ sections:
       image: /images/Watch Party.png
       alt: Watch Parties
       subtitle: Chingay 2023
-  - infopic:
-      title: Volunteer Recruitment
+  - infobar:
+      title: CHINGAY MAMA SHOP
       subtitle: Chingay 2023
-      description: Volunteer recruitment for Chingay 2023 has closed. Thank you
-        for         your interest in participating as a volunteer.
-      image: /images/Volunteers/Chingay Vol Avatar Combine FA-02.png
-      alt: Chingay Volunteer
+      description: We would like to invite YOU to be part of the third edition of
+        Chingay Mama Shop. Come on board and be part of our movement.
+      button: Find Out More
+      url: /chingay2023-mamashop/
+  - infopic:
+      title: Community Art Installations
+      subtitle: Chingay 2023
+      description: "[FREE ADMISSION] to the Community Art Installations on 5 February
+        2023 | 2pm - 10pm and 6 - 9 February 2023 | 6pm - 10pm."
+      button: find out more
+      url: /chingay2023-cai/
+      image: /images/whats-on/5IMG1378.jpg
+      alt: Image alt text
 ---
