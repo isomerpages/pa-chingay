@@ -66,7 +66,7 @@ Over 2,000 students from eight schools and institutions curated and put together
 </div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="min-height:10rem; max-height:14rem; overflow:hidden; padding:.5rem;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/_DSC6171.jpg"></div>
+<div style="min-height:10rem; max-height:14rem; overflow:hidden; padding:.5rem;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/DSC6171.jpg"></div>
  <!--<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"> CAPTIONS</div>-->
 </div></div>
 	
