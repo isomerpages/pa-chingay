@@ -47,10 +47,10 @@ Over 2,000 students from eight schools and institutions curated and put together
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:-5rem;" src="/images/whats-on/DSC04142-2.jpg"></div></div>
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:;" src="/images/whats-on/DSC04142-2.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:-6rem;" src="/images/whats-on/DSC6171.jpg"></div></div>
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:;" src="/images/whats-on/DSC6171.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;"></div>
 </div>
