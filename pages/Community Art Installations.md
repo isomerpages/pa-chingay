@@ -28,11 +28,12 @@ F1 Pit Building</div>
 
 <div style="overflow:hidden; padding:1rem;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/5IMG1378.jpg"></div>
 
+</div>
 
 
 
 <p>Standing 18 metres high, and spanning over 60 metres, the Container Art Installation is made up of 28 20-footer and 40-footer containers, designed and conceptualised by Sam Lo. It is co-created by 480 youths and is the largest-ever Community Art installation at the Chingay parade. The Continer Installation serves as a performance backdrop for Chingay 2023.</p>
-</div>
+
 
 
 <div style="padding-top:2rem">
