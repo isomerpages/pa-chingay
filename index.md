@@ -42,13 +42,6 @@ sections:
       alt: Watch Parties
       subtitle: Chingay 2023
   - infopic:
-      title: Volunteer Recruitment
-      subtitle: Chingay 2023
-      description: Volunteer recruitment for Chingay 2023 has closed. Thank you
-        for         your interest in participating as a volunteer.
-      image: /images/Volunteers/Chingay Vol Avatar Combine FA-02.png
-      alt: Chingay Volunteer
-  - infopic:
       title: Community Art Installations
       subtitle: Chingay 2023
       description: "[FREE ADMISSION] to the Community Art Installations on 5 February
