@@ -15,15 +15,19 @@ F1 Pit Building</div>
 <div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Container Art Installation</span>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding-top:1rem">
+
+<!--
+ <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="min-height:10rem; max-height:14rem; overflow:hidden; padding:.5rem;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/Press%20Room/Chingay%202023%20-%20Spray%20Paint%20Workshop-16.jpg"></div>
+ <!--<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"> CAPTIONS</div>
+</div>
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="min-height:10rem; max-height:14rem; overflow:hidden; padding:.5rem;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/Press%20Room/Chingay%202023%20-%20Spray%20Paint%20Workshop-16.jpg"></div>
+<div style="min-height:10rem; max-height:14rem; overflow:hidden; padding:.5rem;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/5IMG1378.jpg"></div>-->
  <!--<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"> CAPTIONS</div>-->
-</div>
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="min-height:10rem; max-height:14rem; overflow:hidden; padding:.5rem;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/CAI1.jpg"></div>
- <!--<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"> CAPTIONS</div>-->
+<div style="min-height:10rem; max-height:14rem; overflow:hidden; padding:.5rem;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/5IMG1378.jpg"></div>
+	
 </div>
 </div>
 
