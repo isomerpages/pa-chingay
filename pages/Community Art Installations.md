@@ -28,7 +28,6 @@ F1 Pit Building</div>
 
 <div style="overflow:hidden; padding:1rem;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/5IMG1378.jpg"></div>
 
-</div>
 
 
 
