@@ -3,8 +3,6 @@ title: Community Art Installations
 permalink: /chingay2023-cai/
 description: ""
 ---
-<h1><strong>Community Art Installations</strong></h1>
-
 <div style="line-height:2rem;">
 <Strong>[FREE ADMISSION]</strong><br>
 5 February 2023 | 2pm - 10pm<br>
