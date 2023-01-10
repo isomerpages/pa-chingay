@@ -4,7 +4,6 @@ permalink: /heartlands/
 description: ""
 third_nav_title: Chingay2023
 ---
-
 Come and join us for a different Chingay experience at the Heartlands. 
 
 **Chingay @ Heartlands - East Coast GRC**<br>
@@ -33,7 +32,7 @@ Tel: 6506 0900<br>-->
 
 **Chingay @ Heartlands - Ang Mo Kio GRC, Yio Chu Kang SMC and Kebun Baru SMC**<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
-Fern Vale Square<br><!--
+Fernvale Square<br><!--
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
 Tel: 6506 0900<br>-->
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sun, 26 Feb 2023<br>
