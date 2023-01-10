@@ -6,7 +6,7 @@ third_nav_title: Chingay2023
 ---
 Come and join us for a different Chingay experience at the Heartlands. 
 
-**Chingay @ Heartlands - East Coast GRC**<br>
+**Chingay @ East Coast 2023**<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
 Open Field next to Blk 19 Bedok South Road<br><!--
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
@@ -14,7 +14,7 @@ Tel: 6506 0900<br>-->
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sat, 11 Feb 2023<br>
 <!--<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>7:30 PM-->
 
-**Chingay @ Heartlands - Tampines GRC & OTH**<br>
+**Chingay @ OTH**<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
 Our Tampines Hub<br><!--
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
@@ -22,7 +22,7 @@ Tel: 6506 0900<br>-->
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sun, 12 Feb 2023<br>
 <!--<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>7:30 PM-->
 
-**Chingay @ Heartlands - Chua Chu Kang GRC and Hong Kah North SMC**<br>
+**Chingay @ Chua Chu Kang GRC & Hong Kah North SMC**<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
 Keat Hong Square<br><!--
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
@@ -30,7 +30,7 @@ Tel: 6506 0900<br>-->
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sat, 25 Feb 2023<br>
 <!--<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>7:30 PM-->
 
-**Chingay @ Heartlands - Ang Mo Kio GRC, Yio Chu Kang SMC and Kebun Baru SMC**<br>
+**Ang Mo Kio GRC,  Kebun Baru And Yio Chu Kang SMCs Chingay @ Heartlands 2023**<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
 Fernvale Square<br><!--
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
@@ -38,7 +38,7 @@ Tel: 6506 0900<br>-->
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sun, 26 Feb 2023<br>
 <!--<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>7:30 PM-->
 
-**Chingay @ Heartlands - Nee Soon GRC**<br>
+**Chingay @ Nee Soon**<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
 MPC @ Khatib<br><!--
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
@@ -46,7 +46,7 @@ Tel: 6506 0900<br>-->
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sat, 4 Mar 2023<br>
 <!--<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>7:30 PM-->
 
-**Chingay @ Heartlands - Tanjong Pagar GRC and Radin Mas SMC**<br>
+**Celebrations @ Tanjong Pagar**<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
 Discover Tanjong Pagar Community Green<br><!--
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
