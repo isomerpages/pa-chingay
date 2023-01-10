@@ -40,7 +40,7 @@ description: ""
 <span style="line-height:2rem"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">Sign Up</a></span></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:-5rem;" src="/images/whats-on/RAV1.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
+<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:-5rem;"  src="/images/whats-on/RAV1.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
 <span style="font-weight: bold">Chingay Installation Display<br>Rabbits ART-Venture</span><br>Over 2,000 students from eight schools and institutions curated and put together their own unique art space, as guided by the community artists and PA’s Community Arts & Culture Clubs; creating their own Chingay Rabbits in various sizes to portray the theme of FUTURE SINGAPORE with their imagination and creativity.<br>
 <span style="line-height:2rem">(Open to public)</span>
 </div></div>
