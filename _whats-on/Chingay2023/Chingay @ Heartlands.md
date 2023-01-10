@@ -22,7 +22,7 @@ Tel: 6506 0900<br>-->
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sun, 12 Feb 2023<br>
 <!--<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>7:30 PM-->
 
-**Chingay @ Chua Chu Kang GRC & Hong Kah North SMC**<br>
+**Chingay 2023 @ Chua Chu Kang GRC & Hong Kah North SMC**<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
 Keat Hong Square<br><!--
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
