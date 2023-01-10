@@ -5,8 +5,10 @@ links:
     sublinks:
       - title: Chingay 2023
         url: /tickets/
-      - title: → Tickets
+      - title: → Ticketing Details
         url: /tickets/
+      - title: → Road Closure
+        url: /roadclosure/
       - title: → Community Art Installation
         url: /chingay2023-cai/
       - title: → Chingay Mama Shop
