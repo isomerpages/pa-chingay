@@ -8,7 +8,7 @@ Come and join us for a different Chingay experience at the Heartlands.
 
 **Chingay @ Heartlands - East Coast GRC**<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
-Open Field in front of Blk 19, along Bedok South Road<br><!--
+Open Field next to Blk 19 Bedok South Road<br><!--
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
 Tel: 6506 0900<br>-->
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sat, 11 Feb 2023<br>
@@ -24,7 +24,7 @@ Tel: 6506 0900<br>-->
 
 **Chingay @ Heartlands - Chua Chu Kang GRC and Hong Kah North SMC**<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
-Keat Hong CC<br><!--
+Keat Hong Square<br><!--
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
 Tel: 6506 0900<br>-->
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sat, 25 Feb 2023<br>
