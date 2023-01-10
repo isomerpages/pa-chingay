@@ -17,13 +17,3 @@ F1 Pit Building<br>
 PAssion Card Members get to enjoy 20% discount!<br><br></div>
 
 <div style="display: block; margin: auto; text-align:center; border:3px solid #2d6ffa; width:fit-content;"><a style="text-decoration:none;" href="https://go.gov.sg/chingay2023tickets/"><div style="padding:1rem"><b>GET YOUR TICKETS NOW!</b></div></a></div>
-
-
-<h4>Road Closure</h4>
-The general public is encouraged to take note of the following road closure arrangements in order to support the event flow and safety of our participants. 
-
-<div><img src="/images/whats-on/RoadClosure.png"></div>
-
-Nearest Carpark: Millenia Walk & Suntec City
-	
-
