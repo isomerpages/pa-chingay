@@ -13,20 +13,20 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 
 
 
-<h5><strong>Category A</strong></h5>
+
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div>
+<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/MamaShop/Chingay2023-Email-Masthead%20w:bg.png"></div>
 <div style= "font-size: 1rem; font-weight: ; padding:.5rem; font-size:1.2rem; color:#B242A2; :"> Chingay </div><div style= "font-size: 1rem; font-weight: ; padding:.5rem"> To commemorate Chingay 50th anniversary, we have specially designed Chingay limited edition merchandises, illustrated by our talented local designers, out for sale! All sale proceeds will be donated fully to the charitable cause. <br><a href="https://www.lazada.sg/shop/chingay-mamashop">Purchase Now</a></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div>
-<div style= "font-size: 1rem; font-weight: ; padding:.5rem; font-size:1.2rem; color:#B242A2; :"> Chingay </div><div style= "font-size: 1rem; font-weight: ; padding:.5rem"> To commemorate Chingay 50th anniversary, we have specially designed Chingay limited edition merchandises, illustrated by our talented local designers, out for sale! All sale proceeds will be donated fully to the charitable cause. <br><a href="https://www.lazada.sg/shop/chingay-mamashop">Purchase Now</a></div></div>
+<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/MamaShop/herbal-pharm-pte-ltd-mamashopimage.png"></div>
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem; font-size:1.2rem; color:#B242A2; :"> Herbal Pharm </div><div style= "font-size: 1rem; font-weight: ; padding:.5rem"> Herbal Pharm is a homegrown Singaporean award-winning health & wellness brand, dedicated to providing all-natural premium supplements and lifestyle products for more than 18 years. Whether it’s joint support supplements or healthy sugar alternatives, Herbal Pharm always strives for better products, superior ingredients and sustainable practices.">Purchase Now</a></div></div>
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div>
-<div style= "font-size: 1rem; font-weight: ; padding:.5rem; font-size:1.2rem; color:#B242A2; :"> Chingay </div><div style= "font-size: 1rem; font-weight: ; padding:.5rem"> To commemorate Chingay 50th anniversary, we have specially designed Chingay limited edition merchandises, illustrated by our talented local designers, out for sale! All sale proceeds will be donated fully to the charitable cause. <br><a href="https://www.lazada.sg/shop/chingay-mamashop">Purchase Now</a></div></div>
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem; font-size:1.2rem; color:#B242A2; :"> Chingay </div><div style= "font-size: 1rem; font-weight: ; padding:.5rem"> Lilo is a Award Winning local brand in Singapore manufacturing 100% food powders (ikan bilis/ mushroom/scallop/white bait/ kombu in our very own SFA licensed factory in Singapore. Our powders are suitable for babies 6 months and above and for health loving adults. <br>Lilo is made in Singapore specially created to add nutrients to a meal and to enhance the flavour of food for our family, especially our little ones WITHOUT adding MSG, Salt or preservatives. Skip the hassle of toiling in your kitchen for hours. Whipping up a naturally delicious and nutritious meal has never been easier. A sprinkle of  Lilo is all it takes!  More than just a stock, Lilo Natural Food Powders is an ideal flavour enhancer for all kinds of dishes and can even be used as a salt substitute for those who are seeking a healthier diet. <br><a href="https://www.lazada.sg/shop/chingay-mamashop">Purchase Now</a></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div>
@@ -42,9 +42,6 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 
 
 
-
-<ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
-<li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><div style="width:228px;height:157px;margin:auto;"><img style="height:auto;width:228px;" src="/images/MamaShop/Chingay2023-Email-Masthead%20w:bg.png"></div><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Chingay</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden; font-size:1rem; line-height:1.5rem"> To commemorate Chingay 50th anniversary, we have specially designed Chingay limited edition merchandises, illustrated by our talented local designers, out for sale! All sale proceeds will be donated fully to the charitable cause.  <br><a href="https://www.lazada.sg/shop/chingay-mamashop">Purchase Now</a></p></div></li>
 
 	
 <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><div style="width:228px;height:157px;margin:auto;"><img style="height:auto;width:228px;" src="/images/MamaShop/herbal-pharm-pte-ltd-mamashopimage.png"></div><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Herbal Pharm</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"> Herbal Pharm is a homegrown Singaporean award-winning health & wellness brand, dedicated to providing all-natural premium supplements and lifestyle products for more than 18 years. Whether it’s joint support supplements or healthy sugar alternatives, Herbal Pharm always strives for better products, superior ingredients and sustainable practices. <br><a href="https://www.lazada.sg/shop/herbal-pharm/?path=index.html">Purchase Now</a></p></div></li>
