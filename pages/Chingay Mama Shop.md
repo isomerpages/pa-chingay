@@ -11,6 +11,19 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 
 **Presenting to you the Chingay Mama Shop merchants!**
 
+
+
+<h5><strong>Category A</strong></h5>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div>
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem; font-size:1.2rem; color:#B242A2; :"> Chingay </div><div style= "font-size: 1rem; font-weight: ; padding:.5rem"> To commemorate Chingay 50th anniversary, we have specially designed Chingay limited edition merchandises, illustrated by our talented local designers, out for sale! All sale proceeds will be donated fully to the charitable cause. </div></div>
+
+
+
+
+
 <ul style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap: 1rem; margin: 2rem 2vw; padding: 0; list-style-type: none;">
 <li><div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><div style="width:228px;height:157px;margin:auto;"><img style="height:auto;width:228px;" src="/images/MamaShop/Chingay2023-Email-Masthead%20w:bg.png"></div><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Chingay</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden; font-size:1rem; line-height:1.5rem"> To commemorate Chingay 50th anniversary, we have specially designed Chingay limited edition merchandises, illustrated by our talented local designers, out for sale! All sale proceeds will be donated fully to the charitable cause.  <br><a href="https://www.lazada.sg/shop/chingay-mamashop">Purchase Now</a></p></div></li>
 
