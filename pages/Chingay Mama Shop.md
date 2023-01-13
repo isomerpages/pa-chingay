@@ -18,8 +18,27 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div>
-<div style= "font-size: 1rem; font-weight: ; padding:.5rem; font-size:1.2rem; color:#B242A2; :"> Chingay </div><div style= "font-size: 1rem; font-weight: ; padding:.5rem"> To commemorate Chingay 50th anniversary, we have specially designed Chingay limited edition merchandises, illustrated by our talented local designers, out for sale! All sale proceeds will be donated fully to the charitable cause. </div></div>
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem; font-size:1.2rem; color:#B242A2; :"> Chingay </div><div style= "font-size: 1rem; font-weight: ; padding:.5rem"> To commemorate Chingay 50th anniversary, we have specially designed Chingay limited edition merchandises, illustrated by our talented local designers, out for sale! All sale proceeds will be donated fully to the charitable cause. <br><a href="https://www.lazada.sg/shop/chingay-mamashop">Purchase Now</a></div></div>
 
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div>
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem; font-size:1.2rem; color:#B242A2; :"> Chingay </div><div style= "font-size: 1rem; font-weight: ; padding:.5rem"> To commemorate Chingay 50th anniversary, we have specially designed Chingay limited edition merchandises, illustrated by our talented local designers, out for sale! All sale proceeds will be donated fully to the charitable cause. <br><a href="https://www.lazada.sg/shop/chingay-mamashop">Purchase Now</a></div></div>
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div>
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem; font-size:1.2rem; color:#B242A2; :"> Chingay </div><div style= "font-size: 1rem; font-weight: ; padding:.5rem"> To commemorate Chingay 50th anniversary, we have specially designed Chingay limited edition merchandises, illustrated by our talented local designers, out for sale! All sale proceeds will be donated fully to the charitable cause. <br><a href="https://www.lazada.sg/shop/chingay-mamashop">Purchase Now</a></div></div>
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div>
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem; font-size:1.2rem; color:#B242A2; :"> Chingay </div><div style= "font-size: 1rem; font-weight: ; padding:.5rem"> To commemorate Chingay 50th anniversary, we have specially designed Chingay limited edition merchandises, illustrated by our talented local designers, out for sale! All sale proceeds will be donated fully to the charitable cause. <br><a href="https://www.lazada.sg/shop/chingay-mamashop">Purchase Now</a></div></div>
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div>
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem; font-size:1.2rem; color:#B242A2; :"> Chingay </div><div style= "font-size: 1rem; font-weight: ; padding:.5rem"> To commemorate Chingay 50th anniversary, we have specially designed Chingay limited edition merchandises, illustrated by our talented local designers, out for sale! All sale proceeds will be donated fully to the charitable cause. <br><a href="https://www.lazada.sg/shop/chingay-mamashop">Purchase Now</a></div></div>
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div>
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem; font-size:1.2rem; color:#B242A2; :"> Chingay </div><div style= "font-size: 1rem; font-weight: ; padding:.5rem"> To commemorate Chingay 50th anniversary, we have specially designed Chingay limited edition merchandises, illustrated by our talented local designers, out for sale! All sale proceeds will be donated fully to the charitable cause. <br><a href="https://www.lazada.sg/shop/chingay-mamashop">Purchase Now</a></div></div>
 
 
 
