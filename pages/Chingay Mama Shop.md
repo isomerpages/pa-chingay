@@ -22,7 +22,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/MamaShop/herbal-pharm-pte-ltd-mamashopimage.png"></div>
-<div style= "font-size: 1rem; font-weight: ; padding:.5rem; font-size:1.2rem; color:#B242A2; :"> Herbal Pharm </div><div style= "font-size: 1rem; font-weight: ; padding:.5rem"> Herbal Pharm is a homegrown Singaporean award-winning health & wellness brand, dedicated to providing all-natural premium supplements and lifestyle products for more than 18 years. Whether it’s joint support supplements or healthy sugar alternatives, Herbal Pharm always strives for better products, superior ingredients and sustainable practices.">Purchase Now</a></div>
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem; font-size:1.2rem; color:#B242A2; :"> Herbal Pharm </div><div style= "font-size: 1rem; font-weight: ; padding:.5rem"> Herbal Pharm is a homegrown Singaporean award-winning health & wellness brand, dedicated to providing all-natural premium supplements and lifestyle products for more than 18 years. Whether it’s joint support supplements or healthy sugar alternatives, Herbal Pharm always strives for better products, superior ingredients and sustainable practices.<br><a href="https://www.lazada.sg/shop/chingay-mamashop">Purchase Now</a></div>
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div>
