@@ -88,45 +88,33 @@ Participants will get to experience embossing floral designs onto the metal shee
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
-<span style="font-weight: bold">Metal Tooling</span><br>The art of metal tooling is a centuries old art form also known as metal embossing, it uses simple tools like wooden sticks to create designs on metal.
-Participants will get to experience embossing floral designs onto the metal sheets and take home their  masterpieces.
-<br>Trainer: Leong Yew Thong is an Artist and trainer with Splash Academy. He has vast experience in 3Dimentional wire sculpture and metal art.
+<span style="font-weight: bold">Glass Mosaic Art</span><br>Mosaic tiles is an interesting and visually appealing artform due to the materials reflectiveness and colours. A relatively easy artform fit for the young and senior, residents will be able to decorate a surface with designs made up of glass tiles and also learn colour coordination in the process.
+<br>Trainer: Jesse Leong Jesse Leong have been in the visual art scene for more than 15years. She is very well versed in many mediums of art such as Mosaic, Metal Tooling, Ceramics, Batik, Sculptures and many more. She aims to nurture creative minds of the young and old, teaching them through fun filled workshops.
 <span style="line-height:1.8rem">
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">25th Feb 23 (11am – 12pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">4th Mar 23 (11am – 12pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">5th Mar 23 (2.30pm-3.30pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">11th Mar 23 (11am – 12pm)</a>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">24th Feb (6-7pm/7-8pm)</a>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">3rd Mar (6-7pm/7-8pm)</a>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">4th Mar (5pm-6pm)</a>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">	10th Mar (6-7pm/7-8pm)</a>
 <br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">12th Mar 23 (2.30pm – 3.30pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">18th Mar 23 (11am – 12pm)</a></span>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">	17th Mar (6-7pm/7-8pm)</a></span>
 </div></div>
+
+
+	
+	
+	
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
-<span style="font-weight: bold">Metal Tooling</span><br>The art of metal tooling is a centuries old art form also known as metal embossing, it uses simple tools like wooden sticks to create designs on metal.
-Participants will get to experience embossing floral designs onto the metal sheets and take home their  masterpieces.
-<br>Trainer: Leong Yew Thong is an Artist and trainer with Splash Academy. He has vast experience in 3Dimentional wire sculpture and metal art.
+<span style="font-weight: bold">Modular</span><br>Visitors would be able to create micro dioramas (ie. Polly Pockets), where they can paint them, glue and house them in little capsules and bring it home or display it on the venue. Visitors are then given the opportunity to create their own capsule of minis and learn how to paint miniatures/micro objects
+<br>Trainer: Fish Jaafar is known for producing large scale works as well as conceptual accessibility and relevance to the local community. He believe narratives are at its most honest when expressed figuratively within a traditional 2D plane. In his work, he attempts to reflect his sense of the times we are living in, and both how richly interesting they are and how difficult it is for most of us to navigate our uncertainty. Aside from murals, his studio works on 3D fabrications namely large theming works for Resorts World Sentosa Singapore, large scale installations, facade art and among others. Recently he delves into the opposite end with way smaller works such as painting tiny 3D printed miniature figurines.
 <span style="line-height:1.8rem">
 <br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">25th Feb 23 (11am – 12pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">4th Mar 23 (11am – 12pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">5th Mar 23 (2.30pm-3.30pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">11th Mar 23 (11am – 12pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">12th Mar 23 (2.30pm – 3.30pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">18th Mar 23 (11am – 12pm)</a></span>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">3rd Mar (6-7pm/7-8pm)</a>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">4th Mar (5pm-6pm)</a>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">10th Mar (6-7pm/7-8pm)</a>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">11th Mar (5pm-6pm)</a>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">17th Mar (6-7pm/7-8pm)</a></span>
 </div></div>
-	
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
-<span style="font-weight: bold">Metal Tooling</span><br>The art of metal tooling is a centuries old art form also known as metal embossing, it uses simple tools like wooden sticks to create designs on metal.
-Participants will get to experience embossing floral designs onto the metal sheets and take home their  masterpieces.
-<br>Trainer: Leong Yew Thong is an Artist and trainer with Splash Academy. He has vast experience in 3Dimentional wire sculpture and metal art.
-<span style="line-height:1.8rem">
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">25th Feb 23 (11am – 12pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">4th Mar 23 (11am – 12pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">5th Mar 23 (2.30pm-3.30pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">11th Mar 23 (11am – 12pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">12th Mar 23 (2.30pm – 3.30pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">18th Mar 23 (11am – 12pm)</a></span>
-</div></div>
-	
 	
 </div>
