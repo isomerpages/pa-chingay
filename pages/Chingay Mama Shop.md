@@ -15,13 +15,11 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
-	
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-
 <div style="width:228px;height:157px;margin:auto;"><img style="height:auto;width:228px;" src="/images/MamaShop/EnterprisingMumsUnited.png"></div>
-
-<div><span style="color: #FFAC1C; font-weight: bold; font-size:1rem">Enterprising Mums</span></div>
-<div>Enterprising Mums United is a business & management consultancy Social Enterprise providing a pop-up retail platform, bringing like-minded individuals together, especially moms, with the opportunity for them to get-together, grow & expand each other’s businesses in a non-competitive environment. Its primary objective is to empower & equip them with skills to build a sustainable retail business. <br><a href="https://www.lazada.sg/products/rice-by-me-lace-tatted-earrings-grey-with-diamonte-i2244464676-s12917651816.html">Purchase Now</a></div></div>
+<div style= "font-size: 1rem; padding:.5rem;"> 
+<span style="color:#FFAC1C;font-weight: bold">Chingay Behind-the-Scenes Tour</span><br>An exclusive facilitated behind-the-scenes tour of Chingay 2023 including stops at Chingay Art Installations and Float Display<br>
+<span style="line-height:2rem"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">Sign Up Here</a></span></div></div></div>
 
 
 <div style="position: relative; display: block; height: 100%;  overflow: hidden; text-decoration: none;"><div style="width:228px;height:157px;margin:auto;"><img style="height:auto;width:228px;" src="/images/MamaShop/EnterprisingMumsUnited.png"></div><div style="position: relative; display: flex; align-items: center; gap: 2em; padding: 1em 1em 0;"><h3 style="font-size: 1em; margin: 0 0 .3em;">Enterprising Mums United</h3></div><p style="padding: 0 1em 1em;margin: 0; overflow: hidden;"> Enterprising Mums United is a business & management consultancy Social Enterprise providing a pop-up retail platform, bringing like-minded individuals together, especially moms, with the opportunity for them to get-together, grow & expand each other’s businesses in a non-competitive environment. Its primary objective is to empower & equip them with skills to build a sustainable retail business. <br><a href="https://www.lazada.sg/products/rice-by-me-lace-tatted-earrings-grey-with-diamonte-i2244464676-s12917651816.html">Purchase Now</a></p></div>
