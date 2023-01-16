@@ -74,17 +74,17 @@ Participants will get to experience embossing floral designs onto the metal shee
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
-<span style="font-weight: bold">Metal Tooling</span><br>The art of metal tooling is a centuries old art form also known as metal embossing, it uses simple tools like wooden sticks to create designs on metal.
-Participants will get to experience embossing floral designs onto the metal sheets and take home their  masterpieces.
-<br>Trainer: Leong Yew Thong is an Artist and trainer with Splash Academy. He has vast experience in 3Dimentional wire sculpture and metal art.
+<span style="font-weight: bold">Acrylic Pouring</span><br>Acrylic pouring on transparent bookmark . Participants to draw in motifs of space an colour on one side of the bookmark and learn how to pour on the other side using acrylic pouring technique.
+<br>Trainer: Dzulkarnaen started out in Engineering and has a Master’s Degree from The Open International University for Complementary Medicines before pursuing his interest in the Visual Arts. Dzulkarnaen is an Art Educator, with a Specialist Diploma for Art (NIE), and specialises in Acrylic Painting, Batik, Tie & Dye and Wire Art. Besides many visual arts workshops, various arts exhibitions, arts displays and arts demonstrations; he has participated in the Arts displays at the 2019 National Day Istana Open House, the “Peacocks” display at Changi Airport Terminal 2 during Deepavali Festival and the metal tooling resin artwork displayed at the Bukit Panjang Integrated Transport Hub; the Peranakan Museum, Arts House, events such as the Singapore Garden Festival at Suntec City, North West CDC Arts Festival and Police Week Carnival. Dzulkarnaen is passionate about promoting the arts to the community, families youths and the elderly. Much of his time is spent sharing his extensive knowledge of the arts and mentoring many of those who comes to him. Although he has achieved many successes with the applications of his diverse Art knowledge, Dzulkarnaen is still very passionate in learning and creating many different artworks and has not stop evolving further and inspiring many of those around him to achieve greater heights.
 <span style="line-height:1.8rem">
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">25th Feb 23 (11am – 12pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">4th Mar 23 (11am – 12pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">5th Mar 23 (2.30pm-3.30pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">11th Mar 23 (11am – 12pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">12th Mar 23 (2.30pm – 3.30pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">18th Mar 23 (11am – 12pm)</a></span>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">20th Feb 23 (8pm-9.30pm)</a>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">21st Feb 23 (8pm – 9.30pm)</a>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">22nd Feb 23 (8pm – 9.30pm)</a>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">6th Mar 23 (8pm-9.30pm)</a>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">7th Mar 23 (8pm – 9.30pm)</a>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">8th Mar 23 (8pm – 9.30pm)</a></span>
 </div></div>
+
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
