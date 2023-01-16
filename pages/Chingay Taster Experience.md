@@ -35,10 +35,10 @@ Participants will get to experience embossing floral designs onto the metal shee
 <br>Trainer: Leong Yew Thong is an Artist and trainer with Splash Academy. He has vast experience in 3Dimentional wire sculpture and metal art.
 <span style="line-height:1.8rem">
 <br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">25th Feb 23 (11am – 12pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">4th Mar 23 (11am – 12pm)</a></span>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">5th Mar 23 (2.30pm-3.30pm)</a></span>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">11th Mar 23 (11am – 12pm)</a></span>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">12th Mar 23 (2.30pm – 3.30pm)</a></span>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">4th Mar 23 (11am – 12pm)</a>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">5th Mar 23 (2.30pm-3.30pm)</a>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">11th Mar 23 (11am – 12pm)</a>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">12th Mar 23 (2.30pm – 3.30pm)</a>
 <br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">18th Mar 23 (11am – 12pm)</a></span>
 </div>
 
