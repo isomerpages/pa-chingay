@@ -16,10 +16,10 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-<div style="padding:1rem;width:228px;height:157px;margin:auto;"><img style="height:auto;width:228px;" src="/images/MamaShop/EnterprisingMumsUnited.png"></div>
+<div style="padding:1rem;width:228px;height:157px;margin:auto;"><img style="height:auto;width:228px;" src="/images/MamaShop/Chingay2023-Masthead.png"></div>
 <div style= "font-size: 1rem; padding:.5rem;"> 
-<span style="color:#b242a2;font-weight: bold">Enterprising Mums United</span><br>Enterprising Mums United is a business & management consultancy Social Enterprise providing a pop-up retail platform, bringing like-minded individuals together, especially moms, with the opportunity for them to get-together, grow & expand each other’s businesses in a non-competitive environment. Its primary objective is to empower & equip them with skills to build a sustainable retail bus.<br>
-<span style="line-height:2rem"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">Sign Up Here</a></span></div></div>
+<span style="color:#b242a2;font-weight: bold">Chingay</span><br>Chingay limited edition merchandises out for sale! All sale proceeds will be donated fully to the charitable cause.<br>
+<span style="line-height:2rem"><a href="https://www.lazada.sg/shop/chingay-mamashop" target="_blank">Purchase Now</a></span></div></div>
 
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
 <div style="padding:1rem;width:228px;height:157px;margin:auto;"><img style="height:auto;width:228px;" src="/images/MamaShop/EnterprisingMumsUnited.png"></div>
