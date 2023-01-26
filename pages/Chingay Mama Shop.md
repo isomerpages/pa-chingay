@@ -43,7 +43,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 	
 	
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-<div style="padding:1rem;width:228px;height:157px;margin:auto;"><img src="/images/MamaShop/doob-logo-pop-art.png" style="max-height:157px; width:auto"></div>
+<div style="padding:1rem;width:228px;height:157px;margin:auto;"><img src="/images/MamaShop/doob-logo-pop-art.png" style="max-height:145px; width:auto"></div>
 <div style="font-size: 1rem; padding:.5rem;"> 
 <span style="line-height:2rem;color:#b242a2;font-weight:bold">doob Bean Bags</span><br>doob Bean Bags is the most awesome bean bag brand in Singapore. Designed for comfort, safety, and ease of maintenance, doob bean bags are built to last. With a wide assortment of bean bags that are more versatile, space-saving, and comfier than conventional furniture, This "Made With Passion SG"-awarded brand is on a mission to take over the world, one butt at a time.<br>
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/mrphy">Purchase Now</a></span></div></div>
