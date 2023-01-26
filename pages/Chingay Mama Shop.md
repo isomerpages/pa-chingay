@@ -130,7 +130,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/juice-stories-health/?spm=a2o42.pdp_revamp.seller.1.5ce6477cDg6Yq1&amp;itemId=2239815961&amp;channelSource=pdp">Purchase Now</a></span></div></div>
 	
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;" src="/images/MamaShop/JOURNEYLogo.png"></div>
+<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;padding-top:40px;" src="/images/MamaShop/JOURNEYLogo.png"></div>
 <div style="font-size: 1rem; padding:.5rem;"> 
 <span style="line-height:2rem;color:#b242a2;font-weight:bold">JOURNEY</span><br>JOURNEY is a brand under TOUCH Community Services that represents the creative talents of people with intellectual disabilities. Through this platform, the artwork of artists with special needs from TOUCH are recognised.<br>
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/journey-special1627460749/">Purchase Now</a></span></div></div>
