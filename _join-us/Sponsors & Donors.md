@@ -38,44 +38,23 @@ description: ""
 
 <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(325px,1fr));">
     <div style="text-align: left;">
-        <b>Organised By</b>
+        <b>Official Caterer</b>
         <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr));border-top: 1px solid black;">
-            <div style="text-align: left;padding-top:5px;"><img src="/images/Sponsors%20&%20Donors/pa-14-october-2019-18-19-28.png" alt="People's Association" style="width:100px;float:left;" /> </div>
-            <div style="text-align: left; padding-top: 8%;"><img src="/images/Sponsors%20&%20Donors/chingay-(black)-31-october-2021-11-10-19.png" alt="Chingay Parade Singapore" style="width: 133px; float: left;" /> </div>
+            <div style="text-align: left;padding-top:25px;"><img src="/images/Sponsors%20&%20Donors/stamford-catering-18-october-2019-16-40-27.png" alt="People's Association" style="width:160px;float:left;" /> </div>
+            <div style="text-align: left; padding-top: 8%;"><img src="/images/Sponsors%20&%20Donors/peach-garden-(colour)-14-october-2019-18-28-03.png" alt="Chingay Parade Singapore" style="width: 150px; float: left;" /> </div>
             <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
         </div>
     </div>
     <div style="text-align: left;">
-        <b>Principal Founding Sponsors</b>
+        <b>Official E-Commerce Partner</b>
         <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr)); border-top: 1px solid black;">
-            <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/tote-board-23-october-2019-17-24-12.jpg" alt="Toteboard" style="width: 80px; float: left;" /> </div>
-            <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/singapore-tourism-board-14-october-2019-18-29-42.png" alt="Singapore Tourism Board" style="width: 100px; float: left;" /> </div>
+            <div style="text-align: left; padding-top: 25px;"><img src="/images/Sponsors%20&%20Donors/lazada-02-february-2021-19-08-45.png" alt="Toteboard" style="width: 120px; float: left;" /> </div>
+            <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
             <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
             <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
         </div>
     </div>
 </div>
-
-
-
-
-
-<div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(325px,1fr));">
-    <div style="text-align: left;">
-        <b>Official Caterers</b>
-        <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr));border-top: 1px solid black;">
-                <div style="text-align: left;padding-top:12%;"><img src="/images/Sponsors%20&%20Donors/stamford-catering-18-october-2019-16-40-27.png" alt="Stamford" style="width:161px;float:left;" /> </div>
-              <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/peach-garden-(colour)-14-october-2019-18-28-03.png" alt="Peach Garden" style="width:161px;float:left;" /> </div> </div>
-            <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
-        </div>
-    </div>
-<div style="text-align: left;"><b>Official E-Commerce Partner</b>
-<div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr)); border-top: 1px solid black;"><div style="text-align: left; padding-top: 25px;"><img src="/images/Sponsors%20&%20Donors/lazada-02-february-2021-19-08-45.png" alt="Toteboard" style="width: 120px; float: left;" /></div>
-<div style="text-align: left; padding-top: 5px;">&nbsp; </div>
-<div style="text-align: left; padding-top: 5px;">&nbsp; </div>
-<div style="text-align: left; padding-top: 5px;">&nbsp; </div>
-</div>
-</div></div>
 
 <div style="text-align: left;">
   <b>Official Caterers</b>
