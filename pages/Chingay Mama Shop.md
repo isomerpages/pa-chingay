@@ -48,7 +48,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 	
 	
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;" src="/images/MamaShop/EnterprisingMumsUnited.png"></div>
+<div style="height:157px;margin:auto;"><img style=";max-height:130px; width:auto;padding:0.5rem;" src="/images/MamaShop/EnterprisingMumsUnited.png"></div>
 <div style="font-size: 1rem; padding:.5rem;"> 
 <span style="line-height:2rem;color:#b242a2;font-weight:bold">Enterprising Mums United LLP</span><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam accumsan imperdiet nibh, ac tristique lacus blandit non. Sed imperdiet eget est eget tincidunt. Cras nec magna at nunc elementum hendrerit eu non purus. Sed sagittis ultricies consequat. Aliquam dictum erat a euismod placerat. Mauris vel felis sem. Nullam accumsan, dui vel dignissim faucibus, neque velit gravida erat, vitae gravida massa ex vel massa. Nulla ut ligula eu erat tempus facilisis id vel ante.<br>
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/marina-one-social-marketplace-managed-by-emu">Purchase Now</a></span></div></div>
