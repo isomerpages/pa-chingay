@@ -8,7 +8,7 @@ Debuted at Chingay Parade 2022, this is an initiative made possible with the inv
 
 
 <div style="padding-top:2rem">
-<span style="font-weight: bold;"><span style="color: #FFAC1C;font-size:2rem">RojakSG</span> &nbsp presented by Ang Mo Kio Cluster</span> 
+<span style="font-weight: bold;"><span style="color: #FFAC1C;font-size:2rem">RojakSG</span> presented by Ang Mo Kio Cluster</span> 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 	
