@@ -75,7 +75,7 @@ Keeping screens away and at the same time having quality dinner time is what I w
 <div style="padding:.5rem;height:157px;margin:auto;"><img style=";max-height:157px; width:auto;" src="/images/MamaShop/GreatfulDress.jpg"></div>
 <span style="line-height:2rem;color:#b242a2;font-weight:bold">Grateful Dress</span><br>Grateful Dress offers bespoke designing and dressmaking services, as well as styling recommendations. We create timeless and sustainable apparel and matching bags, accessories and other lifestyle items to promote an eco-friendly lifestyle. A believer in sharing what we have, we provide pro-bono sewing workshops to disadvantaged ladies.<br>
 <span style="line-height:2rem"><a target="_blank" href="">Coming Soon</a></span></div></div>	
-	
+
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
 <div style="padding:.5rem;height:157px;margin:auto;"><img style=";max-height:157px; width:auto;" src="/images/MamaShop/VesidermLogo.png"></div>
 <div style="font-size: 1rem; padding:.5rem;"> 
@@ -83,6 +83,7 @@ Keeping screens away and at the same time having quality dinner time is what I w
 Vesiderm acquired a licence to the technology in 2014, and used the technology to manufacture our proprietary Vesiderm™ Liposomes from egg yolk lecithin as actives in daily skincare products. Rigorous extensive research by A-STAR scientists, in collaboration with KKH Paediatric Dermatologists, found that the topical application of our unique Vesiderm™ liposomes reinforces skin barrier function against chemical agents such as psoriasis-inducing IMQ, thus alleviating inflammation. This discovery represents a new disruptive innovation in skin care and skin moisturising that will be of significant benefit to in alleviating age-associated chronic inflammation and aging process in the skin.
 <br>
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/vesiderm/?path=index.htm">Purchase Now</a></span></div></div>	
+
 	
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
 <div style="padding:.5rem;height:157px;margin:auto;"><img style=";max-height:157px; width:auto;" src="/images/MamaShop/Oeteologo.png"></div>
@@ -125,7 +126,7 @@ Vesiderm acquired a licence to the technology in 2014, and used the technology t
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
 <div style="padding:.5rem;height:157px;margin:auto;"><img style=";max-height:157px; width:auto;" src="/images/MamaShop/LittleBearnieLogo.png"></div>
 <div style="font-size: 1rem; padding:.5rem;"> 
-<span style="line-height:2rem;color:#b242a2;font-weight:bold">Juice Stories LLP</span><br>Juice Stories is a social enterprise supporting beneficiaries who are older and special needs workers through employment in making cold-pressed juices.   Our juices are made 100% from vegetables and fruits without adding water, ice, sugar or preservatives. We follow eco-friendly business practices and donate pulp to schools and clients to compost as fertilisers. Every dollar spent by clients contributes to the employment and training of our beneficiaries.<br>
+<span style="line-height:2rem;color:#b242a2;font-weight:bold">Juice Stories LLP</span><br>Juice Stories is a social enterprise supporting beneficiaries who are older and special needs workers through employment in making cold-pressed juices. Our juices are made 100% from vegetables and fruits without adding water, ice, sugar or preservatives. We follow eco-friendly business practices and donate pulp to schools and clients to compost as fertilisers. Every dollar spent by clients contributes to the employment and training of our beneficiaries.<br>
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/juice-stories-health/?spm=a2o42.pdp_revamp.seller.1.5ce6477cDg6Yq1&amp;itemId=2239815961&amp;channelSource=pdp">Purchase Now</a></span></div></div>
 	
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
