@@ -118,7 +118,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/lilo-premium-ikan-bilis-powder/?itemId=597720037&amp;spm=a2o42.pdp_revamp.seller.1.276e2e03dtmcLJ&amp;path=promotion-35951-0.htm&amp;tab=promotion&amp;channelSource=pdp">Purchase Now</a></span></div></div>	
 	
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;padding-top:20px;" src="/images/MamaShop/LOVE-SG-Logo.png"></div>
+<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;padding-top:50px;" src="/images/MamaShop/LOVE-SG-Logo.png"></div>
 <div style="font-size: 1rem; padding:.5rem;"> 
 <span style="line-height:2rem;color:#b242a2;font-weight:bold">LOVE SG</span><br>Singapore souvenirs with a heavy dose of local identity. We draw inspiration from all things in our backyard and interpret them into quirky products ranging from ice cube trays to night lights. In short, we've created a line of souvenirs which break with tradition and appeal to both locals who want to celebrate the Singapore identity, and tourists who want a keepsake from their trip here. <br>
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/love-sg1627631839/">Purchase Now</a></span></div></div>	
@@ -143,7 +143,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/juice-stories-health/?spm=a2o42.pdp_revamp.seller.1.5ce6477cDg6Yq1&amp;itemId=2239815961&amp;channelSource=pdp">Purchase Now</a></span></div></div>
 	
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;padding-top:40px;" src="/images/MamaShop/JOURNEYLogo.png"></div>
+<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;padding-top:50px;" src="/images/MamaShop/JOURNEYLogo.png"></div>
 <div style="font-size: 1rem; padding:.5rem;"> 
 <span style="line-height:2rem;color:#b242a2;font-weight:bold">JOURNEY</span><br>JOURNEY is a brand under TOUCH Community Services that represents the creative talents of people with intellectual disabilities. Through this platform, the artwork of artists with special needs from TOUCH are recognised.<br>
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/journey-special1627460749/">Purchase Now</a></span></div></div>
