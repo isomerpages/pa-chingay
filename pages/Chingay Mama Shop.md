@@ -85,19 +85,19 @@ Vesiderm acquired a licence to the technology in 2014, and used the technology t
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/vesiderm/?path=index.htm">Purchase Now</a></span></div></div>	
 	
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-<div style="width:228px;height:157px;margin:auto;"><img style="padding:.5rem;max-height:157px; width:auto;" src="/images/MamaShop/LittleBearnieLogo.png"></div>
+<div style="width:228px;height:157px;margin:auto;"><img style="padding:.5rem;max-height:157px; width:auto;" src="/images/MamaShop/Oeteologo.png"></div>
 <div style="font-size: 1rem; padding:.5rem;"> 
 <span style="line-height:2rem;color:#b242a2;font-weight:bold">Oeteo</span><br>OETEO (pronounced ee-tay-o) puts the fun back into parenthood by designing fuss-free, incredibly comfortable and quality baby clothes. We create thoughtful designs and experiences, making it accessible to all parents. So embrace these moments with your child, precious as they are, knowing that everything else has been taken care of.<br>
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/oeteo/?path=index.html">Purchase Now</a></span></div></div>	
 	
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-<div style="width:228px;height:157px;margin:auto;"><img style="padding:.5rem;max-height:157px; width:auto;" src="/images/MamaShop/LittleBearnieLogo.png"></div>
+<div style="width:228px;height:157px;margin:auto;"><img style="padding:.5rem;max-height:157px; width:auto;" src="/images/MamaShop/Herbal-Pharm-logo-original color.png"></div>
 <div style="font-size: 1rem; padding:.5rem;"> 
 <span style="line-height:2rem;color:#b242a2;font-weight:bold">Herbal Pharm</span><br>Herbal Pharm is a homegrown Singaporean award-winning health &amp; wellness brand, dedicated to providing all-natural premium supplements and lifestyle products for more than 18 years. Whether it’s joint support supplements or healthy sugar alternatives, Herbal Pharm always strives for better products, superior ingredients and sustainable practices.<br>
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/herbal-pharm/?path=index.htm">Purchase Now</a></span></div></div>	
 	
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-<div style="width:228px;height:157px;margin:auto;"><img style="padding:.5rem;max-height:157px; width:auto;" src="/images/MamaShop/LittleBearnieLogo.png"></div>
+<div style="width:228px;height:157px;margin:auto;"><img style="padding:.5rem;max-height:157px; width:auto;" src="/images/MamaShop/LiloChingayLogo765523.png"></div>
 <div style="font-size: 1rem; padding:.5rem;"> 
 <span style="line-height:2rem;color:#b242a2;font-weight:bold">Lilo Health Food (SG) Pte Ltd</span><br>Lilo is a Award Winning local brand in Singapore manufacturing 100% food powders (ikan bilis/ mushroom/scallop/white bait/ kombu in our very own SFA licensed factory in Singapore. Our powders are suitable for babies 6 months and above and for health loving adults.Lilo is made in Singapore specially created to add nutrients to a meal and to enhance the flavour of food for our family, especially our little ones WITHOUT adding MSG, Salt or preservatives. Skip the hassle of toiling in your kitchen for hours. Whipping up a naturally delicious and nutritious meal has never been easier. A sprinkle of  Lilo is all it takes!  More than just a stock, Lilo Natural Food Powders is an ideal flavour enhancer for all kinds of dishes and can even be used as a salt substitute for those who are seeking a healthier diet.
 <br>
