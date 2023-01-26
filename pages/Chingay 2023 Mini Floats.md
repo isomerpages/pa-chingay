@@ -54,7 +54,7 @@ We aspire to have every bite of food, proudly grown in abundance, in our homelan
 
 	
 <div style="padding-top:2rem;font-size:1.5rem;">
-<span style="font-weight: bold;"><span style="color: #FFAC1C;">RojakSG</span> presented by Ang Mo Kio Cluster</span> 
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">Delivering the Future</span> presented by Jalan Besar Cluster</span> 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
 
