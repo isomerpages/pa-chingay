@@ -60,14 +60,14 @@ Keeping screens away and at the same time having quality dinner time is what I w
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/busy-mat/?path=index.htm">Purchase Now</a></span></div></div>	
 	
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-<div style="padding:1rem;width:228px;height:157px;margin:auto;"><img src="/images/MamaShop/HomegroundCoffeeRoastersLogo.png" style="max-height:157px; width:auto"></div>
+<div style="padding:1rem;width:228px;height:157px;margin:auto;"><img src="/images/MamaShop/HomegroundCoffeeRoastersLogo.png" style="max-height:140px; width:auto"></div>
 <div style="font-size: 1rem; padding:.5rem;"> 
 <span style="“line-height:2rem;color:#b242a2;font-weight:bold”">Homeground Coffee Roasters Pte Ltd</span><br>Started in 2017 by passionate individuals, Homeground was set up with the purpose of nurturing the home-brewing community in Singapore. This aim is reflected in our selection of coffee and equipment that is carefully curated for home brewing, to our experience store where can everyone come together to indulge in a shared coffee experience, and further their interest in brewing excellent coffees at home. Coffee is a medium for conversations, and our space at Homeground is a catalyst for this. Customers and home brewers alike can share knowledge, and bond over tasting sessions, even explore new coffee and equipment at Playground. We are committed to providing a varying range of coffee to give the everyday coffee drinker a deeper appreciation for the coffee community and industry, and develop the budding interests of home brewers. We source ethically for coffee representing the wide spectrum of specialty coffee, from rare Gesha harvest, to approachable and affordable varietals from budding farms. We aim to have something for everyone, no matter where they are in their coffee journey. Welcome to the Homeground family. 
 <br>
 <span style="line-height:2rem"><a target="_blank" href="">Coming Soon</a></span></div></div>	
 	
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-<div style="padding:1rem;width:228px;height:157px;margin:auto;"><img src="/images/MamaShop/EnterprisingMumsUnited.png" style="“max-height:157px;"></div>
+<div style="padding:1rem;width:228px;height:157px;margin:auto;"><img src="/images/MamaShop/LittleBearnieLogo.png" style="max-height:157px;width:auto"></div>
 <div style="font-size: 1rem; padding:.5rem;"> 
 <span style="“line-height:2rem;color:#b242a2;font-weight:bold”">LITTLE BEARNIE</span><br>From teethers, swaddles, baby gift baskets to bibs and educational toys, Little Bearnie is a home-grown brand that has got all your baby gifting needs covered. Awarded the Best Stylish teething accessories and known for their Instagram-worthy teething accessories, Little Bearnie’s collection of teethers, teething necklaces, teething bangles and personalised teething clips are a rage with new mums in the city.
 <br>
