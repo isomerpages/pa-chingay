@@ -23,7 +23,7 @@ Open space outside Boon Keng Mrt Station<br>
 </div>
 
 <div style="line-height:2rem;">
-<strong><U>SOUTH WEST</u></strong><br>
+<strong><U>SOUTH WEST</u></strong>(Ended)<br>
 <img src="/images/Date.png" style="float:left; width:30px;height:30px"/>&nbsp; &nbsp; 3 December 2022<br>
 <img src="/images/Time.png" style="float:left; width:30px;height:30px"/>
 &nbsp;  &nbsp; 11AM<br>
@@ -37,7 +37,7 @@ href="https://www.instagram.com/reel/CjIf4SdMRMc/?igshid=YmMyMTA2M2Y%3D/" target
 </div>
 
 <div style="line-height:2rem;">
-<strong><U>NORTH WEST</u></strong><br>
+<strong><U>NORTH WEST</u></strong>(Ended)<br>
 <img src="/images/Date.png" style="float:left; width:30px;height:30px"/>&nbsp; &nbsp; 3 December 2022<br>
 <img src="/images/Time.png" style="float:left; width:30px;height:30px"/>
 &nbsp;  &nbsp; 6PM<br>
@@ -56,7 +56,7 @@ href="https://www.instagram.com/p/Ci7KCiuvhpN/" target="_blank">dsaonstage</a>
 </div>
 
 <div style="line-height:2rem;">
-<strong><U>SOUTH EAST</u></strong><br>
+<strong><U>SOUTH EAST</u></strong>(Ended)<br>
 <img src="/images/Date.png" style="float:left; width:30px;height:30px"/>&nbsp; &nbsp; 3 December 2022<br>
 <img src="/images/Time.png" style="float:left; width:30px;height:30px"/>
 &nbsp;  &nbsp; 6PM<br>
@@ -66,7 +66,7 @@ Geylang East Town Centre<br>
 </div>
 
 <div style="line-height:2rem;">
-<strong><U>NORTH EAST</u></strong><br>
+<strong><U>NORTH EAST</u></strong>(Ended)<br>
 <img src="/images/Date.png" style="float:left; width:30px;height:30px"/>&nbsp; &nbsp; 4 December 2022<br>
 <img src="/images/Time.png" style="float:left; width:30px;height:30px"/>
 &nbsp;  &nbsp; 6PM<br>
