@@ -22,13 +22,13 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/chingay-mamashop">Purchase Now</a></span></div></div>
 
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;" src="/images/MamaShop/Honeyspree.png"></div>
+<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;" src="/images/MamaShop/WillNWell.png"></div>
 <div style="font-size: 1rem; padding:.5rem;"> 
 <span style="line-height:2rem;color:#b242a2;font-weight:bold">Will & Well</span><br>Will & Well is an inclusive fashion label founded to improve lives by changing the way we wear clothing. The brand challenges the status quo of fashion by understanding and allowing people’s diverse needs to lead our design. We marry fashion and function through this process to design for a wider range of human diversity with products that work better for everyone.<br>
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/will-well">Purchase Now</a></span></div></div>
 
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;" src="/images/MamaShop/Honeyspree.png"></div>
+<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;" src="/images/MamaShop/NyanaNyana.png"></div>
 <div style="font-size: 1rem; padding:.5rem;"> 
 <span style="line-height:2rem;color:#b242a2;font-weight:bold">Nyana Nyana Eco Fashion</span><br>Nyananyana is a slow fashion brand and a Social Enterprise that focuses on a better product for the maker, the consumer, and the earth at every stage of the supply chain. By using certified (GOTS/Oeko Tex) or precious hand weave fabric, with natural dye from plants. We also recycle pre-consumer textile waste. We work with craftsmen, seamstresses, and a disadvantaged community across Java Island.<br>
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/nyananyana-eco/">Purchase Now</a></span></div></div>
