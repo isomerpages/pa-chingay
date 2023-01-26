@@ -10,8 +10,15 @@ Debuted at Chingay Parade 2022, this is an initiative made possible with the inv
 <div style="padding-top:2rem">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;font-size:2rem">RojakSG</span> &nbsp presented by Ang Mo Kio Cluster</span> 
 
-<div style="overflow:hidden; padding:1rem;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/5IMG1378.jpg"></div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
 
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_275.jpg"></div></div>
+
+</div>
 </div>
 
 <p><span style="font-weight: bold;">About RojakSG</span><br>RojakSG is a display where we celebrate our cultural harmony and welcome contemporary food such as meat-free nuggets and locally sourced ingredients for our favourite delights, as we transit into a more sustainable future.<br>
