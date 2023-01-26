@@ -4,8 +4,7 @@ permalink: /chingay2023-cai/
 description: ""
 third_nav_title: Chingay2023
 ---
-
-<div style="line-height:2rem;">
+<div style="line-height:2rem;font-size:1.1rem">
 <Strong>[FREE ADMISSION]</strong><br>
 5 February 2023 | 2pm - 10pm<br>
 6 - 9 February 2023 | 6pm - 10pm<br>
@@ -30,10 +29,10 @@ F1 Pit Building</div>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:-5rem;" src="/images/whats-on/RAV1.jpg"></div></div>
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:-6rem;" src="/images/whats-on/RAV2.jpg"></div></div>
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_275.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;"></div>
 </div>
