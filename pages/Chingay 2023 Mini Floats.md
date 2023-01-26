@@ -7,8 +7,8 @@ description: ""
 Debuted at Chingay Parade 2022, this is an initiative made possible with the involvement of our residents in co-creating the mini floats and guided by our local artists. A total of 17 unique "Future Singapore" Chingay Mini Floats will be presented at Chingay Parade 2023 and various heartlands, to bring cheers to the community!</p>
 
 
-<div style="padding-top:2rem">
-<span style="font-weight: bold;"><span style="color: #FFAC1C;font-size:2rem">RojakSG</span> presented by Ang Mo Kio Cluster</span> 
+<div style="padding-top:2rem;font-size:2rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">RojakSG</span> presented by Ang Mo Kio Cluster</span> 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 	
