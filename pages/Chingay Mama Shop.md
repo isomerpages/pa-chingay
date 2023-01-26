@@ -69,12 +69,14 @@ Keeping screens away and at the same time having quality dinner time is what I w
 <div style="font-size: 1rem; padding:.5rem;"> 
 <span style="line-height:2rem;color:#b242a2;font-weight:bold">LITTLE BEARNIE</span><br>From teethers, swaddles, baby gift baskets to bibs and educational toys, Little Bearnie is a home-grown brand that has got all your baby gifting needs covered. Awarded the Best Stylish teething accessories and known for their Instagram-worthy teething accessories, Little Bearnie’s collection of teethers, teething necklaces, teething bangles and personalised teething clips are a rage with new mums in the city.
 <br>
-<span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/little-bearnie-official-store/">Purchase Now</a></span></div></div>	
-	
+<span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/little-bearnie-official-store/">Purchase Now</a></span></div></div>
+
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
 <div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;" src="/images/MamaShop/GreatfulDress.jpg"></div>
-<span style="line-height:2rem;color:#b242a2;font-weight:bold">Grateful Dress</span><br>Grateful Dress offers bespoke designing and dressmaking services, as well as styling recommendations. We create timeless and sustainable apparel and matching bags, accessories and other lifestyle items to promote an eco-friendly lifestyle. A believer in sharing what we have, we provide pro-bono sewing workshops to disadvantaged ladies.<br>
-<span style="line-height:2rem"><a target="_blank" href="">Coming Soon</a></span></div></div>	
+<div style="font-size: 1rem; padding:.5rem;"> 
+<span style="line-height:2rem;color:#b242a2;font-weight:bold">Grateful Dress</span><br>Grateful Dress offers bespoke designing and dressmaking services, as well as styling recommendations. We create timeless and sustainable apparel and matching bags, accessories and other lifestyle items to promote an eco-friendly lifestyle. A believer in sharing what we have, we provide pro-bono sewing workshops to disadvantaged ladies.
+<br>
+<span style="line-height:2rem"><a target="_blank" href="">COMING SOON</a></span></div></div>
 
 
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
@@ -83,7 +85,7 @@ Keeping screens away and at the same time having quality dinner time is what I w
 <span style="line-height:2rem;color:#b242a2;font-weight:bold">Vesiderm Pte Ltd</span><br>Vesiderm was started with a focus on developing and commercializing innovative process technologies and applications in the skincare industry. Our story began when a team of scientists at A-STAR Singapore developed an innovative technology to manufacture liposomes rapidly on a massive scale. These liposomes were carefully analysed and verified by electron microscopy, nano particle tracking analysis and mass spectrometry to be “true” liposomes that are uniformly sized with a diameter of 150 nanometers.
 Vesiderm acquired a licence to the technology in 2014, and used the technology to manufacture our proprietary Vesiderm™ Liposomes from egg yolk lecithin as actives in daily skincare products. Rigorous extensive research by A-STAR scientists, in collaboration with KKH Paediatric Dermatologists, found that the topical application of our unique Vesiderm™ liposomes reinforces skin barrier function against chemical agents such as psoriasis-inducing IMQ, thus alleviating inflammation. This discovery represents a new disruptive innovation in skin care and skin moisturising that will be of significant benefit to in alleviating age-associated chronic inflammation and aging process in the skin.
 <br>
-<span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/vesiderm/?path=index.htm">Purchase Now</a></span></div></div>	
+<span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/vesiderm/?path=index.htm">Purchase Now</a></span></div></div>
 
 	
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
