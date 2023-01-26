@@ -91,7 +91,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 
 
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;width:280px;" src="/images/MamaShop/VesidermLogo.png"></div>
+<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;width:210px;" src="/images/MamaShop/VesidermLogo.png"></div>
 <div style="font-size: 1rem; padding:.5rem;"> 
 <span style="line-height:2rem;color:#b242a2;font-weight:bold">Vesiderm Pte Ltd</span><br>Vesiderm was started with a focus on developing and commercializing innovative process technologies and applications in the skincare industry. Our story began when a team of scientists at A-STAR Singapore developed an innovative technology to manufacture liposomes rapidly. Vesiderm acquired a licence to the technology to manufacture Liposomes from egg yolk lecithin as actives in skincare products.
 <br>
