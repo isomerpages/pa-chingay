@@ -111,7 +111,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/herbal-pharm/?path=index.htm">Purchase Now</a></span></div></div>	
 	
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-<div style="height:157px;margin:auto;"><img style=";max-height:130px; width:auto;padding:0.5rem;" src="/images/MamaShop/LiloChingayLogo765523.png"></div>
+<div style="height:157px;margin:auto;"><img style=";max-height:120px; width:auto;padding:0.5rem;" src="/images/MamaShop/LiloChingayLogo765523.png"></div>
 <div style="font-size: 1rem; padding:.5rem;"> 
 <span style="line-height:2rem;color:#b242a2;font-weight:bold">Lilo Health Food (SG) Pte Ltd</span><br>Lilo is a Award Winning local brand in Singapore manufacturing 100% food powders (ikan bilis/ mushroom/scallop/white bait/ kombu in our very own SFA licensed factory in Singapore. Our powders are suitable for babies 6 months and above and for health loving adults to enhance the flavour of food for our family WITHOUT adding MSG, Salt or preservatives.
 <br>
