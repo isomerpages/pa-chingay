@@ -10,7 +10,7 @@ Debuted at Chingay Parade 2022, this is an initiative made possible with the inv
 <div style="padding-top:2rem;font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;">RojakSG</span> presented by Ang Mo Kio Cluster</span> 
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:1rem">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:3rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:;" src="/images/whats-on/IMG_2842.jpg"></div></div>
