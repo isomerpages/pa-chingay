@@ -108,38 +108,38 @@ Vesiderm acquired a licence to the technology in 2014, and used the technology t
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/lilo-premium-ikan-bilis-powder/?itemId=597720037&amp;spm=a2o42.pdp_revamp.seller.1.276e2e03dtmcLJ&amp;path=promotion-35951-0.htm&amp;tab=promotion&amp;channelSource=pdp">Purchase Now</a></span></div></div>	
 	
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;" src="/images/MamaShop/LittleBearnieLogo.png"></div>
+<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;" src="/images/MamaShop/LOVE-SG-Logo.png"></div>
 <div style="font-size: 1rem; padding:.5rem;"> 
 <span style="line-height:2rem;color:#b242a2;font-weight:bold">LOVE SG</span><br>Singapore souvenirs with a heavy dose of local identity. We draw inspiration from all things in our backyard and interpret them into quirky products ranging from ice cube trays to night lights. In short, we've created a line of souvenirs which break with tradition and appeal to both locals who want to celebrate the Singapore identity, and tourists who want a keepsake from their trip here. <br>
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/love-sg1627631839/">Purchase Now</a></span></div></div>	
 	
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;" src="/images/MamaShop/LittleBearnieLogo.png"></div>
+<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;" src="/images/MamaShop/Laugh%20and%20Belly.png"></div>
 <div style="font-size: 1rem; padding:.5rem;"> 
 <span style="line-height:2rem;color:#b242a2;font-weight:bold">Laugh And Belly</span><br>Laugh And Belly is the original Singaporean pun house established in 2016. It is solely managed by one woman - Siqi, the brain and brawn behind these tongue-in-cheek puns and illustrations. Her works have been featured on Yahoo!, MCCY, The Straits Times, etc. Siqi is a self-taught professional illustrator and has worked under the artist moniker Laugh And Belly for Fortune 5 companies such as Apple, Subway, Pocky, and more. She has also published 9 children's books with WS Education, under two exciting series: Coding with Cody and Sophie the Dragon.<br>
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/products/made-in-sg-cute-brooch-pins-of-avocado-bubble-tea-gameboy-egg-bread-tomato-orange-sushi-heart-peach-frog-laughandbelly-singaporean-designer-handmade-goods-laugh-and-belly-i2424993113-s14314844728.html?spm=a2o42.10453684.0.0.222d795eSdkSvm&amp;priceCompare=skuId%3A14314844728%3Bsource%3Alzd-shop-center%3Bsn%3Aa80781b8-7004-4ab2-b0df-c7272a599c8c%3BoriginPrice%3A2000%3BvoucherPrice%3A2000%3Btimestamp%3A1670988856206&amp;search=store">Purchase Now</a></span></div></div>	
 	
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;" src="/images/MamaShop/LittleBearnieLogo.png"></div>
+<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;" src="/images/MamaShop/ScentbySixlogo.png"></div>
 <div style="font-size: 1rem; padding:.5rem;"> 
 <span style="line-height:2rem;color:#b242a2;font-weight:bold">Scent by SIX</span><br>Scent by SIX aims to create purposeful, sustainable fragrances to soothe, heal and delight our mental wellness. We actively give back to society through raising awareness of mental well being and supporting non-profit organizations in our community.
 <br>
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/products/i701890878.html?spm=a1zawe.24863640.table_online_product.9.539f4edfTvhzhr">Purchase Now</a></span></div></div>
 	
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;" src="/images/MamaShop/LittleBearnieLogo.png"></div>
+<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;" src="/images/MamaShop/JuiceStoriesLLP.png"></div>
 <div style="font-size: 1rem; padding:.5rem;"> 
 <span style="line-height:2rem;color:#b242a2;font-weight:bold">Juice Stories LLP</span><br>Juice Stories is a social enterprise supporting beneficiaries who are older and special needs workers through employment in making cold-pressed juices. Our juices are made 100% from vegetables and fruits without adding water, ice, sugar or preservatives. We follow eco-friendly business practices and donate pulp to schools and clients to compost as fertilisers. Every dollar spent by clients contributes to the employment and training of our beneficiaries.<br>
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/juice-stories-health/?spm=a2o42.pdp_revamp.seller.1.5ce6477cDg6Yq1&amp;itemId=2239815961&amp;channelSource=pdp">Purchase Now</a></span></div></div>
 	
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;" src="/images/MamaShop/LittleBearnieLogo.png"></div>
+<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;" src="/images/MamaShop/JOURNEYLogo.png"></div>
 <div style="font-size: 1rem; padding:.5rem;"> 
 <span style="line-height:2rem;color:#b242a2;font-weight:bold">JOURNEY</span><br>JOURNEY is a brand under TOUCH Community Services that represents the creative talents of people with intellectual disabilities. Through this platform, the artwork of artists with special needs from TOUCH are recognised.<br>
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/journey-special1627460749/">Purchase Now</a></span></div></div>
 	
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;" src="/images/MamaShop/LittleBearnieLogo.png"></div>
+<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;" src="/images/MamaShop/CuiNyonyaLogo.png"></div>
 <div style="font-size: 1rem; padding:.5rem;"> 
 <span style="line-height:2rem;color:#b242a2;font-weight:bold">Cui Nyonya Kueh</span><br>Started in the pandemic, Cui Nyonya Kueh is a private HBB based in Tampines that brings in colours and taste to your life. All Nyonya Kuehs, Teochew kuehs and Hakka kuehs are freshly made on the day of collection. All kuehs are made using Natural ingredients, natural colourings and preservative free.<br>
 <span style="line-height:2rem"><a target="_blank" href="Coming Soon">Purchase Now</a></span></div></div>
