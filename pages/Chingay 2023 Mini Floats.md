@@ -21,11 +21,11 @@ Debuted at Chingay Parade 2022, this is an initiative made possible with the inv
 </div>
 </div>
 
-<div style="padding:.5rem; font-size:1.1rem"><span style="font-weight: bold;">About RojakSG</span><br>RojakSG is a display where we celebrate our cultural harmony and welcome contemporary food such as meat-free nuggets and locally sourced ingredients for our favourite delights, as we transit into a more sustainable future.<br>
+<div style="padding:.5rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About RojakSG</span><br>RojakSG is a display where we celebrate our cultural harmony and welcome contemporary food such as meat-free nuggets and locally sourced ingredients for our favourite delights, as we transit into a more sustainable future.<br>
 With technological innovations in production such as vertical farming and logistics, we are able to enjoy a variety of ingredients and local produce and progress towards enhancement of food security in Singapore. <br>
 We aspire to have every bite of food, proudly grown in abundance, in our homeland, Singapore. 
 </div>
-<div style="padding:.5rem; font-size:1.1rem"><span style="font-weight: bold;">Co-Creation</span><br>RojakSG was co-created with residents from the Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs, guided by artist Amanda Lim.<br>Residents got to work on different materials such as paper mâché, clay, and designed motif on the tingkat as well as the many food sculptures that the float showcases. 
+<div style="padding:.5rem; font-size:1.1rem;line-height:2rem;"><span style="font-weight: bold;">Co-Creation</span><br>RojakSG was co-created with residents from the Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs, guided by artist Amanda Lim.<br>Residents got to work on different materials such as paper mâché, clay, and designed motif on the tingkat as well as the many food sculptures that the float showcases. 
 
 </div>
 
