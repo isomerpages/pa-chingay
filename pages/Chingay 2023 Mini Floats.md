@@ -35,13 +35,14 @@ We aspire to have every bite of food, proudly grown in abundance, in our homelan
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding-left:3rem;padding-right:3rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:;" src="/images/whats-on/IMG_2842.jpg"></div></div>
-
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:;" src="/images/whats-on/IMG_275.jpg"></div></div>
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_275.jpg"></div></div>
+
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Cruising to the Future</span><br>Singapore River Cruise has been an iconic transport, well-known amongst locals and tourists to get around the scenic Singapore river for an unforgettable experience.<br>This mini float depicts how the future Singapore River Cruise will look like in 2050 - minimalist, sleek and futuristic. <br>The lantern-like mini float presented in batik art form, with iconic places within the GRC could be seen on both sides with futuristic background elements depicting how Singapore will sail smoothly towards the future while maintaining her strong cultural values of the diverse communities.
@@ -55,19 +56,18 @@ We aspire to have every bite of food, proudly grown in abundance, in our homelan
 <div style="padding-top:2rem;font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;">RojakSG</span> presented by Ang Mo Kio Cluster</span> 
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding-left:3rem;padding-right:3rem">
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:;" src="/images/whats-on/IMG_2842.jpg"></div></div>
-
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_275.jpg"></div></div>
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:;" src="/images/whats-on/IMG_275.jpg"></div></div>
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Delivering the Future</span><br>Delivering the Future was designed to deliver food from the past and present, into our future.<Br>Whilst technologies in Singapore continue to advance, let us not forget to bring our rich heritage and cultures into our future. <br>Our extensive list of food portrays the different faces of Singapore, be it Katong Laksa, Satay at Lau Pa Sat or traditional Peranakan cakes – each have a story to tell. <br>All thanks to our robust delivery system, we can have all these food sent to our doorsteps, using hover cars and bicycles, and even delivery drones. <br>The artwork also highlights the importance of recycling and sustainability, where upcycled materials are infused to the futuristic looking float.
 
 </div>
-<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About the Co-Creation</span><br>The artwork is the effort of Jalan Besar GRC and Potong Pasir SMC residents, guided by  artist Jackson Teo.  Residents came together to share their stories, aspiration of food culture and technologies that could improve our life and in the process, learnt new skills and made new friends while being part of the co-creation of the art installation.Participants crafted t-shirt yarns and patchworks from unwanted garments, contributing to green efforts and showcasing a vibrant future delivery system. </div>
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About the Co-Creation</span><br>The artwork is the effort of Jalan Besar GRC and Potong Pasir SMC residents, guided by  artist Jackson Teo.  Residents came together to share their stories, aspiration of food culture and technologies that could improve our life and in the process, learnt new skills and made new friends while being part of the co-creation of the art installation. Participants crafted t-shirt yarns and patchworks from unwanted garments, contributing to green efforts and showcasing a vibrant future delivery system. </div>
