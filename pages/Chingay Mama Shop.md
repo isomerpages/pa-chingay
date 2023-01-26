@@ -47,7 +47,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/mrphy">Purchase Now</a></span></div></div>
 
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-<div style="width:228px;height:157px;margin:auto;"><img style="padding:.5rem;max-height:157px; width:auto;" src="/images/MamaShop/BusyMatLogo.png"></div>
+<div style="width:228px;height:157px;margin:auto;"><img style="padding:.5rem; max-height:157px; width:auto;" src="/images/MamaShop/BusyMatLogo.png"></div>
 <div style="font-size: 1rem; padding:.5rem;"> 
 <span style="line-height:2rem;color:#b242a2;font-weight:bold">Busy Mat</span><br>Busy Mat is started by a mummy who loves to doodle and colour, so I would like to share this passion of mine with my little girl too. I treasure spending quality family time together, just like how I was brought up. I especially love meal times when we come together to share about our day and how a simple dinner can create so much fond memories together. I used to print many colouring pages for my girl to colour. But after a while, I realised that this is not sustainable, and how can I create a little something where colouring and dining can coexist together. That’s how Busy Mat came about. Fun, Learn and Dine with Busy Mat 
 We want dining to be fun, interactive and educational 
