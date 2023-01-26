@@ -13,13 +13,13 @@ Debuted at Chingay Parade 2022, this is an initiative made possible with the inv
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:1rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem"></div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:;" src="/images/whats-on/IMG_2842.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem"></div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:;" src="/images/whats-on/IMG_2842.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem"></div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:;" src="/images/whats-on/IMG_275.jpg"></div></div>
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:;" src="/images/whats-on/IMG_275.jpg"></div></div>
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About RojakSG</span><br>RojakSG is a display where we celebrate our cultural harmony and welcome contemporary food such as meat-free nuggets and locally sourced ingredients for our favourite delights, as we transit into a more sustainable future.<br>
