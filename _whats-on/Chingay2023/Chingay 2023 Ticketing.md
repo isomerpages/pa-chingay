@@ -14,6 +14,10 @@ Indulge in the colourful and vibrant Chingay Parade brought to you by the divers
 <img src="/images/Venue.png" style="float:left; width:30px;height:30px"/> &nbsp; &nbsp; 
 F1 Pit Building<br>
 <img src="/images/Tickets.png" style="float:left; width:30px;height:30px"/>&nbsp; &nbsp;  $60 / $50 / $40 / $28.50 / $20 (excludes booking fee) <br>
-PAssion Card Members get to enjoy 20% discount!<br><br></div>
+PAssion Card Members get to enjoy 20% discount!<br>
+
+Limited wheelchair accessible seating is available at the venue. Please contact us at PA_ACD@pa.gov.sg to make purchase.  
+
+<br><br></div>
 
 <div style="display: block; margin: auto; text-align:center; border:3px solid #2d6ffa; width:fit-content;"><a style="text-decoration:none;" href="https://go.gov.sg/chingay2023tickets/"><div style="padding:1rem"><b>GET YOUR TICKETS NOW!</b></div></a></div>
