@@ -225,3 +225,166 @@ We aspire to have every bite of food, proudly grown in abundance, in our homelan
 Representing Future Singapore, the levitated spacecraft design is a vivid imagination of our future transport. <br>In 2050, flights are predicted to be more commercially available with drone technology and better air traffic management systems using cloud and Artificial Intelligence transportation system.<br>Even with advanced technology, sustainability is key, which is portrayed by the construction of the spacecraft made from mostly environmentally friendly materials like recycled wood.</div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Co-Creation</span><br>This artwork is the collective effort of residents from Holland-Bukit Timah GRC and Bukit Panjang, guided by artist Fish Jafaar. <br>These residents learnt the technique of colour blending and painted futuristic design for the cityscape.  Just like the Holland-Bukit Timah GRC's cityscape, the spacecraft’s modular design is ever-evolving as highlighted by residents' co-creation of the retrofitting and customisations. </div>
+
+
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">Matrix: Our Future Home</span> presented by Nee Soon Cluster</span></div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_275.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Matrix: Our Future Home</span><br>Matrix: Our Future Home represents our home in the future that is filled with futuristic elements arranged in rows and columns of emerging boxes, just like the matrix.<br>This matrix of future elements are represented by reflective glitter cubes, and are kept alive as they rotate in a constant speed.<br>The rotating feature also highlights the change that is always constant in our future. 
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Co-Creation</span><br>This artwork is the collective effort of Nee Soon GRC residents, guided by artist Sharleen Leong. More than 2,000 pieces of styrofoam tiles were created by residents as part of the installation.<br>Residents expressed their hopes and dreams for Singapore in 2050 through their designs on the reflective glitter tiles. A total of 32 different structures were then put together to represent Matrix: Our Future Home. 
+</div>
+
+
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">Germination</span> presented by Sembawang Cluster</span></div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_275.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Germination</span><br>Germination brings a futuristic dynamism into the space, an imaginative fruit of the future that represents the harvest from our technological achievements and advancements over the years.<br>It expresses the progress of Singapore’s development, the nature of our inter-connectedness within our diverse communities and the city state’s ‘fruitful investments’ to be a smart city in the near future. 
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Co-Creation</span><br>This artwork is the collective effort of Sembawang GRC residents, guided by artist Barry Yeow. <br>With the theme of Future Singapore, residents expressed their aspirations for their homeland in 2050.  More than 200 pieces of the CDs painted by residents were used as part of the installation. 
+</div>
+
+
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">Futuristic Garden City</span> presented by East Coast Cluster</span></div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_275.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Futuristic Garden City</span><br>Futuristic Garden City, inspired by Singapore's garden city, took a bolder and whimsical view of this garden city, and re-imagined it in a futuristic theme. <br>The vision of Singapore as a garden city was introduced in the 1960s by our Founding Father, Mr Lee Kuan Yew. 60 years later, we have abundance of trees across the country.<br>The Futuristic Garden City is what we envision Singapore will be with the infusion of technology and digitalisation with buildings shaped like giant blooming mushrooms, inspired by our very own Gardens by the Bay Supertrees.
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Co-Creation</span><br>This artwork is the collective effort of East Coast GRC residents, guided by artist Jesse Leong. <br>Residents came together to design beautiful mosaic tiles which were assembled into the Futuristic Garden City. 
+</div>
+
+
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">Bountiful Blessings</span> presented by Marine Parade Cluster</span></div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_275.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Futuristic Garden City</span><br>Gumball machines are said to be invented in the late 19th century, providing happiness and a sense of excitement to kids.<br>Similar to the excitement and anticipation one gets from dispensing the candies and toys, Bountiful Blessings represents the excitement and anticipation Singaporeans have for the future of their homeland. This is showcased by the colourful rubber balls painted by residents which simulate the candies and toy capsules in the machines. <br>Through this artwork, one can visualise residents hopes and blessings for Singapore's future. 
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Co-Creation</span><br>This artwork is the collective effort of Marine Parade GRC, MacPherson SMC and Mountbatten SMC residents, guided by artist Eileen Low. <br>Residents painted their hopes and blessing for Singapore’s future onto the colourful ‘gumballs’ to signify abundance and vibrancy in Future Singapore.  
+</div>
+
+
+
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">Through the Looking Lens</span> presented by Chua Chu Kang Cluster</span></div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_275.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Through the Looking Lens</span><br>Through The Looking Lens is an inspiration drawn from the world-renowned author Lewis Carroll’s “Through the Looking Glass”. <br>A metaphor to describe a world that seems unfamiliar such as when things are turned upside down, instead of going through a mirror like in the novel, we took to one of Singaporeans’ favourite hobbies of photography and used the camera instead. <br>The wire sculpture rabbit is a tribute to the rabbit in the novel and a nod to the lunar year of the rabbit, injecting a fun whimsical feel to the artwork. The rabbit looks like it is hopping to look into the camera lens out of curiosity of how Singapore’s future will look like. 
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Co-Creation</span><br>This artwork is the collective effort of Chua Chu Kang GRC and Hong Kah North SMC residents, guided by artist Leong Yew Thong. <br>Residents learnt about metal tooling art; which involved sculpting the aluminium sheets using simple tools such as pens and chopsticks, which were then assembled to form the rabbit and camera. 
+</div>
+
+
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">Green Living</span> presented by Jurong Cluster</span></div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_275.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Green Living</span><br>Green Living is a visual metaphor of eco-sustainability, portraying a way to directly reduce the negative impacts of climate change as it encourages individuals to reduce their own carbon footprint, which collectively can help reduce global temperature. <br>The artwork is a reminder that green living not only allows you to improve health and sustainability within your own life, but it also helps pave the way for a brighter future for life in Singapore, and on Earth. 
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Co-Creation</span><br>This artwork is put together by residents from Jurong GRC, Bukit Batok SMC and Yuhua SMC. Under the guidance of artist Ng Khin Wee, more than 1,000 felt leaves were created. <br>Participants took pride to join the artist in assembling the leaves to form the Green Living float. 
+</div>
+
+
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">Winds of Future</span> presented by West Coast Cluster</span></div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_275.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Green Living</span><br>Winds Of Future celebrates our multicultural heritage with a playful aesthetic sculpture. Drawing inspiration from the colours of our national flower, Singapore Orchid, the colours of the acrylic will reflect their purple, pink and reddish hues. <br>As Singapore’s national flower, it is a symbol of our Lion City’s character of resilience. It also represents the harmony amongst our different ethnic communities.<br>The vibrant sculpture, with a field of botanically inspired windmill sculptures, creates a curious moment within a man-made environment which will invite viewers to explore, engage and imagine what the future with green energy entails. 
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Co-Creation</span><br>This artwork is the collective effort of West Coast GRC and Pioneer SMC residents, guided by artists Chloë Manasseh and Dawn Tam. <br>Residents had come together to design and paint the windmills, which were eventually assembled into the Futuristic Garden City. 
+</div>
