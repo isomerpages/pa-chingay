@@ -8,7 +8,7 @@ Debuted at Chingay Parade 2022, this is an initiative made possible with the inv
 
 
 <div style="padding-top:2rem;font-size:1.5rem;">
-<span style="font-weight: bold;"><span style="color: #FFAC1C;">RojakSG</span> presented by Ang Mo Kio Cluster</span> 
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">RojakSG</span> presented by Ang Mo Kio Cluster</span></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
 
@@ -30,7 +30,7 @@ We aspire to have every bite of food, proudly grown in abundance, in our homelan
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About the Co-Creation</span><br>RojakSG was co-created with residents from the Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs, guided by artist Amanda Lim.<br>Residents got to work on different materials such as paper mâché, clay, and designed motif on the tingkat as well as the many food sculptures that the float showcases. </div>
 
 <div style="padding-top:2rem;font-size:1.5rem;">
-<span style="font-weight: bold;"><span style="color: #FFAC1C;">Cruising to the Future</span> presented by Bishan – Toa Payoh Cluster</span> 
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">Cruising to the Future</span> presented by Bishan – Toa Payoh Cluster</span></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
 
@@ -54,7 +54,7 @@ We aspire to have every bite of food, proudly grown in abundance, in our homelan
 
 	
 <div style="padding-top:2rem;font-size:1.5rem;">
-<span style="font-weight: bold;"><span style="color: #FFAC1C;">Delivering the Future</span> presented by Jalan Besar Cluster</span> 
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">RojakSG</span> presented by Ang Mo Kio Cluster</span></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
 
@@ -73,3 +73,155 @@ We aspire to have every bite of food, proudly grown in abundance, in our homelan
 
 </div>
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About the Co-Creation</span><br>The artwork is the effort of Jalan Besar GRC and Potong Pasir SMC residents, guided by  artist Jackson Teo.  Residents came together to share their stories, aspiration of food culture and technologies that could improve our life and in the process, learnt new skills and made new friends while being part of the co-creation of the art installation. Participants crafted t-shirt yarns and patchworks from unwanted garments, contributing to green efforts and showcasing a vibrant future delivery system. </div>
+
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">Thinking 2050</span> presented by Tanjong Pagar Cluster</span></div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_275.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Thinking 2050</span><br> Thinking 2050 encapsulates Singapore's future by reflecting on the past, cherishing the present, and forging ahead towards 2050. <br>The sculpture embodies Singapore's vision of becoming a nature-laden garden city, progressively striving for robust economic and commercial growth, while leveraging artificial intelligence and technological advancement. These are symbolised by the floral designs, clockwork animation, robotic humanoid as featured on the float.
+
+</div>
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About the Co-Creation</span><br> Guided by artist Tay Swee Siong, residents of Tanjong Pagar GRC and Radin Mas SMC expressed their creativity through a variety of art forms such as string art, acrylic pouring and the use of upcycled domestic materials such as plastic containers, leftover metal parts, unwanted metal utensils, discarded fan parts and fabric from broke umbrellas as its art mediums.<br>These pieces are assembled into a sculpture that represents the residents’ vision for Singapore 2050.</div>
+
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">SG2050 Lantern Festival</span> presented by Aljunied Cluster</span></div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_275.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About SG2050 Lantern Festival</span><br>Light is often a symbol of love, hope, warmth, and peace and is an integral part of our lives that we celebrate in different ways in different parts of the world. <br>One common way to celebrate light is in the form of lantern festivals. Some celebrate light by decorating homes and streets with them. From cultural and religious occasions like the Deepavali and Spring Lantern Festivals   to the celebration of positive spirit and kindness, lantern festivals are truly a sight to behold.<br>Inspired by this notion, the artwork is a celebration of a Singapore Lantern Festival in the future. </div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About the Co-Creation</span><br>This artwork is the collective effort of Aljunied GRC and Hougang SMC residents led by artist Sebastian Chun. Residents co-created their dream lanterns to celebrate SG2050 Lantern Festival. Inspired by nature, participants painted designs and motifs of flora, fauna and even animals. <br>Families also took pride to assemble their lanterns onto the mini float. </div>
+
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;"> Avant Garde 2050</span> presented by Aljunied Cluster</span></div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_275.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Avant Garde 2050</span><br>This float envisions the projection of “Singapore Onwards” in the next 3 decades, where Singaporeans optimise resources and meet the needs of current and future generations. <br> Avant Garde 2050 represents a fine balance between social and environmental considerations for urban development where future Singapore will traverse on technology to boost growth, and eco-friendly houses and vibrant towns that blend work, education and play by harnessing renewable energy and incorporating climate smart conservation. <br>Avant Garde 2050 represents the hallmark of Singapore’s modernism. </div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About the Co-Creation</span><br>This artwork is the collective effort of Pasir Ris – Punggol GRC and Punggol West SMC residents, guided by artist Mona.<br>Participants learnt to handle clay, form cylinders and design them with motif. More than 200 Terracotta Tubes and Kokedama Plants were created and assembled into the Avant Garde 2050. </div>
+
+
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">Batik Artworks of Singapore</span> presented by Sengkang Cluster</span></div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_275.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">Batik Artworks of Singapore</span><br>About Batik Artworks of Singapore is a representation of Old and New, Reflections of the Past and Hope for the Future. <br>Our landscape is constantly evolving with emergence of world-class buildings. Yet, whilst we continue to move forward, we still hold dearly onto what makes us Singaporeans – our rich cultures and harmonious society, complemented by our beautiful garden city of natural flora and fauna. 
+ </div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About the Co-Creation</span><br>This artwork is the collective effort Sengkang GRC residents, guided by artist Amruthaa Kalaiselvan. <br>Through the workshops, participants had hands-on experience to try different types of tjanting; to outline the designs on the fabric using hot wax. Additionally, they were introduced to advanced batik painting where they blended colours to create special gradient ombre effects on their works. 
+</div>
+
+
+
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">Year of the Rabbit</span> presented by Tampines Cluster</span></div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_275.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Year of the Rabbit</span><br>Inspired by the zodiac for the Chinese New Year 2023 - the Rabbit, the artwork features rabbit astronauts in the heart of the city, portraying a fun and futuristic Singapore. <br>In the current global situation, whilst many countries are still recovering from Covid, the artwork injects a hopeful perspective to achieve a colourful future in Singapore, highlighted with its futuristic elements. 
+
+ </div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About the Co-Creation</span><br>This artwork is the collective effort of Tampines GRC residents, guided by artist Dzulkarnaen. <br>Residents started with shaping different solid foams and plastic boards, and then meticulously brushed or spray-painted to build the futuristic landscape that they imagined, accompanied by the rabbit astronauts.</div>
+
+
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">Future Singapore</span> presented by Holland – Bukit Timah Cluster</span></div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_275.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Future Singapore</span><br>Representing Future Singapore, the levitated spacecraft design is a vivid imagination of our future transport. <br>In 2050, flights are predicted to be more commercially available with drone technology and better air traffic management systems using cloud and Artificial Intelligence transportation system.<br>Even with advanced technology, sustainability is key, which is portrayed by the construction of the spacecraft made from mostly environmentally friendly materials like recycled wood.</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Co-Creation</span><br>This artwork is the collective effort of residents from Holland-Bukit Timah GRC and Bukit Panjang, guided by artist Fish Jafaar. <br>These residents learnt the technique of colour blending and painted futuristic design for the cityscape.  Just like the Holland-Bukit Timah GRC's cityscape, the spacecraft’s modular design is ever-evolving as highlighted by residents' co-creation of the retrofitting and customisations. </div>
+	
+	
+
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">Blooming Flowers, Garden City</span> presented by Holland – Bukit Timah Cluster</span></div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_275.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Blooming Flowers, Garden City</span><br>
+Representing Future Singapore, the levitated spacecraft design is a vivid imagination of our future transport. <br>In 2050, flights are predicted to be more commercially available with drone technology and better air traffic management systems using cloud and Artificial Intelligence transportation system.<br>Even with advanced technology, sustainability is key, which is portrayed by the construction of the spacecraft made from mostly environmentally friendly materials like recycled wood.</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Co-Creation</span><br>This artwork is the collective effort of residents from Holland-Bukit Timah GRC and Bukit Panjang, guided by artist Fish Jafaar. <br>These residents learnt the technique of colour blending and painted futuristic design for the cityscape.  Just like the Holland-Bukit Timah GRC's cityscape, the spacecraft’s modular design is ever-evolving as highlighted by residents' co-creation of the retrofitting and customisations. </div>
