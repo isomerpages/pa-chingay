@@ -4,8 +4,6 @@ permalink: /chingaymamashop/
 description: ""
 third_nav_title: Chingay2023
 ---
-
-
 The [Chingay Mama Shop](https://pages.lazada.sg/wow/gcp/route/lazada/sg/upr_1000345_lazada/channel/sg/upr-router/sg?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/sg/chingay2022/chingaymamashop2022) is back in 2023!  We have brought together more local merchants and designers this time round! Be part of the movement to #SupportLocal businesses and #DoGoodWithUs.  Part of the sale proceeds of selected items will go towards supporting the vulnerable groups. 
 
 Special thanks to Lazada, our Official E-Commerce Platform. 
@@ -156,4 +154,4 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 </div>
 
 
-<div><br><br>Be part of the third edition of Chingay Mama Shop! Click <a target="_blank" href="https://pa-chingay-staging.netlify.app/chingay2023-mamashop/">here</a> to find out more.
+<div style="font-size:1.2rem;"><br><br>Be part of Chingay Mama Shop! Click <a target="_blank" href="https://pa-chingay-staging.netlify.app/chingay2023-mamashop/">here</a> to find out more.
