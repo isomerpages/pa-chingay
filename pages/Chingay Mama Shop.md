@@ -149,3 +149,6 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 
 
 </div>
+
+
+<div><br><br>Be part of the third edition of Chingay Mama Shop! Click <a target="_blank" href="https://pa-chingay-staging.netlify.app/chingay2023-mamashop/">here</a> to find out more.
