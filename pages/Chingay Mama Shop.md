@@ -65,7 +65,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 <div style="font-size: 1rem; padding:.5rem;"> 
 <span style="line-height:2rem;color:#b242a2;font-weight:bold">Homeground Coffee Roasters Pte Ltd</span><br>Started in 2017 by passionate individuals, Homeground was set up with the purpose of nurturing the home-brewing community in Singapore. This aim is reflected in our selection of coffee, equipments and unique experiences that is carefully curated for home brewing.
 <br>
-<span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/products/espresso-roast-vanta-i2635957092-s16821409411.html?spm=a2o42.10453684.0.0.f11c55acsgqQoV&priceCompare=skuId%3A16821409411%3Bsource%3Alzd-shop-center%3Bsn%3Af3ea9b89-2811-4474-a557-8e57b3bb059a%3BoriginPrice%3A2200%3BvoucherPrice%3A2200%3Btimestamp%3A1674800148329&search=store">Coming Soon</a></span></div></div>	
+<span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/products/espresso-roast-vanta-i2635957092-s16821409411.html?spm=a2o42.10453684.0.0.f11c55acsgqQoV&priceCompare=skuId%3A16821409411%3Bsource%3Alzd-shop-center%3Bsn%3Af3ea9b89-2811-4474-a557-8e57b3bb059a%3BoriginPrice%3A2200%3BvoucherPrice%3A2200%3Btimestamp%3A1674800148329&search=store">Purchase Now</a></span></div></div>	
 
 
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
