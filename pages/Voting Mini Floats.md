@@ -33,7 +33,7 @@ Click <span style="text-decoration:underline; color:#345bcc">vote</span> to vote
 	
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem; border-radius: 10px">
-<div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-.5rem;" src="/images//images/Chingay2023MiniFloats/Pasir-RisPunggolCluster.jpg"></div>
+<div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-.5rem;" src="/images/Chingay2023MiniFloats/Pasir-RisPunggolCluster.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Avant Garde 2050</span><br><span>presented by Pasir Ris – Punggol Cluster</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d339c40d26690011edf728?622f011a09260b0012490c8c=Avant%20Garde%202050" target="_blank">VOTE</a></span></div></div>
 	
 	
