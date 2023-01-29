@@ -5,7 +5,6 @@ description: ""
 ---
 # Exclusive Experiences
 
-
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
@@ -15,7 +14,7 @@ description: ""
 	
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
+<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:-9rem;" src="/images/CTE/Panelist.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
 <span style="font-weight: bold">Chingay Sharing</span><br>A sharing by the Artistic Director(Float and Costumes), Music Director, Multimedia Director and Art Director about the ideation and their experience of Chingay 2023<br>
 <span style="line-height:2rem"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">Register Here</a></span></div></div>
 
