@@ -116,7 +116,7 @@ We aspire to have every bite of food, proudly grown in abundance, in our homelan
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About the Co-Creation</span><br>This artwork is the collective effort of Aljunied GRC and Hougang SMC residents led by artist Sebastian Chun. Residents co-created their dream lanterns to celebrate SG2050 Lantern Festival. Inspired by nature, participants painted designs and motifs of flora, fauna and even animals. <br>Families also took pride to assemble their lanterns onto the mini float. </div>
 
 <div style="padding-top:2rem;font-size:1.5rem;">
-<span style="font-weight: bold;"><span style="color: #FFAC1C;"> Avant Garde 2050</span> presented by Aljunied Cluster</span></div>
+<span style="font-weight: bold;"><span style="color: #FFAC1C;"> Avant Garde 2050</span> presented by Pasir Ris – Punggol Cluster</span></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
 
