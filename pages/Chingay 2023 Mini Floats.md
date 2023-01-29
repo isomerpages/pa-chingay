@@ -142,7 +142,7 @@ We aspire to have every bite of food, proudly grown in abundance, in our homelan
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/BatikArtworksofSingapore1.jpg"></div></div>
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:-5rem;" src="/images/Chingay2023MiniFloats/SengkangCluster.jpeg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/BatikArtworksofSingapore1.jpg"></div></div>
@@ -166,7 +166,7 @@ We aspire to have every bite of food, proudly grown in abundance, in our homelan
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/YearoftheRabbit1.jpg"></div></div>
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/TampinesCluster.jpeg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/YearoftheRabbit1.jpg"></div></div>
@@ -189,7 +189,7 @@ We aspire to have every bite of food, proudly grown in abundance, in our homelan
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/FutureSingapore1.jpg"></div></div>
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/HBTMiniFloat.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/FutureSingapore1.jpg"></div></div>
@@ -211,7 +211,7 @@ We aspire to have every bite of food, proudly grown in abundance, in our homelan
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/BloomingFlowers,GardenCity1.png"></div></div>
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/Marsiling-Yew Tee Cluster.jpeg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/BloomingFlowers,GardenCity1.png"></div></div>
@@ -233,7 +233,7 @@ Representing Future Singapore, the levitated spacecraft design is a vivid imagin
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/MatrixOurFutureHome1.jpg"></div></div>
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/NeeSoonCluster.jpeg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/MatrixOurFutureHome1.jpg"></div></div>
@@ -256,7 +256,7 @@ Representing Future Singapore, the levitated spacecraft design is a vivid imagin
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/Germination1.jpg"></div></div>
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/SembawangCluster.jpeg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/Germination1.jpg"></div></div>
@@ -279,7 +279,7 @@ Representing Future Singapore, the levitated spacecraft design is a vivid imagin
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/FuturisticGardenCity1.jpg"></div></div>
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/EastCoastCluster.jpeg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/FuturisticGardenCity1.jpg"></div></div>
