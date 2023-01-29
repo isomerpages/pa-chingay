@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Chingay2023
 ---
 # Walking Route
-![](/images/whats-on/Chingay%202023%20Walking%20Route%20Map%20w%20Advisory.png)
+![](/images/whats-on/Chingay%202023%20Walking%20Route%20Map%20w%20Advisory(FreeStanding).png)
 
-[Download Walking Route Here](/files/whats-on/Chingay%202023%20Walking%20Route%20Map%20w%20Advisory.pdf)
+[Download Walking Route Here](/files/whats-on/Chingay%202023%20Walking%20Route%20Map%20w%20Advisory(FreeStanding).pdf)
 
 # Road Closure
 
@@ -16,4 +16,3 @@ The general public is encouraged to take note of the following road closure arra
 <div><img src="/images/whats-on/RoadClosure.png"></div>
 
 Nearest Carpark: Millenia Walk & Suntec City
-
