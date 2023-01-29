@@ -26,7 +26,7 @@ description: ""
 </div>
 
 
-**Workshops**
+# Workshops
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 	
