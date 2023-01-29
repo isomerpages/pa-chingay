@@ -17,22 +17,24 @@ Click <span style="text-decoration:underline; color:#345bcc">vote</span> to vote
 	
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem; border-radius: 10px">
-<div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-.5rem;" src="/images/Chingay2023MiniFloats/Bishan-ToaPayohCluster.jpeg"></div>
+<div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-.5rem;" src="/images/Chingay2023MiniFloats/Jalanbesar.jpeg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Delivering the Future</span><br><span>presented by Jalan Besar Cluster</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d339c40d26690011edf728?622f011a09260b0012490c8c=Delivering%20the%20Future" target="_blank">VOTE</a></span></div></div>
 	
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/TanjongPagarCluster.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem;text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Thinking 2050</span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d339c40d26690011edf728?622f011a09260b0012490c8c=Thinking%202050" target="_blank">VOTE</a></span><br><span style="float:left">presented by Tanjong Pagar Cluster</span></div></div>
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem; border-radius: 10px">
+<div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-.5rem;" src="/images/Chingay2023MiniFloats/TanjongPagarCluster.jpg"></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Thinking 2050</span><br><span>presented by Tanjong Pagar Cluster</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d339c40d26690011edf728?622f011a09260b0012490c8c=Thinking%202050" target="_blank">VOTE</a></span></div></div>
 	
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-8rem;" src="/images/Chingay2023MiniFloats/Aljuniedcluster.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem;text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">SG2050 Lantern Festival</span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d339c40d26690011edf728?622f011a09260b0012490c8c=SG2050%20Lantern%20Festival" target="_blank">VOTE</a></span><br><span style="float:left">presented by Aljunied Cluster</span></div></div>
-
 	
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-11rem;" src="/images/Chingay2023MiniFloats/Pasir-RisPunggolCluster.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem;text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Avant Garde 2050</span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d339c40d26690011edf728?622f011a09260b0012490c8c=Avant%20Garde%202050" target="_blank">VOTE</a></span><br><span style="float:left">presented by Pasir Ris – Punggol Cluster</span></div></div>
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem; border-radius: 10px">
+<div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-.5rem;" src="/images/Chingay2023MiniFloats/Aljuniedcluster.jpg"></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">SG2050 Lantern Festival</span><br><span>presented by Aljunied Cluster</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d339c40d26690011edf728?622f011a09260b0012490c8c=SG2050%20Lantern%20Festival" target="_blank">VOTE</a></span></div></div>
+	
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem; border-radius: 10px">
+<div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-.5rem;" src="/images//images/Chingay2023MiniFloats/Pasir-RisPunggolCluster.jpg"></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Avant Garde 2050</span><br><span>presented by Pasir Ris – Punggol Cluster</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d339c40d26690011edf728?622f011a09260b0012490c8c=Avant%20Garde%202050" target="_blank">VOTE</a></span></div></div>
 	
 	
 	
