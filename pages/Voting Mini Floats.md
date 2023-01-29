@@ -66,39 +66,32 @@ Click <span style="text-decoration:underline; color:#345bcc">vote</span> to vote
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem; border-radius: 10px">
 <div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-6rem;" src="/images/Chingay2023MiniFloats/Pasir-RisPunggolCluster.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Germination</span><br><span>presented by Sembawang Cluster</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d339c40d26690011edf728?622f011a09260b0012490c8c=Germination" target="_blank">VOTE</a></span></div></div>
-	
+
 
 	
-	
-	
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem;text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Futuristic Garden City</span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d339c40d26690011edf728?622f011a09260b0012490c8c=Futuristic%20Garden%20City" target="_blank">VOTE</a></span><br><span style="float:left">presented by East Coast Cluster</span></div></div>
-	
-	
-	
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem;text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Bountiful Blessings</span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d339c40d26690011edf728?622f011a09260b0012490c8c=Bountiful%20Blessings" target="_blank">VOTE</a></span><br><span style="float:left">presented by Marine Parade Cluster</span></div></div>
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem; border-radius: 10px">
+<div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/Pasir-RisPunggolCluster.jpg"></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Futuristic Garden City</span><br><span>presented by East Coast Cluster</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d339c40d26690011edf728?622f011a09260b0012490c8c=Futuristic%20Garden%20City" target="_blank">VOTE</a></span></div></div>
 
 	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem; border-radius: 10px">
+<div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/Pasir-RisPunggolCluster.jpg"></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Bountiful Blessings</span><br><span>presented by Marine Parade Cluster</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d339c40d26690011edf728?622f011a09260b0012490c8c=Bountiful%20Blessings" target="_blank">VOTE</a></span></div></div>
 	
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem;text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Through the Looking Lens</span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d339c40d26690011edf728?622f011a09260b0012490c8c=Through%20the%20Looking%20Lens" target="_blank">VOTE</a></span><br><span style="float:left">presented by Chua Chu Kang Cluster</span></div></div>
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem; border-radius: 10px">
+<div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/Pasir-RisPunggolCluster.jpg"></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Through the Looking Lens</span><br><span>presented by Chua Chu Kang Cluster</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d339c40d26690011edf728?622f011a09260b0012490c8c=Through%20the%20Looking%20Lens" target="_blank">VOTE</a></span></div></div>
+	
+	
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem; border-radius: 10px">
+<div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/Pasir-RisPunggolCluster.jpg"></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Green Living</span><br><span>presented by Jurong Cluster</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d339c40d26690011edf728?622f011a09260b0012490c8c=Green%20Living" target="_blank">VOTE</a></span></div></div>
 
 	
-	
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem;text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Green Living</span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d339c40d26690011edf728?622f011a09260b0012490c8c=Green%20Living" target="_blank">VOTE</a></span><br><span style="float:left">presented by Jurong Cluster</span></div></div>
-
-	
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;background-color:hsla(208, 100%, 97%, 1); border-radius: 10px">
-<div style="min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/WGT23/IG/I1.png"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem;text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Winds of Future</span><span style="float:right; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d339c40d26690011edf728?622f011a09260b0012490c8c=Winds%20of%20Future" target="_blank">VOTE</a></span><br><span style="float:left">presented by West Coast Cluster</span></div></div>
-
-	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem; border-radius: 10px">
+<div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/Pasir-RisPunggolCluster.jpg"></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Winds of Future</span><br><span>presented by West Coast Cluster</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d339c40d26690011edf728?622f011a09260b0012490c8c=Winds%20of%20Future" target="_blank">VOTE</a></span></div></div>
 	
 	
 	
