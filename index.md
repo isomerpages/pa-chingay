@@ -8,11 +8,6 @@ notification: <a href="https://go.gov.sg/stay-in-touch-with-chingay">Sign Up</a>
   to receive update on Chingay via email!
 sections:
   - hero:
-      key_highlights:
-        - title: <div style="font-size:15px; text-decoration:none; color:white;">GET YOUR
-            TICKET FROM SISTIC NOW!</div>
-          description: ""
-          url: https://go.gov.sg/chingay2023tickets
       background: /images/Website KV 3.png
       url: /tickets/
   - infobar:
