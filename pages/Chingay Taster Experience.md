@@ -43,7 +43,7 @@ Participants will get to experience embossing floral designs onto the metal shee
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Clay.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
-<span style="font-weight: bold">Clay Art</span> (60min)<br>The Air Clay Sculpture is a taster workshop for the participant to get familiar with the air dry clay available in vibrant colours as a medium which does not need any firing unlike the regular pottery clay. The participants will be creating their beautiful artwork and learn the technique under the supervision of the trainer. They will be able to take back their artwork with them after the workshop.
+<span style="font-weight: bold">Clay Art</span> (90min)<br>The Air Clay Sculpture is a taster workshop for the participant to get familiar with the air dry clay available in vibrant colours as a medium which does not need any firing unlike the regular pottery clay. The participants will be creating their beautiful artwork and learn the technique under the supervision of the trainer. They will be able to take back their artwork with them after the workshop.
 <span style="line-height:1.8rem">
 <br><span style="font-weight:bold;">Cycle 1</span>
 <br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">(1)	Tues, 21st Feb, 2.00pm</a>
@@ -53,57 +53,35 @@ Participants will get to experience embossing floral designs onto the metal shee
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:-5rem;" src="/images/CTE/Batik.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
-<span style="font-weight: bold">Batik Painting</span> (90min)<br>Participants will be shown a power point presentation by the instructor (Batik, Definition, brief history, process and techniques; and renowned local Batik artists. Included will be a brief on different resist techniques and safety precautions for the application of resist and colour dyes Trainer shall demonstrate how to colour the background and secondary motifs, with single colour and 2 colour toning Students shall learn how to do blending and tonal value and apply on the Artwork and complete the artwork
+<div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Acrylic.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
+<span style="font-weight: bold">Acrylic Pouring</span> (90min)<br>Acrylic pouring on transparent bookmark . Participants to draw in motifs of space an colour on one side of the bookmark and learn how to pour on the other side using acrylic pouring technique.
 <span style="line-height:1.8rem">
 <br><span style="font-weight:bold;">Cycle 1</span>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">(1)	Tues, 21st Feb, 2.00pm</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">(2)	Fri, 24th Feb, 2.00pm</a>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">(1)	Tues, 21st Feb, 8.00pm</a>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">(2)	Wed, 22nd Feb, 8.00pm</a>
 </span>
 </div></div>
 	
 
-
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
-<span style="font-weight: bold">Acrylic Pouring</span><br>Acrylic pouring on transparent bookmark . Participants to draw in motifs of space an colour on one side of the bookmark and learn how to pour on the other side using acrylic pouring technique.
+<div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:-2rem;" src="/images/CTE/Glass.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
+<span style="font-weight: bold">Glass Mosaic Art</span> (60min)<br>Mosaic tiles is an interesting and visually appealing artform due to the materials reflectiveness and colours. A relatively easy artform fit for the young and senior, residents will be able to decorate a surface with designs made up of glass tiles and also learn colour coordination in the process.
 <span style="line-height:1.8rem">
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">20th Feb 23 (8pm-9.30pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">21st Feb 23 (8pm – 9.30pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">22nd Feb 23 (8pm – 9.30pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">6th Mar 23 (8pm-9.30pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">7th Mar 23 (8pm – 9.30pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">8th Mar 23 (8pm – 9.30pm)</a></span>
+<br><span style="font-weight:bold;">Cycle 1</span>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">(1)	Fri, 24th Feb, 7.00pm</a>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">(2)	Sat, 4th Mar, 5.00pm</a>
+</span>
 </div></div>
-
 	
+
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
-<span style="font-weight: bold">Glass Mosaic Art</span><br>Mosaic tiles is an interesting and visually appealing artform due to the materials reflectiveness and colours. A relatively easy artform fit for the young and senior, residents will be able to decorate a surface with designs made up of glass tiles and also learn colour coordination in the process.
+<div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:-2rem;" src="/images/CTE/modular.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
+<span style="font-weight: bold">Modular Sculpture Modelling</span> (120min)<br>Visitors would be able to create micro dioramas (ie. Polly Pockets), where they can paint them, glue and house them in little capsules and bring it home or display it on the venue. Visitors are then given the opportunity to create their own capsule of minis and learn how to paint miniatures/micro objects
 <span style="line-height:1.8rem">
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">24th Feb (6-7pm/7-8pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">3rd Mar (6-7pm/7-8pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">4th Mar (5pm-6pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">	10th Mar (6-7pm/7-8pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">12th Mar 23 (2.30pm – 3.30pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">	17th Mar (6-7pm/7-8pm)</a></span>
-</div></div>
-
-
-	
-	
-	
-	
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
-<span style="font-weight: bold">Modular</span><br>Visitors would be able to create micro dioramas (ie. Polly Pockets), where they can paint them, glue and house them in little capsules and bring it home or display it on the venue. Visitors are then given the opportunity to create their own capsule of minis and learn how to paint miniatures/micro objects
-<span style="line-height:1.8rem">
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">25th Feb 23 (11am – 12pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">3rd Mar (6-7pm/7-8pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">4th Mar (5pm-6pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">10th Mar (6-7pm/7-8pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">11th Mar (5pm-6pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">17th Mar (6-7pm/7-8pm)</a></span>
+<br><span style="font-weight:bold;">Cycle 1</span>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">(1)	Sun, 26th Feb, 2.00pm</a>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">(2)	Sat, 4th Mar, 2.00pm</a>
+</span>
 </div></div>
 	
 </div>
