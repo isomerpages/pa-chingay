@@ -14,7 +14,7 @@ description: ""
 	
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:-9rem;" src="/images/CTE/Panelist.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
+<div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:-8rem;" src="/images/CTE/Panelist.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
 <span style="font-weight: bold">Chingay Sharing</span><br>Join us for an exclusive one-night only sharing by the team of creative talents behind Chingay 2023.  Find out what inspired them in their inventive journey creating this year’s parade titled “Embrace Tomorrow”. <br>
 <span style="line-height:2rem"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">Sign Up Here</a></span></div></div>
 
