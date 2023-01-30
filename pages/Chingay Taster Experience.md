@@ -42,7 +42,7 @@ Participants will get to experience embossing floral designs onto the metal shee
 </div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Clay.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
+<div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:-6rem;" src="/images/CTE/Clay.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
 <span style="font-weight: bold">Clay Art</span> (90min)<br>The Air Clay Sculpture is a taster workshop for the participant to get familiar with the air dry clay available in vibrant colours as a medium which does not need any firing unlike the regular pottery clay. The participants will be creating their beautiful artwork and learn the technique under the supervision of the trainer. They will be able to take back their artwork with them after the workshop.
 <span style="line-height:1.8rem">
 <br><span style="font-weight:bold;">Cycle 1</span>
