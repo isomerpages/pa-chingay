@@ -37,7 +37,7 @@ Participants will get to experience embossing floral designs onto the metal shee
 	
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Clay.jpg"></div>
+<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-4rem;" src="/images/CTE/Clay.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Clay Art</span> (60min)<br><span>The Air Clay Sculpture is a taster workshop for the participant to get familiar with the air dry clay available in vibrant colours as a medium which does not need any firing unlike the regular pottery clay. The participants will be creating their beautiful artwork and learn the technique under the supervision of the trainer. They will be able to take back their artwork with them after the workshop.</span><br><span style="line-height:2rem; font-size: 1rem; font-weight: bold;">Cycle 1</span>
 <span style="line-height:1.5rem">
 <br><a href="LINKHERE" target="_blank">(1)	Tues, 21st Feb, 2.00pm</a>
@@ -46,7 +46,7 @@ Participants will get to experience embossing floral designs onto the metal shee
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Batik.jpg"></div>
+<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-3rem;" src="/images/CTE/Batik.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Batik Painting</span> (90min)<br><span>Participants will be shown a power point presentation by the instructor (Batik, Definition, brief history, process and techniques; and renowned local Batik artists. Included will be a brief on different resist techniques and safety precautions for the application of resist and colour dyes Trainer shall demonstrate how to colour the background and secondary motifs, with single colour and 2 colour toning Students shall learn how to do blending and tonal value and apply on the Artwork and complete the artwork</span><br><span style="line-height:2rem; font-size: 1rem; font-weight: bold;">Cycle 1</span>
 <span style="line-height:1.5rem">
 <br><a href="LINKHERE" target="_blank">(1)	Wed, 22nd Feb, 8.00pm</a>
@@ -64,7 +64,7 @@ Participants will get to experience embossing floral designs onto the metal shee
 
  
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Glass.jpg"></div>
+<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-2rem;" src="/images/CTE/Glass.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Glass Mosaic Art</span> (60min)<br><span>Mosaic tiles is an interesting and visually appealing artform due to the materials reflectiveness and colours. A relatively easy artform fit for the young and senior, residents will be able to decorate a surface with designs made up of glass tiles and also learn colour coordination in the process.</span><br><span style="line-height:2rem; font-size: 1rem; font-weight: bold;">Cycle 1</span>
 <span style="line-height:1.5rem">
 <br><a href="LINKHERE" target="_blank">(1)	Fri, 24th Feb, 7.00pm</a>
@@ -73,7 +73,7 @@ Participants will get to experience embossing floral designs onto the metal shee
  
   
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Glass.jpg"></div>
+<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/modular.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Modular Sculpture Modelling</span> (120min)<br><span>Visitors would be able to create micro dioramas (ie. Polly Pockets), where they can paint them, glue and house them in little capsules and bring it home or display it on the venue. Visitors are then given the opportunity to create their own capsule of minis and learn how to paint miniatures/micro objects</span><br><span style="line-height:2rem; font-size: 1rem; font-weight: bold;">Cycle 1</span>
 <span style="line-height:1.5rem">
 <br><a href="LINKHERE" target="_blank">(1)	Sun, 26th Feb, 2.00pm</a>
