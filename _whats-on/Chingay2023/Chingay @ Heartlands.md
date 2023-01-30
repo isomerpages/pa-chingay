@@ -12,7 +12,7 @@ Open Field next to Blk 19 Bedok South Road<br><!--
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
 Tel: 6506 0900<br>-->
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sat, 11 Feb 2023<br>
-<!--<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>7:30 PM-->
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>7.00pm to 10.00pm
 
 **Chingay @ OTH**<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
@@ -20,7 +20,7 @@ Our Tampines Hub<br><!--
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
 Tel: 6506 0900<br>-->
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sun, 12 Feb 2023<br>
-<!--<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>7:30 PM-->
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>6.30pm to 10.00pm
 
 **Chingay 2023 @ Chua Chu Kang GRC & Hong Kah North SMC**<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
@@ -28,7 +28,7 @@ Keat Hong Square<br><!--
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
 Tel: 6506 0900<br>-->
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sat, 25 Feb 2023<br>
-<!--<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>7:30 PM-->
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>7.30pm to 10.30pm
 
 **Ang Mo Kio GRC,  Kebun Baru And Yio Chu Kang SMCs Chingay @ Heartlands 2023**<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
@@ -36,7 +36,7 @@ Fernvale Square<br><!--
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
 Tel: 6506 0900<br>-->
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sun, 26 Feb 2023<br>
-<!--<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>7:30 PM-->
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>8.00pm to 10.00pm
 
 **Chingay @ Nee Soon**<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
@@ -44,7 +44,7 @@ MPC @ Khatib<br><!--
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
 Tel: 6506 0900<br>-->
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sat, 4 Mar 2023<br>
-<!--<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>7:30 PM-->
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>6.30pm to 9.30pm
 
 **Celebrations @ Tanjong Pagar**<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
@@ -52,4 +52,4 @@ Discover Tanjong Pagar Community Green<br><!--
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
 Tel: 6506 0900<br>-->
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sun, 5 Mar 2023<br>
-<!--<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>7:30 PM-->
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>7.00pm to 9.45pm
