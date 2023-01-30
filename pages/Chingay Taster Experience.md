@@ -23,9 +23,7 @@ description: ""
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/UrbanSports.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Urban Sports Experience</span><br><span>Come join us at the first-ever Chingay Playground right in front of the Chingay Containers Art Installation.  Just BYO gears and equipment; long boards, skates, bikes, rollerblades etc and enjoy some BLAZING good time!  The Chingay Playground is only opened on 5 February (Sunday), 2pm to 5pm.  Limited slots available.  Sign up now! </span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="LINKHERE" target="_blank">Sign Up Here</a></span></div></div>
 
-
 # Workshops
-
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
