@@ -12,7 +12,8 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 
 **Presenting to you the Chingay Mama Shop merchants!**
 
-
+Check out Chingay Mamashop Listing on Lazada
+[here](https://pages.lazada.sg/wow/gcp/route/lazada/sg/upr_1000345_lazada/channel/sg/upr-router/sg?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/sg/long-term/nF3iFFcBjZhttps://pages.lazada.sg/wow/gcp/route/lazada/sg/upr_1000345_lazada/channel/sg/upr-router/sg?hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/sg/long-term/nF3iFFcBjZ)!
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 
