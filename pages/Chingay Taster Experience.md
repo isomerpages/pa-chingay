@@ -28,7 +28,9 @@ description: ""
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Tooling.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Metal Tooling</span><br><span>The art of metal tooling is a centuries old art form also known as metal embossing, it uses simple tools like wooden sticks to create designs on metal.
-Participants will get to experience embossing floral designs onto the metal sheets and take home their  masterpieces.</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="LINKHERE" target="_blank">Sign Up Here</a></span></div></div>
+Participants will get to experience embossing floral designs onto the metal sheets and take home their  masterpieces.</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><span style="font-weight:bold;">Cycle 1</span>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">(1)	Sat, 25th Feb, 11.00am</a>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">(2)	Sun, 5th Mar, 2.30pm</a></span></div></div>
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Tooling.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
