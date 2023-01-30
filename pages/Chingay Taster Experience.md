@@ -8,20 +8,20 @@ description: ""
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
-<span style="font-weight: bold">Chingay Behind-the-Scenes Tour</span><br>An exclusive facilitated behind-the-scenes tour of Chingay 2023 including stops at Chingay Art Installations and Float Display<br>
+<div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/BTS.png"></div><div style= "font-size: 1rem; padding:.5rem;"> 
+<span style="font-weight: bold">Chingay Behind-the-Scenes Tour</span><br>Sign up for a Chingay Behind-the-Scenes Tour of the Chingay Parade site at F1 Pit Building to find out the stories behind the creation of Chingay floats, Rabbits Art-Venture and Containers Art Installations.<br>
 <span style="line-height:2rem"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">Sign Up Here</a></span></div></div>
 	
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:-9rem;" src="/images/CTE/Panelist.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
-<span style="font-weight: bold">Chingay Sharing</span><br>A sharing by the Artistic Director(Float and Costumes), Music Director, Multimedia Director and Art Director about the ideation and their experience of Chingay 2023<br>
-<span style="line-height:2rem"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">Register Here</a></span></div></div>
+<span style="font-weight: bold">Chingay Sharing</span><br>Join us for an exclusive one-night only sharing by the team of creative talents behind Chingay 2023.  Find out what inspired them in their inventive journey creating this year’s parade titled “Embrace Tomorrow”. <br>
+<span style="line-height:2rem"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">Sign Up Here</a></span></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
-<span style="font-weight: bold">Urban Sports Experience</span><br>First ever urban sports installation at Chingay. An exclusive pop-up experience for skate enthusiasts to enjoy. Only on Sunday 5th February, 2pm-5pm<br>
-<span style="line-height:2rem"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">Register Here</a></span></div></div>
+<span style="font-weight: bold">Urban Sports Experience</span><br>Come join us at the first-ever Chingay xxx right in front of the Chingay Containers Art Installation.  Just BYO gears and equipment; long boards, skates, bikes, rollerblades etc and enjoy some BLAZING good time!  The Chingay XXX is only opened on 5 February (Sunday), 2pm to 5pm.  Limited slots available.  Sign up now!<br>
+<span style="line-height:2rem"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">Sign Up Here</a></span></div></div>
 	
 </div>
 
