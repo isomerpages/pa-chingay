@@ -39,10 +39,10 @@ sections:
   - infobar:
       title: CHINGAY MAMA SHOP
       subtitle: Chingay 2023
-      description: We would like to invite YOU to be part of the third edition of
-        Chingay Mama Shop. Come on board and be part of our movement.
+      description: "The Chingay Mama Shop is back in 2023! Be part of the movement to
+        #SupportLocal businesses and #DoGoodWithUs. "
       button: Find Out More
-      url: /chingay2023-mamashop/
+      url: chingaymamashop/
   - infopic:
       title: Community Art Installations
       subtitle: Chingay 2023
