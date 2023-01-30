@@ -52,4 +52,11 @@ sections:
       url: /chingay2023-cai/
       image: /images/whats-on/5IMG1378.jpg
       alt: Image alt text
+  - infobar:
+      title: Chingay @ Heartlands
+      subtitle: Chingay 2023
+      description: Chingay@Heartlands Celebrations 2023 bring the Chingay experience
+        closer to residents with a local twist and flavour.
+      button: Find out more
+      url: /heartlands/
 ---
