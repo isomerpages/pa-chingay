@@ -31,41 +31,35 @@ description: ""
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
-<span style="font-weight: bold">Metal Tooling</span><br>The art of metal tooling is a centuries old art form also known as metal embossing, it uses simple tools like wooden sticks to create designs on metal.
-Participants will get to experience embossing floral designs onto the metal sheets and take home their  masterpieces.
+<div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Tooling.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
+<span style="font-weight: bold">Metal Tooling</span> (60min)<br>The art of metal tooling is a centuries old art form also known as metal embossing, it uses simple tools like wooden sticks to create designs on metal.
+Participants will get to experience embossing floral designs onto the metal sheets and take home their  masterpieces. 
 <span style="line-height:1.8rem">
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">25th Feb 23 (11am – 12pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">4th Mar 23 (11am – 12pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">5th Mar 23 (2.30pm-3.30pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">11th Mar 23 (11am – 12pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">12th Mar 23 (2.30pm – 3.30pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">18th Mar 23 (11am – 12pm)</a></span>
+<br><span style="font-weight:bold;">Cycle 1</span>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">(1)	Sat, 25th Feb, 11.00am</a>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">(2)	Sun, 5th Mar, 2.30pm</a>
+</span>
 </div></div>
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
-<span style="font-weight: bold">Clay Art</span><br>The Air Clay Sculpture is a taster workshop for the participant to get familiar with the air dry clay available in vibrant colours as a medium which does not need any firing unlike the regular pottery clay. The participants will be creating their beautiful artwork and learn the technique under the supervision of the trainer. They will be able to take back their artwork with them after the workshop.
 
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Clay.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
+<span style="font-weight: bold">Clay Art</span> (60min)<br>The Air Clay Sculpture is a taster workshop for the participant to get familiar with the air dry clay available in vibrant colours as a medium which does not need any firing unlike the regular pottery clay. The participants will be creating their beautiful artwork and learn the technique under the supervision of the trainer. They will be able to take back their artwork with them after the workshop.
 <span style="line-height:1.8rem">
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">21st Feb 23 (2pm-3pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">24th Feb 23 (2pm-3pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">28th Feb 23 (2pm-3pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">7th Mar 23 (2pm-3pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">9th Mar 23 (2pm-3pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">14th Mar 23 (2pm-3pm)</a></span>
+<br><span style="font-weight:bold;">Cycle 1</span>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">(1)	Tues, 21st Feb, 2.00pm</a>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">(2)	Fri, 24th Feb, 2.00pm</a>
+</span>
 </div></div>
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
-<span style="font-weight: bold">Batik Painting</span><br>Participants will be shown a power point presentation by the instructor (Batik, Definition, brief history, process and techniques; and renowned local Batik artists. Included will be a brief on different resist techniques and safety precautions for the application of resist and colour dyes Trainer shall demonstrate how to colour the background and secondary motifs, with single colour and 2 colour toning Students shall learn how to do blending and tonal value and apply on the Artwork and complete the artwork
+<div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:-5rem;" src="/images/CTE/Batik.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
+<span style="font-weight: bold">Batik Painting</span> (90min)<br>Participants will be shown a power point presentation by the instructor (Batik, Definition, brief history, process and techniques; and renowned local Batik artists. Included will be a brief on different resist techniques and safety precautions for the application of resist and colour dyes Trainer shall demonstrate how to colour the background and secondary motifs, with single colour and 2 colour toning Students shall learn how to do blending and tonal value and apply on the Artwork and complete the artwork
 <span style="line-height:1.8rem">
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">21st Feb 23 (7.30pm-9pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">22nd Feb 23 (8pm-9.30pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">25th Feb 23 (8pm-9.30pm) </a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">6th Mar 23 (7.30pm-9pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">8th Mar 23 (8pm-9.30pm)</a>
-<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">9th  Mar 23 (8pm-9.30pm)</a></span>
+<br><span style="font-weight:bold;">Cycle 1</span>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">(1)	Tues, 21st Feb, 2.00pm</a>
+<br><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">(2)	Fri, 24th Feb, 2.00pm</a>
+</span>
 </div></div>
 	
 
