@@ -19,7 +19,7 @@ description: ""
 <span style="line-height:2rem"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">Sign Up Here</a></span></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/D2/D2%20Finalist-1.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
+<div style="min-height:12rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/UrbanSports.jpg"></div><div style= "font-size: 1rem; padding:.5rem;"> 
 <span style="font-weight: bold">Urban Sports Experience</span><br>Come join us at the first-ever Chingay xxx right in front of the Chingay Containers Art Installation.  Just BYO gears and equipment; long boards, skates, bikes, rollerblades etc and enjoy some BLAZING good time!  The Chingay XXX is only opened on 5 February (Sunday), 2pm to 5pm.  Limited slots available.  Sign up now!<br>
 <span style="line-height:2rem"><a href="https://form.gov.sg/#!/61e8420767949600143cf75c?622f011a09260b0012490c8c=001%20junelimhz" target="_blank">Sign Up Here</a></span></div></div>
 	
