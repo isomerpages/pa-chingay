@@ -8,11 +8,6 @@ notification: <a href="https://go.gov.sg/stay-in-touch-with-chingay">Sign Up</a>
   to receive update on Chingay via email!
 sections:
   - hero:
-      key_highlights:
-        - title: <div style="font-size:15px; text-decoration:none; color:white;">GET YOUR
-            TICKET FROM SISTIC NOW!</div>
-          description: ""
-          url: https://go.gov.sg/chingay2023tickets
       background: /images/Website KV 3.png
       url: /tickets/
   - infobar:
@@ -44,10 +39,10 @@ sections:
   - infobar:
       title: CHINGAY MAMA SHOP
       subtitle: Chingay 2023
-      description: We would like to invite YOU to be part of the third edition of
-        Chingay Mama Shop. Come on board and be part of our movement.
+      description: "The Chingay Mama Shop is back in 2023! Be part of the movement to
+        #SupportLocal businesses and #DoGoodWithUs. "
       button: Find Out More
-      url: /chingay2023-mamashop/
+      url: chingaymamashop/
   - infopic:
       title: Community Art Installations
       subtitle: Chingay 2023
@@ -57,4 +52,11 @@ sections:
       url: /chingay2023-cai/
       image: /images/whats-on/5IMG1378.jpg
       alt: Image alt text
+  - infobar:
+      title: Chingay @ Heartlands
+      subtitle: Chingay 2023
+      description: Chingay@Heartlands Celebrations 2023 bring the Chingay experience
+        closer to residents with a local twist and flavour.
+      button: Find out more
+      url: /heartlands/
 ---
