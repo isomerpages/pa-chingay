@@ -12,8 +12,6 @@ description: ""
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/BTS.png"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chingay Behind-the-Scenes Tour</span><br><span>Sign up for a Chingay Behind-the-Scenes Tour of the Chingay Parade site at F1 Pit Building to find out the stories behind the creation of Chingay floats, Rabbits Art-Venture and Containers Art Installations.   </span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="LINKHERE" target="_blank">Sign Up Here</a></span></div></div>
 
-</div>
-	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-9rem;" src="/images/CTE/Panelist.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chingay Sharing</span><br><span>Sign up for a Chingay Behind-the-Scenes Tour of the Chingay Parade site at F1 Pit Building to find out the stories behind the creation of Chingay floats, Rabbits Art-Venture and Containers Art Installations.  </span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="LINKHERE" target="_blank">Sign Up Here</a></span></div></div>
