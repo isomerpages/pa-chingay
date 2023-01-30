@@ -16,11 +16,7 @@ Special thanks to Lazada, our Official E-Commerce Platform.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 
-<div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;" src="/images/MamaShop/Chingay2023-Masthead.png"></div>
-<div style="font-size: 1rem; padding:.5rem;"> 
-<span style="line-height:2rem;color:#b242a2;font-weight:bold">Chingay</span><br>Chingay limited edition merchandises out for sale! All sale proceeds will be donated fully to the charitable cause.<br>
-<span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/shop/chingay-mamashop">Purchase Now</a></span></div></div>
+
 
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
 <div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;" src="/images/MamaShop/WillNWell.png"></div>
