@@ -97,7 +97,7 @@ Click <span style="text-decoration:underline; color:#345bcc">vote</span> to vote
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/ChingayAwards/Act%201%20Group%2022.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Momentum Show Choir (Emerge Arts & Media Academy, TruDance, Wellington Primary School, Angsana Primary School)</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d33904d4e11c0012c0ca98?622f011a09260b0012490c8c=Momentum%20Show%20Choir%20(Emerge%20Arts%20&%20Media%20Academy,%20TruDance,%20Wellington%20Primary%20School,%20Angsana%20Primary%20School)" target="_blank">VOTE</a></span></div></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Momentum Show Choir (Emerge Arts & Media Academy, TruDance, Wellington Primary School, Angsana Primary School)</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d33904d4e11c0012c0ca98?622f011a09260b0012490c8c=Momentum%20Show%20Choir%20(Emerge%20Arts%20and%20Media%20Academy,%20TruDance,%20Wellington%20Primary%20School,%20Angsana%20Primary%20School)" target="_blank">VOTE</a></span></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/ChingayAwards/Act%201%20Group%2023.jpg"></div>
@@ -155,7 +155,7 @@ The%20Lesslars%20and%20Singers%20from%20We’ve%20Got%20Talent!%202023:%20Asher%
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/ChingayAwards/Act%205%20Group%204.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Piloxing®</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d33904d4e11c0012c0ca98?622f011a09260b0012490c8c=20Piloxing®" target="_blank">VOTE</a></span></div></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Piloxing®</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d33904d4e11c0012c0ca98?622f011a09260b0012490c8c=Piloxing®" target="_blank">VOTE</a></span></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/ChingayAwards/Act%205%20Group%205.jpg"></div>
