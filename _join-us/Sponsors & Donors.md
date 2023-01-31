@@ -39,20 +39,7 @@ description: ""
         <div style="text-align: center;"><img src="/images/Sponsors%20&%20Donors/dfi-retail-group-20-january-2022-15-08-36.png" alt="DFI" style="width:130px;" /> </div>
 </div>
 </div>
-
-
-<div style="text-align: left;">
-    <b>Official Cards</b>
-    <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr)); border-top: 1px solid black;">
-        <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/PAssionCard%202022%20Black.png" style="width:161px;float: left;" /> </div>
-        <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/PAssionCard%202022%20Silver.png" alt="PAssion Card Silver" style="width: 161px; float: left;" /> </div>
-        <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/PAssionCard%202022%20POSB.png" alt="PAssion Card POSB" style="width: 161px; float: left;" /> </div>
-        <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
-        <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
-    </div>
-</div>
-
-
+<br>
 
 <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(325px,1fr));">
     <div style="text-align: left;">
@@ -71,6 +58,17 @@ description: ""
             <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
             <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
         </div>
+    </div>
+</div>
+
+<div style="text-align: left;">
+    <b>Official Cards</b>
+    <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr)); border-top: 1px solid black;">
+        <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/PAssionCard%202022%20Black.png" style="width:161px;float: left;" /> </div>
+        <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/PAssionCard%202022%20Silver.png" alt="PAssion Card Silver" style="width: 161px; float: left;" /> </div>
+        <div style="text-align: left; padding-top: 5px;"><img src="/images/Sponsors%20&%20Donors/PAssionCard%202022%20POSB.png" alt="PAssion Card POSB" style="width: 161px; float: left;" /> </div>
+        <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
+        <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
     </div>
 </div>
 
