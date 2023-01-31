@@ -24,7 +24,7 @@ description: ""
 </div>
 
 <div style="text-align: left;">
-	<b>Major Sponsors & Donors</b>
+	<b>Major Sponsors, Donors and Partners</b>
     <div style="margin: 5px auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr)); border-top: 1px solid black;">
         <div style="text-align: center;"><img src="/images/Sponsors%20&%20Donors/DBS-Jan2023.png" alt="DBS" style="width:150px; padding-top:8%;" /> </div>
         <div style="text-align: center;"><img src="/images/Sponsors%20&%20Donors/POSB-Jan2023.png" alt="POSB" style="width:150px; padding-top:8%;" /> </div>
