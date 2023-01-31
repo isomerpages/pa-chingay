@@ -3,7 +3,7 @@ title: Vote for Your Favourite Performing Group
 permalink: /vote-performinggroup/
 description: ""
 ---
-Click <span style="text-decoration:underline; color:#345bcc">vote</span> to vote for your favourite Chingay 2023  Mini Float
+Click <span style="text-decoration:underline; color:#345bcc">vote</span> to vote for your favourite Chingay Parade 2023 Performing Group
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 
