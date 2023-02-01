@@ -9,9 +9,9 @@ The Chingay Taster Experience (CTE) is a new programme that provides exclusive o
 You can sign up by clicking on the respective links below. Spaces are limited and registration is on a first-come-first-served basis. 
 
 Note:
-* Please ensure that you are available to attend the session before signing up so as not to deprive others of the opportunity. Participants who are no-show at the course / workshops may not be allowed to sign up for other courses / workshops under CTE. 
+a)	Please ensure that you are available to attend the session before signing up so as not to deprive others of the opportunity. Participants who are no-show at the course / workshops may not be allowed to sign up for other courses / workshops under CTE. 
 
-* Photos may be taken during these sessions for publicity purposes.  By signing up for the session, you agree to grant us the consent for photos to be taken. 
+b)	Photos may be taken during these sessions for publicity purposes.  By signing up for the session, you agree to grant us the consent for photos to be taken. 
 
 
 # Exclusive Experiences
@@ -68,7 +68,7 @@ Participants will get to experience embossing floral designs onto the metal shee
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-3rem;" src="/images/CTE/Batik.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Batik Painting</span> (90min)<br><span>Participants will be shown a power point presentation by the instructor (Batik, Definition, brief history, process and techniques; and renowned local Batik artists. Included will be a brief on different resist techniques and safety precautions for the application of resist and colour dyes Trainer shall demonstrate how to colour the background and secondary motifs, with single colour and 2 colour toning Students shall learn how to do blending and tonal value and apply on the Artwork and complete the artwork</span><br>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Batik Painting</span> (90min)<br><span>Participants will learn more about the Batik art form, including brief history, processes and techniques; renowned local Batik artists and different resist techniques and safety precautions for the application of resist and colour dyes.  Partcipants will learn how to do blending and toning and create their own batik artwork.</span><br>
 <span style="line-height:1.5rem">
 <br><a href="LINKHERE" target="_blank">(1)	Wed, 22nd Feb, 8.00pm</a>
 <br><a href="LINKHERE" target="_blank">(2)	Sat, 25th Feb, 8.00pm</a>
@@ -95,7 +95,7 @@ Participants will get to experience embossing floral designs onto the metal shee
   
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/modular.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Modular Sculpture Modelling</span> (120min)<br><span>Visitors would be able to create micro dioramas (ie. Polly Pockets), where they can paint them, glue and house them in little capsules and bring it home or display it on the venue. Visitors are then given the opportunity to create their own capsule of minis and learn how to paint miniatures/micro objects</span><br>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Mini Diorama</span> (120min)<br><span>Visitors would be able to create micro dioramas (ie. Polly Pockets), where they can paint them, glue and house them in little capsules and bring it home or display it on the venue. Visitors are then given the opportunity to create their own capsule of minis and learn how to paint miniatures/micro objects</span><br>
 <span style="line-height:1.5rem">
 <br><a href="LINKHERE" target="_blank">(1)	Sun, 26th Feb, 2.00pm</a>
 <br><a href="LINKHERE" target="_blank">(2)	Sat, 4th Mar, 2.00pm</a>
@@ -126,8 +126,8 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Tooling.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Hip Hop</span><br><span>This dance originated from the United States. Funk, Break and Hip Hop elements are combined and choreographed to upbeat music to appeal to teenagers and young adults.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
-<br><a href="LINKHERE" target="_blank">Date 1</a>
-<br><a href="LINKHERE" target="_blank">Date 2</a>
+<br><a href="LINKHERE" target="_blank">(1)	Sun, 26th Feb, 1.00pm</a>
+<br><a href="LINKHERE" target="_blank">(2)	Sun, 5th Mar, 1.00pm</a>
 </span></div></div>
  
   
@@ -137,8 +137,8 @@ Participants will get to experience embossing floral designs onto the metal shee
 * Due to hygiene concerns, protective equipment will not be provided by Odyssey Boards. Students are required to have the necessary equipment for safety purposes.
 </span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
-<br><a href="LINKHERE" target="_blank">Date 1</a>
-<br><a href="LINKHERE" target="_blank">Date 2</a>
+<br><a href="LINKHERE" target="_blank">(1)	Sun, 26th Feb, 4.00pm</a>
+<br><a href="LINKHERE" target="_blank">(2)	Sun, 5th Mar, 3.00pm</a>
 </span></div></div>
   
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
@@ -154,7 +154,7 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Cheerfit.jpeg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Cheerfit</span><br><span>CheerFit is an upbeat workout program designed by TJ that is engaging and fun for everyone to stay fit and stay bonded in the community. The workout involves aspects of cheerleading such as cheer dance, jumps and basic gymnastic movement that aims to get participants in the best shape of their life</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
-<br><a href="LINKHERE" target="_blank">Date 1</a>
+<br><a href="LINKHERE" target="_blank">(1)	Sat, 25th Feb, 4.30pm</a>
 <br><a href="LINKHERE" target="_blank">Date 2</a>
 </span></div></div>
   
@@ -163,7 +163,7 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Piloxing®</span><br><span>A non-stop, cardio fusion of standing pilates, boxing and dance that will push you past your limits for a sleek, sexy, powerful you! Piloxing; cardio fusion incorporates cutting edge research and fitness techniques to burn maximum calories, build lean muscles, and increase stamina. The program uniquely blends the power, speed, and agility of boxing with the targeted sculpting and flexibility of pilates. These techniques are also supplemented by the use of weighted gloves, further toning the arms and maximizing cardiovascular health. Add to that exhilarating dance moves and you have a muscle-toning, fat-burning workout that will make you feel physically and mentally empowered!
 </span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
-<br><a href="LINKHERE" target="_blank">Date 1</a>
+<br><a href="LINKHERE" target="_blank">(1)	Sun, 26th Feb, 2.00pm</a>
 <br><a href="LINKHERE" target="_blank">Date 2</a>
 </span></div></div>
   
