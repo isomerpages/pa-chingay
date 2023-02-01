@@ -3,25 +3,26 @@ links:
   - title: What's On
     url: /tickets/
     sublinks:
-      - title: Chingay 2023
+      - title: Ticketing Details
         url: /tickets/
-      - title: → Ticketing Details
-        url: /tickets/
-      - title: → Advisory
+      - title: Advisory
         url: /advisory/
-      - title: → Chingay Mama Shop
+      - title: Webcast
+        url: /permalink
+      - title: Chingay Mama Shop
         url: /Chingaymamashop/
-      - title: → Watch Party
+      - title: Watch Party
         url: /chingay2023-watchparty/
-      - title: → Community Art Installation
+      - title: Community Art Installation
         url: /chingay2023-cai/
-      - title: → Chingay @ Heartlands
+      - title: Chingay @ Heartlands
         url: /heartlands/
-      - title: Community Engagement
+  - title: Community Engagement
+    url: /permalink
+    sublinks:
+      - title: D:2 Dance Competition
         url: /d22023/
-      - title: → D:2 Dance Competition
-        url: /d22023/
-      - title: → We've Got Talent! 2023
+      - title: We've Got Talent! 2023
         url: /wgt2023/
   - title: Ticketing
     url: /tickets/

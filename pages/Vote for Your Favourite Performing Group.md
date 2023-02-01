@@ -3,7 +3,7 @@ title: Vote for Your Favourite Performing Group
 permalink: /vote-performinggroup/
 description: ""
 ---
-Click <span style="text-decoration:underline; color:#345bcc">vote</span> to vote for your favourite Chingay 2023  Mini Float
+Click <span style="text-decoration:underline; color:#345bcc">vote</span> to vote for your favourite Chingay Parade 2023 Performing Group
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 
@@ -22,10 +22,10 @@ Click <span style="text-decoration:underline; color:#345bcc">vote</span> to vote
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/ChingayAwards/Act%201%20Group%203.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">God of Fortune, Fu Lu Shou </span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d33904d4e11c0012c0ca98?622f011a09260b0012490c8c=God%20of%20Fortune,%20Fu%20Lu%20Shou%20" target="_blank">VOTE</a></span></div></div>
-
+	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/ChingayAwards/Act%201%20Group%204.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Relan Dragon & Lion Arts, Taiwan Zhen Yu Arts, Thailand Lookluangporpae Dragon & Lion Dance Team</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d33904d4e11c0012c0ca98?622f011a09260b0012490c8c=Relan%20Dragon%20&%20Lion%20Arts,%20Taiwan%20Zhen%20Yu%20Arts,%20Thailand%20Lookluangporpae%20Dragon%20&%20Lion%20Dance%20Team" target="_blank">VOTE</a></span></div></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Relan Dragon & Lion Arts, Taiwan Zhen Yu Arts, Thailand Lookluangporpae Dragon & Lion Dance Team</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d33904d4e11c0012c0ca98?622f011a09260b0012490c8c=Relan%20Dragon%20and%20Lion%20Arts,%20Taiwan%20Zhen%20Yu%20Arts,%20Thailand%20Lookluangporpae%20Dragon%20and%20Lion%20Dance%20Team" target="_blank">VOTE</a></span></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/ChingayAwards/Act%201%20Group%205.jpg"></div>
@@ -93,11 +93,11 @@ Click <span style="text-decoration:underline; color:#345bcc">vote</span> to vote
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/ChingayAwards/Act%201%20Group%2021.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Musicians from We’ve Got Talent! 2023: Michelle Chua (Guzheng), Tan Yuqing (Sheng), NUS CAC Angklung, Happy Ukers Group & Green Percussion Interest Group @ Bukit Gombak</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d33904d4e11c0012c0ca98?622f011a09260b0012490c8c=Musicians%20from%20We’ve%20Got%20Talent!%202023:%20Michelle%20Chua%20(Guzheng),%20Tan%20Yuqing%20(Sheng),%20NUS%20CAC%20Angklung,%20Happy%20Ukers%20Group%20&%20Green%20Percussion%20Interest%20Group%20@%20Bukit%20Gombak" target="_blank">VOTE</a></span></div></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Musicians from We’ve Got Talent! 2023: Michelle Chua (Guzheng), Tan Yuqing (Sheng), NUS CAC Angklung, Happy Ukers Group & Green Percussion Interest Group @ Bukit Gombak</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d33904d4e11c0012c0ca98?622f011a09260b0012490c8c=Musicians%20from%20We’ve%20Got%20Talent!%202023:%20Michelle%20Chua%20(Guzheng),%20Tan%20Yuqing%20(Sheng),%20NUS%20CAC%20Angklung,%20Happy%20Ukers%20Group%20and%20Green%20Percussion%20Interest%20Group%20@%20Bukit%20Gombak" target="_blank">VOTE</a></span></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/ChingayAwards/Act%201%20Group%2022.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Momentum Show Choir (Emerge Arts & Media Academy, TruDance, Wellington Primary School, Angsana Primary School)</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d33904d4e11c0012c0ca98?622f011a09260b0012490c8c=Momentum%20Show%20Choir%20(Emerge%20Arts%20&%20Media%20Academy,%20TruDance,%20Wellington%20Primary%20School,%20Angsana%20Primary%20School)" target="_blank">VOTE</a></span></div></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Momentum Show Choir (Emerge Arts & Media Academy, TruDance, Wellington Primary School, Angsana Primary School)</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d33904d4e11c0012c0ca98?622f011a09260b0012490c8c=Momentum%20Show%20Choir%20(Emerge%20Arts%20and%20Media%20Academy,%20TruDance,%20Wellington%20Primary%20School,%20Angsana%20Primary%20School)" target="_blank">VOTE</a></span></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/ChingayAwards/Act%201%20Group%2023.jpg"></div>
@@ -123,7 +123,7 @@ The%20Lesslars%20and%20Singers%20from%20We’ve%20Got%20Talent!%202023:%20Asher%
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/ChingayAwards/Act%203%20Group%201.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Soka Gakkai Singapore (Choir)</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d33904d4e11c0012c0ca98?622f011a09260b0012490c8c=Soka%20Gakkai%20Singapore" target="_blank">VOTE</a></span></div></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Soka Gakkai Singapore (Choir)</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d33904d4e11c0012c0ca98?622f011a09260b0012490c8c=Soka%20Gakkai%20Singapore%20(Choir)" target="_blank">VOTE</a></span></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/ChingayAwards/Act%204%20Group%201.jpg"></div>
@@ -151,11 +151,11 @@ The%20Lesslars%20and%20Singers%20from%20We’ve%20Got%20Talent!%202023:%20Asher%
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/ChingayAwards/Act%205%20Group%203.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">CheerFit </span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d33904d4e11c0012c0ca98?622f011a09260b0012490c8c=PA%20Lifeskills%20and%20Lifestyle%20Division%20(2LD)%20CheerFit%20" target="_blank">VOTE</a></span></div></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">CheerFit </span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d33904d4e11c0012c0ca98?622f011a09260b0012490c8c=CheerFit" target="_blank">VOTE</a></span></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/ChingayAwards/Act%205%20Group%204.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Piloxing®</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d33904d4e11c0012c0ca98?622f011a09260b0012490c8c=PA%20Lifeskills%20and%20Lifestyle%20Division%20(2LD)%20Piloxing®" target="_blank">VOTE</a></span></div></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Piloxing®</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d33904d4e11c0012c0ca98?622f011a09260b0012490c8c=Piloxing®" target="_blank">VOTE</a></span></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/ChingayAwards/Act%205%20Group%205.jpg"></div>
@@ -163,7 +163,7 @@ The%20Lesslars%20and%20Singers%20from%20We’ve%20Got%20Talent!%202023:%20Asher%
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/ChingayAwards/Act%205%20Group%206.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">People’s Association Youth Movement (PAYM) </span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d33904d4e11c0012c0ca98?622f011a09260b0012490c8c=People’s%20Association%20Youth%20Movement%20(PAYM)%20Council" target="_blank">VOTE</a></span></div></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">People’s Association Youth Movement (PAYM) </span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d33904d4e11c0012c0ca98?622f011a09260b0012490c8c=People’s%20Association%20Youth%20Movement%20(PAYM)" target="_blank">VOTE</a></span></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/ChingayAwards/Act%205%20Group%207.jpg"></div>
