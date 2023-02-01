@@ -19,7 +19,7 @@ Note:
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/BTS.png"></div>
+<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/DSC06504.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chingay Behind-the-Scenes Tour</span><br><span>Sign up for a Chingay Behind-the-Scenes Tour of the Chingay Parade site at F1 Pit Building to find out the stories behind the creation of Chingay floats, Rabbits Art-Venture and Containers Art Installations.</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="LINKHERE" target="_blank">Sign Up Here</a></span><br>
 Sun, 5 Feb 23, 2.00pm<br>
 Sun, 5 Feb 23, 4.00pm<br>
@@ -102,7 +102,7 @@ Participants will get to experience embossing floral designs onto the metal shee
 </span></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Tooling.jpg"></div>
+<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/DSC05669.jpeg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Jazz Dance</span><br><span>Jazz Dance combines rhythm, expression and technique with aspects of a variety of popular and street music, using the body as an instrument to interpret the various styles. Forms of Jazz include the rhythmic and stylish modern jazz, incorporating lyrical and contemporary styles and the classical lines of Jazz Ballet. Is a type of different dance style to create a new aesthetic world. It takes elements from mix of ballet, modern, lyrical footwork and can use music from different ethnic culture.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
 <br><a href="LINKHERE" target="_blank">Date 1</a>
