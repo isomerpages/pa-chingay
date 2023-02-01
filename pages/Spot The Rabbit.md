@@ -3,6 +3,6 @@ title: Spot The Rabbit
 permalink: /SpotTheRabbit/
 description: ""
 ---
-![](/images/whats-on/Chingay2023%20Spot%20The%20Rabbit1.png)
+![](/images/whats-on/Chingay2023%20Spot%20The%20Rabbit.png)
 
-[Terms & Conditions](/files/whats-on/spot-the-tiger-terms-and-conditions.pdf)
+[Terms & Conditions](/files/Chingay2023%20-%20Spot%20the%20Rabbits%20Terms%20and%20Conditions.pdf)
