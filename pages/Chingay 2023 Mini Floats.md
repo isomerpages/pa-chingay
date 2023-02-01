@@ -62,7 +62,7 @@ We aspire to have every bite of food, proudly grown in abundance, in our homelan
 <div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:0;" src="/images/Chingay2023MiniFloats/Jalanbesar.jpeg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:-2rem;" src="/images/Chingay2023MiniFloats/DeliveringtheFuture1.jpg"></div></div>
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/DeliveringtheFuture1.jpg"></div></div>
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/DeliveringtheFuture2.jpg"></div></div>
