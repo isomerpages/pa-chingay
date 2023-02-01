@@ -11,7 +11,7 @@ sections:
       background: /images/Website KV 3.png
       key_highlights:
         - title: Chingay Webcast
-          description: Catch Chingay Webcast on 3 Feb, 8PM
+          description: Catch Chingay Webcast on 3 Feb, 8pm
           url: /webcast/
   - infobar:
       title: Chingay Parade 2023
