@@ -9,7 +9,10 @@ notification: <a href="https://go.gov.sg/stay-in-touch-with-chingay">Sign Up</a>
 sections:
   - hero:
       background: /images/Website KV 3.png
-      url: /tickets/
+      key_highlights:
+        - title: Chingay Webcast
+          description: Catch Chingay Webcast on 3 Feb, 8PM
+          url: /webcast/
   - infobar:
       title: Chingay Parade 2023
       subtitle: Chingay 2023
