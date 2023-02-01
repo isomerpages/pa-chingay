@@ -9,9 +9,9 @@ The Chingay Taster Experience (CTE) is a new programme that provides exclusive o
 You can sign up by clicking on the respective links below. Spaces are limited and registration is on a first-come-first-served basis. 
 
 Note:
-a)	Please ensure that you are available to attend the session before signing up so as not to deprive others of the opportunity. Participants who are no-show at the course / workshops may not be allowed to sign up for other courses / workshops under CTE. 
+* Please ensure that you are available to attend the session before signing up so as not to deprive others of the opportunity. Participants who are no-show at the course / workshops may not be allowed to sign up for other courses / workshops under CTE. 
 
-b)	Photos may be taken during these sessions for publicity purposes.  By signing up for the session, you agree to grant us the consent for photos to be taken. 
+* Photos may be taken during these sessions for publicity purposes.  By signing up for the session, you agree to grant us the consent for photos to be taken. 
 
 
 # Exclusive Experiences
@@ -123,7 +123,7 @@ Participants will get to experience embossing floral designs onto the metal shee
   
   
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Tooling.jpg"></div>
+<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/HipHop.jpeg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Hip Hop</span><br><span>This dance originated from the United States. Funk, Break and Hip Hop elements are combined and choreographed to upbeat music to appeal to teenagers and young adults.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
 <br><a href="LINKHERE" target="_blank">(1)	Sun, 26th Feb, 1.00pm</a>
@@ -132,7 +132,7 @@ Participants will get to experience embossing floral designs onto the metal shee
  
   
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Longboard.jpg"></div>
+<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/LongBoard.jpeg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Long Board</span><br><span>Experience the thrill of longboarding — a skateboarding experience with a twist as you learn to kick off, balance and cruise downhill. Together with like-minded learners, develop resilience and communication skills, all while gaining confidence!<br>
 * Due to hygiene concerns, protective equipment will not be provided by Odyssey Boards. Students are required to have the necessary equipment for safety purposes.
 </span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
@@ -142,7 +142,7 @@ Participants will get to experience embossing floral designs onto the metal shee
 </span></div></div>
   
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/back-view-roller-blades-pavement.jpg"></div>
+<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Inline.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">In Line Skating</span><br><span>Ever had a bad fall on your skates? Learn the correct way to in-line skate using tested and proven syllabus. You will learn how to balance, break your fall, how to distribute your weight correctly. With the right guidance, you will gain both speed and confidence in no time. As we always say, “Great skills, fast wheels!”.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
 <br><a href="LINKHERE" target="_blank">Date 1</a>
