@@ -2,7 +2,6 @@ collections:
   whats-on:
     output: true
     order:
-      - Webcast.md
       - Chingay2023/.keep
       - Chingay2023/Chingay 2023 Ticketing.md
       - Chingay2023/Advisory.md
