@@ -24,14 +24,14 @@ Any personal data provided by you  may be used for the administration of these 
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/DSC06504.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chingay Behind-the-Scenes Tour</span><br><span>Sign up for a Chingay Behind-the-Scenes Tour of the Chingay Parade site at F1 Pit Building to find out the stories behind the creation of Chingay floats, Rabbits Art-Venture and Containers Art Installations.</span>
 <span style="line-height:1.5rem">
-<br><a href="LINKHERE" target="_blank">(1)	Sun, 5th Feb, 2.00pm</a>
-<br><a href="LINKHERE" target="_blank">(2)	Sun, 5th Feb, 4.00pm</a>
-<br><a href="LINKHERE" target="_blank">(3)	Sun, 5th Feb, 6.00pm</a>
-<br><a href="LINKHERE" target="_blank">(4)	Sun, 5th Feb, 6.00pm</a>
-<br><a href="LINKHERE" target="_blank">(5)	Sun, 5th Feb, 7.00pm</a>
-<br><a href="LINKHERE" target="_blank">(6)	Sun, 6th Feb, 7.00pm</a>
-<br><a href="LINKHERE" target="_blank">(7)	Sun, 7th Feb, 7.00pm</a>
-<br><a href="LINKHERE" target="_blank">(8)	Sun, 8th Feb, 7.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-2pm-76813774" target="_blank">(1)	Sun, 5th Feb, 2.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-4pm-84088261" target="_blank">(2)	Sun, 5th Feb, 4.00pm</a>
+<br><a href="LINKHERE" target="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-6pm-22956916">(3)	Sun, 5th Feb, 6.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-7pm-86748206" target="_blank">(4)	Sun, 5th Feb, 6.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-6pm-22956916" target="_blank">(5)	Sun, 5th Feb, 7.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-6pm-22956916" target="_blank">(6)	Sun, 6th Feb, 7.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-6-feb-23-7pm-49999847" target="_blank">(7)	Sun, 7th Feb, 7.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-7-feb-23-7pm-36527379" target="_blank">(8)	Sun, 8th Feb, 7.00pm</a>
 </span></div></div>
 
 
