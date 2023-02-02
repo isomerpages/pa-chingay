@@ -42,8 +42,6 @@ Debuted at Chingay 2022, the Chingay Mini Floats is an initiative by PAssionArts
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Floats by the Community</span>
 
   
-  
-  
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
@@ -71,24 +69,29 @@ Catch an exclusive snippet of the lights, sounds and effects from Chingay 2023: 
 <div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Special Performances by our International Friends</span>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
-	
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div>Cambodia<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:;" src="/images/CTE/Cambodia.png"></div></div>
-	
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div>Indonesia<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:;" src="/images/CTE/Indo.jpg"></div></div>
-	
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div>Korea<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:;" src="/images/CTE/Korea.jpg"></div></div>
+  
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div>Thailand<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:;" src="/images/CTE/Thai.jpg"></div></div>
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;">Cambodia<img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Cambodia.png"></div></div>
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;">Indonesia<img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Indo.jpg"></div></div>
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div>Viet Nam<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:;" src="/images/CTE/Viet.jpg"></div></div>
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;">South Korea<img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Korea.jpg"></div></div>
 
-	</div>
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;">Thailand<img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Thai.jpg"></div></div>
+    
+    
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;">Viet Nam<img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Viet.jpg"></div></div>
+  
+  
+</div>
+
 
 <p>
 Sunday, 5 February only<br>
