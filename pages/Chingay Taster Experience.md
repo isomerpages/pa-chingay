@@ -100,8 +100,8 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-2rem;" src="/images/CTE/Glass.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Glass Mosaic Art</span> (60min)<br><span>Mosaic tiles is an interesting and visually appealing artform due to the materials reflectiveness and colours. A relatively easy artform fit for the young and senior, residents will be able to decorate a surface with designs made up of glass tiles and also learn colour coordination in the process.</span>
-<span style="line-height:1.5rem">
-<!--<br><a href="LINKHERE" target="_blank">(1)	Fri, 24th Feb, 7.00pm</a>
+<!--<span style="line-height:1.5rem">
+<br><a href="LINKHERE" target="_blank">(1)	Fri, 24th Feb, 7.00pm</a>
 <br><a href="LINKHERE" target="_blank">(2)	Sat, 4th Mar, 5.00pm</a>
 </span>
 --></div></div>
