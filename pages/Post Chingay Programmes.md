@@ -23,36 +23,39 @@ F1 Pit Building</div>
 
 <div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Rabbits ART-Venture</span>
+  
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_275.jpg"></div></div>
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_2842.jpg"></div></div>
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_275.jpg"></div></div>
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/rabbits3.jpg"></div></div></div>
-
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/rabbits3.jpg"></div></div>
+</div>
 <p>
 Debuted at Chingay 2022, the Chingay Mini Floats is an initiative by PAssionArts and 17 Grassroots Organisations to involve residents to co-create their own mini floats, guided by local artists. A total of 17 unique "Future Singapore" Chingay Mini Floats are presented at Chingay Parade 2023 and will be on display at various heartlands, to bring cheer to the community!</p>
-</div>
 
 <div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Floats by the Community</span>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
-	
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:;" src="/images/whats-on/DSC04142-2.jpg"></div></div>
+  
+  
+  
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:;" src="/images/whats-on/DSC6171.jpg"></div></div>
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/DSC04142-2.jpg"></div></div>
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/DSC6171.jpg"></div></div>
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:;" src="/images/CTE/AngMoKioCluster.jpeg"></div></div>
-	</div>
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/AngMoKioCluster.jpeg"></div></div>
+</div>
+
 <p>Debuted at Chingay 2022, the Chingay Mini Floats is an initiative by PAssionArts and 17 Grassroots Organisations to involve residents to co-create their own mini floats, guided by local artists. A total of 17 unique "Future Singapore" Chingay Mini Floats are presented at Chingay Parade 2023 and will be on display at various heartlands, to bring cheer to the community!</p>
 </div>
 
