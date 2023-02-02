@@ -59,10 +59,10 @@ We aspire to have every bite of food, proudly grown in abundance, in our homelan
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:-2rem;" src="/images/Chingay2023MiniFloats/Jalanbesar.jpeg"></div></div>
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:0;" src="/images/Chingay2023MiniFloats/Jalanbesar.jpeg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:-2rem;" src="/images/Chingay2023MiniFloats/DeliveringtheFuture1.jpg"></div></div>
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/DeliveringtheFuture1.jpg"></div></div>
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/DeliveringtheFuture2.jpg"></div></div>
@@ -224,7 +224,6 @@ We aspire to have every bite of food, proudly grown in abundance, in our homelan
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Blooming Flowers, Garden City</span><br>
 Representing Future Singapore, the levitated spacecraft design is a vivid imagination of our future transport. <br>In 2050, flights are predicted to be more commercially available with drone technology and better air traffic management systems using cloud and Artificial Intelligence transportation system.<br>Even with advanced technology, sustainability is key, which is portrayed by the construction of the spacecraft made from mostly environmentally friendly materials like recycled wood.</div>
 
-<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Co-Creation</span><br>This artwork is the collective effort of residents from Holland-Bukit Timah GRC and Bukit Panjang, guided by artist Fish Jafaar. <br>These residents learnt the technique of colour blending and painted futuristic design for the cityscape.  Just like the Holland-Bukit Timah GRC's cityscape, the spacecraft’s modular design is ever-evolving as highlighted by residents' co-creation of the retrofitting and customisations. </div>
 
 
 <div style="padding-top:2rem;font-size:1.5rem;">
@@ -327,7 +326,7 @@ Representing Future Singapore, the levitated spacecraft design is a vivid imagin
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/ThroughtheLookingLens1.jpg"></div></div>
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/CCK.jpeg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/ThroughtheLookingLens1.jpg"></div></div>
@@ -350,7 +349,7 @@ Representing Future Singapore, the levitated spacecraft design is a vivid imagin
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/GreenLiving1.jpg"></div></div>
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:-4rem;" src="/images/Chingay2023MiniFloats/Jurongcluster.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/GreenLiving1.jpg"></div></div>
@@ -373,7 +372,7 @@ Representing Future Singapore, the levitated spacecraft design is a vivid imagin
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/WindsofFuture-1.jpg"></div></div>
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:-5rem;" src="/images/Chingay2023MiniFloats/WestCoastCluster.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/WindsofFuture-1.jpg"></div></div>

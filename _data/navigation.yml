@@ -1,6 +1,6 @@
 logo: /images/logo-light.svg
 links:
-  - title: What's On
+  - title: Chingay 2023
     url: /tickets/
     sublinks:
       - title: Ticketing Details
@@ -8,7 +8,13 @@ links:
       - title: Advisory
         url: /advisory/
       - title: Webcast
-        url: /permalink
+        url: /webcast/
+      - title: Spot The Rabbit
+        url: /SpotTheRabbit/
+      - title: Voting - Mini Floats
+        url: /vote-minifloats/
+      - title: Voting - Performing Group
+        url: /vote-performinggroup/
       - title: Chingay Mama Shop
         url: /Chingaymamashop/
       - title: Watch Party
@@ -24,11 +30,6 @@ links:
         url: /d22023/
       - title: We've Got Talent! 2023
         url: /wgt2023/
-  - title: Ticketing
-    url: /tickets/
-    sublinks:
-      - title: Chingay 2023 Tickets
-        url: /tickets/
   - title: Join Us
     collection: join-us
   - title: ABOUT US
