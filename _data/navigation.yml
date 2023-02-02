@@ -1,6 +1,6 @@
 logo: /images/logo-light.svg
 links:
-  - title: What's On
+  - title: Chingay 2023
     url: /tickets/
     sublinks:
       - title: Ticketing Details
@@ -8,7 +8,7 @@ links:
       - title: Advisory
         url: /advisory/
       - title: Webcast
-        url: /permalink
+        url: /webcast/
       - title: Chingay Mama Shop
         url: /Chingaymamashop/
       - title: Watch Party
