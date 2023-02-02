@@ -70,8 +70,8 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-4rem;" src="/images/CTE/Clay.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Clay Art</span> (60min)<br><span>The Air Clay Sculpture is a taster workshop for the participant to get familiar with the air dry clay available in vibrant colours as a medium which does not need any firing unlike the regular pottery clay. The participants will be creating their beautiful artwork and learn the technique under the supervision of the trainer. They will be able to take back their artwork with them after the workshop.</span>
-<span style="line-height:1.5rem">
-<!--<br><a href="LINKHERE" target="_blank">(1)	Tues, 21st Feb, 2.00pm</a>
+<!--<span style="line-height:1.5rem">
+<br><a href="LINKHERE" target="_blank">(1)	Tues, 21st Feb, 2.00pm</a>
 <br><a href="LINKHERE" target="_blank">(2)	Fri, 24th Feb, 2.00pm</a>
 </span>-->
 </div></div>
