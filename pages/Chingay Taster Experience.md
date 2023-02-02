@@ -69,8 +69,8 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-3rem;" src="/images/CTE/Batik.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Batik Painting</span> (90min)<br><span>Participants will learn more about the Batik art form, including brief history, processes and techniques; renowned local Batik artists and different resist techniques and safety precautions for the application of resist and colour dyes.  Partcipants will learn how to do blending and toning and create their own batik artwork.</span>
 <span style="line-height:1.5rem">
-<br><a href="LINKHERE" target="_blank">(1)	Wed, 22nd Feb, 8.00pm</a>
-<br><a href="LINKHERE" target="_blank">(2)	Sat, 25th Feb, 8.00pm</a>
+<br><a href="LINKHERE" target="_blank">(1)	Wed, 22nd Feb, 3.00pm</a>
+<br><a href="LINKHERE" target="_blank">(2)	Sat, 25th Feb, 3.00pm</a>
 </span></div></div>
  
  
@@ -78,8 +78,8 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Acrylic.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Acrylic Pouring</span> (90min)<br><span>Acrylic pouring on transparent bookmark . Participants to draw in motifs of space an colour on one side of the bookmark and learn how to pour on the other side using acrylic pouring technique.</span>
 <span style="line-height:1.5rem">
-<br><a href="LINKHERE" target="_blank">(1)	Tues, 21st Feb, 8.00pm</a>
-<br><a href="LINKHERE" target="_blank">(2)	Wed, 22nd Feb, 8.00pm</a>
+<br><a href="LINKHERE" target="_blank">(1)	Mon, 20th Feb, 3.00pm</a>
+<br><a href="LINKHERE" target="_blank">(2)	Wed, 22nd Feb, 3.00pm</a>
 </span></div></div>
 
  
@@ -103,10 +103,11 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/DSC05669.jpeg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Jazz Dance</span><br><span>Jazz Dance combines rhythm, expression and technique with aspects of a variety of popular and street music, using the body as an instrument to interpret the various styles. Forms of Jazz include the rhythmic and stylish modern jazz, incorporating lyrical and contemporary styles and the classical lines of Jazz Ballet. Is a type of different dance style to create a new aesthetic world. It takes elements from mix of ballet, modern, lyrical footwork and can use music from different ethnic culture.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
-<span style="line-height:1.5rem">
+<!-- <span style="line-height:1.5rem">
 <br><a href="LINKHERE" target="_blank">Date 1</a>
 <br><a href="LINKHERE" target="_blank">Date 2</a>
-</span></div></div>
+</span> -->
+</div></div>
 
 	
  
@@ -114,10 +115,11 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/LatinDance.jpeg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Latin / Ballroom Dance</span><br><span>This Ballroom Latin (Adult) Elementary course will cover Cha-Cha, Paso Doble, Rumba and Samba. Participants will learn feet positions, alignment, turns, rise and fall, footwork, timing and counting in beats or beats and bars.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
-<span style="line-height:1.5rem">
+<!-- <span style="line-height:1.5rem">
 <br><a href="LINKHERE" target="_blank">Date 1</a>
 <br><a href="LINKHERE" target="_blank">Date 2</a>
-</span></div></div>
+</span> -->
+</div></div>
  
   
   
@@ -144,9 +146,9 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Inline.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">In Line Skating</span><br><span>Ever had a bad fall on your skates? Learn the correct way to in-line skate using tested and proven syllabus. You will learn how to balance, break your fall, how to distribute your weight correctly. With the right guidance, you will gain both speed and confidence in no time. As we always say, “Great skills, fast wheels!”.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
-<br><a href="LINKHERE" target="_blank">Date 1</a>
-<br><a href="LINKHERE" target="_blank">Date 2</a>
-</span></div></div>
+<!--<br><a href="LINKHERE" target="_blank">(1)	Sat, 25th Feb, 4.30pm</a>
+</span>-->
+</div></div>
   
   
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
@@ -154,7 +156,6 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Cheerfit</span><br><span>CheerFit is an upbeat workout program designed by TJ that is engaging and fun for everyone to stay fit and stay bonded in the community. The workout involves aspects of cheerleading such as cheer dance, jumps and basic gymnastic movement that aims to get participants in the best shape of their life</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
 <br><a href="LINKHERE" target="_blank">(1)	Sat, 25th Feb, 4.30pm</a>
-<br><a href="LINKHERE" target="_blank">Date 2</a>
 </span></div></div>
   
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
@@ -163,7 +164,6 @@ Participants will get to experience embossing floral designs onto the metal shee
 </span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
 <br><a href="LINKHERE" target="_blank">(1)	Sun, 26th Feb, 2.00pm</a>
-<br><a href="LINKHERE" target="_blank">Date 2</a>
 </span></div></div>
   
 </div>
