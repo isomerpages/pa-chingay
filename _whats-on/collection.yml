@@ -2,6 +2,7 @@ collections:
   whats-on:
     output: true
     order:
+      - Chingay2023/Spot The Rabbit.md
       - Chingay2023/Vote for Your Favourite Mini Floats.md
       - Chingay2023/Vote for Your Favourite Performing Group.md
       - Chingay2023/.keep
