@@ -3,45 +3,55 @@ title: Chingay Taster Experience
 permalink: /cte/
 description: ""
 ---
-Chingay Taster Experience Page
-“The Chingay Taster Experience (CTE) is a new programme that provides exclusive opportunities for online and TV audiences to participate in different activities and trial workshops.
+The Chingay Taster Experience (CTE) is a new programme that provides exclusive opportunities for online and TV audiences to participate in different activities and trial workshops.
 
 You can sign up by clicking on the respective links below. Please note that spaces are limited and registration is on a first-come-first-served basis. By registering for the CTE, you  acknowledge the following :
 
 Note:
-1.  Please ensure that you are able to attend the session before signing up so as not to deprive others of the opportunity. Participants who are no-show at the activities / workshops may not be allowed to sign up for other activities / workshops under CTE. Please note that the Organiser may refuse and/or cancel any registration at its sole and absolute discretion.
-2.  Photos, videos and other recordings  may be taken during these sessions.  You agree that the Organiser may use such photographs, videos and other recordings in the Organiser’s sole and absolute discretion , including but not limited to use for publicity purposes and/or such other use(s) in the future.
-3.  Any personal data provided by you  may be used for the administration of these sessions  as well as other Chingay-related purposes.
+ Please ensure that you are able to attend the session before signing up so as not to deprive others of the opportunity. Participants who are no-show at the activities / workshops may not be allowed to sign up for other activities / workshops under CTE. Please note that the Organiser may refuse and/or cancel any registration at its sole and absolute discretion.
+
+Photos, videos and other recordings  may be taken during these sessions.  You agree that the Organiser may use such photographs, videos and other recordings in the Organiser’s sole and absolute discretion , including but not limited to use for publicity purposes and/or such other use(s) in the future.
+
+Any personal data provided by you  may be used for the administration of these sessions  as well as other Chingay-related purposes.
 
 # Exclusive Experiences
 
+
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
+
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/DSC06504.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chingay Behind-the-Scenes Tour</span><br><span>Sign up for a Chingay Behind-the-Scenes Tour of the Chingay Parade site at F1 Pit Building to find out the stories behind the creation of Chingay floats, Rabbits Art-Venture and Containers Art Installations.</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="LINKHERE" target="_blank">Sign Up Here</a></span><br>
-Sun, 5 Feb 23, 2.00pm<br>
-Sun, 5 Feb 23, 4.00pm<br>
-Sun, 5 Feb 23, 6.00pm<br>
-Sun, 5 Feb 23, 7.00pm<br>
-Mon, 6 Feb 23, 7.00pm<br>
-Tues, 7 Feb 23, 7.00pm<br>
-Wed, 8 Feb 23, 7.00pm<br>
-</div></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chingay Behind-the-Scenes Tour</span><br><span>Sign up for a Chingay Behind-the-Scenes Tour of the Chingay Parade site at F1 Pit Building to find out the stories behind the creation of Chingay floats, Rabbits Art-Venture and Containers Art Installations.</span>
+<span style="line-height:1.5rem">
+<br><a href="LINKHERE" target="_blank">(1)	Sun, 5th Feb, 2.00pm</a>
+<br><a href="LINKHERE" target="_blank">(2)	Sun, 5th Feb, 4.00pm</a>
+<br><a href="LINKHERE" target="_blank">(3)	Sun, 5th Feb, 6.00pm</a>
+<br><a href="LINKHERE" target="_blank">(4)	Sun, 5th Feb, 6.00pm</a>
+<br><a href="LINKHERE" target="_blank">(5)	Sun, 5th Feb, 7.00pm</a>
+<br><a href="LINKHERE" target="_blank">(6)	Sun, 6th Feb, 7.00pm</a>
+<br><a href="LINKHERE" target="_blank">(7)	Sun, 7th Feb, 7.00pm</a>
+<br><a href="LINKHERE" target="_blank">(8)	Sun, 8th Feb, 7.00pm</a>
+</span></div></div>
 
-	
+
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/UrbanSports.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chingay Playground</span><br><span>Come join us at the first-ever Chingay Playground right in front of the largest Chingay Container Art Installation.  Just pre-register and BYO gears and equipment; long boards, skates, bikes, rollerblades etc and enjoy some BLAZING good time! The Chingay Playground is only opened on 5 February (Sunday), 2pm to 5pm (you can come or leave at any time in between). Limited slots available. Sign up now!</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="LINKHERE" target="_blank">Sign Up Here</a></span><br>Sun, 5 Feb 23, 2.00pm</div></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chingay Playground</span><br><span>Come join us at the first-ever Chingay Playground right in front of the largest Chingay Container Art Installation.  Just pre-register and BYO gears and equipment; long boards, skates, bikes, rollerblades etc and enjoy some BLAZING good time! The Chingay Playground is only opened on 5 February (Sunday), 2pm to 5pm (you can come or leave at any time in between). Limited slots available. Sign up now!</span>
+<span style="line-height:1.5rem">
+<br><a href="LINKHERE" target="_blank">(1)	Sun, 5th Feb, 2.00pm</a>
+</span></div></div>
 
+  
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-9rem;" src="/images/CTE/Panelist.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Sharing by Chingay 2023’s Creative Team </span><br><span>Join us for an exclusive one-night only sharing by the team of creative talents behind Chingay 2023.  Hear from our Creative Director, Mr Fan Dong Kai; Assistant Creative Director, Melvin Tang; Art Director, Sam Lo; Music Director, Ting Si Hao and Multimedia Director, Jed Tay. <br>Find out what inspired them in their inventive journey in creating this year’s parade titled “Embrace Tomorrow”.  
-</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="LINKHERE" target="_blank">Sign Up Here</a></span><br>Thurs, 9 Feb 23, 8.15pm</div></div>
-
+<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Panelist.jpg"></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Sharing by Chingay 2023’s Creative Team</span><br><span>Join us for an exclusive one-night only sharing by the team of creative talents behind Chingay 2023.  Hear from our Creative Director, Mr Fan Dong Kai; Assistant Creative Director, Melvin Tang; Art Director, Sam Lo; Music Director, Ting Si Hao and Multimedia Director, Jed Tay. <br>Find out what inspired them in their inventive journey in creating this year’s parade titled “Embrace Tomorrow”.  </span>
+<span style="line-height:1.5rem">
+<br><a href="LINKHERE" target="_blank">Thurs, 9th Feb, 8.15pm</a>
+</span></div></div>
+  
 </div>
 
-# Workshops
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 	
 
