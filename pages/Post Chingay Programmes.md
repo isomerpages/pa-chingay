@@ -9,8 +9,8 @@ description: ""
 6 - 9 February 2023 | 6pm - 10pm<br>
 F1 Pit Building<br><br></div>
 
-<div><b>If you are driving</b>
-No Parking available at F1 Pit Building, nearest carparks are at Singapore Flyer, Millenia Walk and Suntec City.
+<div><b>If you are driving</b><br>
+No Parking available at F1 Pit Building, nearest carparks are at Singapore Flyer, Millenia Walk and Suntec City.<br><br>
 <b>If you are taking public transport**</B><br>
 By MRT:<br>
 1)         11 mins walk from CC4/DT15 Promenade MRT Station<br>
