@@ -74,18 +74,20 @@ Catch an exclusive snippet of the lights, sounds and effects from Chingay 2023: 
 <div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div>Cambodia<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:;" src="/images/CTE/Cambodia.png"></div></div>
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div>Indonesia<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:;" src="/images/CTE/Indo.jpg"></div></div>
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div>Korea<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:;" src="/images/CTE/Korea.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div>Thailand<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:;" src="/images/CTE/Thai.jpg"></div></div>
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div>Cambodia<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:;" src="/images/CTE/Viet.jpg"></div></div>
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div>Viet Nam<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:;" src="/images/CTE/Viet.jpg"></div></div>
 
 
 	
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div>Indonesia<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:;" src="/images/CTE/Indo.jpg"></div></div>
+
 
 <p>
 Sunday, 5 February only<br>
