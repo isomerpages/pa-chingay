@@ -18,7 +18,7 @@ F1 Pit Building</div>
 
 </div>
 
-<p>Standing 18 metres high, and spanning over 60 metres, the Container Art Installation is made up of 28 20-footer and 40-footer containers, designed and conceptualised by Sam Lo. It is co-created by 480 youths and is the largest-ever Community Art installation at the Chingay parade. The Container Art Installation serves as a performance backdrop for Chingay 2023.</p>
+<p>Standing 18 metres high, and spanning over 60 metres, the Container Art Installation is made up of 28 units of 20-footer and 40-footer containers, designed and conceptualised by Sam Lo. This largest-ever Community Art Installation at Chingay Parade is co-created by 480 youths over three weekends and serve as the performance backdrop for Chingay 2023</p>
 
 
 
@@ -33,11 +33,14 @@ F1 Pit Building</div>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_275.jpg"></div></div>
 
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/rabbits3.jpg"></div></div>
+
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;"></div>
 </div>
 
 <p>
-Over 2,000 students from eight schools and institutions curated and put together their own unique art space, as guided by the community artists and PA’s Community Arts & Culture Clubs; creating their own Chingay Rabbits in various sizes to portray the theme of FUTURE SINGAPORE with their imagination and creativity.</p>
+Debuted at Chingay 2022, the Chingay Mini Floats is an initiative by PAssionArts and 17 Grassroots Organisations to involve residents to co-create their own mini floats, guided by local artists. A total of 17 unique "Future Singapore" Chingay Mini Floats are presented at Chingay Parade 2023 and will be on display at various heartlands, to bring cheer to the community!</p>
 </div>
 
 <div style="padding-top:2rem">
