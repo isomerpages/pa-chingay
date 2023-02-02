@@ -9,7 +9,7 @@ Chingay Taster Experience Page
 You can sign up by clicking on the respective links below. Please note that spaces are limited and registration is on a first-come-first-served basis. By registering for the CTE, you  acknowledge the following :
 
 Note:
-1.  Please ensure that you are able to attend the session before signing up so as not to deprive others of the opportunity. Participants who are no-show at the ~course~ activities / workshops may not be allowed to sign up for other ~courses~ activities / workshops under CTE. Please note that the Organiser may refuse and/or cancel any registration at its sole and absolute discretion.
+1.  Please ensure that you are able to attend the session before signing up so as not to deprive others of the opportunity. Participants who are no-show at the activities / workshops may not be allowed to sign up for other activities / workshops under CTE. Please note that the Organiser may refuse and/or cancel any registration at its sole and absolute discretion.
 2.  Photos, videos and other recordings  may be taken during these sessions.  You agree that the Organiser may use such photographs, videos and other recordings in the Organiser’s sole and absolute discretion , including but not limited to use for publicity purposes and/or such other use(s) in the future.
 3.  Any personal data provided by you  may be used for the administration of these sessions  as well as  other Chingay-related purposes.”
 
