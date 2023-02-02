@@ -141,12 +141,12 @@ Participants will get to experience embossing floral designs onto the metal shee
 <br><a href="LINKHERE" target="_blank">(1)	Sun, 26th Feb, 4.00pm</a>
 <br><a href="LINKHERE" target="_blank">(2)	Sun, 5th Mar, 3.00pm</a>
 </span></div></div>
-  
+
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Inline.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">In Line Skating</span><br><span>Ever had a bad fall on your skates? Learn the correct way to in-line skate using tested and proven syllabus. You will learn how to balance, break your fall, how to distribute your weight correctly. With the right guidance, you will gain both speed and confidence in no time. As we always say, “Great skills, fast wheels!”.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
-<span style="line-height:1.5rem">
-<!--<br><a href="LINKHERE" target="_blank">(1)	Sat, 25th Feb, 4.30pm</a>
+<!--<span style="line-height:1.5rem">
+<br><a href="LINKHERE" target="_blank">(1)	Sat, 25th Feb, 4.30pm</a>
 </span>-->
 </div></div>
   
