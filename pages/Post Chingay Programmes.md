@@ -97,7 +97,6 @@ Catch an exclusive snippet of the lights, sounds and effects from Chingay 2023: 
 Sunday, 5 February only<br>
 5.30pm & 8.15pm<br>
 Our international friends are here to share their beautiful cultures with us!
-
 Don’t miss the opportunity to interact and experience our international friends’ unique blend of cultural and modern performances, from Cambodia, Indonesia, Thailand, South Korea and Viet Nam. 
 
 </p>
