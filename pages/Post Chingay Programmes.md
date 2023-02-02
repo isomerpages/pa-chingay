@@ -134,8 +134,8 @@ Participants will get to experience embossing floral designs onto the metal shee
   
   
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/HipHop.jpeg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Sharing by PA Talents Chinese Dance</span><br><span>Always interested in learning more about Chinese Dance? <br>
+<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Chinese.jpg"></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chinese Dance Experience</span><br><span>Always interested in learning more about Chinese Dance? <br>
 Hear from our experienced Chinese Dance Choreographer, Ms Chang Hsiao-Min, who has been leading the PA Talents Chinese Dance Ensemble for more than 30 years.  Get the chance to learn some basic Chinese dance movements and  interesting facts about the Chinese Culture. </span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
 <br><a href="LINKHERE" target="_blank">(1)	Tue, 21th Feb, 7.00pm</a>
@@ -145,8 +145,8 @@ Hear from our experienced Chinese Dance Choreographer, Ms Chang Hsiao-Min, who h
   
 
  <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/HipHop.jpeg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Sharing by PA Talents Malay Dance</span><br><span>Always interested in learning more about Malay Dance?<br>
+<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Malay.jpg"></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Malay Dance Experience</span><br><span>Always interested in learning more about Malay Dance?<br>
 Hear from our experienced Malay Dance Choreographer, Mr Osman Abdul Hamid, PBM, who has been leading the PA Talents Malay Dance Ensemble for more than 30 years.  Get the chance to learn some basic Malay dance movements and  interesting facts about the Malay Culture. </span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
 <br><a href="LINKHERE" target="_blank">(1)	Sat, 25nd Feb, 12.00pm</a>
@@ -157,8 +157,8 @@ Hear from our experienced Malay Dance Choreographer, Mr Osman Abdul Hamid, PBM, 
   
   
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/HipHop.jpeg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Sharing by PA Talents Indian Dance</span><br><span>Always interested in learning more about Indian Dance?<br>
+<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Indian.jpg"></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Indian Dance Experience</span><br><span>Always interested in learning more about Indian Dance?<br>
 Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, who has been with the PA Talents Indian Dance Ensemble for more than 20 years.  Get the chance to learn some basic Indian dance movements and  interesting facts about the Indian Culture. </span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
 <br><a href="LINKHERE" target="_blank">(1)	Wed, 22nd Feb, 7.45pm </a>
