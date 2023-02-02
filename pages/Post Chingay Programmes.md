@@ -33,7 +33,7 @@ F1 Pit Building</div>
 <div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/IMG_275.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/rabbits3.jpg"></div></div>
+<div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/rabbits3.jpg"></div></div></div>
 
 <p>
 Debuted at Chingay 2022, the Chingay Mini Floats is an initiative by PAssionArts and 17 Grassroots Organisations to involve residents to co-create their own mini floats, guided by local artists. A total of 17 unique "Future Singapore" Chingay Mini Floats are presented at Chingay Parade 2023 and will be on display at various heartlands, to bring cheer to the community!</p>
@@ -52,7 +52,7 @@ Debuted at Chingay 2022, the Chingay Mini Floats is an initiative by PAssionArts
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div><div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:;" src="/images/CTE/AngMoKioCluster.jpeg"></div></div>
-
+	</div>
 <p>Debuted at Chingay 2022, the Chingay Mini Floats is an initiative by PAssionArts and 17 Grassroots Organisations to involve residents to co-create their own mini floats, guided by local artists. A total of 17 unique "Future Singapore" Chingay Mini Floats are presented at Chingay Parade 2023 and will be on display at various heartlands, to bring cheer to the community!</p>
 </div>
 
@@ -85,9 +85,7 @@ Catch an exclusive snippet of the lights, sounds and effects from Chingay 2023: 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style= "font-size: 1rem; font-weight: ; padding:.5rem;"></div>Viet Nam<div style="min-height:10rem; max-height:12rem; overflow:hidden; padding:.5rem;"><img style="min-height:10rem; object-fit: cover; position:relative; top:;" src="/images/CTE/Viet.jpg"></div></div>
 
-
-	
-
+	</div>
 
 <p>
 Sunday, 5 February only<br>
