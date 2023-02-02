@@ -30,11 +30,6 @@ links:
         url: /d22023/
       - title: We've Got Talent! 2023
         url: /wgt2023/
-  - title: Ticketing
-    url: /tickets/
-    sublinks:
-      - title: Chingay 2023 Tickets
-        url: /tickets/
   - title: Join Us
     collection: join-us
   - title: ABOUT US
