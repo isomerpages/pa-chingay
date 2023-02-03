@@ -10,6 +10,9 @@ sections:
   - hero:
       background: /images/Website KV 3.png
       key_highlights:
+        - title: Programme Booklet
+          description: ""
+          url: /programme/
         - title: Chingay Webcast
           description: Catch Chingay Webcast on 3 Feb, 8pm
           url: /webcast/
@@ -17,12 +20,10 @@ sections:
           description: ""
           url: https://form.gov.sg/63d89405b9029d001110d023
   - infobar:
-      title: Chingay Parade 2023
+      title: Chingay Parade 2023 Programme Booklet
       subtitle: Chingay 2023
-      description: "We are back at F1 Pit! Indulge in the colourful and vibrant parade
-        in front of a street-style container art backdrop. "
       button: Find out more
-      url: /tickets/
+      url: /programme/
   - infopic:
       title: "Theme Song: Embrace Tomorrow"
       subtitle: Chingay 2023
