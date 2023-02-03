@@ -4,8 +4,7 @@ title: Chingay 2023
 description: Chingay Parade Singapore
 image: /images/isomer-logo.svg
 permalink: /
-notification: <a href="https://go.gov.sg/stay-in-touch-with-chingay">Sign Up</a>
-  to receive update on Chingay via email!
+notification: Chingay Parade 2023 and Webcast will be delayed till 8.15pm
 sections:
   - hero:
       background: /images/Website KV 3.png
