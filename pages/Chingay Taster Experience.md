@@ -3,6 +3,8 @@ title: Chingay Taster Experience
 permalink: /cte/
 description: ""
 ---
+![](/images/CTE/CTE.png)
+
 The Chingay Taster Experience (CTE) is a new programme that provides exclusive opportunities for online and TV audiences to participate in different activities and trial workshops.
 
 
