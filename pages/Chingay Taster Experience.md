@@ -24,14 +24,14 @@ Any personal data provided by you  may be used for the administration of these 
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/DSC06504.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chingay Behind-the-Scenes Tour</span><br><span>Sign up for a Chingay Behind-the-Scenes Tour of the Chingay Parade site at F1 Pit Building to find out the stories behind the creation of Chingay floats, Rabbits Art-Venture and Containers Art Installations.</span>
 <span style="line-height:1.5rem">
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-2pm-76813774" target="_blank">(1)	Sun, 5th Feb, 2.00pm</a>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-4pm-84088261" target="_blank">(2)	Sun, 5th Feb, 4.00pm</a>
-<br><a href="LINKHERE" target="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-6pm-22956916">(3)	Sun, 5th Feb, 6.00pm</a>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-7pm-86748206" target="_blank">(4)	Sun, 5th Feb, 6.00pm</a>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-6pm-22956916" target="_blank">(5)	Sun, 5th Feb, 7.00pm</a>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-6pm-22956916" target="_blank">(6)	Sun, 6th Feb, 7.00pm</a>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-6-feb-23-7pm-49999847" target="_blank">(7)	Sun, 7th Feb, 7.00pm</a>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-7-feb-23-7pm-36527379" target="_blank">(8)	Sun, 8th Feb, 7.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-2pm-76813774" target="_blank">Sun, 5th Feb, 2.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-4pm-84088261" target="_blank">Sun, 5th Feb, 4.00pm</a>
+<br><a href="LINKHERE" target="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-6pm-22956916">Sun, 5th Feb, 6.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-7pm-86748206" target="_blank">Sun, 5th Feb, 6.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-6pm-22956916" target="_blank">Sun, 5th Feb, 7.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-6pm-22956916" target="_blank">Sun, 6th Feb, 7.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-6-feb-23-7pm-49999847" target="_blank">Sun, 7th Feb, 7.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-7-feb-23-7pm-36527379" target="_blank">Sun, 8th Feb, 7.00pm</a>
 </span></div></div>
 
 
@@ -39,7 +39,7 @@ Any personal data provided by you  may be used for the administration of these 
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/UrbanSports.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chingay Playground</span><br><span>Come join us at the first-ever Chingay Playground right in front of the largest Chingay Container Art Installation.  Just pre-register and BYO gears and equipment; long boards, skates, bikes, rollerblades etc and enjoy some BLAZING good time! The Chingay Playground is only opened on 5 February (Sunday), 2pm to 5pm (you can come or leave at any time in between). Limited slots available. Sign up now!</span>
 <span style="line-height:1.5rem">
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-chingay-playground-5-feb-23-2pm-10932630" target="_blank">(1)	Sun, 5th Feb, 2.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-chingay-playground-5-feb-23-2pm-10932630" target="_blank">Sun, 5th Feb, 2.00pm</a>
 </span></div></div>
 
   
@@ -154,8 +154,8 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chinese Dance Experience</span><br><span>Always interested in learning more about Chinese Dance? <br>
 Hear from our experienced Chinese Dance Choreographer, Ms Chang Hsiao-Min, who has been leading the PA Talents Chinese Dance Ensemble for more than 30 years.  Get the chance to learn some basic Chinese dance movements and  interesting facts about the Chinese Culture. </span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-chinese-dance-21-feb-23-7pm-30948717" target="_blank">(1)	Tue, 21th Feb, 7.00pm</a>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-chinese-dance-28-feb-23-7pm-29532133" target="_blank">(2)	Tue, 28th Feb, 7.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-chinese-dance-21-feb-23-7pm-30948717" target="_blank">Tue, 21th Feb, 7.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-chinese-dance-28-feb-23-7pm-29532133" target="_blank">Tue, 28th Feb, 7.00pm</a>
 </span></div></div>
   
   
@@ -165,8 +165,8 @@ Hear from our experienced Chinese Dance Choreographer, Ms Chang Hsiao-Min, who h
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Malay Dance Experience</span><br><span>Always interested in learning more about Malay Dance?<br>
 Hear from our experienced Malay Dance Choreographer, Mr Osman Abdul Hamid, PBM, who has been leading the PA Talents Malay Dance Ensemble for more than 30 years.  Get the chance to learn some basic Malay dance movements and  interesting facts about the Malay Culture. </span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-malay-dance-25-feb-12pm-11585177" target="_blank">(1)	Sat, 25nd Feb, 12.00pm</a>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-malay-dance-4-mar-12pm-67459728" target="_blank">(2)	Sat, 4th Mar, 12.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-malay-dance-25-feb-12pm-11585177" target="_blank">Sat, 25nd Feb, 12.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-malay-dance-4-mar-12pm-67459728" target="_blank">Sat, 4th Mar, 12.00pm</a>
 </span></div></div>
   
   
@@ -177,8 +177,8 @@ Hear from our experienced Malay Dance Choreographer, Mr Osman Abdul Hamid, PBM, 
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Indian Dance Experience</span><br><span>Always interested in learning more about Indian Dance?<br>
 Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, who has been with the PA Talents Indian Dance Ensemble for more than 20 years.  Get the chance to learn some basic Indian dance movements and  interesting facts about the Indian Culture. </span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-indian-dance-22-feb-23-7-45pm-11927798" target="_blank">(1)	Wed, 22nd Feb, 7.45pm </a>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-indian-dance-1-mar-23-7-45pm-69856907" target="_blank">(2)	Wed, 1st Mar 23, 7.45pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-indian-dance-22-feb-23-7-45pm-11927798" target="_blank">Wed, 22nd Feb, 7.45pm </a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-indian-dance-1-mar-23-7-45pm-69856907" target="_blank">Wed, 1st Mar 23, 7.45pm</a>
 </span></div></div>
  
   
