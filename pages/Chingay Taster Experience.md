@@ -211,9 +211,10 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Cheerfit.jpeg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Cheerfit</span><br><span>CheerFit is an upbeat workout program designed by TJ that is engaging and fun for everyone to stay fit and stay bonded in the community. The workout involves aspects of cheerleading such as cheer dance, jumps and basic gymnastic movement that aims to get participants in the best shape of their life</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
-<span style="line-height:1.5rem">
+<br><span style="color:#2d6ffa;">COMING SOON!</span>
+<!--<span style="line-height:1.5rem">
 <br><a href="LINKHERE" target="_blank">(1)	Sat, 25th Feb, 4.30pm</a>
-</span></div></div>
+</span>--></div></div>
   
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Piloxing.jpeg"></div>
