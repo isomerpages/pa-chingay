@@ -5,9 +5,13 @@ description: ""
 ---
 ![](/images/CTE/CTE.png)
 
-The Chingay Taster Experience (CTE) is a new programme that provides exclusive opportunities for online and TV audiences to participate in different activities and trial workshops.
+<div style="font-size:1.2rem">The Chingay Taster Experience (CTE) is a new programme that provides exclusive opportunities for online and TV audiences to participate in different activities and trial workshops.
+
+You can sign up by clicking on the respective links below. Please note that spaces are limited and registration is on a first-come-first-served basis. By registering for the CTE, you  acknowledge the following :
 
 
+<span style="font-size:0.9rem">(a) Please ensure that you are able to attend the session before signing up so as not to deprive others of the opportunity. Participants who are no-show at the activities / workshops may not be allowed to sign up for other activities / workshops under CTE. Please note that the Organiser may refuse and/or cancel any registration at its sole and absolute discretion.<br><br>
+(b) Photos, videos and other recordings  may be taken during these sessions.  You agree that the Organiser may use such photographs, videos and other recordings in the Organiser’s sole and absolute discretion , including but not limited to use for publicity purposes and/or such other use(s) in the future.<br><br>(c) Any personal data provided by you  may be used for the administration of these sessions  as well as other Chingay-related purposes.</span></div>
 
 # Exclusive Experiences
 
@@ -21,7 +25,6 @@ The Chingay Taster Experience (CTE) is a new programme that provides exclusive o
 <span style="line-height:1.5rem">
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-2pm-76813774" target="_blank">Sun, 5th Feb, 2.00pm</a>
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-4pm-84088261" target="_blank">Sun, 5th Feb, 4.00pm</a>
-<br><a href="LINKHERE" target="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-6pm-22956916">Sun, 5th Feb, 6.00pm</a>
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-6pm-22956916" target="_blank">Sun, 5th Feb, 6.00pm</a>
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-7pm-86748206" target="_blank">Sun, 5th Feb, 7.00pm</a>
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-6-feb-23-7pm-49999847" target="_blank">Sun, 6th Feb, 7.00pm</a>
@@ -229,11 +232,3 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 </div>
 
 
-You can sign up by clicking on the respective links below. Please note that spaces are limited and registration is on a first-come-first-served basis. By registering for the CTE, you  acknowledge the following :
-
-
-(a) Please ensure that you are able to attend the session before signing up so as not to deprive others of the opportunity. Participants who are no-show at the activities / workshops may not be allowed to sign up for other activities / workshops under CTE. Please note that the Organiser may refuse and/or cancel any registration at its sole and absolute discretion.
-
-(b) Photos, videos and other recordings  may be taken during these sessions.  You agree that the Organiser may use such photographs, videos and other recordings in the Organiser’s sole and absolute discretion , including but not limited to use for publicity purposes and/or such other use(s) in the future.
-
-(c) Any personal data provided by you  may be used for the administration of these sessions  as well as other Chingay-related purposes.
