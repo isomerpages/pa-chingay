@@ -22,11 +22,11 @@ The Chingay Taster Experience (CTE) is a new programme that provides exclusive o
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-2pm-76813774" target="_blank">Sun, 5th Feb, 2.00pm</a>
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-4pm-84088261" target="_blank">Sun, 5th Feb, 4.00pm</a>
 <br><a href="LINKHERE" target="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-6pm-22956916">Sun, 5th Feb, 6.00pm</a>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-7pm-86748206" target="_blank">Sun, 5th Feb, 6.00pm</a>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-6pm-22956916" target="_blank">Sun, 5th Feb, 7.00pm</a>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-6pm-22956916" target="_blank">Sun, 6th Feb, 7.00pm</a>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-6-feb-23-7pm-49999847" target="_blank">Sun, 7th Feb, 7.00pm</a>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-7-feb-23-7pm-36527379" target="_blank">Sun, 8th Feb, 7.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-6pm-22956916" target="_blank">Sun, 5th Feb, 6.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-7pm-86748206" target="_blank">Sun, 5th Feb, 7.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-6-feb-23-7pm-49999847" target="_blank">Sun, 6th Feb, 7.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-7-feb-23-7pm-36527379" target="_blank">Sun, 7th Feb, 7.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-8-feb-23-7pm-55796153" target="_blank">Sun, 8th Feb, 7.00pm</a>
 </span></div></div>
 
 
