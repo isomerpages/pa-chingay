@@ -230,5 +230,3 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 </div></div>
   
 </div>
-
-
