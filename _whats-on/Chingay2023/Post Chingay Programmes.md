@@ -2,20 +2,15 @@
 title: Post Chingay Programmes
 permalink: /postchingay/
 description: ""
+third_nav_title: Chingay2023
 ---
+
+# FREE ADMISSION
 <div style="line-height:2rem;font-size:1.1rem">
-<Strong>[FREE ADMISSION]</strong><br>
 5 February 2023 | 2pm - 10pm<br>
 6 - 9 February 2023 | 6pm - 10pm<br>
 F1 Pit Building<br><br>
-Parking <b>not</b> available at F1 Pit Building, nearest carparks are at Singapore Flyer, Millenia Walk and Suntec City (at own cost).<br><br>
-<b>If you are taking public transport</B><br>
-By MRT:<br>
-1)         11 mins walk from CC4/DT15 Promenade MRT Station<br>
-2)         14 mins walk from CC3 Esplanade MRT Station<br>
-3)         22 mins walk from NS25/EW13 City Hall MRT Station<br>
-4)         22 mins walk from CE1/DT16 Bayfront MRT Station
-<br><br>
+
 The Chingay Parade area will be opened for members of the public to access and immerse in the Chingay spirit! Get up-close with the Container Art installations, the Rabbits ART-Venture and the Chingay Floats. There will also be special performances by our international friends (on Sunday, 5 Feb 2023) and a 10-min Chingay Light show happening twice every night.</div>
 
 
@@ -111,3 +106,13 @@ Don’t miss the opportunity to interact and experience our international friend
 
 </p>
 </div>
+	
+# 	How to get there?
+<div> Parking <b>not</b> available at F1 Pit Building, nearest carparks are at Singapore Flyer, Millenia Walk and Suntec City (at own cost).<br><br>
+<b>If you are taking public transport</B><br>
+By MRT:<br>
+1)         11 mins walk from CC4/DT15 Promenade MRT Station<br>
+2)         14 mins walk from CC3 Esplanade MRT Station<br>
+3)         22 mins walk from NS25/EW13 City Hall MRT Station<br>
+4)         22 mins walk from CE1/DT16 Bayfront MRT Station
+	<br><br></div>
