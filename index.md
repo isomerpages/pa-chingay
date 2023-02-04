@@ -9,12 +9,12 @@ sections:
   - hero:
       background: /images/Website KV 3.png
       key_highlights:
+        - title: Chingay Webcast
+          description: Watch Chingay 2023
+          url: /webcast/
         - title: Programme Booklet
           description: ""
           url: /programme/
-        - title: Chingay Webcast
-          description: Catch Chingay Webcast on 3 Feb, 8pm
-          url: /webcast/
         - title: Feedback On Chingay 2023
           description: ""
           url: https://form.gov.sg/63d89405b9029d001110d023
