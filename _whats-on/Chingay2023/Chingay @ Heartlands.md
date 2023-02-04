@@ -8,11 +8,11 @@ Chingay@Heartlands Celebrations 2023 bring the Chingay experience closer to resi
 
 **Chingay @ East Coast 2023**<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
-Open Field next to Blk 19 Bedok South Road<br><!--
-<img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
-Tel: 6506 0900<br>-->
+Open Field next to Blk 19 Bedok South Road<br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sat, 11 Feb 2023<br>
-<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>7.00pm to 10.00pm
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>7.00pm to 10.00pm<br>
+<img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
+www.facebook.com/OurTampinesHub/<br>
 
 **Chingay @ OTH**<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
