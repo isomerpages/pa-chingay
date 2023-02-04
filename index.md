@@ -27,6 +27,24 @@ sections:
       button: Find out more
       url: /programme/
   - infopic:
+      title: Post Chingay Programmes
+      subtitle: Chingay 2023
+      description: Frp, 5 to 9 February, get up-close with the Container Art
+        installations, the Rabbits ART-Venture and the Chingay Floats.
+      button: FIND OUT MORE
+      url: /postchingay
+      image: /images/CTE/ImageC.png
+      alt: Image alt text
+  - infopic:
+      title: Chingay Taster Expereince
+      subtitle: Chingay 2023
+      description: Exclusive opportunities for online and TV audiences to participate
+        in different activities and trial workshops.
+      button: Find Out More
+      url: /CTE
+      image: /images/CTE/ImageA.png
+      alt: Image alt text
+  - infopic:
       title: Community Art Installations
       subtitle: Chingay 2023
       description: "[FREE ADMISSION] to the Community Art Installations on 5 February
@@ -68,22 +86,4 @@ sections:
         closer to residents with a local twist and flavour.
       button: Find out more
       url: /heartlands/
-  - infopic:
-      title: Chingay Taster Expereince
-      subtitle: Chingay 2023
-      description: Exclusive opportunities for online and TV audiences to participate
-        in different activities and trial workshops.
-      button: Find Out More
-      url: /CTE
-      image: /images/CTE/ImageA.png
-      alt: Image alt text
-  - infopic:
-      title: Post Chingay Programmes
-      subtitle: Chingay 2023
-      description: Frp, 5 to 9 February, get up-close with the Container Art
-        installations, the Rabbits ART-Venture and the Chingay Floats.
-      button: FIND OUT MORE
-      url: /postchingay
-      image: /images/CTE/ImageC.png
-      alt: Image alt text
 ---
