@@ -18,6 +18,9 @@ sections:
         - title: Feedback On Chingay 2023
           description: ""
           url: https://form.gov.sg/63d89405b9029d001110d023
+        - title: Chingay Tester Experience
+          description: ""
+          url: ""
   - infobar:
       title: Chingay Parade 2023 Programme Booklet
       subtitle: Chingay 2023
