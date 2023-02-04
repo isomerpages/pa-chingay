@@ -3,6 +3,8 @@ links:
   - title: Chingay 2023
     url: /tickets/
     sublinks:
+      - title: Programme
+        url: /programme
       - title: Ticketing Details
         url: /tickets/
       - title: Advisory
