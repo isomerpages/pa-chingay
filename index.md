@@ -30,7 +30,7 @@ sections:
   - infopic:
       title: Post Chingay Programmes
       subtitle: Chingay 2023
-      description: Fom, 5 to 9 February, get up-close with the Container Art
+      description: From 5 to 9 February, get up-close with the Container Art
         installations, the Rabbits ART-Venture and the Chingay Floats.
       button: FIND OUT MORE
       url: /postchingay
