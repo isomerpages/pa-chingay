@@ -34,7 +34,7 @@ sections:
         installations, the Rabbits ART-Venture and the Chingay Floats.
       button: FIND OUT MORE
       url: /postchingay
-      image: /images/CTE/ImageC.png
+      image: /images/CTE/Image5.png
       alt: Image alt text
   - infopic:
       title: Chingay Taster Experience
@@ -43,7 +43,7 @@ sections:
         in different activities and trial workshops.
       button: Find Out More
       url: /CTE
-      image: /images/CTE/ImageA.png
+      image: /images/CTE/Image4.png
       alt: Image alt text
   - infopic:
       title: Community Art Installations
