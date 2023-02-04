@@ -17,7 +17,7 @@ sections:
           url: /programme/
         - title: Chingay Tester Experience
           description: ""
-          url: ""
+          url: /cte/
         - title: Feedback On Chingay 2023
           description: ""
           url: https://form.gov.sg/63d89405b9029d001110d023
