@@ -19,7 +19,7 @@ Nearest Carpark: Millenia Walk & Suntec City
 
 # Advisory
 
-Dear participants, kindly not of the following Terms & Conditions
+Dear participants, kindly note of the following Terms & Conditions
 
 * No refund or exchange of ticket will be made under all circumstances i.e. adverse weather conditions, dangerous situations, or any other cause beyond reasonable control.
 *   Infants in arms and children under 2 years old may be admitted without ticket provided they do not occupy a seat i.e. they must be seated on the lap of a parent/guardian.
