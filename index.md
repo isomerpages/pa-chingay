@@ -15,7 +15,7 @@ sections:
         - title: Programme Booklet
           description: ""
           url: /programme/
-        - title: Chingay Tester Experience
+        - title: Chingay Taster Experience
           description: ""
           url: /cte/
         - title: Feedback On Chingay 2023
@@ -36,7 +36,7 @@ sections:
       image: /images/CTE/ImageC.png
       alt: Image alt text
   - infopic:
-      title: Chingay Taster Expereince
+      title: Chingay Taster Experience
       subtitle: Chingay 2023
       description: Exclusive opportunities for online and TV audiences to participate
         in different activities and trial workshops.
