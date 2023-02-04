@@ -4,9 +4,12 @@ permalink: /Webcast/
 description: ""
 third_nav_title: Chingay2023
 ---
+Watch Chingay's Webcast, aired on 3 February 2023, 8pm
 
+<iframe width="100%" height="400rem" src="https://www.youtube.com/embed/SNOEUaoSB5s?start=2250" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Catch Chingay's Webcast "LIVE" on 3 February 2023, 8pm
+Chingay returns to the F1 Pit Building in the first year since its Golden Jubilee, and the first physical parade after two years of hybrid and digital showcases. 
 
-<div>
-<iframe width="100%" height="400rem" src="https://www.youtube.com/embed/SNOEUaoSB5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+Themed “Embrace Tomorrow”, the festive parade completes the trilogy that began with “Light of Hope” in 2021 and “Ignite our Dreams” in 2022; calling on Singaporeans to treasure the present and embrace tomorrow as a community with hope, dream and confidence. 
+
+Audiences can look forward to the comeback of iconic Chingay floats and 17 community co-created mini floats, indulge in the colourful and vibrant parade by the diverse talents and multi-ethnic community performed in front of a street-style container art backdrop that is co-created by youths.
