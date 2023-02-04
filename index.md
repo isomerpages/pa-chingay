@@ -24,6 +24,15 @@ sections:
       button: Find out more
       url: /programme/
   - infopic:
+      title: Community Art Installations
+      subtitle: Chingay 2023
+      description: "[FREE ADMISSION] to the Community Art Installations on 5 February
+        2023 | 2pm - 10pm and 6 - 9 February 2023 | 6pm - 10pm."
+      button: find out more
+      url: /chingay2023-cai/
+      image: /images/whats-on/5IMG1378.jpg
+      alt: Image alt text
+  - infopic:
       title: "Theme Song: Embrace Tomorrow"
       subtitle: Chingay 2023
       button: LISTEN NOW ON SPOTIFY
@@ -49,15 +58,6 @@ sections:
         #SupportLocal businesses and #DoGoodWithUs. "
       button: Find Out More
       url: chingaymamashop/
-  - infopic:
-      title: Community Art Installations
-      subtitle: Chingay 2023
-      description: "[FREE ADMISSION] to the Community Art Installations on 5 February
-        2023 | 2pm - 10pm and 6 - 9 February 2023 | 6pm - 10pm."
-      button: find out more
-      url: /chingay2023-cai/
-      image: /images/whats-on/5IMG1378.jpg
-      alt: Image alt text
   - infobar:
       title: Chingay @ Heartlands
       subtitle: Chingay 2023
@@ -65,4 +65,22 @@ sections:
         closer to residents with a local twist and flavour.
       button: Find out more
       url: /heartlands/
+  - infopic:
+      title: Chingay Taster Expereince
+      subtitle: Chingay 2023
+      description: Exclusive opportunities for online and TV audiences to participate
+        in different activities and trial workshops.
+      button: Find Out More
+      url: /CTE
+      image: /images/CTE/ImageA.png
+      alt: Image alt text
+  - infopic:
+      title: Post Chingay Programmes
+      subtitle: Chingay 2023
+      description: Frp, 5 to 9 February, get up-close with the Container Art
+        installations, the Rabbits ART-Venture and the Chingay Floats.
+      button: FIND OUT MORE
+      url: /postchingay
+      image: /images/CTE/ImageC.png
+      alt: Image alt text
 ---
