@@ -137,8 +137,8 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/LatinDance.jpeg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Latin / Ballroom Dance</span><br><span>This Ballroom Latin (Adult) Elementary course will cover Cha-Cha, Paso Doble, Rumba and Samba. Participants will learn feet positions, alignment, turns, rise and fall, footwork, timing and counting in beats or beats and bars.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-ballroom-latin-c026993775" target="_blank">Sun, 5th Mar, 01.15pm</a>
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-ballroom-latin-c026993779" target="_blank">Sun, 19th Mar, 01:15 PM</a>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-ballroom-latin-c026993775" target="_blank">Sun, 5th Mar, 1.15pm</a>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-ballroom-latin-c026993779" target="_blank">Sun, 19th Mar, 1:15pm</a>
 </span>
 </div></div>
  
@@ -214,8 +214,8 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Cheerfit.jpeg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Cheerfit</span><br><span>CheerFit is an upbeat workout program designed by TJ that is engaging and fun for everyone to stay fit and stay bonded in the community. The workout involves aspects of cheerleading such as cheer dance, jumps and basic gymnastic movement that aims to get participants in the best shape of their life</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-cheerfit-c026993280" target="_blank">Sat, 11th Mar, 04.30pm</a>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-cheerfit-c026991872" target="_blank">Sat, 25th Feb, 4.30pm</a>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-cheerfit-c026993280" target="_blank">Sat, 11th Mar, 4.30pm</a>
 </span></div></div>
   
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
