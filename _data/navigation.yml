@@ -13,6 +13,8 @@ links:
         url: /CTE/
       - title: Community Art Installation
         url: /chingay2023-cai/
+      - title: Mini Floats
+        url: /minifloats/
       - title: Webcast
         url: /webcast/
       - title: Spot The Rabbit
@@ -29,8 +31,6 @@ links:
         url: /chingay2023-watchparty/
       - title: Chingay @ Heartlands
         url: /heartlands/
-      - title: Mini Floats
-        url: /minifloats/
   - title: Community Engagement
     url: /permalink
     sublinks:
