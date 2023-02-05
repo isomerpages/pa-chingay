@@ -4,8 +4,6 @@ permalink: /minifloats/
 description: ""
 third_nav_title: Community Engagement
 ---
-
-
 <div style="font-size:1.1rem;">
 Debuted at Chingay Parade 2022, this is an initiative made possible with the involvement of our residents in co-creating the mini floats and guided by our local artists. A total of 17 unique "Future Singapore" Chingay Mini Floats will be presented at Chingay Parade 2023 and various heartlands, to bring cheers to the community!</div>
 
@@ -220,7 +218,7 @@ We aspire to have every bite of food, proudly grown in abundance, in our homelan
 <div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/BloomingFlowers,GardenCity1.png"></div></div>
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/BatikArtworksofSingapore2.jpg"></div></div>
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/BloomingFlowers,GardenCity2.jpg"></div></div>
 
 </div>
 
