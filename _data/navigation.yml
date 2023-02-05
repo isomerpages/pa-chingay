@@ -13,8 +13,6 @@ links:
         url: /CTE/
       - title: Community Art Installation
         url: /chingay2023-cai/
-      - title: Mini Floats
-        url: /minifloats/
       - title: Webcast
         url: /webcast/
       - title: Spot The Rabbit
@@ -38,6 +36,8 @@ links:
         url: /d22023/
       - title: We've Got Talent! 2023
         url: /wgt2023/
+      - title: Mini Floats
+        url: /minifloats/
   - title: Join Us
     collection: join-us
   - title: ABOUT US
