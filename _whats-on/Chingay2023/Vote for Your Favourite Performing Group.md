@@ -200,7 +200,7 @@ The%20Lesslars%20and%20Singers%20from%20We’ve%20Got%20Talent!%202023:%20Asher%
 
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/ChingayAwards/Act%205%20Group%2014.jpg"></div>
+<div style="border-radius: 10px; min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/ChingayAwards/minifloatsperf.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Mini Floats Performer</span><br><span style="line-height: 2em; font-size: 1rem; font-weight: bold;"><a href="https://form.gov.sg/63d33904d4e11c0012c0ca98?622f011a09260b0012490c8c=Mini%20Floats%20Performer" target="_blank">VOTE</a></span></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
