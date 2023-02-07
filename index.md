@@ -8,7 +8,7 @@ notification: <a href="https://go.gov.sg/stay-in-touch-with-chingay">Sign Up</a>
   to receive update on Chingay via email!
 sections:
   - hero:
-      background: /images/KEN_9199 edited long 5mb 752.jpg
+      background: /images/Finalemasthead.jpg
       key_highlights:
         - title: Chingay Webcast
           description: Watch Chingay 2023
