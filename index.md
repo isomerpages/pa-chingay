@@ -21,7 +21,7 @@ sections:
         - title: Feedback On Chingay 2023
           description: ""
           url: https://form.gov.sg/63d89405b9029d001110d023
-      background: /images/Finale masthead.jpg
+      background: /images/KEN_9199 edited long 5mb 752.jpg
   - infobar:
       title: Chingay Parade 2023 Programme Booklet
       subtitle: Chingay 2023
