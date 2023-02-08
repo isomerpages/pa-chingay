@@ -5,30 +5,30 @@ links:
     sublinks:
       - title: Chingay @ Heartlands
         url: /heartlands/
-      - title: Advisory
-        url: /advisory/
-      - title: Programme
-        url: /programme
       - title: Post Chingay Programme
         url: /postchingay/
       - title: Chingay Taster Experience
         url: /CTE/
-      - title: Community Art Installation
-        url: /chingay2023-cai/
-      - title: Webcast
-        url: /webcast/
       - title: Spot The Rabbit
         url: /SpotTheRabbit/
+      - title: Community Art Installation
+        url: /chingay2023-cai/
       - title: Voting - Mini Floats
         url: /vote-minifloats/
       - title: Voting - Performing Group
         url: /vote-performinggroup/
-      - title: Ticketing Details
-        url: /tickets/
       - title: Chingay Mama Shop
         url: /Chingaymamashop/
+      - title: Webcast
+        url: /webcast/
+      - title: Programme
+        url: /programme
+      - title: Advisory
+        url: /advisory/
       - title: Watch Party
         url: /chingay2023-watchparty/
+      - title: Ticketing Details
+        url: /tickets/
   - title: Community Engagement
     url: /permalink
     sublinks:
