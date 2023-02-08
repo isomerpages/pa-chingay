@@ -8,7 +8,6 @@ notification: <a href="https://go.gov.sg/stay-in-touch-with-chingay">Sign Up</a>
   to receive update on Chingay via email!
 sections:
   - hero:
-      background: /images/KEN_9199 edited long 5mb 752.jpg
       key_highlights:
         - title: Chingay Webcast
           description: Watch Chingay 2023
@@ -22,6 +21,7 @@ sections:
         - title: Feedback On Chingay 2023
           description: ""
           url: https://form.gov.sg/63d89405b9029d001110d023
+      background: /images/KEN_9199 edited long 5mb 752.jpg
   - infobar:
       title: Chingay Parade 2023 Programme Booklet
       subtitle: Chingay 2023
