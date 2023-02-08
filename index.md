@@ -23,10 +23,12 @@ sections:
           url: https://form.gov.sg/63d89405b9029d001110d023
       background: /images/KEN_9199 edited long 5mb 752.jpg
   - infobar:
-      title: Chingay Parade 2023 Programme Booklet
+      title: Chingay @ Heartlands
       subtitle: Chingay 2023
+      description: Chingay@Heartlands Celebrations 2023 bring the Chingay experience
+        closer to residents with a local twist and flavour.
       button: Find out more
-      url: /programme/
+      url: /heartlands/
   - infopic:
       title: Post Chingay Programmes
       subtitle: Chingay 2023
@@ -54,6 +56,18 @@ sections:
       url: /chingay2023-cai/
       image: /images/whats-on/5IMG1378.jpg
       alt: Image alt text
+  - infobar:
+      title: CHINGAY MAMA SHOP
+      subtitle: Chingay 2023
+      description: "The Chingay Mama Shop is back in 2023! Be part of the movement to
+        #SupportLocal businesses and #DoGoodWithUs. "
+      button: Find Out More
+      url: chingaymamashop/
+  - infobar:
+      title: Chingay Parade 2023 Programme Booklet
+      subtitle: Chingay 2023
+      button: Find out more
+      url: /programme/
   - infopic:
       title: "Theme Song: Embrace Tomorrow"
       subtitle: Chingay 2023
@@ -64,27 +78,4 @@ sections:
       description: A song to rally everyone to singalong and feel a sense of pride and
         instill a great sense of fearlessness for what is to come and build a
         brighter future!
-  - infopic:
-      title: Watch Parties
-      description: Watch Chingay Parade 2023 with your family, friends or neighbours
-        on 3 Feb and/or 4 Feb. More than $6,000 worth of vouchers to be won.
-      button: Find out more
-      url: /chingay2023-watchparty
-      image: /images/Watch Party.png
-      alt: Watch Parties
-      subtitle: Chingay 2023
-  - infobar:
-      title: CHINGAY MAMA SHOP
-      subtitle: Chingay 2023
-      description: "The Chingay Mama Shop is back in 2023! Be part of the movement to
-        #SupportLocal businesses and #DoGoodWithUs. "
-      button: Find Out More
-      url: chingaymamashop/
-  - infobar:
-      title: Chingay @ Heartlands
-      subtitle: Chingay 2023
-      description: Chingay@Heartlands Celebrations 2023 bring the Chingay experience
-        closer to residents with a local twist and flavour.
-      button: Find out more
-      url: /heartlands/
 ---
