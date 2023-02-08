@@ -23,6 +23,13 @@ sections:
           url: https://form.gov.sg/63d89405b9029d001110d023
       background: /images/KEN_9199 edited long 5mb 752.jpg
   - infobar:
+      title: Chingay @ Heartlands
+      subtitle: Chingay 2023
+      description: Chingay@Heartlands Celebrations 2023 bring the Chingay experience
+        closer to residents with a local twist and flavour.
+      button: Find out more
+      url: /heartlands/
+  - infobar:
       title: Chingay Parade 2023 Programme Booklet
       subtitle: Chingay 2023
       button: Find out more
@@ -80,11 +87,4 @@ sections:
         #SupportLocal businesses and #DoGoodWithUs. "
       button: Find Out More
       url: chingaymamashop/
-  - infobar:
-      title: Chingay @ Heartlands
-      subtitle: Chingay 2023
-      description: Chingay@Heartlands Celebrations 2023 bring the Chingay experience
-        closer to residents with a local twist and flavour.
-      button: Find out more
-      url: /heartlands/
 ---
