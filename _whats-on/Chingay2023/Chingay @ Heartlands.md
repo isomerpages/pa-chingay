@@ -14,7 +14,7 @@ Open Field next to Blk 19 Bedok South Road<br>
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
 www.facebook.com/OurTampinesHub/<br>
 
-**Chingay @ OTH**<br>
+**Chingay @ Heartlands (Tampines)**<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
 Our Tampines Hub<br><!--
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
