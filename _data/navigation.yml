@@ -3,6 +3,8 @@ links:
   - title: Chingay 2023
     url: /tickets/
     sublinks:
+      - title: Chingay @ Heartlands
+        url: /heartlands/
       - title: Advisory
         url: /advisory/
       - title: Programme
@@ -27,8 +29,6 @@ links:
         url: /Chingaymamashop/
       - title: Watch Party
         url: /chingay2023-watchparty/
-      - title: Chingay @ Heartlands
-        url: /heartlands/
   - title: Community Engagement
     url: /permalink
     sublinks:
