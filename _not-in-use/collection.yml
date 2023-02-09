@@ -2,6 +2,7 @@ collections:
   not-in-use:
     output: true
     order:
+      - Advisory.md
       - Community Art Installations.md
       - Post Chingay Programmes.md
       - Vote for Your Favourite Performing Group.md
