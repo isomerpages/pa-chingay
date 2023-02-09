@@ -12,21 +12,20 @@ Caravan Start - Open Field outside Eastpoint Mall<br><img src="/images/Heartland
 Cravan End - Open Field next to Blk 19 Bedok South Road<br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sat, 11 Feb 2023<br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>6.00pm to 10.00pm<br>
-<img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
-https://www.facebook.com/OurEastCoastBuzz/<br>
+<img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/><a href="https://www.facebook.com/OurEastCoastBuzz/">Our East Coast Buzz Facebook Page</a>
+<br>
 
 
 **Chingay @ Tampines**<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
 Caravan Start - Our Tampines Hub<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
-Caravan End - Our Tampines Hub<br><!--
-<img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
-Tel: 6506 0900<br>-->
+Caravan End - Our Tampines Hub<br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sun, 12 Feb 2023<br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>6.00pm to 10.00pm<br>
-<img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
-www.facebook.com/OurTampinesHub/<br>
+<img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/><a href="https://www.facebook.com/OurTampinesHub/">Our Tampines Hub Facebook Page</a>
+<br>
+
 
 **Chingay @ Chua Chu Kang**<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
