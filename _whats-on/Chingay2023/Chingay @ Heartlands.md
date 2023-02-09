@@ -11,7 +11,9 @@ Chingay@Heartlands Celebrations 2023 bring the Chingay experience closer to resi
 Caravan Start - Open Field outside Eastpoint Mall<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
 Cravan End - Open Field next to Blk 19 Bedok South Road<br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sat, 11 Feb 2023<br>
-<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>6.00pm to 10.00pm
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>6.00pm to 10.00pm<br>
+<img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
+https://www.facebook.com/OurEastCoastBuzz/<br>
 
 
 **Chingay @ Tampines**<br>
