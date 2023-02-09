@@ -2,6 +2,7 @@ collections:
   not-in-use:
     output: true
     order:
+      - Post Chingay Programmes.md
       - Vote for Your Favourite Performing Group.md
       - Vote for Your Favourite Mini Floats.md
       - Chingay 2023 Ticketing.md
