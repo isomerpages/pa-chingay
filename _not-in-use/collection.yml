@@ -2,6 +2,7 @@ collections:
   not-in-use:
     output: true
     order:
+      - Vote for Your Favourite Mini Floats.md
       - Chingay 2023 Ticketing.md
       - Sponsor Donors Backup.md
       - Volunteers.md
