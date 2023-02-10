@@ -1,9 +1,10 @@
 ---
 title: Vote for Your Favourite Performing Group
-permalink: /vote-performinggroup/
+permalink: /vote-performinggroup-bkp/
 description: ""
-third_nav_title: Chingay2023
 ---
+
+
 Click <span style="text-decoration:underline; color:#345bcc">vote</span> to vote for your favourite Chingay Parade 2023 Performing Group
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
