@@ -26,7 +26,8 @@ You can sign up by clicking on the respective links below. Please note that spac
 Participants will get to experience embossing floral designs onto the metal sheets and take home their masterpieces.</span>
 <span style="line-height:1.5rem">
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-metal-tooling-c026993948" target="_blank">Sat, 25th Feb, 11.00am</a>
-<br><a href="LINKHERE" target="_blank">Sat, 25th Feb, 12.00pm</a>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-metal-tooling-c026993952" target="_blank">Sat, 25th Feb, 12.00pm</a>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-metal-tooling-c026993953" target="_blank">Sun, 5th Mar, 2.30pm</a>
 </span>
 </div></div>
 
@@ -173,7 +174,6 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Cheerfit</span><br><span>CheerFit is an upbeat workout program designed by TJ that is engaging and fun for everyone to stay fit and stay bonded in the community. The workout involves aspects of cheerleading such as cheer dance, jumps and basic gymnastic movement that aims to get participants in the best shape of their life</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-cheerfit-c026991872" target="_blank">Sat, 25th Feb, 4.30pm</a>
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-cheerfit-c026993280" target="_blank">Sat, 11th Mar, 4.30pm</a>
 </span></div></div>
   
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
