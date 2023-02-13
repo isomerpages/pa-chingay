@@ -18,40 +18,6 @@ You can sign up by clicking on the respective links below. Please note that spac
 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
-
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/DSC06504.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chingay Behind-the-Scenes Tour</span><br><span>Sign up for a Chingay Behind-the-Scenes Tour of the Chingay Parade site at F1 Pit Building to find out the stories behind the creation of Chingay floats, Rabbits Art-Venture and Containers Art Installations.</span>
-<span style="line-height:1.5rem">
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-2pm-76813774" target="_blank">Sun, 5th Feb, 2.00pm</a>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-4pm-84088261" target="_blank">Sun, 5th Feb, 4.00pm</a>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-6pm-22956916" target="_blank">Sun, 5th Feb, 6.00pm</a>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-5-feb-23-7pm-86748206" target="_blank">Sun, 5th Feb, 7.00pm</a>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-6-feb-23-7pm-49999847" target="_blank">Mon, 6th Feb, 7.00pm</a>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-7-feb-23-7pm-36527379" target="_blank">Tue, 7th Feb, 7.00pm</a>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-behind-the-scene-tour-8-feb-23-7pm-55796153" target="_blank">Wed, 8th Feb, 7.00pm</a>
-</span></div></div>
-
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/UrbanSports.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chingay Playground</span><br><span>Come join us at the first-ever Chingay Playground right in front of the largest Chingay Container Art Installation.  Just pre-register and BYO gears and equipment; long boards, skates, bikes, rollerblades etc and enjoy some BLAZING good time! The Chingay Playground is only opened on 5 February (Sunday), 2pm to 5pm (you can come or leave at any time in between). Limited slots available. Sign up now!</span>
-<span style="line-height:1.5rem">
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-chingay-playground-5-feb-23-2pm-10932630" target="_blank">Sun, 5th Feb, 2.00pm</a>
-</span></div></div>
-
-  
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Panelist.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Sharing by Chingay 2023’s Creative Team</span><br><span>Join us for an exclusive one-night only sharing by the team of creative talents behind Chingay 2023.  Hear from our Creative Director, Mr Fan Dong Kai; Assistant Creative Director, Melvin Tang; Art Director, Sam Lo; Music Director, Ting Si Hao and Multimedia Director, Jed Tay. <br>Find out what inspired them in their inventive journey in creating this year’s parade titled “Embrace Tomorrow”.  </span>
-<span style="line-height:1.5rem">
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-creative-team-9-feb-23-8-15pm-98088884" target="_blank">Thurs, 9th Feb, 8.15pm</a>
-</span></div></div>
-  
-</div>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 	
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
@@ -70,11 +36,10 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-4rem;" src="/images/CTE/Clay.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Clay Art</span> (60min)<br><span>The Air Clay Sculpture is a taster workshop for the participant to get familiar with the air dry clay available in vibrant colours as a medium which does not need any firing unlike the regular pottery clay. The participants will be creating their beautiful artwork and learn the technique under the supervision of the trainer. They will be able to take back their artwork with them after the workshop.</span>
-<br><span style="color:#2d6ffa;">COMING SOON!</span>
-<!--<span style="line-height:1.5rem">
-<br><a href="LINKHERE" target="_blank">(1)	Tues, 21st Feb, 2.00pm</a>
-<br><a href="LINKHERE" target="_blank">(2)	Fri, 24th Feb, 2.00pm</a>
-</span>-->
+<span style="line-height:1.5rem">
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-clay-sculpture-with-air-dry-clay-c026994203" target="_blank">Tues, 21st Feb, 2.00pm</a>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-clay-sculpture-with-air-dry-clay-c026994214" target="_blank">Fri, 24th Feb, 2.00pm</a>
+</span>
 </div></div>
 
 
@@ -228,4 +193,27 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 </span>-->
 </div></div>
   
+</div>
+
+
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
+
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/DSC06504.jpg"></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chingay Behind-the-Scenes Tour (ENDED)</span><br><span>Sign up for a Chingay Behind-the-Scenes Tour of the Chingay Parade site at F1 Pit Building to find out the stories behind the creation of Chingay floats, Rabbits Art-Venture and Containers Art Installations.</span>
+</div></div>
+
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/UrbanSports.jpg"></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chingay Playground (ENDED)</span><br><span>Come join us at the first-ever Chingay Playground right in front of the largest Chingay Container Art Installation.  Just pre-register and BYO gears and equipment; long boards, skates, bikes, rollerblades etc and enjoy some BLAZING good time! The Chingay Playground is only opened on 5 February (Sunday), 2pm to 5pm (you can come or leave at any time in between). Limited slots available. Sign up now!</span>
+</div></div>
+
+  
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Panelist.jpg"></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Sharing by Chingay 2023’s Creative Team (ENDED)</span><br><span>Join us for an exclusive one-night only sharing by the team of creative talents behind Chingay 2023.  Hear from our Creative Director, Mr Fan Dong Kai; Assistant Creative Director, Melvin Tang; Art Director, Sam Lo; Music Director, Ting Si Hao and Multimedia Director, Jed Tay. <br>Find out what inspired them in their inventive journey in creating this year’s parade titled “Embrace Tomorrow”.  </span>
+</div></div>
 </div>
