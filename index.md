@@ -30,15 +30,6 @@ sections:
       button: Find out more
       url: /heartlands/
   - infopic:
-      title: Post Chingay Programmes
-      subtitle: Chingay 2023
-      description: From 5 to 9 February, get up-close with the Container Art
-        installations, the Rabbits ART-Venture and the Chingay Floats.
-      button: FIND OUT MORE
-      url: /postchingay
-      image: /images/CTE/Image5.png
-      alt: Image alt text
-  - infopic:
       title: Chingay Taster Experience
       subtitle: Chingay 2023
       description: Exclusive opportunities for online and TV audiences to participate
@@ -46,15 +37,6 @@ sections:
       button: Find Out More
       url: /CTE
       image: /images/CTE/Image4.png
-      alt: Image alt text
-  - infopic:
-      title: Community Art Installations
-      subtitle: Chingay 2023
-      description: "[FREE ADMISSION] to the Community Art Installations on 5 February
-        2023 | 2pm - 10pm and 6 - 9 February 2023 | 6pm - 10pm."
-      button: find out more
-      url: /chingay2023-cai/
-      image: /images/whats-on/5IMG1378.jpg
       alt: Image alt text
   - infobar:
       title: CHINGAY MAMA SHOP
