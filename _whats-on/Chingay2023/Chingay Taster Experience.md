@@ -99,6 +99,7 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/LatinDance.jpeg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Latin / Ballroom Dance</span><br><span>This Ballroom Latin (Adult) Elementary course will cover Cha-Cha, Paso Doble, Rumba and Samba. Participants will learn feet positions, alignment, turns, rise and fall, footwork, timing and counting in beats or beats and bars.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-ballroom-latin-c026995447" target="_blank">Wed, 1st Mar, 1.30pm</a>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-ballroom-latin-c026993775" target="_blank">Sun, 5th Mar, 1.15pm</a>
 </span>
 </div></div>
