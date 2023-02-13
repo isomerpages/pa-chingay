@@ -24,11 +24,10 @@ You can sign up by clicking on the respective links below. Please note that spac
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Tooling.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Metal Tooling</span> (60min)<br><span>The art of metal tooling is a centuries old art form also known as metal embossing, it uses simple tools like wooden sticks to create designs on metal.
 Participants will get to experience embossing floral designs onto the metal sheets and take home their masterpieces.</span>
-<br><span style="color:#2d6ffa;">COMING SOON!</span>
-<!--<span style="line-height:1.5rem">
-<br><a href="LINKHERE" target="_blank">(1)	Sat, 25th Feb, 11.00am</a>
-<br><a href="LINKHERE" target="_blank">(2)	Sun, 5th Mar, 2.30pm</a>
-</span>-->
+<span style="line-height:1.5rem">
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-metal-tooling-c026993948" target="_blank">Sat, 25th Feb, 11.00am</a>
+<br><a href="LINKHERE" target="_blank">Sat, 25th Feb, 12.00pm</a>
+</span>
 </div></div>
 
 	
@@ -79,11 +78,10 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/modular.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Mini Diorama</span> (120min)<br><span>Visitors would be able to create micro dioramas (ie. Polly Pockets), where they can paint them, glue and house them in little capsules and bring it home or display it on the venue. Visitors are then given the opportunity to create their own capsule of minis and learn how to paint miniatures/micro objects</span>
-<br><span style="color:#2d6ffa;">COMING SOON!</span>
-<!--<span style="line-height:1.5rem">
-<br><a href="LINKHERE" target="_blank">(1)	Sun, 26th Feb, 2.00pm</a>
-<br><a href="LINKHERE" target="_blank">(2)	Sat, 4th Mar, 2.00pm</a>
-</span>--></div></div>
+<span style="line-height:1.5rem">
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-mini-diorama-c026994038" target="_blank">Sat, 4th Mar, 2.00pm</a>
+</span>
+</div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/DSC05669.jpeg"></div>
@@ -164,10 +162,9 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Inline.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">In Line Skating</span><br><span>Ever had a bad fall on your skates? Learn the correct way to in-line skate using tested and proven syllabus. You will learn how to balance, break your fall, how to distribute your weight correctly. With the right guidance, you will gain both speed and confidence in no time. As we always say, “Great skills, fast wheels!”.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
-<br><span style="color:#2d6ffa;">COMING SOON!</span>
-<!--<span style="line-height:1.5rem">
-<br><a href="LINKHERE" target="_blank">(1)	Sat, 25th Feb, 4.30pm</a>
-</span>-->
+<span style="line-height:1.5rem">
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-inline-skating-c026994014" target="_blank">Tue, 21st Feb, 4.00pm</a>
+</span>
 </div></div>
   
   
