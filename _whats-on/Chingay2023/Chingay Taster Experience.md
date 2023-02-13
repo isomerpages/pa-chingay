@@ -111,7 +111,6 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Hip Hop</span><br><span>This dance originated from the United States. Funk, Break and Hip Hop elements are combined and choreographed to upbeat music to appeal to teenagers and young adults.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-hip-hop-c026992037" target="_blank">Sun, 26th Feb, 1.00pm</a>
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-hip-hop-c026993627" target="_blank">Sat, 18th Mar, 11.00am</a>
 </span>
 </div></div>
   
