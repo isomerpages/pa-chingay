@@ -6,7 +6,7 @@ third_nav_title: Chingay2023
 ---
 Chingay@Heartlands Celebrations 2023 bring the Chingay experience closer to residents with a local twist and flavour, energising audiences through immersive and experiential Chingay (arts) programmes and invoking their interests. Featuring Chingay Truncated Show, Chingay Floats Caravan, Chingay Mini Floats display and roving Chingay performers, check out the celebrations at these listed dates and venues. Contact the relavant CC for more information.
 
-**Chingay @ East Coast**<br>
+**Chingay @ East Coast** [ENDED]<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
 Caravan Start - Open Field outside Eastpoint Mall<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
 Caravan End - Open Field next to Blk 19 Bedok South Road<br>
@@ -16,7 +16,7 @@ Caravan End - Open Field next to Blk 19 Bedok South Road<br>
 <br>
 
 
-**Chingay @ Tampines**<br>
+**Chingay @ Tampines** [ENDED]<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
 Caravan Start - Our Tampines Hub<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
