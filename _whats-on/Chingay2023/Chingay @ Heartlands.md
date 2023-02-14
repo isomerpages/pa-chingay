@@ -45,7 +45,7 @@ Caravan End - Fernvale Square<br><!--
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
 Tel: 6506 0900<br>-->
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sun, 26 Feb 2023<br>
-<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>5.30pm to 10.30pm
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>5.30pm to 10.00pm
 
 **Chingay @ Nee Soon**<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
@@ -55,7 +55,7 @@ Caravan Start - MPC @ Khatib<br><!--
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
 Tel: 6506 0900<br>-->
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sat, 4 Mar 2023<br>
-<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>6.30pm to 9.30pm
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>6.00pm to 9.30pm
 
 **Chingay @ Tanjong Pagar**<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
