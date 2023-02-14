@@ -28,6 +28,7 @@ Participants will get to experience embossing floral designs onto the metal shee
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-metal-tooling-c026993948" target="_blank">Sat, 25th Feb, 11.00am</a>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-metal-tooling-c026993952" target="_blank">Sat, 25th Feb, 12.00pm</a>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-metal-tooling-c026993953" target="_blank">Sun, 5th Mar, 2.30pm</a>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-metal-tooling-c026993954" target="_blank">Sun, 5th Mar, 3.30pm</a>
 </span>
 </div></div>
 
