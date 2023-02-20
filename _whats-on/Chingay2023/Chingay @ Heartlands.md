@@ -33,7 +33,7 @@ Caravan Start - Hardcourt next to Hillview CC<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
 Caravan End - Keat Hong Square<br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sat, 25 Feb 2023<br>
-<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>5.30pm to 10.30pm
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>6.00pm to 10.30pm<br>
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/><a href="https://www.facebook.com/100064457995359/posts/pfbid02trRQEWQkRe7whbj26TQG2vBMqLroTaw4nEQdo2rVAyPKQ6Boo1zMFkvHwoSX799Dl/?d=w&mibextid=qC1gEa">Chua Chu Kang - Our Home Facebook Page</a>
 <br>
 
@@ -41,11 +41,9 @@ Caravan End - Keat Hong Square<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
 Caravan Start - Teck Ghee Square<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
-Caravan End - Fernvale Square<br><!--
-<img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
-Tel: 6506 0900<br>-->
+Caravan End - Fernvale Square<br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sun, 26 Feb 2023<br>
-<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>5.30pm to 10.00pm
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>5.30pm to 10.00pm<br>
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/><a href="https://www.facebook.com/amkgrckbycksmcs">Ang Mo Kio GRC, Kebun Baru & Yio Chu Kang SMCs Community Facebook Page</a>
 <br>
 
