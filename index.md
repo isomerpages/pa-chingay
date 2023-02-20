@@ -25,7 +25,7 @@ sections:
   - infobar:
       title: Chingay @ Heartlands
       subtitle: Chingay 2023
-      description: Chingay@Heartlands Celebrations 2023 bring the Chingay experience
+      description: Chingay@Heartlands Celebrations 2023 brings the Chingay experience
         closer to residents with a local twist and flavour.
       button: Find out more
       url: /heartlands/
