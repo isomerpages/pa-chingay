@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Chingay Webcast
           description: Watch Chingay 2023
-          url: /webcast/
+          url: https://www.youtube.com/live/SNOEUaoSB5s?feature=share&t=2422
         - title: Programme Booklet
           description: ""
           url: /programme/
@@ -25,7 +25,7 @@ sections:
   - infobar:
       title: Chingay @ Heartlands
       subtitle: Chingay 2023
-      description: Chingay@Heartlands Celebrations 2023 bring the Chingay experience
+      description: Chingay@Heartlands Celebrations 2023 brings the Chingay experience
         closer to residents with a local twist and flavour.
       button: Find out more
       url: /heartlands/

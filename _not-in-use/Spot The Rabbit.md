@@ -2,8 +2,8 @@
 title: Spot The Rabbit
 permalink: /SpotTheRabbit/
 description: ""
-third_nav_title: Chingay2023
 ---
+
 
 ![](/images/whats-on/Chingay2023%20Spot%20The%20Rabbit.png)
 

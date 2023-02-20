@@ -40,6 +40,8 @@ Participants will get to experience embossing floral designs onto the metal shee
 <span style="line-height:1.5rem">
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-clay-sculpture-with-air-dry-clay-c026994203" target="_blank">Tues, 21st Feb, 2.00pm</a>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-clay-sculpture-with-air-dry-clay-c026994214" target="_blank">Fri, 24th Feb, 2.00pm</a>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-clay-sculpture-with-air-dry-clay-c026994222" target="_blank">Thur, 9th Mar, 2.00pm</a>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-clay-sculpture-with-air-dry-clay-c026994230" target="_blank">Tue, 14th Mar, 2.00pm</a>
 </span>
 </div></div>
 
@@ -82,6 +84,8 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Mini Diorama</span> (120min)<br><span>Visitors would be able to create micro dioramas (ie. Polly Pockets), where they can paint them, glue and house them in little capsules and bring it home or display it on the venue. Visitors are then given the opportunity to create their own capsule of minis and learn how to paint miniatures/micro objects</span>
 <span style="line-height:1.5rem">
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-mini-diorama-c026994038" target="_blank">Sat, 4th Mar, 2.00pm</a>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-mini-diorama-c026994046" target="_blank">Sun, 12th Mar, 2.00pm</a>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-mini-diorama-c026994055" target="_blank">Sat, 18th Mar, 2.00pm</a>
 </span>
 </div></div>
 
@@ -102,6 +106,8 @@ Participants will get to experience embossing floral designs onto the metal shee
 <span style="line-height:1.5rem">
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-ballroom-latin-c026995447" target="_blank">Wed, 1st Mar, 1.30pm</a>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-ballroom-latin-c026993775" target="_blank">Sun, 5th Mar, 1.15pm</a>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-ballroom-latin-c026995458" target="_blank">Wed, 15th Mar, 1.30pm</a>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-ballroom-latin-c026993779" target="_blank">Sun, 19th Mar, 1.15pm</a>
 </span>
 </div></div>
  
@@ -112,6 +118,8 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Hip Hop</span><br><span>This dance originated from the United States. Funk, Break and Hip Hop elements are combined and choreographed to upbeat music to appeal to teenagers and young adults.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-hip-hop-c026992037" target="_blank">Sun, 26th Feb, 1.00pm</a>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-hip-hop-c026993627" target="_blank">Sat, 18th Mar, 11.00am</a>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-hip-hop-c026992042" target="_blank">Sun, 19th Mar, 4.00pm</a>
 </span>
 </div></div>
   
@@ -124,6 +132,8 @@ Hear from our experienced Chinese Dance Choreographer, Ms Chang Hsiao-Min, who h
 <span style="line-height:1.5rem">
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-chinese-dance-21-feb-23-7pm-30948717" target="_blank">Tue, 21st Feb, 7.00pm</a>
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-chinese-dance-28-feb-23-7pm-29532133" target="_blank">Tue, 28th Feb, 7.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-chinese-dance-10-mar-23-7pm-51854344" target="_blank">Fri, 10th Mar, 10.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-chinese-dance-17-mar-23-7pm-42901329" target="_blank">Fri, 17th Mar, 7.00pm</a>
 </span></div></div>
   
   
@@ -135,6 +145,8 @@ Hear from our experienced Malay Dance Choreographer, Mr Osman Abdul Hamid, PBM, 
 <span style="line-height:1.5rem">
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-malay-dance-25-feb-12pm-11585177" target="_blank">Sat, 25th Feb, 12.00pm</a>
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-malay-dance-4-mar-12pm-67459728" target="_blank">Sat, 4th Mar, 12.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-malay-dance-11-mar-23-12pm-32052043" target="_blank">Sat, 11th Mar, 12.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-malay-dance-18-mar-23-12pm-87522557" target="_blank">Sat, 18th Mar, 12.00pm</a>
 </span></div></div>
   
   
@@ -147,6 +159,8 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 <span style="line-height:1.5rem">
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-indian-dance-22-feb-23-7-45pm-11927798" target="_blank">Wed, 22nd Feb, 7.45pm </a>
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-indian-dance-1-mar-23-7-45pm-69856907" target="_blank">Wed, 1st Mar 23, 7.45pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-indian-dance-8-mar-23-7-45pm-73396020" target="_blank">Wed, 8th Mar 23, 7.45pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-indian-dance-15-mar-23-7-45pm-11276582" target="_blank">Wed, 15th Mar 23, 7.45pm</a>
 </span></div></div>
  
   
@@ -158,6 +172,9 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 <span style="line-height:1.5rem">
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-longboarding-c026991759" target="_blank">Sun, 26th Feb, 4.00pm</a>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-longboarding-c026993639" target="_blank">Sun, 5th Mar, 3.00pm</a>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-longboarding-c026993964" target="_blank">Sat, 11th Mar, 4.00pm</a>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-longboarding-c026993965" target="_blank">Sat, 18th Mar, 4.00pm</a>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-longboarding-c026993646" target="_blank">Sun, 19th Mar, 3.00pm</a>
 </span>
 </div></div>
 
@@ -166,6 +183,7 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">In Line Skating</span><br><span>Ever had a bad fall on your skates? Learn the correct way to in-line skate using tested and proven syllabus. You will learn how to balance, break your fall, how to distribute your weight correctly. With the right guidance, you will gain both speed and confidence in no time. As we always say, “Great skills, fast wheels!”.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-inline-skating-c026994014" target="_blank">Tue, 21st Feb, 4.00pm</a>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-inline-skating-c026994017" target="_blank">Sun, 12th Mar, 3.00pm</a>
 </span>
 </div></div>
   
@@ -175,6 +193,7 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Cheerfit</span><br><span>CheerFit is an upbeat workout program designed by TJ that is engaging and fun for everyone to stay fit and stay bonded in the community. The workout involves aspects of cheerleading such as cheer dance, jumps and basic gymnastic movement that aims to get participants in the best shape of their life</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-cheerfit-c026991872" target="_blank">Sat, 25th Feb, 4.30pm</a>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-cheerfit-c026993280" target="_blank">Sat, 11th Mar, 4.30pm</a>
 </span></div></div>
   
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
@@ -183,6 +202,8 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 </span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-piloxing-c026993654" target="_blank">Sun, 26th Feb, 2.00pm</a>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-piloxing-c026993661" target="_blank">Sun, 12th Mar, 4.45pm</a>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-piloxing-c026993975" target="_blank">Sun, 19th Mar, 4.00pm</a>
 </span>
 </div></div>
   
