@@ -2,6 +2,7 @@ collections:
   not-in-use:
     output: true
     order:
+      - Spot The Rabbit.md
       - We've Got Talent! 2023.md
       - Advisory.md
       - Community Art Installations.md
