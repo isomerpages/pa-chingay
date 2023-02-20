@@ -102,7 +102,7 @@ Check out Chingay Mamashop Listing on Lazada
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/products/lilo-premium-ikan-bilis-powder-combo-bottle-refill-set-50g-55g-i597692638-s1728024594.html?spm=a2o42.10453684.0.0.7e561c78hUOO6z&priceCompare=skuId%3A1728024594%3Bsource%3Alzd-shop-center%3Bsn%3A9edaacf4-4760-4430-b9db-e1f42e2f1283%3BoriginPrice%3A2990%3BvoucherPrice%3A2990%3Btimestamp%3A1674801409643&search=store">Purchase Now</a></span></div></div>	
 	
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;padding-top:50px;" src="/images/MamaShop/LOVE-SG-Logo.png"></div>
+<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;padding-top:40px;" src="/images/MamaShop/LOVE-SG-Logo.png"></div>
 <div style="font-size: 1rem; padding:.5rem;"> 
 <span style="line-height:2rem;color:#b242a2;font-weight:bold">LOVE SG</span><br>Singapore souvenirs with a heavy dose of local identity. We draw inspiration from all things in our backyard and interpret them into quirky products ranging from ice cube trays to night lights. In short, we've created a line of souvenirs which break with tradition and appeal to both locals who want to celebrate the Singapore identity, and tourists who want a keepsake from their trip here. <br>
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/products/love-sg-keep-calm-canvas-bag-singapore-souvenir-i383190686-s904180435.html?spm=a2o42.10453684.0.0.5ef03f83aYtX4E&priceCompare=skuId%3A904180435%3Bsource%3Alzd-shop-center%3Bsn%3A6044d23a-9595-4cb2-89e9-fe1afe3cb174%3BoriginPrice%3A2690%3BvoucherPrice%3A2690%3Btimestamp%3A1674800532372&search=store">Purchase Now</a></span></div></div>	
@@ -149,7 +149,7 @@ Check out Chingay Mamashop Listing on Lazada
 	
 
 <div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
-<div style="height:157px;margin:auto;"><img style=";max-height:130px; width:auto;padding:0.5rem;" src="/images/MamaShop/agegracefully.png"></div>
+<div style="height:157px;margin:auto;"><img style=";max-height:130px; width:auto;padding:0.5rem;padding-top:10px;" src="/images/MamaShop/agegracefully.png"></div>
 <div style="font-size: 1rem; padding:.5rem;"> 
 <span style="line-height:2rem;color:#b242a2;font-weight:bold"> Agegracefully</span><br>Agegracefully was founded in 2017 as a social enterprise to develop and market innovative eldercare lifestyle products that enable the elderly to live safely and age gracefully. Our award-winning agegracefully Smart Walking Sticks not only look great but it is also engineered with many super cool innovative safety features.<br>
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/products/quad-cane-smart-walking-stick-agegracefully-small-carbonquad-with-mp3-handle-auto-fall-alarm-quad-cane-walking-aid-ws45-i1024176403-s3774718485.html?spm=a2o42.10453684.0.0.603e707e96SFIT&search=store&mp=3">Purchase Now</a></span></div></div>
