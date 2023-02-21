@@ -62,7 +62,6 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Acrylic Pouring</span> (90min)<br><span>Acrylic pouring on transparent bookmark . Participants to draw in motifs of space an colour on one side of the bookmark and learn how to pour on the other side using acrylic pouring technique.</span>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-bookmark-acrylic-pouring-c026994026" target="_blank">Wed, 22nd Feb, 3.00pm</a>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-bookmark-acrylic-pouring-c026996172" target="_blank">Wed, 8th Mar, 3.00pm</a>
-</span>
 </div></div>
 
  
