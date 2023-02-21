@@ -8,11 +8,11 @@ third_nav_title: Chingay2023
 
 <div style="font-size:1.2rem">The Chingay Taster Experience (CTE) is a new programme that provides exclusive opportunities for online and TV audiences to participate in different activities and trial workshops.<br>
 
-You can sign up by clicking on the respective links below. Please note that spaces are limited and registration is on a first-come-first-served basis. By registering for the CTE, you acknowledge the following :
+You can sign up by clicking on the respective links below. Please note that spaces are limited and registration is on a first-come-first-served basis. By registering for the CTE, you acknowledge the following :
 <br><br>
 
-<span style="font-size:1rem">(a) Please ensure that you are able to attend the session before signing up so as not to deprive others of the opportunity. Participants who are no-show at the activities / workshops may not be allowed to sign up for other activities / workshops under CTE. Please note that the Organiser may refuse and/or cancel any registration at its sole and absolute discretion.<br><br>
-(b) Photos, videos and other recordings  may be taken during these sessions.  You agree that the Organiser may use such photographs, videos and other recordings in the Organiser’s sole and absolute discretion , including but not limited to use for publicity purposes and/or such other use(s) in the future.<br><br>(c) Any personal data provided by you  may be used for the administration of these sessions  as well as other Chingay-related purposes.</span></div>
+<span style="font-size:1rem">(a) Please ensure that you are able to attend the session before signing up so as not to deprive others of the opportunity. Participants who are no-show at the activities / workshops may not be allowed to sign up for other activities / workshops under CTE. Please note that the Organiser may refuse and/or cancel any registration at its sole and absolute discretion.<br><br>
+(b) Photos, videos and other recordings  may be taken during these sessions.  You agree that the Organiser may use such photographs, videos and other recordings in the Organiser’s sole and absolute discretion , including but not limited to use for publicity purposes and/or such other use(s) in the future.<br><br>(c) Any personal data provided by you  may be used for the administration of these sessions  as well as other Chingay-related purposes.</span></div>
 
 # Exclusive Experiences
 
@@ -38,7 +38,7 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-4rem;" src="/images/CTE/Clay.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Clay Art</span> (60min)<br><span>The Air Clay Sculpture is a taster workshop for the participant to get familiar with the air dry clay available in vibrant colours as a medium which does not need any firing unlike the regular pottery clay. The participants will be creating their beautiful artwork and learn the technique under the supervision of the trainer. They will be able to take back their artwork with them after the workshop.</span>
 <span style="line-height:1.5rem">
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-clay-sculpture-with-air-dry-clay-c026994203" target="_blank">Tues, 21st Feb, 2.00pm</a>
+<br><strike>Tues, 21st Feb, 2.00pm </strike>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-clay-sculpture-with-air-dry-clay-c026994214" target="_blank">Fri, 24th Feb, 2.00pm</a>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-clay-sculpture-with-air-dry-clay-c026994222" target="_blank">Thur, 9th Mar, 2.00pm</a>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-clay-sculpture-with-air-dry-clay-c026994230" target="_blank">Tue, 14th Mar, 2.00pm</a>
@@ -60,11 +60,9 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Acrylic.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Acrylic Pouring</span> (90min)<br><span>Acrylic pouring on transparent bookmark . Participants to draw in motifs of space an colour on one side of the bookmark and learn how to pour on the other side using acrylic pouring technique.</span>
-<br><span style="color:#2d6ffa;">COMING SOON!</span>
-<!--<span style="line-height:1.5rem">
-<br><a href="LINKHERE" target="_blank">(1)	Mon, 20th Feb, 3.00pm</a>
-<br><a href="LINKHERE" target="_blank">(2)	Wed, 22nd Feb, 3.00pm</a>
-</span>-->
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-bookmark-acrylic-pouring-c026994026" target="_blank">Wed, 22nd Feb, 3.00pm</a>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-bookmark-acrylic-pouring-c026996172" target="_blank">Wed, 8th Mar, 3.00pm</a>
+</span>
 </div></div>
 
  
@@ -130,7 +128,7 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chinese Dance Experience</span><br><span>Always interested in learning more about Chinese Dance? <br>
 Hear from our experienced Chinese Dance Choreographer, Ms Chang Hsiao-Min, who has been leading the PA Talents Chinese Dance Ensemble for more than 30 years.  Get the chance to learn some basic Chinese dance movements and  interesting facts about the Chinese Culture. </span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-chinese-dance-21-feb-23-7pm-30948717" target="_blank">Tue, 21st Feb, 7.00pm</a>
+<br><strike>Tue, 21st Feb, 7.00pm</strike>
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-chinese-dance-28-feb-23-7pm-29532133" target="_blank">Tue, 28th Feb, 7.00pm</a>
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-chinese-dance-10-mar-23-7pm-51854344" target="_blank">Fri, 10th Mar, 10.00pm</a>
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-chinese-dance-17-mar-23-7pm-42901329" target="_blank">Fri, 17th Mar, 7.00pm</a>
@@ -182,7 +180,7 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Inline.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">In Line Skating</span><br><span>Ever had a bad fall on your skates? Learn the correct way to in-line skate using tested and proven syllabus. You will learn how to balance, break your fall, how to distribute your weight correctly. With the right guidance, you will gain both speed and confidence in no time. As we always say, “Great skills, fast wheels!”.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-inline-skating-c026994014" target="_blank">Tue, 21st Feb, 4.00pm</a>
+<br><strike>Tue, 21st Feb, 4.00pm</strike>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-inline-skating-c026994017" target="_blank">Sun, 12th Mar, 3.00pm</a>
 </span>
 </div></div>
@@ -216,18 +214,18 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/DSC06504.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chingay Behind-the-Scenes Tour (ENDED)</span><br><span>Sign up for a Chingay Behind-the-Scenes Tour of the Chingay Parade site at F1 Pit Building to find out the stories behind the creation of Chingay floats, Rabbits Art-Venture and Containers Art Installations.</span>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chingay Behind-the-Scenes Tour [ENDED)</span><br><span>Sign up for a Chingay Behind-the-Scenes Tour of the Chingay Parade site at F1 Pit Building to find out the stories behind the creation of Chingay floats, Rabbits Art-Venture and Containers Art Installations.</span>
 </div></div>
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/UrbanSports.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chingay Playground (ENDED)</span><br><span>Come join us at the first-ever Chingay Playground right in front of the largest Chingay Container Art Installation.  Just pre-register and BYO gears and equipment; long boards, skates, bikes, rollerblades etc and enjoy some BLAZING good time! The Chingay Playground is only opened on 5 February (Sunday), 2pm to 5pm (you can come or leave at any time in between). Limited slots available. Sign up now!</span>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chingay Playground [ENDED]</span><br><span>Come join us at the first-ever Chingay Playground right in front of the largest Chingay Container Art Installation.  Just pre-register and BYO gears and equipment; long boards, skates, bikes, rollerblades etc and enjoy some BLAZING good time! The Chingay Playground is only opened on 5 February (Sunday), 2pm to 5pm (you can come or leave at any time in between). Limited slots available. Sign up now!</span>
 </div></div>
 
   
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Panelist.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Sharing by Chingay 2023’s Creative Team (ENDED)</span><br><span>Join us for an exclusive one-night only sharing by the team of creative talents behind Chingay 2023.  Hear from our Creative Director, Mr Fan Dong Kai; Assistant Creative Director, Melvin Tang; Art Director, Sam Lo; Music Director, Ting Si Hao and Multimedia Director, Jed Tay. <br>Find out what inspired them in their inventive journey in creating this year’s parade titled “Embrace Tomorrow”.  </span>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Sharing by Chingay 2023’s Creative Team [ENDED]</span><br><span>Join us for an exclusive one-night only sharing by the team of creative talents behind Chingay 2023.  Hear from our Creative Director, Mr Fan Dong Kai; Assistant Creative Director, Melvin Tang; Art Director, Sam Lo; Music Director, Ting Si Hao and Multimedia Director, Jed Tay. <br>Find out what inspired them in their inventive journey in creating this year’s parade titled “Embrace Tomorrow”.  </span>
 </div></div>
 </div>
