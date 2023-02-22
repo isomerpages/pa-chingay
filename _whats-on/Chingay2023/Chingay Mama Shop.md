@@ -154,6 +154,36 @@ Check out Chingay Mamashop Listing on Lazada
 <span style="line-height:2rem;color:#b242a2;font-weight:bold"> Agegracefully</span><br>Agegracefully was founded in 2017 as a social enterprise to develop and market innovative eldercare lifestyle products that enable the elderly to live safely and age gracefully. Our award-winning agegracefully Smart Walking Sticks not only look great but it is also engineered with many super cool innovative safety features.<br>
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/products/quad-cane-smart-walking-stick-agegracefully-small-carbonquad-with-mp3-handle-auto-fall-alarm-quad-cane-walking-aid-ws45-i1024176403-s3774718485.html?spm=a2o42.10453684.0.0.603e707e96SFIT&search=store&mp=3">Purchase Now</a></span></div></div>
 
+
+
+
+<div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+<div style="height:157px;margin:auto;"><img style=";max-height:130px; width:auto;padding:0.5rem;padding-top:10px;" src="/images/MamaShop/GnomenBow.png"></div>
+<div style="font-size: 1rem; padding:.5rem;"> 
+<span style="line-height:2rem;color:#b242a2;font-weight:bold">GNOME & BOW</span><br>GNOME & BOW is an experience-led designer bag atelier inspired by classic tales and dreamscapes, fashioned with aesthetics and functionality in mind. Imagine the Hare & Tortoise racing across your bag or a Musketeer bag with a pouch you can draw like a sword. Wallets are aptly packaged in a storybook, making it an ideal gift for Christmas, Valentine's Day, birthdays and anniversaries.<br>
+<span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/products/i1423430102.html?spm=a1zawe.24863640.table_all.23.66eb4edfjxkqL5">Purchase Now</a></span></div></div>
+
+
+<div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+<div style="height:157px;margin:auto;"><img style=";max-height:130px; width:auto;padding:0.5rem;padding-top:10px;" src="/images/MamaShop/Creamier.png"></div>
+<div style="font-size: 1rem; padding:.5rem;"> 
+<span style="line-height:2rem;color:#b242a2;font-weight:bold">Creamier Handcrafted Ice Cream & Coffee </span><br>Creamier is an artisanal ice cream company with roots in some of the oldest heartland estates in Singapore. We believe the magic of making delicious ice cream is in using the best quality ingredients - carefully sourced from different parts of the world, lots of hard work, a deep appreciation for craftsmanship and a strive for perfection.<br>
+<span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/products/i2653689363.html?spm=a1zawe.24863640.table_online_product.1.ea294edfr131cw">Purchase Now</a></span></div></div>
+
+
+<div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+<div style="height:157px;margin:auto;"><img style=";max-height:130px; width:auto;padding:0.5rem;padding-top:10px;" src="/images/MamaShop/KCKC.png"></div>
+<div style="font-size: 1rem; padding:.5rem;"> 
+<span style="line-height:2rem;color:#b242a2;font-weight:bold">KIM CHOO KUEH CHANG PTE. LTD.</span><br>Kim Choo Kueh Chang’s Nyonya rice dumplings have been a mainstay in Singapore’s diverse epicurean tapestry since 1945. Today, Kim Choo offers more than the humble rice dumpling — from fashion apparel to boutique tours. And even Nyonya cookies, our featured merchandise for this year’s Chingay Mama Shop.
+From all of us at Kim Choo Kueh Chang, have a blessed Year of the Rabbit!
+<br>
+<span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/products/i2626295924.html?spm=a1zawe.24863640.table_online_product.11.76514edfEL6hVJ">Purchase Now</a></span></div></div>
+
+
+
+
+
+
 </div>
 
 
