@@ -51,7 +51,7 @@ Caravan End - Fernvale Square<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
 Caravan Start - Northview Primary School<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
-Caravan Start - MPC @ Khatib<br><!--
+Caravan End - MPC @ Khatib<br><!--
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
 Tel: 6506 0900<br>-->
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sat, 4 Mar 2023<br>
