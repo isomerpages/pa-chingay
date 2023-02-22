@@ -44,36 +44,13 @@ Participants will get to experience embossing floral designs onto the metal shee
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-clay-sculpture-with-air-dry-clay-c026994230" target="_blank">Tue, 14th Mar, 2.00pm</a>
 </span>
 </div></div>
-
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-3rem;" src="/images/CTE/Batik.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Batik Painting</span> (90min)<br><span>Participants will learn more about the Batik art form, including brief history, processes and techniques; renowned local Batik artists and different resist techniques and safety precautions for the application of resist and colour dyes.  Partcipants will learn how to do blending and toning and create their own batik artwork.</span>
-<br><span style="color:#2d6ffa;">COMING SOON!</span>
-<!--<span style="line-height:1.5rem">
-<br><a href="LINKHERE" target="_blank">(1)	Wed, 22nd Feb, 3.00pm</a>
-<br><a href="LINKHERE" target="_blank">(2)	Sat, 25th Feb, 3.00pm</a>
-</span>-->
-</div></div>
- 
  
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Acrylic.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Acrylic Pouring</span> (90min)<br><span>Acrylic pouring on transparent bookmark . Participants to draw in motifs of space an colour on one side of the bookmark and learn how to pour on the other side using acrylic pouring technique.</span>
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-bookmark-acrylic-pouring-c026994026" target="_blank">Wed, 22nd Feb, 3.00pm</a>
+	<br><s>Wed, 22nd Feb, 3.00pm</s></a>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-bookmark-acrylic-pouring-c026996172" target="_blank">Wed, 8th Mar, 3.00pm</a>
 </div></div>
-
- 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-2rem;" src="/images/CTE/Glass.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Glass Mosaic Art</span> (60min)<br><span>Mosaic tiles is an interesting and visually appealing artform due to the materials reflectiveness and colours. A relatively easy artform fit for the young and senior, residents will be able to decorate a surface with designs made up of glass tiles and also learn colour coordination in the process.</span>
-<br><span style="color:#2d6ffa;">COMING SOON!</span>
-<!--<span style="line-height:1.5rem">
-<br><a href="LINKHERE" target="_blank">(1)	Fri, 24th Feb, 7.00pm</a>
-<br><a href="LINKHERE" target="_blank">(2)	Sat, 4th Mar, 5.00pm</a>
-</span>
---></div></div>
  
   
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
@@ -91,6 +68,7 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Jazz Dance</span><br><span>Jazz Dance combines rhythm, expression and technique with aspects of a variety of popular and street music, using the body as an instrument to interpret the various styles. Forms of Jazz include the rhythmic and stylish modern jazz, incorporating lyrical and contemporary styles and the classical lines of Jazz Ballet. Is a type of different dance style to create a new aesthetic world. It takes elements from mix of ballet, modern, lyrical footwork and can use music from different ethnic culture.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-jazz-dance-c026993722" target="_blank">Sun, 26th Feb, 3.00pm</a>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-jazz-dance-c026993705" target="_blank">Sat, 11th Mar, 3.00pm</a>
 </span>
 </div></div>
 
@@ -154,7 +132,7 @@ Hear from our experienced Malay Dance Choreographer, Mr Osman Abdul Hamid, PBM, 
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Indian Dance Experience</span><br><span>Always interested in learning more about Indian Dance?<br>
 Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, who has been with the PA Talents Indian Dance Ensemble for more than 20 years.  Get the chance to learn some basic Indian dance movements and  interesting facts about the Indian Culture. </span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-indian-dance-22-feb-23-7-45pm-11927798" target="_blank">Wed, 22nd Feb, 7.45pm </a>
+<br><s>Wed, 22nd Feb, 7.45pm</s>
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-indian-dance-1-mar-23-7-45pm-69856907" target="_blank">Wed, 1st Mar 23, 7.45pm</a>
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-indian-dance-8-mar-23-7-45pm-73396020" target="_blank">Wed, 8th Mar 23, 7.45pm</a>
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-indian-dance-15-mar-23-7-45pm-11276582" target="_blank">Wed, 15th Mar 23, 7.45pm</a>
