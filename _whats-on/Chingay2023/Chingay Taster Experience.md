@@ -107,7 +107,7 @@ Hear from our experienced Chinese Dance Choreographer, Ms Chang Hsiao-Min, who h
 <span style="line-height:1.5rem">
 <br><strike>Tue, 21st Feb, 7.00pm</strike>
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-chinese-dance-28-feb-23-7pm-29532133" target="_blank">Tue, 28th Feb, 7.00pm</a>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-chinese-dance-10-mar-23-7pm-51854344" target="_blank">Fri, 10th Mar, 10.00pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-chinese-dance-10-mar-23-7pm-51854344" target="_blank">Fri, 10th Mar, 7.00pm</a>
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-chinese-dance-17-mar-23-7pm-42901329" target="_blank">Fri, 17th Mar, 7.00pm</a>
 </span></div></div>
   
