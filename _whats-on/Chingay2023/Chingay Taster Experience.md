@@ -133,9 +133,9 @@ Hear from our experienced Malay Dance Choreographer, Mr Osman Abdul Hamid, PBM, 
 Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, who has been with the PA Talents Indian Dance Ensemble for more than 20 years.  Get the chance to learn some basic Indian dance movements and  interesting facts about the Indian Culture. </span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
 <br><s>Wed, 22nd Feb, 7.45pm</s>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-indian-dance-1-mar-23-7-45pm-69856907" target="_blank">Wed, 1st Mar 23, 7.45pm</a>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-indian-dance-8-mar-23-7-45pm-73396020" target="_blank">Wed, 8th Mar 23, 7.45pm</a>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-indian-dance-15-mar-23-7-45pm-11276582" target="_blank">Wed, 15th Mar 23, 7.45pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-indian-dance-1-mar-23-7-45pm-69856907" target="_blank">Wed, 1st Mar, 7.45pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-indian-dance-8-mar-23-7-45pm-73396020" target="_blank">Wed, 8th Mar, 7.45pm</a>
+<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-indian-dance-15-mar-23-7-45pm-11276582" target="_blank">Wed, 15th Mar, 7.45pm</a>
 </span></div></div>
  
   
