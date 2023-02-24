@@ -25,8 +25,8 @@ You can sign up by clicking on the respective links below. Please note that spac
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Metal Tooling</span> (60min)<br><span>The art of metal tooling is a centuries old art form also known as metal embossing, it uses simple tools like wooden sticks to create designs on metal.
 Participants will get to experience embossing floral designs onto the metal sheets and take home their masterpieces.</span>
 <span style="line-height:1.5rem">
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-metal-tooling-c026993948" target="_blank">Sat, 25th Feb, 11.00am</a>
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-metal-tooling-c026993952" target="_blank">Sat, 25th Feb, 12.00pm</a>
+<br><s>Sat, 25th Feb, 11.00am</s>
+<br><s>Sat, 25th Feb, 12.00pm</s>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-metal-tooling-c026993953" target="_blank">Sun, 5th Mar, 2.30pm</a>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-metal-tooling-c026993954" target="_blank">Sun, 5th Mar, 3.30pm</a>
 </span>
@@ -39,7 +39,7 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Clay Art</span> (60min)<br><span>The Air Clay Sculpture is a taster workshop for the participant to get familiar with the air dry clay available in vibrant colours as a medium which does not need any firing unlike the regular pottery clay. The participants will be creating their beautiful artwork and learn the technique under the supervision of the trainer. They will be able to take back their artwork with them after the workshop.</span>
 <span style="line-height:1.5rem">
 <br><strike>Tues, 21st Feb, 2.00pm </strike>
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-clay-sculpture-with-air-dry-clay-c026994214" target="_blank">Fri, 24th Feb, 2.00pm</a>
+<br><s>Fri, 24th Feb, 2.00pm</s>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-clay-sculpture-with-air-dry-clay-c026994222" target="_blank">Thur, 9th Mar, 2.00pm</a>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-clay-sculpture-with-air-dry-clay-c026994230" target="_blank">Tue, 14th Mar, 2.00pm</a>
 </span>
@@ -118,7 +118,7 @@ Hear from our experienced Chinese Dance Choreographer, Ms Chang Hsiao-Min, who h
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Malay Dance Experience</span><br><span>Always interested in learning more about Malay Dance?<br>
 Hear from our experienced Malay Dance Choreographer, Mr Osman Abdul Hamid, PBM, who has been leading the PA Talents Malay Dance Ensemble for more than 30 years.  Get the chance to learn some basic Malay dance movements and  interesting facts about the Malay Culture. </span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-malay-dance-25-feb-12pm-11585177" target="_blank">Sat, 25th Feb, 12.00pm</a>
+<br><s>Sat, 25th Feb, 12.00pm</s>
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-malay-dance-4-mar-12pm-67459728" target="_blank">Sat, 4th Mar, 12.00pm</a>
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-malay-dance-11-mar-23-12pm-32052043" target="_blank">Sat, 11th Mar, 12.00pm</a>
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-malay-dance-18-mar-23-12pm-87522557" target="_blank">Sat, 18th Mar, 12.00pm</a>
@@ -145,7 +145,7 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 * Due to hygiene concerns, protective equipment will not be provided by Odyssey Boards. Students are required to have the necessary equipment for safety purposes.
 </span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-longboarding-c026991759" target="_blank">Sun, 26th Feb, 4.00pm</a>
+<br><s>Sun, 26th Feb, 4.00pm</s>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-longboarding-c026993639" target="_blank">Sun, 5th Mar, 3.00pm</a>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-longboarding-c026993964" target="_blank">Sat, 11th Mar, 4.00pm</a>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-longboarding-c026993965" target="_blank">Sat, 18th Mar, 4.00pm</a>
@@ -158,6 +158,8 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">In Line Skating</span><br><span>Ever had a bad fall on your skates? Learn the correct way to in-line skate using tested and proven syllabus. You will learn how to balance, break your fall, how to distribute your weight correctly. With the right guidance, you will gain both speed and confidence in no time. As we always say, “Great skills, fast wheels!”.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
 <br><strike>Tue, 21st Feb, 4.00pm</strike>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-inline-skating-c026994021" target="_blank">Sun, 2nd Mar, 10.00pm</a>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-inline-skating-c026994025" target="_blank">Sun, 9th Mar, 4.00pm</a>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-inline-skating-c026994017" target="_blank">Sun, 12th Mar, 3.00pm</a>
 </span>
 </div></div>
