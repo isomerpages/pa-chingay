@@ -25,7 +25,7 @@ You can sign up by clicking on the respective links below. Please note that spac
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Metal Tooling</span> (60min)<br><span>The art of metal tooling is a centuries old art form also known as metal embossing, it uses simple tools like wooden sticks to create designs on metal.
 Participants will get to experience embossing floral designs onto the metal sheets and take home their masterpieces.</span>
 <span style="line-height:1.5rem">
-<br><s>Sat, 25th Feb, 11.00am</s>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-metal-tooling-c026993948" target="_blank">Sat, 25th Feb, 11.00am</a>
 <br><s>Sat, 25th Feb, 12.00pm</s>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-metal-tooling-c026993953" target="_blank">Sun, 5th Mar, 2.30pm</a>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-metal-tooling-c026993954" target="_blank">Sun, 5th Mar, 3.30pm</a>
