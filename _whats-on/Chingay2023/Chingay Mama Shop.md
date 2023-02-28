@@ -181,6 +181,11 @@ From all of us at Kim Choo Kueh Chang, have a blessed Year of the Rabbit!
 
 
 
+<div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+<div style="height:157px;margin:auto;"><img style=";max-height:130px; width:auto;padding:0.5rem;padding-top:10px;" src="/images/MamaShop/FSP.png"></div>
+<div style="font-size: 1rem; padding:.5rem;"> 
+<span style="line-height:2rem;color:#b242a2;font-weight:bold">Fish Soup Paradise Pte Ltd</span><br>Fish Soup Paradise ~ an original Teochew fish soup recipe using only the finest ingredients and brew<br>
+<span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/products/premium-fish-broth-concentrate-135g-x-4-for-delivery-i2669777818-s17400375962.html?clickTrackInfo=query%253Apremium%252Bfish%252Bbroth%253Bnid%253A2669777818%253Bsrc%253ALazadaMainSrp%253Brn%253A9d68455bb896d898171c44abd6454296%253Bregion%253Asg%253Bsku%253A2669777818_SGAMZ%253Bprice%253A20%253Bclient%253Adesktop%253Bsupplier_id%253A1152672628%253Basc_category_id%253A10003322%253Bitem_id%253A2669777818%253Bsku_id%253A17400375962%253Bshop_id%253A1453629&fastshipping=0&freeshipping=0&fs_ab=1&fuse_fs=0&lang=en&location=Singapore&price=2E%201&priceCompare=&ratingscore=0&request_id=9d68455bb896d898171c44abd6454296&review=&sale=1&search=1&source=search&spm=a2o42.searchlist.list.i9.60d71f61paLc9t&stock=1">Purchase Now</a></span></div></div>
 
 
 
