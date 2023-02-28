@@ -27,7 +27,7 @@ Caravan End - Our Tampines Hub<br>
 <br>
 
 
-**Chingay @ Chua Chu Kang**<br>
+**Chingay @ Chua Chu Kang** [ENDED]<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
 Caravan Start - Hardcourt next to Hillview CC<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
@@ -37,7 +37,7 @@ Caravan End - Keat Hong Square<br>
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/><a href="https://www.facebook.com/100064457995359/posts/pfbid02trRQEWQkRe7whbj26TQG2vBMqLroTaw4nEQdo2rVAyPKQ6Boo1zMFkvHwoSX799Dl/?d=w&mibextid=qC1gEa">Chua Chu Kang - Our Home Facebook Page</a>
 <br>
 
-**Chingay @ Ang Mo Kio**<br>
+**Chingay @ Ang Mo Kio** [ENDED]<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
 Caravan Start - Teck Ghee Square<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
