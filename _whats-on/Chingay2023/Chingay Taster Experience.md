@@ -158,7 +158,7 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">In Line Skating</span><br><span>Ever had a bad fall on your skates? Learn the correct way to in-line skate using tested and proven syllabus. You will learn how to balance, break your fall, how to distribute your weight correctly. With the right guidance, you will gain both speed and confidence in no time. As we always say, “Great skills, fast wheels!”.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
 <br><strike>Tue, 21st Feb, 4.00pm</strike>
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-inline-skating-c026994021" target="_blank">Sun, 2nd Mar, 10.00pm</a>
+<br><s>Sun, 2nd Mar, 10.00pm</s>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-inline-skating-c026994025" target="_blank">Sun, 9th Mar, 4.00pm</a>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-inline-skating-c026994017" target="_blank">Sun, 12th Mar, 3.00pm</a>
 </span>
