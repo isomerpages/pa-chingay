@@ -65,4 +65,5 @@ Carvan End - Discover Tanjong Pagar Community Green<br><!--
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
 Tel: 6506 0900<br>-->
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sun, 5 Mar 2023<br>
-<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>6.00pm to 9.45pm
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>6.00pm to 9.45pm<br>
+Advisory: Road closure - Wallich Street (between Tras St & Peck Seah st) from 5.00pm to 11.59pm
