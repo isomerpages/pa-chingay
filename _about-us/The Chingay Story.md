@@ -1,11 +1,11 @@
 ---
 title: The Chingay Story
-permalink: /about-us/the-chingay-story
+permalink: /about-us/the-chingay-story/
 description: ""
 ---
 The word Chingay is equivalent to the Mandarin word 妆艺 (zhuangyi) which means the art of costume and masquerade in the Hokkien dialect. Here in Singapore, the Chingay Parade started in 1973 as a street parade to celebrate the Chinese New Year. Since then, it has evolved into an annual iconic event that showcases Singapore’s rich and unique multi-ethnic and cosmopolitan cultures. 
 
-The first formal Chingay Parade in Singapore was mooted by our founding Prime Minister, the late Mr Lee Kuan Yew, who was also the former Chairman of the People’s Association (PA). The celebrations, with all its colours and gaiety, compensated for the ban on firecrackers that was once a customary Chinese New Year practice to ward off evil spirits. 
+The first formal Chingay Parade in Singapore was mooted by our founding Prime Minister, the late Mr Lee Kuan Yew, who was also the former Chairman of the [People's Association (PA)](https://www.pa.gov.sg/). The celebrations, with all its colours and gaiety, compensated for the ban on firecrackers that was once a customary Chinese New Year practice to ward off evil spirits. 
 
 The annual event is characterised by vibrant performers in elaborated costumes from different ethnicity, cultures and backgrounds; dazzling display of floats; huge intricate props and structures; and cultural performances from all around the world. Chingay now owns the reputation as one of Asia’s largest street performance and float parade, a colourful epitome of the country’s multi-cultural society. 
 
