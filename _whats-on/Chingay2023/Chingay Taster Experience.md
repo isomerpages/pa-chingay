@@ -119,7 +119,7 @@ Hear from our experienced Chinese Dance Choreographer, Ms Chang Hsiao-Min, who h
 Hear from our experienced Malay Dance Choreographer, Mr Osman Abdul Hamid, PBM, who has been leading the PA Talents Malay Dance Ensemble for more than 30 years.  Get the chance to learn some basic Malay dance movements and  interesting facts about the Malay Culture. </span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
 <br><s>Sat, 25th Feb, 12.00pm</s>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-malay-dance-4-mar-12pm-67459728" target="_blank">Sat, 4th Mar, 12.00pm</a>
+<br><s>Sat, 4th Mar, 12.00pm</s>
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-malay-dance-11-mar-23-12pm-32052043" target="_blank">Sat, 11th Mar, 12.00pm</a>
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-malay-dance-18-mar-23-12pm-87522557" target="_blank">Sat, 18th Mar, 12.00pm</a>
 </span></div></div>
