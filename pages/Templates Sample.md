@@ -3,6 +3,30 @@ title: Templates Sample
 permalink: /templates/
 description: ""
 ---
+<!-- 3 image 1 text-->
+
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">RojakSG</span> presented by Ang Mo Kio Cluster</span></div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/AngMoKioCluster.jpg"></div></div>
+
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/RojakSG1.jpg"></div></div>
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style= "font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2023MiniFloats/RojakSG2.jpg"></div></div>
+
+</div>
+
+
+<!-- End -->
+
+
+
 <!--Start Template for 3 column display -->
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 	
