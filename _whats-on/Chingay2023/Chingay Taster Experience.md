@@ -22,13 +22,13 @@ You can sign up by clicking on the respective links below. Please note that spac
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Tooling.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Metal Tooling</span> (60min)<br><span>The art of metal tooling is a centuries old art form also known as metal embossing, it uses simple tools like wooden sticks to create designs on metal.
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Metal Tooling </span> (60min) [ENDED]<br><span>The art of metal tooling is a centuries old art form also known as metal embossing, it uses simple tools like wooden sticks to create designs on metal.
 Participants will get to experience embossing floral designs onto the metal sheets and take home their masterpieces.</span>
 <span style="line-height:1.5rem">
 <br><s>Sat, 25th Feb, 11.00am</s>
 <br><s>Sat, 25th Feb, 12.00pm</s>
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-metal-tooling-c026993953" target="_blank">Sun, 5th Mar, 2.30pm</a>
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-metal-tooling-c026993954" target="_blank">Sun, 5th Mar, 3.30pm</a>
+<br><s>Sun, 5th Mar, 2.30pm</s>
+<br><s>Sun, 5th Mar, 3.30pm</s>
 </span>
 </div></div>
 
@@ -57,7 +57,7 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/modular.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Mini Diorama</span> (120min)<br><span>Visitors would be able to create micro dioramas (ie. Polly Pockets), where they can paint them, glue and house them in little capsules and bring it home or display it on the venue. Visitors are then given the opportunity to create their own capsule of minis and learn how to paint miniatures/micro objects</span>
 <span style="line-height:1.5rem">
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-mini-diorama-c026994038" target="_blank">Sat, 4th Mar, 2.00pm</a>
+<br><s>Sat, 4th Mar, 2.00pm</s>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-mini-diorama-c026994046" target="_blank">Sun, 12th Mar, 2.00pm</a>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-mini-diorama-c026994055" target="_blank">Sat, 18th Mar, 2.00pm</a>
 </span>
@@ -80,7 +80,7 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Latin / Ballroom Dance</span><br><span>This Ballroom Latin (Adult) Elementary course will cover Cha-Cha, Paso Doble, Rumba and Samba. Participants will learn feet positions, alignment, turns, rise and fall, footwork, timing and counting in beats or beats and bars.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
 <br><s>Wed, 1st Mar, 1.30pm</s>
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-ballroom-latin-c026993775" target="_blank">Sun, 5th Mar, 1.15pm</a>
+<br><s>Sun, 5th Mar, 1.15pm</s>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-ballroom-latin-c026995458" target="_blank">Wed, 15th Mar, 1.30pm</a>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-ballroom-latin-c026993779" target="_blank">Sun, 19th Mar, 1.15pm</a>
 </span>
@@ -146,7 +146,7 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 </span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
 <br><s>Sun, 26th Feb, 4.00pm</s>
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-longboarding-c026993639" target="_blank">Sun, 5th Mar, 3.00pm</a>
+<br><s>Sun, 5th Mar, 3.00pm</s>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-longboarding-c026993964" target="_blank">Sat, 11th Mar, 4.00pm</a>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-longboarding-c026993965" target="_blank">Sat, 18th Mar, 4.00pm</a>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-longboarding-c026993646" target="_blank">Sun, 19th Mar, 3.00pm</a>
@@ -159,7 +159,7 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 <span style="line-height:1.5rem">
 <br><strike>Tue, 21st Feb, 4.00pm</strike>
 <br><s>Sun, 2nd Mar, 10.00pm</s>
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-inline-skating-c026994025" target="_blank">Sun, 9th Mar, 4.00pm</a>
+<br><a href="https://www.onepa.gov.sg/courses/cte-2023-inline-skating-c026994025" target="_blank">Thur, 9th Mar, 4.00pm</a>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-inline-skating-c026994017" target="_blank">Sun, 12th Mar, 3.00pm</a>
 </span>
 </div></div>
