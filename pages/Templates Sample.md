@@ -5,6 +5,7 @@ description: ""
 ---
 <!-- 3 image 1 text-->
 
+
 <div style="padding-top:2rem;font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;">RojakSG</span> presented by Ang Mo Kio Cluster</span></div>
 
@@ -22,9 +23,17 @@ description: ""
 
 </div>
 
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About RojakSG</span><br>RojakSG is a display where we celebrate our cultural harmony and welcome contemporary food such as meat-free nuggets and locally sourced ingredients for our favourite delights, as we transit into a more sustainable future.<br>
+With technological innovations in production such as vertical farming and logistics, we are able to enjoy a variety of ingredients and local produce and progress towards enhancement of food security in Singapore. <br>
+We aspire to have every bite of food, proudly grown in abundance, in our homeland, Singapore. 
+</div>
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About the Co-Creation</span><br>RojakSG was co-created with residents from the Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs, guided by artist Amanda Lim.<br>Residents got to work on different materials such as paper mâché, clay, and designed motif on the tingkat as well as the many food sculptures that the float showcases. </div>
+
 
 <!-- End -->
 
+
+<br><br><br>
 
 
 <!--Start Template for 3 column display -->
