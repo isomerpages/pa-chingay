@@ -40,7 +40,7 @@ Participants will get to experience embossing floral designs onto the metal shee
 <span style="line-height:1.5rem">
 <br><s>Tues, 21st Feb, 2.00pm </s>
 <br><s>Fri, 24th Feb, 2.00pm</s>
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-clay-sculpture-with-air-dry-clay-c026994222" target="_blank">Thur, 9th Mar, 2.00pm</a>
+<br><s>Thur, 9th Mar, 2.00pm</s>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-clay-sculpture-with-air-dry-clay-c026994230" target="_blank">Tue, 14th Mar, 2.00pm</a>
 </span>
 </div></div>
