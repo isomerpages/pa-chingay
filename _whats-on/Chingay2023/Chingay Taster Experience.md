@@ -38,7 +38,7 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-4rem;" src="/images/CTE/Clay.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Clay Art</span> (60min)<br><span>The Air Clay Sculpture is a taster workshop for the participant to get familiar with the air dry clay available in vibrant colours as a medium which does not need any firing unlike the regular pottery clay. The participants will be creating their beautiful artwork and learn the technique under the supervision of the trainer. They will be able to take back their artwork with them after the workshop.</span>
 <span style="line-height:1.5rem">
-<br><strike>Tues, 21st Feb, 2.00pm </strike>
+<br><s>Tues, 21st Feb, 2.00pm </s>
 <br><s>Fri, 24th Feb, 2.00pm</s>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-clay-sculpture-with-air-dry-clay-c026994222" target="_blank">Thur, 9th Mar, 2.00pm</a>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-clay-sculpture-with-air-dry-clay-c026994230" target="_blank">Tue, 14th Mar, 2.00pm</a>
@@ -105,7 +105,7 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chinese Dance Experience</span><br><span>Always interested in learning more about Chinese Dance? <br>
 Hear from our experienced Chinese Dance Choreographer, Ms Chang Hsiao-Min, who has been leading the PA Talents Chinese Dance Ensemble for more than 30 years.  Get the chance to learn some basic Chinese dance movements and  interesting facts about the Chinese Culture. </span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
-<br><strike>Tue, 21st Feb, 7.00pm</strike>
+<br><s>Tue, 21st Feb, 7.00pm</s>
 <br><s>Tue, 28th Feb, 7.00pm</s>
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-chinese-dance-10-mar-23-7pm-51854344" target="_blank">Fri, 10th Mar, 7.00pm</a>
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-chinese-dance-17-mar-23-7pm-42901329" target="_blank">Fri, 17th Mar, 7.00pm</a>
@@ -134,7 +134,7 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 <span style="line-height:1.5rem">
 <br><s>Wed, 22nd Feb, 7.45pm</s>
 <br><s>Wed, 1st Mar, 7.45pm</s>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-indian-dance-8-mar-23-7-45pm-73396020" target="_blank">Wed, 8th Mar, 7.45pm</a>
+<br><s>Wed, 8th Mar, 7.45pm</s>
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-indian-dance-15-mar-23-7-45pm-11276582" target="_blank">Wed, 15th Mar, 7.45pm</a>
 </span></div></div>
  
@@ -157,7 +157,7 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Inline.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">In Line Skating</span><br><span>Ever had a bad fall on your skates? Learn the correct way to in-line skate using tested and proven syllabus. You will learn how to balance, break your fall, how to distribute your weight correctly. With the right guidance, you will gain both speed and confidence in no time. As we always say, “Great skills, fast wheels!”.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
-<br><strike>Tue, 21st Feb, 4.00pm</strike>
+<br><s>Tue, 21st Feb, 4.00pm</s>
 <br><s>Sun, 2nd Mar, 10.00pm</s>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-inline-skating-c026994025" target="_blank">Thur, 9th Mar, 4.00pm</a>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-inline-skating-c026994017" target="_blank">Sun, 12th Mar, 3.00pm</a>
