@@ -2,7 +2,6 @@ collections:
   whats-on:
     output: true
     order:
-      - Chingay @ Heartlands.md
       - Chingay2023/.keep
       - Chingay2023/Chingay Taster Experience.md
       - Chingay2023/Chingay Mama Shop.md
