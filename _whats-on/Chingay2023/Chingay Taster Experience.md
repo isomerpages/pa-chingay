@@ -107,7 +107,7 @@ Hear from our experienced Chinese Dance Choreographer, Ms Chang Hsiao-Min, who h
 <span style="line-height:1.5rem">
 <br><s>Tue, 21st Feb, 7.00pm</s>
 <br><s>Tue, 28th Feb, 7.00pm</s>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-chinese-dance-10-mar-23-7pm-51854344" target="_blank">Fri, 10th Mar, 7.00pm</a>
+<br><s>Fri, 10th Mar, 7.00pm</s>
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-chinese-dance-17-mar-23-7pm-42901329" target="_blank">Fri, 17th Mar, 7.00pm</a>
 </span></div></div>
   
@@ -120,7 +120,7 @@ Hear from our experienced Malay Dance Choreographer, Mr Osman Abdul Hamid, PBM, 
 <span style="line-height:1.5rem">
 <br><s>Sat, 25th Feb, 12.00pm</s>
 <br><s>Sat, 4th Mar, 12.00pm</s>
-<br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-malay-dance-11-mar-23-12pm-32052043" target="_blank">Sat, 11th Mar, 12.00pm</a>
+<br><s>Sat, 11th Mar, 12.00pm</s>
 <br><a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-malay-dance-18-mar-23-12pm-87522557" target="_blank">Sat, 18th Mar, 12.00pm</a>
 </span></div></div>
   
