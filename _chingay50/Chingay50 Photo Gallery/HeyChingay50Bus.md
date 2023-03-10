@@ -1,9 +1,14 @@
 ---
-title: "#HeyChingay50Bus"
+title: HeyChingay50Bus
 permalink: /Chingay50-Photo-Gallery/heychingay50bus/
 description: ""
 third_nav_title: Chingay50 Photo Gallery
 ---
+
+
+
+
+
 
 
 

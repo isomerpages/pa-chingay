@@ -8,13 +8,13 @@ third_nav_title: Chingay50 Photo Gallery
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="min-height:17rem; max-height:17rem; overflow:hidden;"><img style="min-height:17rem; object-fit: cover; position:relative; top:rem;" src="/images/Event%20Gallery/chingay50-mini-float-@-sembawang-grc-2.jpeg" alt="@ Sembawang GRC"></div>
-<div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chingay50 Mini Floats<br><a href="/chingay50-photo-gallery/mini-float/">View Gallery</a></span>
+<div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chingay50 Mini Floats<br><a href="/Chingay50-Photo-Gallery/mini-floats/">View Gallery</a></span>
 </div></div>
 
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="min-height:17rem; max-height:17rem; overflow:hidden;"><img style="min-height:17rem; object-fit: cover; position:relative; top:rem;" src="/images/Event%20Gallery/Chingay50Bus%20Launch/Category%20Cover%20Photo-01.jpg" alt="Chingay50 Bus Design"></div>
-<div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">#HeyChingay50Bus<br><a href="/chingay50-photo-gallery/heychingay50bus/">View Gallery</a> </span>
+<div style="padding:.5rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">#HeyChingay50Bus<br><a href="/Chingay50-Photo-Gallery/heychingay50bus/">View Gallery</a> </span>
 </div></div>
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
