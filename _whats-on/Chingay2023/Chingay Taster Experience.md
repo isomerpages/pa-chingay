@@ -47,9 +47,9 @@ Participants will get to experience embossing floral designs onto the metal shee
  
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Acrylic.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Acrylic Pouring</span> (90min)<br><span>Acrylic pouring on transparent bookmark . Participants to draw in motifs of space an colour on one side of the bookmark and learn how to pour on the other side using acrylic pouring technique.</span>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Acrylic Pouring</span> (90min)[ENDED]<br><span>Acrylic pouring on transparent bookmark . Participants to draw in motifs of space an colour on one side of the bookmark and learn how to pour on the other side using acrylic pouring technique.</span>
 <br><s>Wed, 22nd Feb, 3.00pm</s>
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-bookmark-acrylic-pouring-c026996172" target="_blank">Wed, 8th Mar, 3.00pm</a>
+<br><s>Wed, 8th Mar, 3.00pm</s>
 </div></div>
  
   
@@ -159,7 +159,7 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 <span style="line-height:1.5rem">
 <br><s>Tue, 21st Feb, 4.00pm</s>
 <br><s>Sun, 2nd Mar, 10.00pm</s>
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-inline-skating-c026994025" target="_blank">Thur, 9th Mar, 4.00pm</a>
+<br><s>Thur, 9th Mar, 4.00pm</s>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-inline-skating-c026994017" target="_blank">Sun, 12th Mar, 3.00pm</a>
 </span>
 </div></div>

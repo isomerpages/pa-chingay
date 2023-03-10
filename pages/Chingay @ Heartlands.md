@@ -2,7 +2,6 @@
 title: Chingay @ Heartlands
 permalink: /heartlands/
 description: ""
-third_nav_title: Chingay2023
 ---
 Chingay@Heartlands Celebrations 2023 bring the Chingay experience closer to residents with a local twist and flavour, energising audiences through immersive and experiential Chingay (arts) programmes and invoking their interests. Featuring Chingay Truncated Show, Chingay Floats Caravan, Chingay Mini Floats display and roving Chingay performers, check out the celebrations at these listed dates and venues. Contact the relavant CC for more information.
 
@@ -47,7 +46,7 @@ Caravan End - Fernvale Square<br>
 <img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/><a href="https://www.facebook.com/amkgrckbycksmcs">Ang Mo Kio GRC, Kebun Baru & Yio Chu Kang SMCs Community Facebook Page</a>
 <br>
 
-**Chingay @ Nee Soon**<br>
+**Chingay @ Nee Soon**  [ENDED]<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
 Caravan Start - Northview Primary School<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
@@ -57,7 +56,7 @@ Tel: 6506 0900<br>-->
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px"/>Sat, 4 Mar 2023<br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px"/>6.00pm to 9.30pm
 
-**Chingay @ Tanjong Pagar**<br>
+**Chingay @ Tanjong Pagar**  [ENDED]<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>
 Caravan Start - Along Norfolk Road, near Blk 39A Cambridge Road<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px"/>

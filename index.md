@@ -12,9 +12,6 @@ sections:
         - title: Chingay Webcast
           description: Watch Chingay 2023
           url: https://www.youtube.com/live/SNOEUaoSB5s?feature=share&t=2422
-        - title: Programme Booklet
-          description: ""
-          url: /programme/
         - title: Chingay Taster Experience
           description: ""
           url: /cte/
@@ -22,13 +19,6 @@ sections:
           description: ""
           url: https://form.gov.sg/63d89405b9029d001110d023
       background: /images/KEN_9199 edited long 5mb 752.jpg
-  - infobar:
-      title: Chingay @ Heartlands
-      subtitle: Chingay 2023
-      description: Chingay@Heartlands Celebrations 2023 brings the Chingay experience
-        closer to residents with a local twist and flavour.
-      button: Find out more
-      url: /heartlands/
   - infopic:
       title: Chingay Taster Experience
       subtitle: Chingay 2023
@@ -45,11 +35,6 @@ sections:
         #SupportLocal businesses and #DoGoodWithUs. "
       button: Find Out More
       url: chingaymamashop/
-  - infobar:
-      title: Chingay Parade 2023 Programme Booklet
-      subtitle: Chingay 2023
-      button: Find out more
-      url: /programme/
   - infopic:
       title: "Theme Song: Embrace Tomorrow"
       subtitle: Chingay 2023
