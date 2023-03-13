@@ -63,7 +63,7 @@ You can sign up by clicking on the respective links below. Please note that spac
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Hip Hop</span><br><span>This dance originated from the United States. Funk, Break and Hip Hop elements are combined and choreographed to upbeat music to appeal to teenagers and young adults.</span><br>
 <span style="line-height:1.5rem">
 <s>Sun, 26th Feb, 1.00pm</s><br>
-<a href="https://www.onepa.gov.sg/courses/cte-2023-hip-hop-c026993627" target="_blank">Sat, 18th Mar, 11.00am</a><br>
+<s>Sat, 18th Mar, 11.00am</s><br>
 <a href="https://www.onepa.gov.sg/courses/cte-2023-hip-hop-c026992042" target="_blank">Sun, 19th Mar, 4.00pm</a>
 </span>
 </div></div>
