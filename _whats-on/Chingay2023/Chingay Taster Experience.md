@@ -180,6 +180,8 @@ Participants will get to experience embossing floral designs onto the metal shee
 <br><s>Sun, 12th Mar, 3.00pm</s>
 </span>
 </div></div>
+	
+</div>
 
 # Exclusive Experiences
 
