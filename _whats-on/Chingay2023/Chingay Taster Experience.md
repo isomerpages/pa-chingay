@@ -14,25 +14,6 @@ You can sign up by clicking on the respective links below. Please note that spac
 <span style="font-size:1rem">(a) Please ensure that you are able to attend the session before signing up so as not to deprive others of the opportunity. Participants who are no-show at the activities / workshops may not be allowed to sign up for other activities / workshops under CTE. Please note that the Organiser may refuse and/or cancel any registration at its sole and absolute discretion.<br><br>
 (b) Photos, videos and other recordings  may be taken during these sessions.  You agree that the Organiser may use such photographs, videos and other recordings in the Organiser’s sole and absolute discretion , including but not limited to use for publicity purposes and/or such other use(s) in the future.<br><br>(c) Any personal data provided by you  may be used for the administration of these sessions  as well as other Chingay-related purposes.</span></div>
 
-# Exclusive Experiences
-
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
-	
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Tooling.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Metal Tooling </span> (60min) [ENDED]<br><span>The art of metal tooling is a centuries old art form also known as metal embossing, it uses simple tools like wooden sticks to create designs on metal.
-Participants will get to experience embossing floral designs onto the metal sheets and take home their masterpieces.</span>
-<span style="line-height:1.5rem">
-<br><s>Sat, 25th Feb, 11.00am</s>
-<br><s>Sat, 25th Feb, 12.00pm</s>
-<br><s>Sun, 5th Mar, 2.30pm</s>
-<br><s>Sun, 5th Mar, 3.30pm</s>
-</span>
-</div></div>
-
-	
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-4rem;" src="/images/CTE/Clay.jpg"></div>
@@ -45,13 +26,6 @@ Participants will get to experience embossing floral designs onto the metal shee
 </span>
 </div></div>
  
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Acrylic.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Acrylic Pouring</span> (90min) [ENDED]<br><span>Acrylic pouring on transparent bookmark . Participants to draw in motifs of space an colour on one side of the bookmark and learn how to pour on the other side using acrylic pouring technique.</span>
-<br><s>Wed, 22nd Feb, 3.00pm</s>
-<br><s>Wed, 8th Mar, 3.00pm</s>
-</div></div>
- 
   
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/modular.jpg"></div>
@@ -60,15 +34,6 @@ Participants will get to experience embossing floral designs onto the metal shee
 <br><s>Sat, 4th Mar, 2.00pm</s>
 <br><s>Sun, 12th Mar, 2.00pm</s>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-mini-diorama-c026994055" target="_blank">Sat, 18th Mar, 2.00pm</a>
-</span>
-</div></div>
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/DSC05669.jpeg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Jazz Dance</span> [ENDED]<br><span>Jazz Dance combines rhythm, expression and technique with aspects of a variety of popular and street music, using the body as an instrument to interpret the various styles. Forms of Jazz include the rhythmic and stylish modern jazz, incorporating lyrical and contemporary styles and the classical lines of Jazz Ballet. Is a type of different dance style to create a new aesthetic world. It takes elements from mix of ballet, modern, lyrical footwork and can use music from different ethnic culture.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
-<span style="line-height:1.5rem">
-<br><s>Sun, 26th Feb, 3.00pm</s>
-<br><s>Sat, 11th Mar, 3.00pm</s>
 </span>
 </div></div>
 
@@ -153,25 +118,7 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 </span>
 </div></div>
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Inline.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">In Line Skating</span> [ENDED]<br><span>Ever had a bad fall on your skates? Learn the correct way to in-line skate using tested and proven syllabus. You will learn how to balance, break your fall, how to distribute your weight correctly. With the right guidance, you will gain both speed and confidence in no time. As we always say, “Great skills, fast wheels!”.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
-<span style="line-height:1.5rem">
-<br><s>Tue, 21st Feb, 4.00pm</s>
-<br><s>Sun, 2nd Mar, 10.00pm</s>
-<br><s>Thur, 9th Mar, 4.00pm</s>
-<br><s>Sun, 12th Mar, 3.00pm</s>
-</span>
-</div></div>
   
-  
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Cheerfit.jpeg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Cheerfit</span> [ENDED]<br><span>CheerFit is an upbeat workout program designed by TJ that is engaging and fun for everyone to stay fit and stay bonded in the community. The workout involves aspects of cheerleading such as cheer dance, jumps and basic gymnastic movement that aims to get participants in the best shape of their life</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
-<span style="line-height:1.5rem">
-<br><s>Sat, 25th Feb, 4.30pm</s>
-<br><s>Sat, 11th Mar, 4.30pm</s>
-</span></div></div>
   
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Piloxing.jpeg"></div>
@@ -189,8 +136,64 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Tooling.jpg"></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Metal Tooling </span> (60min) [ENDED]<br><span>The art of metal tooling is a centuries old art form also known as metal embossing, it uses simple tools like wooden sticks to create designs on metal.
+Participants will get to experience embossing floral designs onto the metal sheets and take home their masterpieces.</span>
+<span style="line-height:1.5rem">
+<br><s>Sat, 25th Feb, 11.00am</s>
+<br><s>Sat, 25th Feb, 12.00pm</s>
+<br><s>Sun, 5th Mar, 2.30pm</s>
+<br><s>Sun, 5th Mar, 3.30pm</s>
+</span>
+</div></div>
+	
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Acrylic.jpg"></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Acrylic Pouring</span> (90min) [ENDED]<br><span>Acrylic pouring on transparent bookmark . Participants to draw in motifs of space an colour on one side of the bookmark and learn how to pour on the other side using acrylic pouring technique.</span>
+<br><s>Wed, 22nd Feb, 3.00pm</s>
+<br><s>Wed, 8th Mar, 3.00pm</s>
+</div></div>
+ 
+
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/DSC05669.jpeg"></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Jazz Dance</span> [ENDED]<br><span>Jazz Dance combines rhythm, expression and technique with aspects of a variety of popular and street music, using the body as an instrument to interpret the various styles. Forms of Jazz include the rhythmic and stylish modern jazz, incorporating lyrical and contemporary styles and the classical lines of Jazz Ballet. Is a type of different dance style to create a new aesthetic world. It takes elements from mix of ballet, modern, lyrical footwork and can use music from different ethnic culture.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
+<span style="line-height:1.5rem">
+<br><s>Sun, 26th Feb, 3.00pm</s>
+<br><s>Sat, 11th Mar, 3.00pm</s>
+</span>
+</div></div>
+
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Inline.jpg"></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">In Line Skating</span> [ENDED]<br><span>Ever had a bad fall on your skates? Learn the correct way to in-line skate using tested and proven syllabus. You will learn how to balance, break your fall, how to distribute your weight correctly. With the right guidance, you will gain both speed and confidence in no time. As we always say, “Great skills, fast wheels!”.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
+<span style="line-height:1.5rem">
+<br><s>Tue, 21st Feb, 4.00pm</s>
+<br><s>Sun, 2nd Mar, 10.00pm</s>
+<br><s>Thur, 9th Mar, 4.00pm</s>
+<br><s>Sun, 12th Mar, 3.00pm</s>
+</span>
+</div></div>
+
+# Exclusive Experiences
 
 
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
+
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Cheerfit.jpeg"></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Cheerfit</span> [ENDED]<br><span>CheerFit is an upbeat workout program designed by TJ that is engaging and fun for everyone to stay fit and stay bonded in the community. The workout involves aspects of cheerleading such as cheer dance, jumps and basic gymnastic movement that aims to get participants in the best shape of their life</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
+<span style="line-height:1.5rem">
+<br><s>Sat, 25th Feb, 4.30pm</s>
+<br><s>Sat, 11th Mar, 4.30pm</s>
+</span></div></div>
+  
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/DSC06504.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chingay Behind-the-Scenes Tour</span> [ENDED]<br><span>Sign up for a Chingay Behind-the-Scenes Tour of the Chingay Parade site at F1 Pit Building to find out the stories behind the creation of Chingay floats, Rabbits Art-Venture and Containers Art Installations.</span>
