@@ -47,7 +47,7 @@ You can sign up by clicking on the respective links below. Please note that spac
  
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/LatinDance.jpeg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Latin / Ballroom Dance</span><br><span>This Ballroom Latin (Adult) Elementary course will cover Cha-Cha, Paso Doble, Rumba and Samba. Participants will learn feet positions, alignment, turns, rise and fall, footwork, timing and counting in beats or beats and bars.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Latin / Ballroom Dance</span><br><span>This Ballroom Latin (Adult) Elementary course will cover Cha-Cha, Paso Doble, Rumba and Samba. Participants will learn feet positions, alignment, turns, rise and fall, footwork, timing and counting in beats or beats and bars.</span>
 <span style="line-height:1.5rem">
 <br><s>Wed, 1st Mar, 1.30pm</s>
 <br><s>Sun, 5th Mar, 1.15pm</s>
@@ -60,7 +60,7 @@ You can sign up by clicking on the respective links below. Please note that spac
   
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/HipHop.jpeg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Hip Hop</span><br><span>This dance originated from the United States. Funk, Break and Hip Hop elements are combined and choreographed to upbeat music to appeal to teenagers and young adults.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Hip Hop</span><br><span>This dance originated from the United States. Funk, Break and Hip Hop elements are combined and choreographed to upbeat music to appeal to teenagers and young adults.</span>
 <span style="line-height:1.5rem">
 <br><s>Sun, 26th Feb, 1.00pm</s>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-hip-hop-c026993627" target="_blank">Sat, 18th Mar, 11.00am</a>
@@ -73,7 +73,7 @@ You can sign up by clicking on the respective links below. Please note that spac
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Chinese.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chinese Dance Experience</span><br><span>Always interested in learning more about Chinese Dance? <br>
-Hear from our experienced Chinese Dance Choreographer, Ms Chang Hsiao-Min, who has been leading the PA Talents Chinese Dance Ensemble for more than 30 years.  Get the chance to learn some basic Chinese dance movements and  interesting facts about the Chinese Culture. </span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
+Hear from our experienced Chinese Dance Choreographer, Ms Chang Hsiao-Min, who has been leading the PA Talents Chinese Dance Ensemble for more than 30 years.  Get the chance to learn some basic Chinese dance movements and  interesting facts about the Chinese Culture. </span>
 <span style="line-height:1.5rem">
 <br><s>Tue, 21st Feb, 7.00pm</s>
 <br><s>Tue, 28th Feb, 7.00pm</s>
@@ -86,7 +86,7 @@ Hear from our experienced Chinese Dance Choreographer, Ms Chang Hsiao-Min, who h
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Malay.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Malay Dance Experience</span><br><span>Always interested in learning more about Malay Dance?<br>
-Hear from our experienced Malay Dance Choreographer, Mr Osman Abdul Hamid, PBM, who has been leading the PA Talents Malay Dance Ensemble for more than 30 years.  Get the chance to learn some basic Malay dance movements and  interesting facts about the Malay Culture. </span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
+Hear from our experienced Malay Dance Choreographer, Mr Osman Abdul Hamid, PBM, who has been leading the PA Talents Malay Dance Ensemble for more than 30 years.  Get the chance to learn some basic Malay dance movements and  interesting facts about the Malay Culture. </span>
 <span style="line-height:1.5rem">
 <br><s>Sat, 25th Feb, 12.00pm</s>
 <br><s>Sat, 4th Mar, 12.00pm</s>
@@ -100,7 +100,7 @@ Hear from our experienced Malay Dance Choreographer, Mr Osman Abdul Hamid, PBM, 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Indian.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Indian Dance Experience</span><br><span>Always interested in learning more about Indian Dance?<br>
-Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, who has been with the PA Talents Indian Dance Ensemble for more than 20 years.  Get the chance to learn some basic Indian dance movements and  interesting facts about the Indian Culture. </span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
+Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, who has been with the PA Talents Indian Dance Ensemble for more than 20 years.  Get the chance to learn some basic Indian dance movements and  interesting facts about the Indian Culture. </span>
 <span style="line-height:1.5rem">
 <br><s>Wed, 22nd Feb, 7.45pm</s>
 <br><s>Wed, 1st Mar, 7.45pm</s>
@@ -113,7 +113,7 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/LongBoard.jpeg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Long Board</span><br><span>Experience the thrill of longboarding — a skateboarding experience with a twist as you learn to kick off, balance and cruise downhill. Together with like-minded learners, develop resilience and communication skills, all while gaining confidence!<br>
 * Due to hygiene concerns, protective equipment will not be provided by Odyssey Boards. Students are required to have the necessary equipment for safety purposes.
-</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
+</span>
 <span style="line-height:1.5rem">
 <br><s>Sun, 26th Feb, 4.00pm</s>
 <br><s>Sun, 5th Mar, 3.00pm</s>
@@ -128,7 +128,7 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Piloxing.jpeg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Piloxing®</span><br><span>A non-stop, cardio fusion of standing pilates, boxing and dance that will push you past your limits for a sleek, sexy, powerful you! Piloxing; cardio fusion incorporates cutting edge research and fitness techniques to burn maximum calories, build lean muscles, and increase stamina. The program uniquely blends the power, speed, and agility of boxing with the targeted sculpting and flexibility of pilates. These techniques are also supplemented by the use of weighted gloves, further toning the arms and maximizing cardiovascular health. Add to that exhilarating dance moves and you have a muscle-toning, fat-burning workout that will make you feel physically and mentally empowered!
-</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
+</span>
 <span style="line-height:1.5rem">
 <br><s>Sun, 26th Feb, 2.00pm</s>
 <br><s>Sun, 12th Mar, 4.45pm</s>
@@ -158,15 +158,17 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Acrylic.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Acrylic Pouring</span> (90min) [ENDED]<br><span>Acrylic pouring on transparent bookmark . Participants to draw in motifs of space an colour on one side of the bookmark and learn how to pour on the other side using acrylic pouring technique.</span>
+<span style="line-height:1.5rem">
 <br><s>Wed, 22nd Feb, 3.00pm</s>
-<br><s>Wed, 8th Mar, 3.00pm</s>
+	<br><s>Wed, 8th Mar, 3.00pm</s>
+</span>
 </div></div>
  
 
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/DSC05669.jpeg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Jazz Dance</span> [ENDED]<br><span>Jazz Dance combines rhythm, expression and technique with aspects of a variety of popular and street music, using the body as an instrument to interpret the various styles. Forms of Jazz include the rhythmic and stylish modern jazz, incorporating lyrical and contemporary styles and the classical lines of Jazz Ballet. Is a type of different dance style to create a new aesthetic world. It takes elements from mix of ballet, modern, lyrical footwork and can use music from different ethnic culture.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Jazz Dance</span> [ENDED]<br><span>Jazz Dance combines rhythm, expression and technique with aspects of a variety of popular and street music, using the body as an instrument to interpret the various styles. Forms of Jazz include the rhythmic and stylish modern jazz, incorporating lyrical and contemporary styles and the classical lines of Jazz Ballet. Is a type of different dance style to create a new aesthetic world. It takes elements from mix of ballet, modern, lyrical footwork and can use music from different ethnic culture.</span>
 <span style="line-height:1.5rem">
 <br><s>Sun, 26th Feb, 3.00pm</s>
 <br><s>Sat, 11th Mar, 3.00pm</s>
@@ -176,7 +178,7 @@ Participants will get to experience embossing floral designs onto the metal shee
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Inline.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">In Line Skating</span> [ENDED]<br><span>Ever had a bad fall on your skates? Learn the correct way to in-line skate using tested and proven syllabus. You will learn how to balance, break your fall, how to distribute your weight correctly. With the right guidance, you will gain both speed and confidence in no time. As we always say, “Great skills, fast wheels!”.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">In Line Skating</span> [ENDED]<br><span>Ever had a bad fall on your skates? Learn the correct way to in-line skate using tested and proven syllabus. You will learn how to balance, break your fall, how to distribute your weight correctly. With the right guidance, you will gain both speed and confidence in no time. As we always say, “Great skills, fast wheels!”.</span>
 <span style="line-height:1.5rem">
 <br><s>Tue, 21st Feb, 4.00pm</s>
 <br><s>Sun, 2nd Mar, 10.00pm</s>
@@ -190,7 +192,7 @@ Participants will get to experience embossing floral designs onto the metal shee
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Cheerfit.jpeg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Cheerfit</span> [ENDED]<br><span>CheerFit is an upbeat workout program designed by TJ that is engaging and fun for everyone to stay fit and stay bonded in the community. The workout involves aspects of cheerleading such as cheer dance, jumps and basic gymnastic movement that aims to get participants in the best shape of their life</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Cheerfit</span> [ENDED]<br><span>CheerFit is an upbeat workout program designed by TJ that is engaging and fun for everyone to stay fit and stay bonded in the community. The workout involves aspects of cheerleading such as cheer dance, jumps and basic gymnastic movement that aims to get participants in the best shape of their life</span>
 <span style="line-height:1.5rem">
 <br><s>Sat, 25th Feb, 4.30pm</s>
 <br><s>Sat, 11th Mar, 4.30pm</s>
