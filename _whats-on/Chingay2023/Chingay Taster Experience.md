@@ -47,7 +47,7 @@ Participants will get to experience embossing floral designs onto the metal shee
  
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Acrylic.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Acrylic Pouring</span> (90min)[ENDED]<br><span>Acrylic pouring on transparent bookmark . Participants to draw in motifs of space an colour on one side of the bookmark and learn how to pour on the other side using acrylic pouring technique.</span>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Acrylic Pouring</span> (90min) [ENDED]<br><span>Acrylic pouring on transparent bookmark . Participants to draw in motifs of space an colour on one side of the bookmark and learn how to pour on the other side using acrylic pouring technique.</span>
 <br><s>Wed, 22nd Feb, 3.00pm</s>
 <br><s>Wed, 8th Mar, 3.00pm</s>
 </div></div>
@@ -58,17 +58,17 @@ Participants will get to experience embossing floral designs onto the metal shee
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Mini Diorama</span> (120min)<br><span>Visitors would be able to create micro dioramas (ie. Polly Pockets), where they can paint them, glue and house them in little capsules and bring it home or display it on the venue. Visitors are then given the opportunity to create their own capsule of minis and learn how to paint miniatures/micro objects</span>
 <span style="line-height:1.5rem">
 <br><s>Sat, 4th Mar, 2.00pm</s>
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-mini-diorama-c026994046" target="_blank">Sun, 12th Mar, 2.00pm</a>
+<br><s>Sun, 12th Mar, 2.00pm</s>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-mini-diorama-c026994055" target="_blank">Sat, 18th Mar, 2.00pm</a>
 </span>
 </div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/DSC05669.jpeg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Jazz Dance</span><br><span>Jazz Dance combines rhythm, expression and technique with aspects of a variety of popular and street music, using the body as an instrument to interpret the various styles. Forms of Jazz include the rhythmic and stylish modern jazz, incorporating lyrical and contemporary styles and the classical lines of Jazz Ballet. Is a type of different dance style to create a new aesthetic world. It takes elements from mix of ballet, modern, lyrical footwork and can use music from different ethnic culture.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Jazz Dance</span> [ENDED]<br><span>Jazz Dance combines rhythm, expression and technique with aspects of a variety of popular and street music, using the body as an instrument to interpret the various styles. Forms of Jazz include the rhythmic and stylish modern jazz, incorporating lyrical and contemporary styles and the classical lines of Jazz Ballet. Is a type of different dance style to create a new aesthetic world. It takes elements from mix of ballet, modern, lyrical footwork and can use music from different ethnic culture.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
 <br><s>Sun, 26th Feb, 3.00pm</s>
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-jazz-dance-c026993705" target="_blank">Sat, 11th Mar, 3.00pm</a>
+<br><s>Sat, 11th Mar, 3.00pm</s>
 </span>
 </div></div>
 
@@ -147,7 +147,7 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 <span style="line-height:1.5rem">
 <br><s>Sun, 26th Feb, 4.00pm</s>
 <br><s>Sun, 5th Mar, 3.00pm</s>
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-longboarding-c026993964" target="_blank">Sat, 11th Mar, 4.00pm</a>
+<br><s>Sat, 11th Mar, 4.00pm</s>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-longboarding-c026993965" target="_blank">Sat, 18th Mar, 4.00pm</a>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-longboarding-c026993646" target="_blank">Sun, 19th Mar, 3.00pm</a>
 </span>
@@ -155,22 +155,22 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Inline.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">In Line Skating</span><br><span>Ever had a bad fall on your skates? Learn the correct way to in-line skate using tested and proven syllabus. You will learn how to balance, break your fall, how to distribute your weight correctly. With the right guidance, you will gain both speed and confidence in no time. As we always say, “Great skills, fast wheels!”.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">In Line Skating</span> [ENDED]<br><span>Ever had a bad fall on your skates? Learn the correct way to in-line skate using tested and proven syllabus. You will learn how to balance, break your fall, how to distribute your weight correctly. With the right guidance, you will gain both speed and confidence in no time. As we always say, “Great skills, fast wheels!”.</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
 <br><s>Tue, 21st Feb, 4.00pm</s>
 <br><s>Sun, 2nd Mar, 10.00pm</s>
 <br><s>Thur, 9th Mar, 4.00pm</s>
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-inline-skating-c026994017" target="_blank">Sun, 12th Mar, 3.00pm</a>
+<br><s>Sun, 12th Mar, 3.00pm</s>
 </span>
 </div></div>
   
   
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Cheerfit.jpeg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Cheerfit</span><br><span>CheerFit is an upbeat workout program designed by TJ that is engaging and fun for everyone to stay fit and stay bonded in the community. The workout involves aspects of cheerleading such as cheer dance, jumps and basic gymnastic movement that aims to get participants in the best shape of their life</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Cheerfit</span> [ENDED]<br><span>CheerFit is an upbeat workout program designed by TJ that is engaging and fun for everyone to stay fit and stay bonded in the community. The workout involves aspects of cheerleading such as cheer dance, jumps and basic gymnastic movement that aims to get participants in the best shape of their life</span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
 <br><s>Sat, 25th Feb, 4.30pm</s>
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-cheerfit-c026993280" target="_blank">Sat, 11th Mar, 4.30pm</a>
+<br><s>Sat, 11th Mar, 4.30pm</s>
 </span></div></div>
   
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
@@ -179,7 +179,7 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 </span><span style="line-height:2rem; font-size: 1rem; font-weight: bold;"></span>
 <span style="line-height:1.5rem">
 <br><s>Sun, 26th Feb, 2.00pm</s>
-<br><a href="https://www.onepa.gov.sg/courses/cte-2023-piloxing-c026993661" target="_blank">Sun, 12th Mar, 4.45pm</a>
+<br><s>Sun, 12th Mar, 4.45pm</s>
 <br><a href="https://www.onepa.gov.sg/courses/cte-2023-piloxing-c026993975" target="_blank">Sun, 19th Mar, 4.00pm</a>
 </span>
 </div></div>
@@ -193,18 +193,18 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/DSC06504.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chingay Behind-the-Scenes Tour [ENDED)</span><br><span>Sign up for a Chingay Behind-the-Scenes Tour of the Chingay Parade site at F1 Pit Building to find out the stories behind the creation of Chingay floats, Rabbits Art-Venture and Containers Art Installations.</span>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chingay Behind-the-Scenes Tour</span> [ENDED]<br><span>Sign up for a Chingay Behind-the-Scenes Tour of the Chingay Parade site at F1 Pit Building to find out the stories behind the creation of Chingay floats, Rabbits Art-Venture and Containers Art Installations.</span>
 </div></div>
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/UrbanSports.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chingay Playground [ENDED]</span><br><span>Come join us at the first-ever Chingay Playground right in front of the largest Chingay Container Art Installation.  Just pre-register and BYO gears and equipment; long boards, skates, bikes, rollerblades etc and enjoy some BLAZING good time! The Chingay Playground is only opened on 5 February (Sunday), 2pm to 5pm (you can come or leave at any time in between). Limited slots available. Sign up now!</span>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Chingay Playground</span> [ENDED]<br><span>Come join us at the first-ever Chingay Playground right in front of the largest Chingay Container Art Installation.  Just pre-register and BYO gears and equipment; long boards, skates, bikes, rollerblades etc and enjoy some BLAZING good time! The Chingay Playground is only opened on 5 February (Sunday), 2pm to 5pm (you can come or leave at any time in between). Limited slots available. Sign up now!</span>
 </div></div>
 
   
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Panelist.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Sharing by Chingay 2023’s Creative Team [ENDED]</span><br><span>Join us for an exclusive one-night only sharing by the team of creative talents behind Chingay 2023.  Hear from our Creative Director, Mr Fan Dong Kai; Assistant Creative Director, Melvin Tang; Art Director, Sam Lo; Music Director, Ting Si Hao and Multimedia Director, Jed Tay. <br>Find out what inspired them in their inventive journey in creating this year’s parade titled “Embrace Tomorrow”.  </span>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Sharing by Chingay 2023’s Creative Team</span> [ENDED]<br><span>Join us for an exclusive one-night only sharing by the team of creative talents behind Chingay 2023.  Hear from our Creative Director, Mr Fan Dong Kai; Assistant Creative Director, Melvin Tang; Art Director, Sam Lo; Music Director, Ting Si Hao and Multimedia Director, Jed Tay. <br>Find out what inspired them in their inventive journey in creating this year’s parade titled “Embrace Tomorrow”.  </span>
 </div></div>
 </div>
