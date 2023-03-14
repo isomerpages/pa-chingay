@@ -187,6 +187,26 @@ From all of us at Kim Choo Kueh Chang, have a blessed Year of the Rabbit!
 <span style="line-height:2rem;color:#b242a2;font-weight:bold">Fish Soup Paradise Pte Ltd</span><br>Fish Soup Paradise ~ an original Teochew fish soup recipe using only the finest ingredients and brew.<br>
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/products/premium-fish-broth-concentrate-135g-x-4-for-delivery-i2669777818-s17400375962.html?clickTrackInfo=query%253Apremium%252Bfish%252Bbroth%253Bnid%253A2669777818%253Bsrc%253ALazadaMainSrp%253Brn%253A9d68455bb896d898171c44abd6454296%253Bregion%253Asg%253Bsku%253A2669777818_SGAMZ%253Bprice%253A20%253Bclient%253Adesktop%253Bsupplier_id%253A1152672628%253Basc_category_id%253A10003322%253Bitem_id%253A2669777818%253Bsku_id%253A17400375962%253Bshop_id%253A1453629&fastshipping=0&freeshipping=0&fs_ab=1&fuse_fs=0&lang=en&location=Singapore&price=2E%201&priceCompare=&ratingscore=0&request_id=9d68455bb896d898171c44abd6454296&review=&sale=1&search=1&source=search&spm=a2o42.searchlist.list.i9.60d71f61paLc9t&stock=1">Purchase Now</a></span></div></div>
 
+<div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;width:210px;padding-top:10px;" src="/images/MamaShop/tsb.png"></div>
+<div style="font-size: 1rem; padding:.5rem;"> 
+<span style="line-height:2rem;color:#b242a2;font-weight:bold">THE SHIRT BAR</span><br>As an advocate of slow fashion, The Shirt Bar stitches together value, ethics and sustainability. Working with like-minded partners that share our values, we commit ourselves to innovative designs, crafting products of superior quality, comfort and fit, designed to last through wear and trends. With each conscious purchase, our customers can join us together on our shared mission.<br>
+<span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/products/i1139406607.html?spm=a1zawe.24863640.table_online_product.25.57ff4edf1bTZJ8">Purchase Now</a></span></div></div>
+
+<div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;" src="/images/MamaShop/trh.png"></div>
+<div style="font-size: 1rem; padding:.5rem;"> 
+<span style="line-height:2rem;color:#b242a2;font-weight:bold">Tiny Rabbit Hole</span><br>Tiny Rabbit Hole is unfortunately NOT about the bunnies. It is about unicorns with rainbow mane that is said to bring happiness. We promise you a lifetime companion made only with the finest material and the most heartwarming character. We devote our time sourcing for quality materials to make stunning and timeless projects. Check out our shop at Everton Park and let our unicorns embrace you!<br>
+<span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/products/tiny-rabbit-hole-ragamuffin-super-chunky-i2663654556.html">Purchase Now</a></span></div></div>
+
+
+
+<div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;padding-top:50px;" src="/images/MamaShop/jewels.png"></div>
+<div style="font-size: 1rem; padding:.5rem;"> 
+<span style="line-height:2rem;color:#b242a2;font-weight:bold">Jewels Rock Sugar Sticks</span><br>Elevating traditional rock sugar to a hip lifestyle product, Jewels Rock Sugar Sticks is shaking things up with its unique handcrafted and naturally crystallised sugar sticks.<br>
+<span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/products/foodculture-sgjewels-rocks-sugar-sticks-x-1872-clipper-tea-co-gift-set-i101351543-s101450547.html?clickTrackInfo=query%253AJewels%252BRock%252BSugar%252BSticks%252Bx%252BThe%252B1872%252BClipper%252BTea%252BCo.%253Bnid%253A101351543%253Bsrc%253ALazadaMainSrp%253Brn%253A549a9278f777075e2f40a92734593273%253Bregion%253Asg%253Bsku%253AJE176WNAA771XJSGAMZ%253Bprice%253A22.5%253Bclient%253Adesktop%253Bsupplier_id%253A100001974%253Basc_category_id%253A7236%253Bitem_id%253A101351543%253Bsku_id%253A101450547%253Bshop_id%253A27733&fastshipping=0&freeshipping=0&fs_ab=1&fuse_fs=0&lang=en&location=Singapore&price=22.5&priceCompare=&ratingscore=4.8&request_id=549a9278f777075e2f40a92734593273&review=25&sale=218&search=1&source=search&spm=a2o42.searchlist.list.i1.1e127287MDeCCg&stock=1">Purchase Now</a></span></div></div>
+
 
 
 </div>

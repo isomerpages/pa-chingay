@@ -19,18 +19,6 @@ You can sign up by clicking on the respective links below. Please note that spac
 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-4rem;" src="/images/CTE/Clay.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Clay Art</span> (60min)<br><span>The Air Clay Sculpture is a taster workshop for the participant to get familiar with the air dry clay available in vibrant colours as a medium which does not need any firing unlike the regular pottery clay. The participants will be creating their beautiful artwork and learn the technique under the supervision of the trainer. They will be able to take back their artwork with them after the workshop.</span><br>
-<span style="line-height:1.5rem">
-<s>Tues, 21st Feb, 2.00pm </s><br>
-<s>Fri, 24th Feb, 2.00pm</s><br>
-<s>Thur, 9th Mar, 2.00pm</s><br>
-<a href="https://www.onepa.gov.sg/courses/cte-2023-clay-sculpture-with-air-dry-clay-c026994230" target="_blank">Tue, 14th Mar, 2.00pm</a>
-</span>
-</div></div>
- 
   
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/modular.jpg"></div>
@@ -142,6 +130,18 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:0px">
 	
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:-4rem;" src="/images/CTE/Clay.jpg"></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Clay Art</span> (60min) [ENDED]<br><span>The Air Clay Sculpture is a taster workshop for the participant to get familiar with the air dry clay available in vibrant colours as a medium which does not need any firing unlike the regular pottery clay. The participants will be creating their beautiful artwork and learn the technique under the supervision of the trainer. They will be able to take back their artwork with them after the workshop.</span><br>
+<span style="line-height:1.5rem">
+<s>Tues, 21st Feb, 2.00pm </s><br>
+<s>Fri, 24th Feb, 2.00pm</s><br>
+<s>Thur, 9th Mar, 2.00pm</s><br>
+<s>Tue, 14th Mar, 2.00pm</s>
+</span>
+</div></div>
+ 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Tooling.jpg"></div>
 <div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Metal Tooling </span> (60min) [ENDED]<br><span>The art of metal tooling is a centuries old art form also known as metal embossing, it uses simple tools like wooden sticks to create designs on metal.
