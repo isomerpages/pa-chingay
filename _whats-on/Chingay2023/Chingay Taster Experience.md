@@ -14,7 +14,7 @@ You can sign up by clicking on the respective links below. Please note that spac
 <span style="font-size:1rem">(a) Please ensure that you are able to attend the session before signing up so as not to deprive others of the opportunity. Participants who are no-show at the activities / workshops may not be allowed to sign up for other activities / workshops under CTE. Please note that the Organiser may refuse and/or cancel any registration at its sole and absolute discretion.<br><br>
 (b) Photos, videos and other recordings  may be taken during these sessions.  You agree that the Organiser may use such photographs, videos and other recordings in the Organiser’s sole and absolute discretion , including but not limited to use for publicity purposes and/or such other use(s) in the future.<br><br>(c) Any personal data provided by you  may be used for the administration of these sessions  as well as other Chingay-related purposes.</span></div>
 
-
+<br>
 
 
 
@@ -39,7 +39,7 @@ You can sign up by clicking on the respective links below. Please note that spac
 <span style="line-height:1.5rem"><br>
 <s>Wed, 1st Mar, 1.30pm</s><br>
 <s>Sun, 5th Mar, 1.15pm</s><br>
-<a href="https://www.onepa.gov.sg/courses/cte-2023-ballroom-latin-c026995458" target="_blank">Wed, 15th Mar, 1.30pm</a><br>
+<s>Wed, 15th Mar, 1.30pm</s><br>
 <a href="https://www.onepa.gov.sg/courses/cte-2023-ballroom-latin-c026993779" target="_blank">Sun, 19th Mar, 1.15pm</a>
 </span>
 </div></div>
@@ -80,20 +80,6 @@ Hear from our experienced Malay Dance Choreographer, Mr Osman Abdul Hamid, PBM, 
 <s>Sat, 4th Mar, 12.00pm</s><br>
 <s>Sat, 11th Mar, 12.00pm</s><br>
 <a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-malay-dance-18-mar-23-12pm-87522557" target="_blank">Sat, 18th Mar, 12.00pm</a>
-</span></div></div>
-  
-  
-  
-  
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Indian.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Indian Dance Experience</span><br><span>Always interested in learning more about Indian Dance?<br>
-Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, who has been with the PA Talents Indian Dance Ensemble for more than 20 years.  Get the chance to learn some basic Indian dance movements and  interesting facts about the Indian Culture. </span><br>
-<span style="line-height:1.5rem">
-<s>Wed, 22nd Feb, 7.45pm</s><br>
-<s>Wed, 1st Mar, 7.45pm</s><br>
-<s>Wed, 8th Mar, 7.45pm</s><br>
-<a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-indian-dance-15-mar-23-7-45pm-11276582" target="_blank">Wed, 15th Mar, 7.45pm</a>
 </span></div></div>
  
   
@@ -175,6 +161,20 @@ Participants will get to experience embossing floral designs onto the metal shee
 </span>
 </div></div>
 
+	
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Indian.jpg"></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Indian Dance Experience</span> [ENDED]<br><span>Always interested in learning more about Indian Dance?<br>
+Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, who has been with the PA Talents Indian Dance Ensemble for more than 20 years.  Get the chance to learn some basic Indian dance movements and  interesting facts about the Indian Culture. </span><br>
+<span style="line-height:1.5rem">
+<s>Wed, 22nd Feb, 7.45pm</s><br>
+<s>Wed, 1st Mar, 7.45pm</s><br>
+<s>Wed, 8th Mar, 7.45pm</s><br>
+<s>Wed, 15th Mar, 7.45pm</s>
+</span></div></div>
+
+	
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Inline.jpg"></div>
