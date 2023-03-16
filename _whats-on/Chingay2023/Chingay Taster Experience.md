@@ -69,18 +69,7 @@ Hear from our experienced Chinese Dance Choreographer, Ms Chang Hsiao-Min, who h
 <a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-chinese-dance-17-mar-23-7pm-42901329" target="_blank">Fri, 17th Mar, 7.00pm</a>
 </span></div></div>
   
-  
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Malay.jpg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Malay Dance Experience</span><br><span>Always interested in learning more about Malay Dance?<br>
-Hear from our experienced Malay Dance Choreographer, Mr Osman Abdul Hamid, PBM, who has been leading the PA Talents Malay Dance Ensemble for more than 30 years.  Get the chance to learn some basic Malay dance movements and  interesting facts about the Malay Culture. </span><br>
-<span style="line-height:1.5rem">
-<s>Sat, 25th Feb, 12.00pm</s><br>
-<s>Sat, 4th Mar, 12.00pm</s><br>
-<s>Sat, 11th Mar, 12.00pm</s><br>
-<a href="https://www.onepa.gov.sg/events/chingay-taster-experience-sharing-by-pa-talents-malay-dance-18-mar-23-12pm-87522557" target="_blank">Sat, 18th Mar, 12.00pm</a>
-</span></div></div>
+ 
  
   
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
@@ -162,6 +151,16 @@ Participants will get to experience embossing floral designs onto the metal shee
 </div></div>
 
 	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Malay.jpg"></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Malay Dance Experience</span> [ENDED]<br><span>Always interested in learning more about Malay Dance?<br>
+Hear from our experienced Malay Dance Choreographer, Mr Osman Abdul Hamid, PBM, who has been leading the PA Talents Malay Dance Ensemble for more than 30 years.  Get the chance to learn some basic Malay dance movements and  interesting facts about the Malay Culture. </span><br>
+<span style="line-height:1.5rem">
+<s>Sat, 25th Feb, 12.00pm</s><br>
+<s>Sat, 4th Mar, 12.00pm</s><br>
+<s>Sat, 11th Mar, 12.00pm</s><br>
+<s>Sat, 18th Mar, 12.00pm</s>
+</span></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Indian.jpg"></div>
