@@ -12,9 +12,10 @@ You can sign up by clicking on the respective links below. Please note that spac
 <br><br>
 
 <span style="font-size:1rem">(a) Please ensure that you are able to attend the session before signing up so as not to deprive others of the opportunity. Participants who are no-show at the activities / workshops may not be allowed to sign up for other activities / workshops under CTE. Please note that the Organiser may refuse and/or cancel any registration at its sole and absolute discretion.<br><br>
-(b) Photos, videos and other recordings  may be taken during these sessions.  You agree that the Organiser may use such photographs, videos and other recordings in the Organiser’s sole and absolute discretion , including but not limited to use for publicity purposes and/or such other use(s) in the future.<br><br>(c) Any personal data provided by you  may be used for the administration of these sessions  as well as other Chingay-related purposes.</span></div>
-
+(b) Photos, videos and other recordings  may be taken during these sessions.  You agree that the Organiser may use such photographs, videos and other recordings in the Organiser’s sole and absolute discretion , including but not limited to use for publicity purposes and/or such other use(s) in the future.<br><br>(c) Any personal data provided by you  may be used for the administration of these sessions  as well as other Chingay-related purposes.
 <br>
+</span></div>
+
 
 
 
@@ -86,18 +87,6 @@ Hear from our experienced Chinese Dance Choreographer, Ms Chang Hsiao-Min, who h
 </span>
 </div></div>
 
-  
-  
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Piloxing.jpeg"></div>
-<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Piloxing®</span><br><span>A non-stop, cardio fusion of standing pilates, boxing and dance that will push you past your limits for a sleek, sexy, powerful you! Piloxing; cardio fusion incorporates cutting edge research and fitness techniques to burn maximum calories, build lean muscles, and increase stamina. The program uniquely blends the power, speed, and agility of boxing with the targeted sculpting and flexibility of pilates. These techniques are also supplemented by the use of weighted gloves, further toning the arms and maximizing cardiovascular health. Add to that exhilarating dance moves and you have a muscle-toning, fat-burning workout that will make you feel physically and mentally empowered!
-</span><br>
-<span style="line-height:1.5rem">
-<s>Sun, 26th Feb, 2.00pm</s><br>
-<s>Sun, 12th Mar, 4.45pm</s><br>
-<a href="https://www.onepa.gov.sg/courses/cte-2023-piloxing-c026993975" target="_blank">Sun, 19th Mar, 4.00pm</a>
-</span>
-</div></div>
   
 </div>
 
@@ -196,6 +185,20 @@ Hear from our experienced Indian Dance Choreographer, Mr Surendran Rachandran, w
 <s>Sat, 25th Feb, 4.30pm</s><br>
 <s>Sat, 11th Mar, 4.30pm</s>
 </span></div></div>
+  
+	
+	
+  
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="= min-height:14rem; max-height:14rem; overflow:hidden;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Piloxing.jpeg"></div>
+<div style="padding:.5rem; padding-top:.8rem; padding-bottom:2rem; text-align:left; line-height: 1.3em;"><span style= "font-size: 1rem; font-weight: bold;">Piloxing®</span> [ENDED]<br><span>A non-stop, cardio fusion of standing pilates, boxing and dance that will push you past your limits for a sleek, sexy, powerful you! Piloxing; cardio fusion incorporates cutting edge research and fitness techniques to burn maximum calories, build lean muscles, and increase stamina. The program uniquely blends the power, speed, and agility of boxing with the targeted sculpting and flexibility of pilates. These techniques are also supplemented by the use of weighted gloves, further toning the arms and maximizing cardiovascular health. Add to that exhilarating dance moves and you have a muscle-toning, fat-burning workout that will make you feel physically and mentally empowered!
+</span><br>
+<span style="line-height:1.5rem">
+<s>Sun, 26th Feb, 2.00pm</s><br>
+<s>Sun, 12th Mar, 4.45pm</s><br>
+<s>Sun, 19th Mar, 4.00pm</s>
+</span>
+</div></div>
   
 	
 </div>
