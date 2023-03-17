@@ -208,6 +208,11 @@ From all of us at Kim Choo Kueh Chang, have a blessed Year of the Rabbit!
 <span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/products/foodculture-sgjewels-rocks-sugar-sticks-x-1872-clipper-tea-co-gift-set-i101351543-s101450547.html?clickTrackInfo=query%253AJewels%252BRock%252BSugar%252BSticks%252Bx%252BThe%252B1872%252BClipper%252BTea%252BCo.%253Bnid%253A101351543%253Bsrc%253ALazadaMainSrp%253Brn%253A549a9278f777075e2f40a92734593273%253Bregion%253Asg%253Bsku%253AJE176WNAA771XJSGAMZ%253Bprice%253A22.5%253Bclient%253Adesktop%253Bsupplier_id%253A100001974%253Basc_category_id%253A7236%253Bitem_id%253A101351543%253Bsku_id%253A101450547%253Bshop_id%253A27733&fastshipping=0&freeshipping=0&fs_ab=1&fuse_fs=0&lang=en&location=Singapore&price=22.5&priceCompare=&ratingscore=4.8&request_id=549a9278f777075e2f40a92734593273&review=25&sale=218&search=1&source=search&spm=a2o42.searchlist.list.i1.1e127287MDeCCg&stock=1">Purchase Now</a></span></div></div>
 
 
+<div style="display: block; height: 100%;  overflow: hidden; text-decoration: none;">
+<div style="height:157px;margin:auto;"><img style=";max-height:157px; width:auto;padding:0.5rem;" src="/images/MamaShop/Penguinlada.jpg"></div>
+<div style="font-size: 1rem; padding:.5rem;"> 
+<span style="line-height:2rem;color:#b242a2;font-weight:bold">Penguinlada</span><br>We are a local Singapore brand founded by a first time mom with a lovely 2 year old son. We are a One-Stop Mummies & Children essential shop who focus on making mummies life easier during the process of pregnancy, child birth & all stages of life for your babies. We carry products that are being tried and tested by fellow mummies & babies. Only those that  are really good will be launched! Vision: A happy & healthy mummy makes a happy & healthy baby! Mission: To ease our mummies in their process of testing, trying to find the perfect product for their baby.<br>
+<span style="line-height:2rem"><a target="_blank" href="https://www.lazada.sg/products/double-sided-busyboard-basic-i2188067907-s12512457675.html?spm=a2o42.10453684.0.0.b45992305uRcrR&search=store&mp=3">Purchase Now</a></span></div></div>
 
 </div>
 
