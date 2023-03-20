@@ -12,9 +12,6 @@ sections:
         - title: Chingay Webcast
           description: Watch Chingay 2023
           url: https://www.youtube.com/live/SNOEUaoSB5s?feature=share&t=2422
-        - title: Chingay Taster Experience
-          description: ""
-          url: /cte/
         - title: Feedback On Chingay 2023
           description: ""
           url: https://form.gov.sg/63d89405b9029d001110d023
