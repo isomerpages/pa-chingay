@@ -1,6 +1,6 @@
 ---
 title: "Chingay Community Star 2022 "
-permalink: /event-gallery/Chingay-50-Behind-The-Scenes/chingay-community-star-2022
+permalink: /event-gallery/chingay-50-behind-the-scenes/chingay-community-star-2022/
 description: ""
 third_nav_title: Chingay50 Behind The Scenes
 image: /images/Event Gallery/Behind The Scenes/Act 4 1 Community Star Joshua

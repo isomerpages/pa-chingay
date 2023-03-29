@@ -1,6 +1,6 @@
 ---
 title: Dina Nerina
-permalink: /chingay50-stories/dina-nerina
+permalink: /chingay50-stories/dina-nerina/
 description: ""
 ---
 ![Dina Nerina](/images/Chingay50%20Stories/dina-nerina-50storiesimage.jpg)

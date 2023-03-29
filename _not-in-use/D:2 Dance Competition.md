@@ -1,6 +1,6 @@
 ---
 title: D:2 Dance Competition
-permalink: /whats-on/Community-Engagement/d-2-dance-competition/
+permalink: /whats-on/community-engagement/d-2-dance-competition/
 description: ""
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Chingay50 Artistic Director Watches The Set Up
-permalink: /event-gallery/Chingay50-Behind-The-Scenes/Chingay50-Artistic-Director
+permalink: /event-gallery/chingay50-behind-the-scenes/chingay50-artistic-director/
 description: ""
 image: /images/Event Gallery/Behind The Scenes/Artistic Director Mr Fan Dong
   Kai-01.jpg

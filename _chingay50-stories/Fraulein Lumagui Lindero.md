@@ -1,6 +1,6 @@
 ---
 title: Fraulein Lumagui Lindero
-permalink: /chingay50-stories/fraulein-Lumagui-Lindero
+permalink: /chingay50-stories/fraulein-lumagui-lindero/
 description: ""
 image: /images/Chingay50 Stories/TATA Consultancy Services.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 title: Zadon Lim
-permalink: /chingay50-stories/zadon-Lim
+permalink: /chingay50-stories/zadon-lim/
 description: ""
 image: /images/Chingay50 Stories/Zadon.jpg
 ---

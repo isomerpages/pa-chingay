@@ -1,6 +1,6 @@
 ---
 title: Jesse Leong
-permalink: /chingay50-stories/jesseleong
+permalink: /chingay50-stories/jesseleong/
 description: ""
 ---
 ![Jesse and her dad](/images/Chingay50%20Stories/jesseleong.png)

@@ -1,6 +1,6 @@
 ---
 title: Ting Si Hao
-permalink: /chingay50-stories/ting-si-hao
+permalink: /chingay50-stories/ting-si-hao/
 description: ""
 ---
 ![Ting Si Hao](/images/Chingay50%20Stories/Ting%20Si%20Hao%20img.png)

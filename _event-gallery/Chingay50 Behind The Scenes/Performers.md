@@ -1,6 +1,6 @@
 ---
 title: Performers
-permalink: /event-gallery/Chingay-50-Behind-The-Scenes/performers
+permalink: /event-gallery/chingay-50-behind-the-scenes/performers/
 description: ""
 third_nav_title: Chingay50 Behind The Scenes
 image: /images/Event Gallery/Behind The Scenes/Act 1 Da Tou Wawa The Academy of

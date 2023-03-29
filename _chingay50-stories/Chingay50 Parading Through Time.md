@@ -1,6 +1,6 @@
 ---
 title: Chingay50 Parading Through Time
-permalink: /chingay50-stories/chingay50-parading-through-time
+permalink: /chingay50-stories/chingay50-parading-through-time/
 description: ""
 ---
 ![Parading Through Time](/images/Chingay50%20Stories/chingay50---parading-through-time-50storiesimage.jpg)

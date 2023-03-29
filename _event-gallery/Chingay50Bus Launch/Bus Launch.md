@@ -1,6 +1,6 @@
 ---
 title: Bus Launch
-permalink: /event-gallery/Chingay50Bus-Launch/bus-launch
+permalink: /event-gallery/chingay50bus-launch/bus-launch/
 description: ""
 third_nav_title: Chingay50Bus Launch
 ---

@@ -1,6 +1,6 @@
 ---
 title: Performers All Geared Up
-permalink: /event-gallery/Chingay-50-Behind-The-Scenes/performers-all-geared-up
+permalink: /event-gallery/chingay-50-behind-the-scenes/performers-all-geared-up/
 description: ""
 third_nav_title: Chingay50 Behind The Scenes
 image: /images/Event Gallery/Behind The Scenes/International Friends Japanese-01.jpg

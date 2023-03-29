@@ -1,6 +1,6 @@
 ---
 title: Joshua Low
-permalink: /chingay50-stories/joshua-Low
+permalink: /chingay50-stories/joshua-low/
 description: ""
 image: /images/Chingay50 Stories/joshua low.png
 ---

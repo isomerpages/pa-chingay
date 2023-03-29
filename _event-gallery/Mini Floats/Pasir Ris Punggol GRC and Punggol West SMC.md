@@ -1,6 +1,6 @@
 ---
 title: Pasir Ris Punggol GRC and Punggol West SMC
-permalink: /event-gallery/pasir-ris-punggol-grc-and-punggol-west-smc
+permalink: /event-gallery/pasir-ris-punggol-grc-and-punggol-west-smc/
 description: ""
 third_nav_title: Mini Floats
 ---

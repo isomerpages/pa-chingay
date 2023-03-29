@@ -1,6 +1,6 @@
 ---
 title: Sembawang GRC
-permalink: /event-gallery/sembawang-grc
+permalink: /event-gallery/sembawang-grc/
 description: ""
 third_nav_title: Mini Floats
 ---

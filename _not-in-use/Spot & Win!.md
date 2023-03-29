@@ -1,6 +1,6 @@
 ---
 title: Spot & Win!
-permalink: /whats-on/Chingay50-Programmes/spot-win/
+permalink: /whats-on/chingay50-programmes/spot-win/
 description: ""
 ---
 

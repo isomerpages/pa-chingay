@@ -1,6 +1,6 @@
 ---
 title: Surendran Rachandran
-permalink: /chingay50-stories/surendran-rachandran
+permalink: /chingay50-stories/surendran-rachandran/
 description: ""
 ---
 ![Surendran Rachandran](/images/Chingay50%20Stories/surendran-rachandran-50storiesimage.jpg)

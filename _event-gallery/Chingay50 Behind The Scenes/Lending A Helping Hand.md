@@ -1,6 +1,6 @@
 ---
 title: Lending A Helping Hand
-permalink: /event-gallery/Chingay-50-Behind-The-Scenes/dancers-lending-a-helping-hand
+permalink: /event-gallery/chingay-50-behind-the-scenes/dancers-lending-a-helping-hand/
 description: ""
 third_nav_title: Chingay50 Behind The Scenes
 image: /images/Event Gallery/Behind The Scenes/Act 4 4 Eurasian wedding-01.jpg

@@ -1,6 +1,6 @@
 ---
 title: Emmalyn Tan
-permalink: /chingay50-stories/emmalyntan
+permalink: /chingay50-stories/emmalyntan/
 description: ""
 ---
 ![emmalyn and her group mates ](/images/Chingay50%20Stories/emmalyn.png)

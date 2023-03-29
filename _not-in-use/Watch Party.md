@@ -1,6 +1,6 @@
 ---
 title: Watch Party
-permalink: /whats-on/Community-Engagement/watch-party/
+permalink: /whats-on/community-engagement/watch-party/
 description: ""
 ---
 

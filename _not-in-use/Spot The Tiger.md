@@ -1,6 +1,6 @@
 ---
 title: Spot The Tiger
-permalink: /not-avail
+permalink: /not-avail/
 description: ""
 ---
 

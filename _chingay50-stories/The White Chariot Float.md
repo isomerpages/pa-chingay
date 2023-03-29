@@ -1,6 +1,6 @@
 ---
 title: The White Chariot Float
-permalink: /chingay50-stories/white-chariot-float
+permalink: /chingay50-stories/white-chariot-float/
 description: ""
 image: /images/Chingay50 Stories/white chariot float.png
 ---

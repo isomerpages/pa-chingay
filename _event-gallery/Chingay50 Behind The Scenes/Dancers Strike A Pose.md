@@ -1,6 +1,6 @@
 ---
 title: Dancers Strike A Pose
-permalink: /event-gallery/Chingay-50-Behind-The-Scenes/dancers-strike-a-pose
+permalink: /event-gallery/chingay-50-behind-the-scenes/dancers-strike-a-pose/
 description: ""
 third_nav_title: Chingay50 Behind The Scenes
 ---

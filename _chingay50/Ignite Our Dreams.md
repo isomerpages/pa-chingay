@@ -1,6 +1,6 @@
 ---
 title: Ignite Our Dreams
-permalink: /Chingay50/ignite-our-dreams/
+permalink: /chingay50/ignite-our-dreams/
 description: ""
 ---
 

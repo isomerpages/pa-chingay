@@ -1,6 +1,6 @@
 ---
 title: Snap, Tag & Win!
-permalink: /whats-on/Chingay50-Programmes/snap-tag-win/
+permalink: /whats-on/chingay50-programmes/snap-tag-win/
 description: ""
 ---
 

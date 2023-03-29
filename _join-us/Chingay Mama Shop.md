@@ -1,6 +1,6 @@
 ---
 title: Chingay Mama Shop
-permalink: /Chingay2023-Mamashop/
+permalink: /chingay2023-mamashop/
 description: ""
 ---
 We would like to invite YOU to be part of the third edition of ***Chingay Mama Shop***. Come on board and be part of our movement to ***#SupportLocal*** businesses and ***#DoGoodWithUS***!

@@ -1,6 +1,6 @@
 ---
 title: Spot The Rabbit
-permalink: /SpotTheRabbit/
+permalink: /spottherabbit/
 description: ""
 ---
 

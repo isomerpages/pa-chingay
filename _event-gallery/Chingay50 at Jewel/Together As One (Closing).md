@@ -1,6 +1,6 @@
 ---
 title: Together As One (Closing)
-permalink: /event-gallery/Chingay50-at-Jewel/together-as-one
+permalink: /event-gallery/chingay50-at-jewel/together-as-one/
 description: ""
 third_nav_title: Chingay50 at Jewel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lynn Goh
-permalink: /chingay50-stories/lynn-goh
+permalink: /chingay50-stories/lynn-goh/
 description: ""
 ---
 ![Lynn Goh](/images/Chingay50%20Stories/lynn-goh-50storiesimage.jpg)

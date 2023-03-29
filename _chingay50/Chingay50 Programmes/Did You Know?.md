@@ -1,6 +1,6 @@
 ---
 title: Did You Know?
-permalink: /whats-on/Chingay50-Programmes/did-you-know/
+permalink: /whats-on/chingay50-programmes/did-you-know/
 description: ""
 third_nav_title: Chingay50 Programmes
 ---

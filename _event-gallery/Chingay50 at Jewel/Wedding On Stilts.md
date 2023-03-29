@@ -1,6 +1,6 @@
 ---
 title: Wedding On Stilts
-permalink: /event-gallery/Chingay50-at-Jewel/act-4-5-wedding-on-stilts
+permalink: /event-gallery/chingay50-at-jewel/act-4-5-wedding-on-stilts/
 description: ""
 third_nav_title: Chingay50 at Jewel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Performers Board The Shuttle Bus
-permalink: /event-gallery/Chingay-50-Behind-The-Scenes/performers-board-the-shuttle-bus
+permalink: /event-gallery/chingay-50-behind-the-scenes/performers-board-the-shuttle-bus/
 description: ""
 third_nav_title: Chingay50 Behind The Scenes
 image: /images/Event Gallery/Behind The Scenes/International Friends boarding

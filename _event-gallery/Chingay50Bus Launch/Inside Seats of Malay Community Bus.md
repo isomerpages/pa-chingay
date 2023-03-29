@@ -1,6 +1,6 @@
 ---
 title: Inside Seats of Malay Community Bus
-permalink: /event-gallery/Chingay50Bus-Launch/inside-seats-of-malay-community-bus
+permalink: /event-gallery/chingay50bus-launch/inside-seats-of-malay-community-bus/
 description: ""
 third_nav_title: Chingay50Bus Launch
 image: /images/Event Gallery/Chingay50Bus Launch/SS-CGB (87 of 132)-01.jpg

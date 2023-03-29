@@ -1,6 +1,6 @@
 ---
 title: Deputy Chairman Edwin Tong Takes A Group Selfie
-permalink: /event-gallery/Chingay50-Behind-The-Scenes/dc-edwin-tong
+permalink: /event-gallery/chingay50-behind-the-scenes/dc-edwin-tong/
 description: ""
 image: /images/Event Gallery/Behind The Scenes/Deputy Chairman Edwin Tong taking
   selfie with Volunteers-01.jpg

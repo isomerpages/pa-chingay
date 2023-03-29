@@ -1,6 +1,6 @@
 ---
 title: Jalan Besar GRC and Potong Pasir SMC
-permalink: /event-gallery/jalan-besar-grc-and-potong-pasir-smc
+permalink: /event-gallery/jalan-besar-grc-and-potong-pasir-smc/
 description: ""
 third_nav_title: Mini Floats
 ---
