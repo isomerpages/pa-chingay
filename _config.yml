@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://pa-chingay-staging.netlify.app
-prod: https://pa-chingay-prod.netlify.app
+staging: https://staging.dhbyir1x3qc27.amplifyapp.com/
+prod: https://master.dhbyir1x3qc27.amplifyapp.com/
 is_government: true
 google_analytics: UA-28012022-1
 facebook-pixel: ""
