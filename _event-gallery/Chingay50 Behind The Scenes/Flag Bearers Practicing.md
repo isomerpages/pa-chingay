@@ -1,6 +1,6 @@
 ---
 title: Flag Bearers Practicing
-permalink: /event-gallery/Chingay-50-Behind-The-Scenes/flag-bearers-practicing
+permalink: /event-gallery/chingay-50-behind-the-scenes/flag-bearers-practicing/
 description: ""
 third_nav_title: Chingay50 Behind The Scenes
 image: /images/Event Gallery/Behind The Scenes/Act 3 1 Soka Gakkai flagturners

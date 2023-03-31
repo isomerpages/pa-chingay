@@ -1,6 +1,6 @@
 ---
 title: Rachael Soh
-permalink: /chingay50-stories/rachael-soh
+permalink: /chingay50-stories/rachael-soh/
 description: ""
 ---
 ![Rachael Soh](/images/Chingay50%20Stories/rachael-soh-50storiesimage.jpg)

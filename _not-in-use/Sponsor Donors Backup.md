@@ -1,6 +1,6 @@
 ---
 title: Sponsor Donors Backup
-permalink: /Sponsor-bkp/
+permalink: /sponsor-bkp/
 description: ""
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: People's Association Youth Movement Bus
-permalink: /event-gallery/Chingay50Bus-Launch/people-s-association-youth-movement-bus
+permalink: /event-gallery/chingay50bus-launch/people-s-association-youth-movement-bus/
 description: ""
 third_nav_title: Chingay50Bus Launch
 ---

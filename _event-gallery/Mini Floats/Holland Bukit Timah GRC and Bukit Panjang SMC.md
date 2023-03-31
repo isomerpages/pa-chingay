@@ -1,6 +1,6 @@
 ---
 title: Holland Bukit Timah GRC and Bukit Panjang SMC
-permalink: /event-gallery/holland-bukit-timah-grc-and-bukit-panjang-smc
+permalink: /event-gallery/holland-bukit-timah-grc-and-bukit-panjang-smc/
 description: ""
 third_nav_title: Mini Floats
 ---

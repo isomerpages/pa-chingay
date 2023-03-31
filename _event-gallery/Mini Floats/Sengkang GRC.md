@@ -1,6 +1,6 @@
 ---
 title: Sengkang GRC
-permalink: /event-gallery/sengkang-grc
+permalink: /event-gallery/sengkang-grc/
 description: ""
 third_nav_title: Mini Floats
 ---

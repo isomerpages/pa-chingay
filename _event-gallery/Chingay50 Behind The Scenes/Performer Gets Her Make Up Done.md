@@ -1,6 +1,6 @@
 ---
 title: Performer Gets Her Make Up Done
-permalink: /event-gallery/Chingay-50-Behind-The-Scenes/performer-gets-her-make-up-done
+permalink: /event-gallery/chingay-50-behind-the-scenes/performer-gets-her-make-up-done/
 description: ""
 third_nav_title: Chingay50 Behind The Scenes
 image: /images/Event Gallery/Behind The Scenes/Dance Inspiration-01.jpg

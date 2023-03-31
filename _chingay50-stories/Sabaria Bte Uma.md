@@ -1,6 +1,6 @@
 ---
 title: Sabaria Bte Uma
-permalink: /chingay50-stories/sabaria-bte-uma
+permalink: /chingay50-stories/sabaria-bte-uma/
 description: ""
 ---
 ![Sabaria Bte Uma](/images/Chingay50%20Stories/sabaria-bte-uma-50storiesimage.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Nee Soon GRC
-permalink: /event-gallery/nee-soon-grc
+permalink: /event-gallery/nee-soon-grc/
 description: ""
 third_nav_title: Mini Floats
 ---

@@ -1,6 +1,6 @@
 ---
 title: Let's Build A Float
-permalink: /chingay50-stories/lets-build-a-float
+permalink: /chingay50-stories/lets-build-a-float/
 description: ""
 ---
 ![Let's Build A Float](/images/Chingay50%20Stories/lets%20build%20a%20float.png)

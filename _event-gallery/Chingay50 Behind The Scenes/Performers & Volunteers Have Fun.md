@@ -1,6 +1,6 @@
 ---
 title: Performers & Volunteers Have Fun
-permalink: /event-gallery/Chingay-50-Behind-The-Scenes/performers-and-volunteers-have-fun
+permalink: /event-gallery/chingay-50-behind-the-scenes/performers-and-volunteers-have-fun/
 description: ""
 third_nav_title: Chingay50 Behind The Scenes
 image: /images/Event Gallery/Behind The Scenes/Category Cover Photo-01.jpg

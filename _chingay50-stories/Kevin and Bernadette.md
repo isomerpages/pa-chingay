@@ -1,6 +1,6 @@
 ---
 title: Kevin and Bernadette
-permalink: /chingay50-stories/kevin-and-bernadette
+permalink: /chingay50-stories/kevin-and-bernadette/
 description: ""
 ---
 ![Kevin and Bernadette](/images/Chingay50%20Stories/eurasian%20img.png)

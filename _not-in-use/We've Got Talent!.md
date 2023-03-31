@@ -1,6 +1,6 @@
 ---
 title: We've Got Talent!
-permalink: /whats-on/Community-Engagement/we-ve-got-talent
+permalink: /whats-on/community-engagement/we-ve-got-talent/
 description: ""
 ---
 

@@ -12,22 +12,10 @@ sections:
         - title: Chingay Webcast
           description: Watch Chingay 2023
           url: https://www.youtube.com/live/SNOEUaoSB5s?feature=share&t=2422
-        - title: Chingay Taster Experience
-          description: ""
-          url: /cte/
         - title: Feedback On Chingay 2023
           description: ""
           url: https://form.gov.sg/63d89405b9029d001110d023
       background: /images/KEN_9199 edited long 5mb 752.jpg
-  - infopic:
-      title: Chingay Taster Experience
-      subtitle: Chingay 2023
-      description: Exclusive opportunities for online and TV audiences to participate
-        in different activities and trial workshops.
-      button: Find Out More
-      url: /CTE
-      image: /images/CTE/Image4.png
-      alt: Image alt text
   - infobar:
       title: CHINGAY MAMA SHOP
       subtitle: Chingay 2023

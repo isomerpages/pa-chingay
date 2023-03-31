@@ -1,6 +1,6 @@
 ---
 title: Ong Choon Mui
-permalink: /chingay50-stories/ong-choon-mui
+permalink: /chingay50-stories/ong-choon-mui/
 description: ""
 ---
 ![Mdm Ong Choon Mui](/images/Chingay50%20Stories/DC-Chingay%20Mdm%20Ong-3.png)

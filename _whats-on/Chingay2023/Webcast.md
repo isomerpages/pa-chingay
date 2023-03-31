@@ -1,6 +1,6 @@
 ---
 title: Webcast
-permalink: /Webcast/
+permalink: /webcast/
 description: ""
 third_nav_title: Chingay2023
 ---

@@ -1,6 +1,6 @@
 ---
 title: " #HeyChingay50Bus"
-permalink: /whats-on/Chingay50-Programmes/hey-chingay-50-bus/
+permalink: /whats-on/chingay50-programmes/hey-chingay-50-bus/
 description: ""
 third_nav_title: Chingay50 Programmes
 ---

@@ -1,6 +1,6 @@
 ---
 title: Chingay50 Podium
-permalink: /event-gallery/Chingay50-Behind-The-Scenes/chingay50-podium
+permalink: /event-gallery/chingay50-behind-the-scenes/chingay50-podium/
 description: ""
 image: /images/Event Gallery/Behind The Scenes/Chingay50 Podium, lit up by
   president halimah yacob-01.jpg

@@ -1,6 +1,6 @@
 ---
 title: Chingay50 Mini Floats
-permalink: /Chingay50/chingay50-programmes/chingay50-mini-floats/
+permalink: /chingay50/chingay50-programmes/chingay50-mini-floats/
 description: ""
 third_nav_title: Chingay50 Programmes
 ---

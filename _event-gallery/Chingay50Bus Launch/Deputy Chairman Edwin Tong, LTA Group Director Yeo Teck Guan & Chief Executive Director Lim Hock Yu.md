@@ -1,7 +1,7 @@
 ---
 title: Deputy Chairman Edwin Tong, LTA Group Director Yeo Teck Guan & Chief
   Executive Director Lim Hock Yu
-permalink: /event-gallery/Chingay50Bus-Launch/dc-edwin-tong-gd-yeo-teck-guan-ced-lim-hock-yu-and-bus-captain
+permalink: /event-gallery/chingay50bus-launch/dc-edwin-tong-gd-yeo-teck-guan-ced-lim-hock-yu-and-bus-captain/
 description: ""
 image: /images/Event Gallery/Chingay50Bus Launch/Newly selected/SBS_0160.jpg
 third_nav_title: Chingay50Bus Launch

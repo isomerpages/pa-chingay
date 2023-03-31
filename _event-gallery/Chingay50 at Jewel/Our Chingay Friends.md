@@ -1,6 +1,6 @@
 ---
 title: Our Chingay Friends
-permalink: /event-gallery/Chingay50-at-Jewel/act-4-1-our-chingay-friends
+permalink: /event-gallery/chingay50-at-jewel/act-4-1-our-chingay-friends/
 description: ""
 image: /images/Event Gallery/Chingay50 at Jewel/Act 4 1 Our Chingay Friends.jpg
 third_nav_title: Chingay50 at Jewel

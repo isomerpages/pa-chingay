@@ -1,6 +1,6 @@
 ---
 title: Ramlah de Rose
-permalink: /chingay50-stories/Ramlah-de-Rose
+permalink: /chingay50-stories/ramlah-de-rose/
 description: ""
 ---
 ![](/images/Chingay50%20Stories/Ramlah.png)

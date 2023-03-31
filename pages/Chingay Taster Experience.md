@@ -1,9 +1,10 @@
 ---
 title: Chingay Taster Experience
-permalink: /cte/
+permalink: /cte-bkp/
 description: ""
-third_nav_title: Chingay2023
 ---
+
+
 ![](/images/CTE/CTE.png)
 
 <div style="font-size:1.2rem">The Chingay Taster Experience (CTE) is a new programme that provides exclusive opportunities for online and TV audiences to participate in different activities and trial workshops.<br>

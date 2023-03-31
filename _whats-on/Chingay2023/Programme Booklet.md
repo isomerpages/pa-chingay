@@ -1,6 +1,6 @@
 ---
 title: Programme Booklet
-permalink: /Programme/
+permalink: /programme/
 description: ""
 third_nav_title: Chingay2023
 ---

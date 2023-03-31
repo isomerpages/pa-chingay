@@ -3,8 +3,6 @@ links:
   - title: Chingay 2023
     url: /tickets/
     sublinks:
-      - title: Chingay Taster Experience
-        url: /CTE/
       - title: Chingay Mama Shop
         url: /Chingaymamashop/
       - title: Webcast
@@ -32,6 +30,6 @@ links:
       - title: Chingay Photo Gallery
         url: /chingay-photo-gallery/
       - title: Press Room
-        url: /about-us/Press-Room/press-room-2023/
+        url: /about-us/press-room/press-room-2023/
       - title: Chingay50
-        url: /Chingay50/ignite-our-dreams/
+        url: /chingay50/ignite-our-dreams/

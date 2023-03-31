@@ -1,6 +1,6 @@
 ---
 title: Mini Floats
-permalink: /Chingay50-Photo-Gallery/mini-floats/
+permalink: /chingay50-photo-gallery/mini-floats/
 description: ""
 third_nav_title: Chingay50 Photo Gallery
 ---

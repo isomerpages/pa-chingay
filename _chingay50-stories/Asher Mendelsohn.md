@@ -1,6 +1,6 @@
 ---
 title: Asher Mendelsohn
-permalink: /chingay50-stories/asher-mendelsohn
+permalink: /chingay50-stories/asher-mendelsohn/
 description: ""
 ---
 ![Asher Mendelsohn](/images/Chingay50%20Stories/OurChingay50Stories%20-%20Asher%20Mendelsohn.jpeg)

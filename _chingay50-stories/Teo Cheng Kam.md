@@ -1,6 +1,6 @@
 ---
 title: Teo Cheng Kam
-permalink: /chingay50-stories/teo-cheng-kam
+permalink: /chingay50-stories/teo-cheng-kam/
 description: ""
 ---
 ![Teo Cheng Kam](/images/Chingay50%20Stories/teo-cheng-kam-50storiesimage.jpg)

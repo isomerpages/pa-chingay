@@ -1,6 +1,6 @@
 ---
 title: Ken and Christine
-permalink: /chingay50-stories/ken-and-christine
+permalink: /chingay50-stories/ken-and-christine/
 description: ""
 ---
 ![Ken and Christine](/images/Chingay50%20Stories/ken-and-christine-50storiesimage.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Kenneth Wong
-permalink: /chingay50-stories/kenneth-wong
+permalink: /chingay50-stories/kenneth-wong/
 description: ""
 ---
 ![Kenneth Wong](/images/Chingay50%20Stories/Kenneth.png)

@@ -1,6 +1,6 @@
 ---
 title: Dancers Feeling The Flow
-permalink: /event-gallery/Chingay-50-Behind-The-Scenes/dancers-feeling-the-flow
+permalink: /event-gallery/chingay-50-behind-the-scenes/dancers-feeling-the-flow/
 description: ""
 third_nav_title: Chingay50 Behind The Scenes
 image: /images/Event Gallery/Behind The Scenes/Act 4 3 Malay Wedding-01.jpg

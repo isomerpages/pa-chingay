@@ -1,6 +1,6 @@
 ---
 title: We've Got Talent! 1 of 3
-permalink: /event-gallery/Chingay50-at-Jewel/act-3-1-we-ve-got-talent
+permalink: /event-gallery/chingay50-at-jewel/act-3-1-we-ve-got-talent/
 description: ""
 third_nav_title: Chingay50 at Jewel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ng Tian Jun
-permalink: /chingay50-stories/ng-tian-jun
+permalink: /chingay50-stories/ng-tian-jun/
 description: ""
 ---
 ![Ng Tian Jun](/images/Chingay50%20Stories/ng-tian-jun-50storiesimage.jpg)

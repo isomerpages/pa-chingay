@@ -1,6 +1,6 @@
 ---
 title: Redraw Your World with Chingay50
-permalink: /not-avail
+permalink: /not-avail/
 description: ""
 ---
 

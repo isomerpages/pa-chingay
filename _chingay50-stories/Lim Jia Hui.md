@@ -1,6 +1,6 @@
 ---
 title: Lim Jia Hui
-permalink: /chingay50-stories/lim-jia-hui
+permalink: /chingay50-stories/lim-jia-hui/
 description: ""
 ---
 ![Lim Jia Hui](/images/Chingay50%20Stories/lim-jia-hui-50storiesimage.jpg)

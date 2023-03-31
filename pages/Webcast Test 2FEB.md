@@ -1,6 +1,6 @@
 ---
 title: Webcast Test 2FEB
-permalink: /Webcast-test/
+permalink: /webcast-test/
 description: ""
 ---
 Catch Chingay's Webcast "LIVE" on 3 February 2023, 8pm
