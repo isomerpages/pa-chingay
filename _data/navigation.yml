@@ -3,10 +3,10 @@ links:
   - title: Chingay 2023
     url: /tickets/
     sublinks:
-      - title: Chingay Mama Shop
-        url: /Chingaymamashop/
       - title: Webcast
         url: /webcast/
+      - title: Chingay Mama Shop
+        url: /Chingaymamashop/
       - title: Programme Booklet
         url: /programme
   - title: Community Engagement
