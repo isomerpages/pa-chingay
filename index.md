@@ -4,8 +4,8 @@ title: Chingay 2023
 description: Chingay Parade Singapore
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Notice: Chingay Website will be temporarily unavailable on 17
-  April 2023 due to schedule maintenance work. "
+notification: <a href="https://go.gov.sg/stay-in-touch-with-chingay">Sign Up</a>
+  to receive update on Chingay via email!
 sections:
   - hero:
       key_highlights:
