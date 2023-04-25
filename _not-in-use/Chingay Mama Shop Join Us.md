@@ -1,5 +1,5 @@
 ---
-title: Chingay Mama Shop
+title: Chingay Mama Shop Join Us
 permalink: /chingay2023-mamashop/
 description: ""
 ---
@@ -19,4 +19,4 @@ Click on [Chingay 2023 Mama Shop](/files/whats-on/Invite%20to%20Chingay%202023%2
 <div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg/" style="color: #999">FormSG</a></div>
 
 # Chingay Mama Shop merchants
-<div>Click <a target="_blank" href="https://www.chingay.gov.sg/chingaymamashop/">here</a> for Chingay Mama Shop Merchants
+<div>Click <a target="_blank" href="https://www.chingay.gov.sg/chingaymamashop/">here</a> for Chingay Mama Shop Merchants</div>
