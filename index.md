@@ -23,11 +23,4 @@ sections:
       description: A song to rally everyone to singalong and feel a sense of pride and
         instill a great sense of fearlessness for what is to come and build a
         brighter future!
-  - infobar:
-      title: CHINGAY MAMA SHOP
-      subtitle: Chingay 2023
-      description: "The Chingay Mama Shop is back in 2023! Be part of the movement to
-        #SupportLocal businesses and #DoGoodWithUs. "
-      button: Find Out More
-      url: chingaymamashop/
 ---
