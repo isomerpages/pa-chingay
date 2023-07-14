@@ -26,12 +26,10 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 
 #### **Roles Available**
 
-| Roles| Registration Link|
-| -------- | -------- | 
+| Roles| Registration Link|  |  
+| -------- | -------- | -------- | 
 |<br>**Volunteer EXCO**<br>
-<img style="width:150px;height:200px" src="/images/Volunteers/EXCO.png">|
-<p style="font-family:Lato, sans-serif;
- font-size: 1rem;"> link will be inserted<br><br> Registration will be closing on 21 Aug 2023 or earlier due to overwhelming response </p>|  
+<img style="width:150px;height:150px" src="/images/Volunteers/EXCO.png">| link will be inserted<br><br> Registration will be closing on 21 Aug 2023 or earlier due to overwhelming response <p></p>|  |  
 
 1\. Recruitment of Volunteers  
 2\. Planning of training sessions and preparation of materials required  
@@ -43,7 +41,7 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 
 |   |   |
 | -------- | -------- | 
-| **Volunteers Leader**<br> <img style="width:150px;height:200px" src="/images/Volunteers/Leader%202.png">| Opening Soon! |         
+| **Volunteers Leader**<br> <img style="width:150px;height:200px" align="left" src="/images/Volunteers/Leader%202.png">| Opening Soon! |         
 
 1\. Oversee and manage a group of volunteers  
 2\. Attend additional recce / briefing sessions with planning committee to understand the operational plans  
