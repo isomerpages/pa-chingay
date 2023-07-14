@@ -31,3 +31,5 @@ We welcome individuals or groups with any type of performing talents to register
 Please note that acceptance to participate in the parade is constrained by available slots and determined by the Organising Committee. 
 
 For enquires, please contact us at pa_acd@pa.gov.sg.
+
+Alternatively, if would like to support the parade as a volunteer, you may wish to visit the Volunteer page here: 
