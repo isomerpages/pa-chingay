@@ -37,7 +37,7 @@ Alternatively, if you have any type of performing talents, you may wish to regis
 3\. Planning of crowd management, general hospitality management and coach arrangements<br>
 4\. Deployment of Volunteers based on plans and requirements  
 5\. On-ground operations with fellow volunteers in assigned area/sector  
-6\. Management of Volunteers and Volunteers leaders
+6\. Management of Volunteers and Volunteers leaders<br>
 7\. Post-parade administrative matters    
 
 |   |   |
