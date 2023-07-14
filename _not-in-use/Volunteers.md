@@ -27,9 +27,10 @@ Alternatively, if you have any type of performing talents, you may wish to regis
 4. Letter of acknowledgement of your participation (VIA letter) upon request
 
 #### **Roles Available**
-|   |   |
+
+| Roles   | Registration Link   |
 | -------- | -------- | 
-| **Volunteer EXCO**<br> ![exco](/images/Volunteers/EXCO.png) |     **Registration has closed** <br>*Interested applicants please apply for other available roles.*  |    
+| <br>**Volunteer EXCO**<br> ![exco](/images/Volunteers/EXCO.png) |     <br> link will be inserted<br><br> Registration will be closing on 27 Aug 2023 or earlier due to overwhelming response |   
 
 1\. Recruitment of Volunteers  
 2\. Planning of training sessions and preparation of materials required  
@@ -38,24 +39,6 @@ Alternatively, if you have any type of performing talents, you may wish to regis
 5\. On-ground operations with fellow volunteers in assigned area/sector  
 6\. Management of Volunteers and Volunteers leaders
 7\. Post-parade administrative matters    
-
-| Roles   | Registration Link   |
-| -------- | -------- | 
-|**Crowd Management** ![crowd management](/images/Volunteers/Crowd%20Management%202.png) | Opening Soon!  |        
-
-1\. Provide directions and information to members of the public  
-2\. Facilitate orderly arrival and dispersal of crowd before and after the parade  
-3\. Facilitate the performers movement during the parade  
-4\. Control the entry-exit points of the parade       
-
-
-|   |   |
-| -------- | -------- | 
-|**General Hospitality** ![general hospitality](/images/Volunteers/General%20Hospi.png) |  Opening soon!  |         
-
-1\. Check tickets and usher guests to their designated seats  
-2\. Hype up atmosphere and engage the audience before, during and after the parade  
-3\. Answer general queries from guests     
 
 |   |   |
 | -------- | -------- | 
@@ -66,7 +49,24 @@ Alternatively, if you have any type of performing talents, you may wish to regis
 3\. Assist in administrative issues (contacting of or disseminating information to volunteers, marking of attendance etc.)  
 4\. Communicate the plans to the volunteers under their charge  
 5\. Resolve any issues/situations that occur  
-6\. Encourage and motivate the volunteers     
+6\. Encourage and motivate the volunteers
+
+|||
+| -------- | -------- | 
+|**Crowd Management** ![crowd management](/images/Volunteers/Crowd%20Management%202.png) | Opening Soon!  |        
+
+1\. Provide directions and information to members of the public  
+2\. Facilitate orderly arrival and dispersal of crowd before and after the parade  
+3\. Facilitate the performers movement during the parade  
+4\. Control the entry-exit points of the parade       
+
+|   |   |
+| -------- | -------- | 
+|**General Hospitality** ![general hospitality](/images/Volunteers/General%20Hospi.png) |  Opening soon!  |         
+
+1\. Check tickets and usher guests to their designated seats  
+2\. Hype up atmosphere and engage the audience before, during and after the parade  
+3\. Answer general queries from guests     
 
 |   |   |
 | -------- | -------- | 
