@@ -62,7 +62,7 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 
 |   |   |
 | -------- | -------- | 
-|**General Hospitality** ![general hospitality](/images/Volunteers/General%20Hospi.png) |  Opening soon!  |         
+|**General Hospitality** <img style="width:150px;height:200px" src="/images/Volunteers/General%20Hospi.png"> |  Opening soon!  |         
 
 1\. Check tickets and usher guests to their designated seats  
 2\. Hype up atmosphere and engage the audience before, during and after the parade  
