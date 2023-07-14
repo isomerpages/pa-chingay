@@ -28,7 +28,8 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 
 | Roles| Registration Link|
 | -------- | -------- | 
-|<br>**Volunteer EXCO**<br><img style="width:150px;height:200px" src="/images/Volunteers/EXCO.png">|   
+|<br>**Volunteer EXCO**<br>
+<img style="width:150px;height:200px" src="/images/Volunteers/EXCO.png">|
 <p style="font-family:Lato, sans-serif;
  font-size: 1rem;"> link will be inserted<br><br> Registration will be closing on 21 Aug 2023 or earlier due to overwhelming response </p>|  
 
