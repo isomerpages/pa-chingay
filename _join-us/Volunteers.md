@@ -28,8 +28,7 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 
 | Roles| Registration Link|  |  
 | -------- | -------- | -------- | 
-|<br>**Volunteer EXCO**<br>
-<img style="width:150px;height:150px" src="/images/Volunteers/EXCO.png">| link will be inserted<br><br> Registration will be closing on 21 Aug 2023 or earlier due to overwhelming response <p></p>|  |  
+|**Volunteer EXCO** <img style="width:150px;height:150px" src="/images/Volunteers/EXCO.png">| link will be inserted<br><br> Registration will be closing on 21 Aug 2023 or earlier due to overwhelming response |  |  
 
 1\. Recruitment of Volunteers  
 2\. Planning of training sessions and preparation of materials required  
