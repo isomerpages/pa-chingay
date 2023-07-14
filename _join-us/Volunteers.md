@@ -42,7 +42,7 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 
 |   |   |
 | -------- | -------- | 
-| **Volunteers Leader**<br> ![leader](/images/Volunteers/Leader%202.png) | Opening Soon! |         
+| **Volunteers Leader**<br> <img style="width:150px;height:200px" src="/images/Volunteers/Leader%202.png">| Opening Soon! |         
 
 1\. Oversee and manage a group of volunteers  
 2\. Attend additional recce / briefing sessions with planning committee to understand the operational plans  
@@ -53,7 +53,7 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 
 |||
 | -------- | -------- | 
-|**Crowd Management** ![crowd management](/images/Volunteers/Crowd%20Management%202.png) | Opening Soon!  |        
+|**Crowd Management**<img style="width:150px;height:200px" src="/images/Volunteers/Crowd%20Management%202.png"> | Opening Soon!  |        
 
 1\. Provide directions and information to members of the public  
 2\. Facilitate orderly arrival and dispersal of crowd before and after the parade  
