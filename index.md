@@ -19,6 +19,7 @@ sections:
       button: find out more
       url: https://www.chingay.gov.sg/join-us/volunteers/
       alt: Image alt text
+      image: /images/Volunteers/volunteer_image.jpeg
   - infopic:
       title: "Theme Song: Embrace Tomorrow"
       subtitle: Chingay 2023
