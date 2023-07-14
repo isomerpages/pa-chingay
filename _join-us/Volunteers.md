@@ -51,7 +51,7 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 
 |||
 | -------- | -------- | 
-|**Crowd Management**<img style="width:150px;height:200px" src="/images/Volunteers/Crowd%20Management%202.png"> | Opening Soon!  |        
+|**Crowd Management**<img style="width:150px;height:200px" align="left" src="/images/Volunteers/Crowd%20Management%202.png"> | Opening Soon!  |        
 
 1\. Provide directions and information to members of the public  
 2\. Facilitate orderly arrival and dispersal of crowd before and after the parade  
