@@ -3,12 +3,13 @@ title: Volunteers
 permalink: /join-us/volunteers/
 description: ""
 ---
+# **Volunteer Recruitment for Chingay 2024 is back!**
 
-# **Volunteer Recruitment for Chingay 2023 is back!**
+Chingay Parade Singapore is organised and managed by the Arts &amp; Culture Division (ACD) of the People’s Association (PA).
 
-Chingay 2023 is organised and managed by the Arts & Culture Division (ACD) of the People’s Association (PA).
+We would like to invite you to join us as volunteers to support the parade and contribute to the positive experiences of people from all walks of life. 
 
-We would like to invite you to join us as volunteers for some of our activities happening in December 2022, January and February 2023. Alternatively, you can always be part of Chingay 2023 by participating in our other engagement activities such as [We've Got Talent! 2023](https://www.chingay.gov.sg/wgt2023) and [D:2 Dance Competition 2023](https://www.chingay.gov.sg/d22023).
+Alternatively, if you have any type of performing talents, you may wish to register for an opportunity to be part of Chingay by visiting the Performer page here: 
 
 #### **Pre-Requisites for Volunteer Application**
 
@@ -26,10 +27,21 @@ We would like to invite you to join us as volunteers for some of our activities 
 4. Letter of acknowledgement of your participation (VIA letter) upon request
 
 #### **Roles Available**
+|   |   |
+| -------- | -------- | 
+| **Volunteer EXCO**<br> ![exco](/images/Volunteers/EXCO.png) |     **Registration has closed** <br>*Interested applicants please apply for other available roles.*  |    
+
+1\. Recruitment of Volunteers  
+2\. Planning of training sessions and preparation of materials required  
+3\. Planning of crowd management, general hospitality management and coach arrangements<br>
+4\. Deployment of Volunteers based on plans and requirements  
+5\. On-ground operations with fellow volunteers in assigned area/sector  
+6\. Management of Volunteers and Volunteers leaders
+7\. Post-parade administrative matters    
 
 | Roles   | Registration Link   |
 | -------- | -------- | 
-|**Crowd Management** ![crowd management](/images/Volunteers/Crowd%20Management%202.png) |       [https://go.gov.sg/chingay23-cmvol](https://go.gov.sg/chingay23-cmvol)     <br>*Register by 5 December 2022*<br>*Application may close earlier due to overwhelming responses*  |        
+|**Crowd Management** ![crowd management](/images/Volunteers/Crowd%20Management%202.png) | Opening Soon!  |        
 
 1\. Provide directions and information to members of the public  
 2\. Facilitate orderly arrival and dispersal of crowd before and after the parade  
@@ -39,7 +51,7 @@ We would like to invite you to join us as volunteers for some of our activities 
 
 |   |   |
 | -------- | -------- | 
-|**General Hospitality** ![general hospitality](/images/Volunteers/General%20Hospi.png) |    [https://go.gov.sg/chingay23-ghvol](https://go.gov.sg/chingay23-ghvol)   <br>*Register by 5 December 2022*<br>*Application may close earlier due to overwhelming responses*    |         
+|**General Hospitality** ![general hospitality](/images/Volunteers/General%20Hospi.png) |  Opening soon!  |         
 
 1\. Check tickets and usher guests to their designated seats  
 2\. Hype up atmosphere and engage the audience before, during and after the parade  
@@ -47,30 +59,7 @@ We would like to invite you to join us as volunteers for some of our activities 
 
 |   |   |
 | -------- | -------- | 
-| **Parade Management EXCO**<br> ![exco](/images/Volunteers/EXCO.png) |     **Registration has closed** <br>*Interested applicants please apply for other available roles.*  |    
-
-1\. Recruitment of Volunteers  
-2\. Planning of training sessions and preparation of materials required  
-3\. Deployment of Volunteers based on plans or requirements  
-4\. On-ground operations with fellow volunteers in assigned area/sector  
-5\. Management of Volunteers and Volunteers leaders <br>
-6\. Post-parade administrative matters    
-
-|   |   |
-| -------- | -------- | 
-| **Liaison EXCO**![liaison exco](/images/Volunteers/EXCO.png)         |           **Registration has closed.** <br>*Interested applicants please apply for other available roles.*   |
-
-1\. Recruitment of Volunteers  
-2\. Planning of training sessions and preparation of materials required   
-3\. Planning of operational plans for coach arrangements  
-4\. Deployment of Volunteers based on plans or requirements  
-5\. On-ground operations with fellow volunteers in assigned area/sector      
-6\. Management of Volunteers and Volunteers leaders  
-7\. Post-parade administrative matters 
-
-|   |   |
-| -------- | -------- | 
-| **Volunteers Leader**<br> ![leader](/images/Volunteers/Leader%202.png) |     **Registration has closed**<br>*Interested applicants please apply for other available roles.*   |         
+| **Volunteers Leader**<br> ![leader](/images/Volunteers/Leader%202.png) | Opening Soon! |         
 
 1\. Oversee and manage a group of volunteers  
 2\. Attend additional recce / briefing sessions with planning committee to understand the operational plans  
@@ -79,12 +68,9 @@ We would like to invite you to join us as volunteers for some of our activities 
 5\. Resolve any issues/situations that occur  
 6\. Encourage and motivate the volunteers     
 
-
-
-
 |   |   |
 | -------- | -------- | 
-| **Liaison**<br> ![liaison](/images/Volunteers/Liaison%202.png)|   **Registration has closed.** <br>*Interested applicants please apply for other available roles.*   |          
+| **Liaison**<br> ![liaison](/images/Volunteers/Liaison%202.png)| Opening Soon! |          
 
 1\. Manage the arrival and departure of performers and organized groups by chartered buses  
 2\. Manage the buses at the various Coach Reporting areas  
@@ -92,22 +78,22 @@ We would like to invite you to join us as volunteers for some of our activities 
 
 |  |   |
 | -------- | -------- | 
-|**Logistics** ![logistics](/images/Volunteers/Logistics%202.png)        | **Registration has closed**<br>*Interested applicants please apply for other available roles.*     |
+|**Logistics** ![logistics](/images/Volunteers/Logistics%202.png)        |  Opening Soon! |
 
-Assist in preparation and movement of production logistics & props prior to the parade  
+Assist in preparation and movement of production logistics &amp; props prior to the parade  
 1\. Distribute logistics items such as parade props, walkie talkie and lanyards  
 2\. Manage the logistics storage space during the parade  
 3\. Assist in stock taking and keeping of logistics and props after the parade  
 
 |  |   |
 | -------- | -------- | 
-|**Food & Beverage** ![F&B ](/images/Volunteers/F&B%202.png)     |      **Registration has closed**<br>*Interested applicants please apply for other available roles.*    |
+|**Food &amp; Beverage** ![F&amp;B ](/images/Volunteers/F&amp;B%202.png)     | Opening Soon! |
 
 1\. Distribution of food and drinks to performers, volunteers and working crew    
 
 |  |  |
 | -------- | -------- | 
-| **Production Crew**![production crew](/images/Volunteers/Production%20crew%202.png)    |  **Registration has closed.** <br>*Interested applicants please apply for other available roles.*    |       
+| **Production Crew**![production crew](/images/Volunteers/Production%20crew%202.png)    |  Opening Soon!  |       
 
 1\. To assist in preparation and movement of logistics and props during the parade (might need to carry and standby heavy props)  
 2\. To prepare and cue the performers for their entry/exit at specific timings  
@@ -115,7 +101,7 @@ Assist in preparation and movement of production logistics & props prior to the 
 
 |   |   |
 | -------- | -------- | 
-| **Media Volunteer**![media](/images/Volunteers/Media%202.png)          |           **Registration has closed**<br>*Interested applicants please apply for other available roles.*   |
+| **Media Volunteer**![media](/images/Volunteers/Media%202.png)          |           Opening Soon!  |
 
 1\. Be the photographer or videographer for Volunteers of Chingay  
 2\. Capture the volunteers in action during their trainings, briefings and during actual event days  
@@ -123,7 +109,7 @@ Assist in preparation and movement of production logistics & props prior to the 
 
 |   |   |
 | -------- | -------- | 
-| **Admin & Welfare**![admin & logs](/images/Volunteers/Admin%20&%20logs%202.png)       |     **Registration has closed**<br>*Interested applicants please apply for other available roles.*    |    
+| **Admin &amp; Welfare**![admin &amp; logs](/images/Volunteers/Admin%20&amp;%20logs%202.png)       |     Opening Soon! |    
 
 1\. Ensure a smooth administrative process for our volunteers during training and event days  
 2\. Assist in the distribution of logistics to volunteers and ensure that their welfare have been taken care of
