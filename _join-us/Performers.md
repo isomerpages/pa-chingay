@@ -3,7 +3,7 @@ title: Performers
 permalink: /join-us/performers/
 description: ""
 ---
-# **Calling for performers!**
+# **Chingay 2024 is calling for performers!**
 
 We welcome individuals or groups with any type of performing talents to register for an opportunity to be part of Chingay Parade and other related events through the form below.
 
@@ -33,4 +33,4 @@ Please note that acceptance to participate in the parade is constrained by avail
 For enquires, please contact us at:
 [pa_acd@pa.gov.sg](mailto:pa_acd@pa.gov.sg).
 
-Alternatively, you may wish to visit the Volunteer page if would like to support the parade as a volunteer:.
+Alternatively, you may wish to visit the Volunteer page if would like to support the parade as a volunteer: [https://www.chingay.gov.sg/join-us/vounteers](https://www.chingay.gov.sg/join-us/vounteers).
