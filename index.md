@@ -14,6 +14,13 @@ sections:
           url: https://www.youtube.com/live/SNOEUaoSB5s?feature=share&t=2422
       background: /images/KEN_9199 edited long 5mb 752.jpg
   - infopic:
+      title: Volunteer Registration
+      subtitle: chingay 2024
+      button: find out more
+      url: https://www.chingay.gov.sg/join-us/volunteers/
+      image: /images/volunteer_v4.png
+      alt: Image alt text
+  - infopic:
       title: "Theme Song: Embrace Tomorrow"
       subtitle: Chingay 2023
       button: LISTEN NOW ON SPOTIFY
