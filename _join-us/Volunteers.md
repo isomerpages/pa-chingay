@@ -9,7 +9,7 @@ Chingay Parade Singapore is organised and managed by the Arts &amp; Culture Divi
 
 We would like to invite you to join us as volunteers to support the parade and contribute to the positive experiences of people from all walks of life. 
 
-Alternatively, if you have any type of performing talents, you may wish to register for an opportunity to be part of Chingay by visiting the Performer page: https://www.chingay.gov.sg/join-us/performers. 
+Alternatively, if you have any type of performing talents, you may wish to register for an opportunity to be part of Chingay by visiting the Performer page:  [https://www.chingay.com/join-us/performers](https://www.chingay.com/join-us/performers).
 
 #### **Pre-Requisites for Volunteer Application**
 
