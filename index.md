@@ -18,7 +18,6 @@ sections:
       subtitle: chingay 2024
       button: find out more
       url: https://www.chingay.gov.sg/join-us/volunteers/
-      image: /images/volunteer_v4.png
       alt: Image alt text
   - infopic:
       title: "Theme Song: Embrace Tomorrow"
