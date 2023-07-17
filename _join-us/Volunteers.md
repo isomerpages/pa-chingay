@@ -89,7 +89,7 @@ Assist in preparation and movement of production logistics &amp; props prior to 
 
 |  |  |
 | -------- | -------- | 
-| **Production Crew** <br><img style="width:150px;height:200px" align="left" src="images/Volunteers/Production%20crew%202.png">    |  Opening Soon!  |       
+| **Production Crew** <br><img style="width:150px;height:200px" align="left" src="/images/Volunteers/Production%20crew%202.png">    |  Opening Soon!  |       
 
 1\. To assist in preparation and movement of logistics and props during the parade (might need to carry and standby heavy props)  
 2\. To prepare and cue the performers for their entry/exit at specific timings  
@@ -105,7 +105,7 @@ Assist in preparation and movement of production logistics &amp; props prior to 
 
 |   |   |
 | -------- | -------- | 
-| **Admin &amp; Welfare** <br> <img style="width:150px;height:200px" align="left" src="images/Volunteers/Admin%20&amp;%20logs%202.png">       |     Opening Soon! |    
+| **Admin &amp; Welfare** <br> <img style="width:150px;height:200px" align="left" src="/images/Volunteers/Admin%20&amp;%20logs%202.png">       |     Opening Soon! |    
 
 1\. Ensure a smooth administrative process for our volunteers during training and event days  
 2\. Assist in the distribution of logistics to volunteers and ensure that their welfare have been taken care of
