@@ -26,7 +26,7 @@ We would like to invite you to join us as volunteers to support the parade and c
 
 | Roles| Registration Link|  |  
 | -------- | -------- | -------- | 
-|**Volunteer EXCO** <img style="width:500px;height:200px" align="left" src="/images/Volunteers/EXCO.png">| [https://go.gov.sg/cgvolexco24](https://go.gov.sg/cgvolexco24)<br><br> Registration will be closing on 21 Aug 2023 or earlier due to overwhelming response |  |  
+|**Volunteer EXCO** <img style="width:150px;height:200px" align="left" src="/images/Volunteers/EXCO.png">| [https://go.gov.sg/cgvolexco24](https://go.gov.sg/cgvolexco24)<br><br> Registration will be closing on 21 Aug 2023 or earlier due to overwhelming response |  |  
 
 1\. Recruitment of Volunteers  
 2\. Planning of training sessions and preparation of materials required  
@@ -49,7 +49,7 @@ We would like to invite you to join us as volunteers to support the parade and c
 
 |||
 | -------- | -------- | 
-|**Crowd Management**<img style="width:150px;height:200px" align="left" src="/images/Volunteers/Crowd%20Management%202.png"> | Opening Soon!  |        
+|**Crowd Management**<br><img style="width:150px;height:200px" align="left" src="/images/Volunteers/Crowd%20Management%202.png"> | Opening Soon!  |        
 
 1\. Provide directions and information to members of the public  
 2\. Facilitate orderly arrival and dispersal of crowd before and after the parade  
