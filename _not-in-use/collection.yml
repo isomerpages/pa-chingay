@@ -2,10 +2,12 @@ collections:
   not-in-use:
     output: true
     order:
+      - Performers.md
+      - Chingay Taster Experience.md
+      - Chingay @ Heartlands.md
       - Chingay Mama Shop 2023.md
       - Chingay Mama Shop Join Us.md
       - Watch Party 2023.md
-      - Spot The Rabbit.md
       - We've Got Talent! 2023.md
       - Advisory.md
       - Community Art Installations.md
@@ -14,15 +16,7 @@ collections:
       - Vote for Your Favourite Mini Floats.md
       - Chingay 2023 Ticketing.md
       - Sponsor Donors Backup.md
-      - Volunteers.md
-      - Watch Party.md
-      - Dreamy.md
       - We've Got Talent! 2023 Voting.md
       - Chingay50 @ Heartlands.md
       - D:2 Dance Competition.md
-      - Spot & Win!.md
-      - Snap, Tag & Win!.md
       - We've Got Talent!.md
-      - Chingay Mama Shop.md
-      - Redraw Your World with Chingay50.md
-      - Spot The Tiger.md
