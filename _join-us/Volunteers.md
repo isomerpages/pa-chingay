@@ -28,7 +28,7 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 
 | Roles| Registration Link|  |  
 | -------- | -------- | -------- | 
-|**Volunteer EXCO** <img style="width:150px;height:150px" align="left" src="/images/Volunteers/EXCO.png">|link will be inserted<br><br> Registration will be closing on 21 Aug 2023 or earlier due to overwhelming response |  |  
+|**Volunteer EXCO** <img style="width:500px;height:200px" align="left" src="/images/Volunteers/EXCO.png">| [https://go.gov.sg/cgvolexco24](https://go.gov.sg/cgvolexco24)<br><br> Registration will be closing on 21 Aug 2023 or earlier due to overwhelming response |  |  
 
 1\. Recruitment of Volunteers  
 2\. Planning of training sessions and preparation of materials required  
@@ -60,7 +60,7 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 
 |   |   |
 | -------- | -------- | 
-|**General Hospitality** <img style="width:150px;height:200px" src="/images/Volunteers/General%20Hospi.png"> |  Opening soon!  |         
+|**General Hospitality** <br><img style="width:150px;height:200px" align="left" src="/images/Volunteers/General%20Hospi.png"> |  Opening soon!  |         
 
 1\. Check tickets and usher guests to their designated seats  
 2\. Hype up atmosphere and engage the audience before, during and after the parade  
@@ -68,7 +68,7 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 
 |   |   |
 | -------- | -------- | 
-| **Liaison**<br> ![liaison](/images/Volunteers/Liaison%202.png)| Opening Soon! |          
+| **Liaison**<br> <img style="width:150px;height:200px" align="left" src="/images/Volunteers/Liaison%202.png"> | Opening Soon 
 
 1\. Manage the arrival and departure of performers and organized groups by chartered buses  
 2\. Manage the buses at the various Coach Reporting areas  
@@ -76,7 +76,7 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 
 |  |   |
 | -------- | -------- | 
-|**Logistics** ![logistics](/images/Volunteers/Logistics%202.png)        |  Opening Soon! |
+|**Logistics** <br><img style="width:150px;height:200px" align="left" src="/images/Volunteers/Logistics%202.png">        |  Opening Soon! |
 
 Assist in preparation and movement of production logistics &amp; props prior to the parade  
 1\. Distribute logistics items such as parade props, walkie talkie and lanyards  
@@ -85,13 +85,13 @@ Assist in preparation and movement of production logistics &amp; props prior to 
 
 |  |   |
 | -------- | -------- | 
-|**Food &amp; Beverage** ![F&amp;B ](/images/Volunteers/F&amp;B%202.png)     | Opening Soon! |
+|**Food &amp; Beverage** <br><img style="width:150px;height:200px" align="left" src="/images/Volunteers/F&amp;B%202.png">     | Opening Soon! |
 
 1\. Distribution of food and drinks to performers, volunteers and working crew    
 
 |  |  |
 | -------- | -------- | 
-| **Production Crew**![production crew](/images/Volunteers/Production%20crew%202.png)    |  Opening Soon!  |       
+| **Production Crew** <br><img style="width:150px;height:200px" align="left" src="images/Volunteers/Production%20crew%202.png">    |  Opening Soon!  |       
 
 1\. To assist in preparation and movement of logistics and props during the parade (might need to carry and standby heavy props)  
 2\. To prepare and cue the performers for their entry/exit at specific timings  
@@ -99,7 +99,7 @@ Assist in preparation and movement of production logistics &amp; props prior to 
 
 |   |   |
 | -------- | -------- | 
-| **Media Volunteer**![media](/images/Volunteers/Media%202.png)          |           Opening Soon!  |
+| **Media Volunteer** <br> <img style="width:150px;height:200px" align="left" src="/images/Volunteers/Media%202.png">          |           Opening Soon!  |
 
 1\. Be the photographer or videographer for Volunteers of Chingay  
 2\. Capture the volunteers in action during their trainings, briefings and during actual event days  
@@ -107,7 +107,7 @@ Assist in preparation and movement of production logistics &amp; props prior to 
 
 |   |   |
 | -------- | -------- | 
-| **Admin &amp; Welfare**![admin &amp; logs](/images/Volunteers/Admin%20&amp;%20logs%202.png)       |     Opening Soon! |    
+| **Admin &amp; Welfare** <br> <img style="width:150px;height:200px" align="left" src="images/Volunteers/Admin%20&amp;%20logs%202.png">       |     Opening Soon! |    
 
 1\. Ensure a smooth administrative process for our volunteers during training and event days  
 2\. Assist in the distribution of logistics to volunteers and ensure that their welfare have been taken care of
