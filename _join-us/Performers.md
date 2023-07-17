@@ -33,4 +33,4 @@ Please note that acceptance to participate in the parade is constrained by avail
 For enquires, please contact us at:
 [pa_acd@pa.gov.sg](mailto:pa_acd@pa.gov.sg).
 
-Alternatively, you may visit the Volunteer page if would like to support the parade as a volunteer: .
+Alternatively, you may to visit [https://www.chingay.gov.sg/join-us/volunteers](https://www.chingay.gov.sg/join-us/volunteers) if would like to support the parade as a volunteer.
