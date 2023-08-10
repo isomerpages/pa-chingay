@@ -14,6 +14,13 @@ sections:
           url: https://www.youtube.com/live/SNOEUaoSB5s?feature=share&t=2422
       background: /images/KEN_9199 edited long 5mb 752.jpg
   - infopic:
+      title: Calling out for performing talents!
+      subtitle: Chingay 2024
+      button: find out more
+      url: https://www.chingay.gov.sg/join-us/performers/
+      image: /images/chingay 2023 performer.jpg
+      alt: chingay 2023 performer
+  - infopic:
       title: Volunteer Registration
       subtitle: chingay 2024
       button: find out more
