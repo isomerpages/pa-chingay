@@ -28,7 +28,7 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 
 | Roles| Registration Link|  |  
 | -------- | -------- | -------- | 
-|**Volunteer EXCO** <img style="width:150px;height:200px" align="left" src="/images/Volunteers/EXCO.png">| [https://go.gov.sg/cgvolexco24](https://go.gov.sg/cgvolexco24)<br><br> Registration will be closing on 21 Aug 2023 or earlier due to overwhelming response |  |  
+|**Volunteer EXCO** <img style="width:150px;height:200px" align="left" src="/images/Volunteers/EXCO.png">| Registration closed due to overwhelming response. Stay tuned for the opening of other Volunteer roles! |  |  
 
 1\. Recruitment of Volunteers  
 2\. Planning of training sessions and preparation of materials required  
