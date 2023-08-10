@@ -9,7 +9,7 @@ We would like to invite you to join us as volunteers to support the parade and c
 
 Alternatively, if you would like to be a part of the performing contingent, you may register via: [www.chingay.gov.sg/join-us/performers](www.chingay.gov.sg/join-us/performers).
 
-#### **Pre-Requisites for Volunteer Application**
+## **Pre-Requisites for Volunteer Application**
 
 1. General Volunteers - 15 years old and above
 2. EXCO / Volunteer Leaders - 17 years old and above 
@@ -17,14 +17,14 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 4. Able to commit for all the sessions stated in the application form  
  
  
-#### **Appreciation for All Volunteers**
+## **Appreciation for All Volunteers**
 
 1. Meals will be provided on key dates of involvement
 2. Chingay Volunteer T-shirt
 3. Certificate of Appreciation 
 4. Letter of acknowledgement of your participation (VIA letter) upon request
 
-#### **Roles Available**
+## **Roles Available**
 
 | Roles| Registration Link|  |  
 | -------- | -------- | -------- | 
