@@ -68,7 +68,7 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 
 |   |   |
 | -------- | -------- | 
-| **Liaison**<br> <img style="width:150px;height:200px" align="left" src="/images/Volunteers/Liaison%202.png"> | Opening Soon 
+| **Liaison**<br> <img style="width:150px;height:200px" align="left" src="/images/Volunteers/Liaison%202.png"> | Opening Soon! 
 
 1\. Manage the arrival and departure of performers and organized groups by chartered buses  
 2\. Manage the buses at the various Coach Reporting areas  
