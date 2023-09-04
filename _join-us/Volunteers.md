@@ -28,18 +28,6 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 
 | Roles| Registration Link|  |  
 | -------- | -------- | -------- | 
-|**Volunteer EXCO** <img style="width:150px;height:200px" align="left" alt="volunteer exco" src="/images/Volunteers/EXCO.png">| Registration closed due to overwhelming response. Stay tuned for the opening of other Volunteer roles! |  |  
-
-1\. Recruitment of Volunteers  
-2\. Planning of training sessions and preparation of materials required  
-3\. Planning of crowd management, general hospitality management and coach arrangements<br>
-4\. Deployment of Volunteers based on plans and requirements  
-5\. On-ground operations with fellow volunteers in assigned area/sector  
-6\. Management of Volunteers and Volunteers leaders<br>
-7\. Post-parade administrative matters    
-
-|   |   |
-| -------- | -------- | 
 | **Volunteers Leader**<br> <img style="width:150px;height:200px" align="left" alt="volunteers leader" src="/images/Volunteers/Leader%202.png">| Opening Soon! |         
 
 1\. Oversee and manage a group of volunteers  
@@ -111,3 +99,15 @@ Assist in preparation and movement of production logistics &amp; props prior to 
 
 1\. Ensure a smooth administrative process for our volunteers during training and event days  
 2\. Assist in the distribution of logistics to volunteers and ensure that their welfare have been taken care of
+
+|   |   |
+| -------- | -------- | 
+|**Volunteer EXCO** <img style="width:150px;height:200px" align="left" alt="volunteer exco" src="/images/Volunteers/EXCO.png">| Registration closed. |  
+
+1\. Recruitment of Volunteers  
+2\. Planning of training sessions and preparation of materials required  
+3\. Planning of crowd management, general hospitality management and coach arrangements<br>
+4\. Deployment of Volunteers based on plans and requirements  
+5\. On-ground operations with fellow volunteers in assigned area/sector  
+6\. Management of Volunteers and Volunteers leaders<br>
+7\. Post-parade administrative matters    
