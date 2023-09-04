@@ -64,7 +64,7 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 
 |  |   |
 | -------- | -------- | 
-|**Logistics** <br><img style="width:150px;height:200px" align="left" alt="logistics" src="/images/Volunteers/Logistics%202.png">        |  Opening Soon! |
+|**Logistics** <br><img style="width:150px;height:200px" align="left" alt="logistics" src="/images/Volunteers/Logistics%202.png">        |  [Register now!](https://form.gov.sg/64e75bbb962d3200123a1144) |
 
 Assist in preparation and movement of production logistics &amp; props prior to the parade  
 1\. Distribute logistics items such as parade props, walkie talkie and lanyards  
@@ -73,7 +73,7 @@ Assist in preparation and movement of production logistics &amp; props prior to 
 
 |  |   |
 | -------- | -------- | 
-|**Food &amp; Beverage** <br><img style="width:150px;height:200px" align="left" alt="food and beverage" src="/images/Volunteers/F&amp;B%202.png">     | Opening Soon! |
+|**Food &amp; Beverage** <br><img style="width:150px;height:200px" align="left" alt="food and beverage" src="/images/Volunteers/F&amp;B%202.png">     | [Register Now!](https://form.gov.sg/64e75d2210701f00114ae99b) |
 
 1\. Distribution of food and drinks to performers, volunteers and working crew    
 
