@@ -7,7 +7,7 @@ description: ""
 
 We would like to invite you to join us as volunteers to support the parade and contribute to the positive experiences of people from all walks of life. 
 
-Alternatively, if you would like to be a part of the performing contingent, you may register via: [www.chingay.gov.sg/join-us/performers](www.chingay.gov.sg/join-us/performers).
+Alternatively, if you would like to be a part of the performing contingent, you may register via: [https://www.chingay.gov.sg/join-us/performers/](https://www.chingay.gov.sg/join-us/performers/).
 
 ## **Pre-Requisites for Volunteer Application**
 
