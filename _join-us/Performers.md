@@ -3,9 +3,11 @@ title: Performers
 permalink: /join-us/performers/
 description: ""
 ---
-# **Chingay 2024 is calling out for performing talents!**
+# **Chingay is calling out for performing talents!**
 
-We welcome individuals or groups with any type of performing talents to register for an opportunity to be part of Chingay Parade and other related events through the form below.
+Registration to perform for Chingay 2024 is now closed. Thank you for your support! 
+
+Nevertheless, individuals or groups with any type of performing talents can express interest in performing for Chingay 2025 and its future related events by registering through the form below.
 
 <div style="font-family: Sans-Serif;
     font-size: 10px;
