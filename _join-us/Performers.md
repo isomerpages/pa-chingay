@@ -5,9 +5,9 @@ description: ""
 ---
 # **Chingay is calling out for performing talents!**
 
-Registration to perform for Chingay 2024 is now closed. Thank you for your support! 
+Registration for Chingay 2024 has closed! Thank you for your support! 
 
-Nevertheless, individuals or groups with any type of performing talents can express interest in performing for Chingay 2025 and its future related events by registering through the form below.
+However, individuals or groups with any type of performing talents can still express interest to be part of future editions of Chingay and its related events by registering through the form below.
 
 <div style="font-family: Sans-Serif;
     font-size: 10px;
