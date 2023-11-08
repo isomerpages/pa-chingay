@@ -2,10 +2,11 @@
 title: Volunteers
 permalink: /join-us/volunteers/
 description: ""
+variant: markdown
 ---
 # **Volunteer Recruitment for Chingay 2024 is back!**
 
-We would like to invite you to join us as volunteers to support the parade and contribute to the positive experiences of people from all walks of life. 
+We would like to invite you to join us as volunteers to support the parade and contribute to the positive experiences of people from all walks o.f life. 
 
 Alternatively, if you would like to be a part of the performing contingent, you may register via: [https://www.chingay.gov.sg/join-us/performers/](https://www.chingay.gov.sg/join-us/performers/).
 
@@ -84,21 +85,21 @@ Assist in preparation and movement of production logistics &amp; props prior to 
 1\. To assist in preparation and movement of logistics and props during the parade (might need to carry and standby heavy props)  
 2\. To prepare and cue the performers for their entry/exit at specific timings  
 3\. To guide the performers and floats to the correct position on the parade route    
-
-|   |   |
-| -------- | -------- | 
-| **Media Volunteer** <br> <img style="width:150px;height:200px" align="left" alt="media volunteer" src="/images/Volunteers/Media%202.png">          |  [Register now!](https://form.gov.sg/64f093f036f4d0001203bb1c)  |
-
-1\. Be the photographer or videographer for Volunteers of Chingay  
-2\. Capture the volunteers in action during their trainings, briefings and during actual event days  
-3\. Assist with the social media publicity to showcase the various volunteer groups     
-
+     
 |   |   |
 | -------- | -------- | 
 | **Admin &amp; Welfare** <br> <img style="width:150px;height:200px" align="left" alt="admin and welfare" src="/images/Volunteers/Admin%20&amp;%20logs%202.png">       | [Register now!](https://form.gov.sg/64f0977908ae6e001104523c) |    
 
 1\. Ensure a smooth administrative process for our volunteers during training and event days  
 2\. Assist in the distribution of logistics to volunteers and ensure that their welfare have been taken care of
+
+|   |   |
+| -------- | -------- | 
+| **Media Volunteer** <br> <img style="width:150px;height:200px" align="left" alt="media volunteer" src="/images/Volunteers/Media%202.png">          |  Registration closed  |
+
+1\. Be the photographer or videographer for Volunteers of Chingay  
+2\. Capture the volunteers in action during their trainings, briefings and during actual event days  
+3\. Assist with the social media publicity to showcase the various volunteer groups 
 
 |   |   |
 | -------- | -------- | 
