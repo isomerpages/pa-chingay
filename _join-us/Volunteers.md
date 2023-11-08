@@ -95,7 +95,7 @@ Assist in preparation and movement of production logistics &amp; props prior to 
 
 |   |   |
 | -------- | -------- | 
-| **Media Volunteer** <br> <img style="width:150px;height:200px" align="left" alt="media volunteer" src="/images/Volunteers/Media%202.png">| Registration closed. |
+| **Media Volunteer** <br> <img style="width:150px;height:200px" align="left" alt="media volunteer" src="/images/Volunteers/Media%202.png">      | Registration closed. |
 
 1\. Be the photographer or videographer for Volunteers of Chingay  
 2\. Capture the volunteers in action during their trainings, briefings and during actual event days  
