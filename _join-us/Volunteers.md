@@ -72,12 +72,6 @@ Assist in preparation and movement of production logistics &amp; props prior to 
 2\. Manage the logistics storage space during the parade  
 3\. Assist in stock taking and keeping of logistics and props after the parade  
 
-|  |   |
-| -------- | -------- | 
-|**Food &amp; Beverage** <br><img style="width:150px;height:200px" align="left" alt="food and beverage" src="/images/Volunteers/F&amp;B%202.png">     | [Register Now!](https://form.gov.sg/64e75d2210701f00114ae99b) |
-
-1\. Distribution of food and drinks to performers, volunteers and working crew    
-
 |  |  |
 | -------- | -------- | 
 | **Production Crew** <br><img style="width:150px;height:200px" align="left" alt="production crew" src="/images/Volunteers/Production%20crew%202.png">    |  [Register now!](https://form.gov.sg/64a3e53a3656490012ec67f8)  |       
@@ -85,10 +79,16 @@ Assist in preparation and movement of production logistics &amp; props prior to 
 1\. To assist in preparation and movement of logistics and props during the parade (might need to carry and standby heavy props)  
 2\. To prepare and cue the performers for their entry/exit at specific timings  
 3\. To guide the performers and floats to the correct position on the parade route    
+
+|  |   |
+| -------- | -------- | 
+|**Food &amp; Beverage** <br><img style="width:150px;height:200px" align="left" alt="food and beverage" src="/images/Volunteers/F&amp;B%202.png">     | Registration closed. |
+
+1\. Distribution of food and drinks to performers, volunteers and working crew    
      
 |   |   |
 | -------- | -------- | 
-| **Admin &amp; Welfare** <br> <img style="width:150px;height:200px" align="left" alt="admin and welfare" src="/images/Volunteers/Admin%20&amp;%20logs%202.png">       | [Register now!](https://form.gov.sg/64f0977908ae6e001104523c) |    
+| **Admin &amp; Welfare** <br> <img style="width:150px;height:200px" align="left" alt="admin and welfare" src="/images/Volunteers/Admin%20&amp;%20logs%202.png">       | Registration closed. |    
 
 1\. Ensure a smooth administrative process for our volunteers during training and event days  
 2\. Assist in the distribution of logistics to volunteers and ensure that their welfare have been taken care of
