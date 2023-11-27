@@ -12,7 +12,7 @@ sections:
         - title: Chingay Webcast
           description: Watch Chingay 2023
           url: https://www.youtube.com/live/SNOEUaoSB5s?feature=share&t=2422
-      background: /images/MicrosoftTeams_image__1_.png
+      background: /images/Chingay_Website_Banner_ver_2.png
   - infopic:
       title: Calling out for performing talents!
       subtitle: Chingay 2024
