@@ -1,21 +1,19 @@
 logo: /images/logo-light.svg
 links:
-  - title: Chingay 2023
+  - title: Chingay 2024
     url: /tickets/
     sublinks:
-      - title: Webcast
+      - title: "Theme: Blossom"
         url: /webcast/
-      - title: Programme Booklet
+      - title: Tickets
         url: /programme
   - title: Community Engagement
     url: /permalink
     sublinks:
-      - title: Mini Floats
+      - title: Community Floats
         url: /minifloats/
-      - title: D:2 Dance Competition
+      - title: PAssionArts Street
         url: /d22023/
-      - title: We've Got Talent! 2023
-        url: /wgt2023/
   - title: Join Us
     collection: join-us
   - title: ABOUT US
