@@ -9,9 +9,9 @@ notification: <a href="https://go.gov.sg/stay-in-touch-with-chingay">Sign Up</a>
 sections:
   - hero:
       key_highlights:
-        - title: Chingay Webcast
-          description: Watch Chingay 2023
-          url: https://www.youtube.com/live/SNOEUaoSB5s?feature=share&t=2422
+        - title: Click here for more details
+          description: ""
+          url: https://www.chingay.gov.sg/tickets/
       background: /images/Chingay_Website_Banner_ver_2.png
   - infopic:
       title: Calling out for performing talents!
