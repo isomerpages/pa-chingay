@@ -2,10 +2,10 @@ collections:
   whats-on:
     output: true
     order:
-      - Chingay2023/Chingay 2023 Ticketing.md
-      - Chingay2023/.keep
-      - Chingay2023/Webcast.md
-      - Chingay2023/Programme Booklet.md
+      - Chingay2024/Chingay 2023 Ticketing.md
+      - Chingay2024/.keep
+      - Chingay2024/Webcast.md
+      - Chingay2024/Programme Booklet.md
       - Community Engagement/.keep
       - Community Engagement/Chingay 2023 Community Floats.md
       - Community Engagement/D:2 Dance Competition 2023.md
