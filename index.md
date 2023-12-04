@@ -18,7 +18,7 @@ sections:
       subtitle: Chingay 2024
       button: find out more
       url: https://www.chingay.gov.sg/whats-on/chingay2024/theme/
-      image: /images/chingay 2023 performer.jpg
+      image: /images/chingay2024_kv_landscape_compressed.png
       alt: Blossom
   - infopic:
       title: Volunteer Registration
