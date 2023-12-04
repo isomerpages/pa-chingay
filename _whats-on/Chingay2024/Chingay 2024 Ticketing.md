@@ -19,7 +19,7 @@ F1 Pit Building<br>
 <img src="/images/Tickets.png" style="float:left; width:30px;height:30px">&nbsp; &nbsp;  $60 / $50 / $40 / $28.50 / $20 (excludes booking fee) <br>
 PAssion Card Members get to enjoy 20% discount!<br>
 <br>
-Click [here](https://www.sistic.com.sg/) to buy tickets!<br>
+Click [here] (https://sistic.com.sg) to buy tickets.<br>
 	
 Limited wheelchair accessible seating is available at the venue. Please contact us at PA_ACD@pa.gov.sg to make purchase.  <br>
 	
