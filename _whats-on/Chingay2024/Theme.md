@@ -1,7 +1,7 @@
 ---
 title: Theme
 permalink: /whats-on/chingay2024/theme/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: Chingay2024
 ---
