@@ -19,7 +19,7 @@ F1 Pit Building<br>
 <img src="/images/Tickets.png" style="float:left; width:30px;height:30px">&nbsp; &nbsp;  $60 / $50 / $40 / $28.50 / $20 (excludes booking fee) <br>
 PAssion Card Members get to enjoy 20% discount!<br>
 <br>
-Ticket sales starts from 8 December 2023. Click[here]  (https://sistic.com.sg)to buy tickets.<br>
+	Ticket sales starts from 8 December 2023. Click <a href="https://sistic.com.sg">here</a> to buy tickets.<br>
 <br>
 Limited wheelchair-accessible seats are available at the Venue. Please contact the Organiser at PA_ACD@pa.gov.sg for ticket purchases.  <br>
 	
