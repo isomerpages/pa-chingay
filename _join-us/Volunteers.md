@@ -29,7 +29,7 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 
 | Roles| Registration Link|  |  
 | -------- | -------- | -------- | 
-| **Volunteers Leader**<br> <img style="width:150px;height:200px" align="left" alt="volunteers leader" src="/images/Volunteers/Leader%202.png">| [Register now!](https://form.gov.sg/64e74e188591b60012a6dccd) |         
+| **Volunteers Leader**<br> <img style="width:150px;height:200px" align="left" alt="volunteers leader" src="/images/Volunteers/Leader%202.png">| [Register as a Volunteers Leader!](https://form.gov.sg/64e74e188591b60012a6dccd) |         
 
 1\. Oversee and manage a group of volunteers  
 2\. Attend additional recce / briefing sessions with planning committee to understand the operational plans  
@@ -40,7 +40,7 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 
 |||
 | -------- | -------- | 
-|**Crowd Management**<br><img style="width:150px;height:200px" align="left" alt="crowd management" src="/images/Volunteers/Crowd%20Management%202.png"> | [Register now!](https://form.gov.sg/64f098160506050012fa99e7)  |        
+|**Crowd Management**<br><img style="width:150px;height:200px" align="left" alt="crowd management" src="/images/Volunteers/Crowd%20Management%202.png"> | [Register as a Crowd Management Volunteer!](https://form.gov.sg/64f098160506050012fa99e7)  |        
 
 1\. Provide directions and information to members of the public  
 2\. Facilitate orderly arrival and dispersal of crowd before and after the parade  
@@ -49,7 +49,7 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 
 |   |   |
 | -------- | -------- | 
-|**General Hospitality** <br><img style="width:150px;height:200px" align="left" alt="general hospitality" src="/images/Volunteers/General%20Hospi.png"> |  [Register now!](https://form.gov.sg/64f09875d3a709001201dd03)  |         
+|**General Hospitality** <br><img style="width:150px;height:200px" align="left" alt="general hospitality" src="/images/Volunteers/General%20Hospi.png"> |  [Register as a General Hospitality Volunteer!](https://form.gov.sg/64f09875d3a709001201dd03)  |         
 
 1\. Check tickets and usher guests to their designated seats  
 2\. Hype up atmosphere and engage the audience before, during and after the parade  
@@ -57,7 +57,7 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 
 |   |   |
 | -------- | -------- | 
-| **Liaison**<br> <img style="width:150px;height:200px" align="left" alt="liaison" src="/images/Volunteers/Liaison%202.png"> | [Register now!](https://form.gov.sg/64f0990136f4d00012040b9e) |
+| **Liaison**<br> <img style="width:150px;height:200px" align="left" alt="liaison" src="/images/Volunteers/Liaison%202.png"> | [Register as a Liaison Volunteer !](https://form.gov.sg/64f0990136f4d00012040b9e) |
 
 1\. Manage the arrival and departure of performers and organized groups by chartered buses  
 2\. Manage the buses at the various Coach Reporting areas  
