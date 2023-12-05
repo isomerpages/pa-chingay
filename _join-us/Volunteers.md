@@ -57,7 +57,7 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 
 |   |   |
 | -------- | -------- | 
-| **Liaison**<br> <img style="width:150px;height:200px" align="left" alt="liaison" src="/images/Volunteers/Liaison%202.png"> | [Register as a Liaison Volunteer !](https://form.gov.sg/64f0990136f4d00012040b9e) |
+| **Liaison**<br> <img style="width:150px;height:200px" align="left" alt="liaison" src="/images/Volunteers/Liaison%202.png"> | [Register as a Liaison Volunteer!](https://form.gov.sg/64f0990136f4d00012040b9e) |
 
 1\. Manage the arrival and departure of performers and organized groups by chartered buses  
 2\. Manage the buses at the various Coach Reporting areas  
@@ -65,7 +65,7 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 
 |  |   |
 | -------- | -------- | 
-|**Logistics** <br><img style="width:150px;height:200px" align="left" alt="logistics" src="/images/Volunteers/Logistics%202.png">        |  [Register now!](https://form.gov.sg/64e75bbb962d3200123a1144) |
+|**Logistics** <br><img style="width:150px;height:200px" align="left" alt="logistics" src="/images/Volunteers/Logistics%202.png">        |  [Register as  a Logistic Volunteer!](https://form.gov.sg/64e75bbb962d3200123a1144) |
 
 Assist in preparation and movement of production logistics &amp; props prior to the parade  
 1\. Distribute logistics items such as parade props, walkie talkie and lanyards  
@@ -74,7 +74,7 @@ Assist in preparation and movement of production logistics &amp; props prior to 
 
 |  |  |
 | -------- | -------- | 
-| **Production Crew** <br><img style="width:150px;height:200px" align="left" alt="production crew" src="/images/Volunteers/Production%20crew%202.png">    |  [Register now!](https://form.gov.sg/64a3e53a3656490012ec67f8)  |       
+| **Production Crew** <br><img style="width:150px;height:200px" align="left" alt="production crew" src="/images/Volunteers/Production%20crew%202.png">    |  [Register as a Production Crew Volunteer!](https://form.gov.sg/64a3e53a3656490012ec67f8)  |       
 
 1\. To assist in preparation and movement of logistics and props during the parade (might need to carry and standby heavy props)  
 2\. To prepare and cue the performers for their entry/exit at specific timings  
