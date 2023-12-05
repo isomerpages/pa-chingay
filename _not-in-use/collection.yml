@@ -2,6 +2,7 @@ collections:
   not-in-use:
     output: true
     order:
+      - We've Got Talent! 2023.md
       - D:2 Dance Competition 2023.md
       - Chingay 2023 Community Floats.md
       - Programme Booklet.md
