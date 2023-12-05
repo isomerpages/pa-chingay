@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Chingay 2023
+title: Chingay 2024
 description: Chingay Parade Singapore
 image: /images/isomer-logo.svg
 permalink: /
