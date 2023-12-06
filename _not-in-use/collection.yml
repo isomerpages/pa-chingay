@@ -2,6 +2,11 @@ collections:
   not-in-use:
     output: true
     order:
+      - We've Got Talent! 2023.md
+      - D:2 Dance Competition 2023.md
+      - Chingay 2023 Community Floats.md
+      - Programme Booklet.md
+      - Webcast.md
       - Chingay Taster Experience.md
       - Chingay @ Heartlands.md
       - Chingay Mama Shop 2023.md
@@ -13,7 +18,6 @@ collections:
       - Post Chingay Programmes.md
       - Vote for Your Favourite Performing Group.md
       - Vote for Your Favourite Mini Floats.md
-      - Chingay 2023 Ticketing.md
       - Sponsor Donors Backup.md
       - We've Got Talent! 2023 Voting.md
       - Chingay50 @ Heartlands.md

@@ -2,7 +2,6 @@
 title: Chingay 2023 Community Floats
 permalink: /minifloats/
 description: ""
-third_nav_title: Community Engagement
 ---
 <div style="font-size:1.1rem;">
 Debuted at Chingay Parade 2022, this is an initiative made possible with the involvement of our residents in co-creating the mini floats and guided by our local artists. A total of 17 unique "Future Singapore" Chingay Mini Floats will be presented at Chingay Parade 2023 and various heartlands, to bring cheers to the community!</div>
