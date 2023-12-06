@@ -9,8 +9,16 @@ third_nav_title: Chingay2024
 
 <h2>Chingay Parade Singapore 2024: Blossom</h2>
 
-<div style="font-size:1.15rem">Chingay Parade Singapore is back to F1 Pit! Join us as we stride into the first year after its Golden Jubilee, presenting an entirely different experience of arts, culture, and heritage set in a musical format to mark a new beginning. Chingay Parade 2023 completes the trilogy that began with 2021’s “Light of Hope”, followed by 2022’s “Ignite Our Dreams” and 2023’s “Embrace Tomorrow”. It calls on Singaporeans to treasure the present and embrace tomorrow together as a community with hope, dream, and confidence as we commit to a brighter Singapore.<br><br>
-Indulge in the colourful and vibrant Chingay Parade brought to you by the diverse talents and multi-ethnic community, performed in front of a street-style container art backdrop that is co-created by youths. Be enticed by the return of the iconic Chingay floats and 17 community co-created mini floats which exemplifies our strong community spirit and togetherness.<br><br></div>
+<div style="font-size:1.15rem">Come Chingay Parade 2024, audiences will be busked in the captivating theme of “Blossom.” The theme signifies the growth, transformation and flourishing of both individuals and communities and Chingay’s aspiration for like-minded people and partners to come together to blossom as one community.&nbsp;
+<br><br>
+The enchanting blooming flowers scattered amongst the parade reflects our people’s spirit of unity and togetherness and a showcase of the different talents. &nbsp;It will be a spectacle promises of colourful and vibrant costumes, special effects, with flowers taking centre stage as an exquisite motif throughout the six mesmerizing acts.
+<br><br>
+<b>Highlights</b>:
+<br>
+	<li><b>230m Interactive Floor Projection</b>: Being Singapore’s longest floor projection ever for a street parade, audiences can immerse in it as creative graphics and special visuals light up this beautiful Chingay Garden!</li>
+	<li><b>PAssionArts Street</b>: Be sure to visit the art installations, make these your instagrammable spots and try your hands in the various art activities. </li>
+	<li><b>Chingay National Education (NE) – Blossoming Art Installation</b>: Explore the Chingay space, near/around the F1 Pit Building, which welcomes you with blossom-themed  art installations made from recycled materials by the creative students from seven primary and secondary schools. </li>
+</div>
 <div style="line-height:2rem;font-size:1.15rem"><img src="/images/Date.png" style="float:left; width:30px;height:30px">&nbsp; &nbsp; Fri, 23 &amp; Sat 24 February 2024<br>
 <img src="/images/Time.png" style="float:left; width:30px;height:30px">
 &nbsp;  &nbsp; 8pm<br>

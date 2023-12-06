@@ -1,7 +1,8 @@
 ---
 title: Performers
 permalink: /join-us/performers/
-description: ""
+description: Chingay performer
+variant: markdown
 ---
 # **Chingay is calling out for performing talents!**
 
@@ -16,7 +17,7 @@ However, individuals or groups with any type of performing talents can still exp
     padding-top: 5px;
     padding-bottom: 8px;">
   If the form below is not loaded, you can also fill it in at
-  <a href="https://go.gov.sg/chingay24callforperformers">here</a>.
+  <a href="https://go.gov.sg/chingay24callforperformers">https://go.gov.sg/chingay24callforperformers</a>.
 </div>
 
 <!-- Change the width and height values to suit you best -->

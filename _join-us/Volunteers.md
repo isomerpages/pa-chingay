@@ -1,7 +1,7 @@
 ---
 title: Volunteers
 permalink: /join-us/volunteers/
-description: ""
+description: Chingay volunteers
 variant: markdown
 ---
 # **Volunteer Recruitment for Chingay 2024 is back!**

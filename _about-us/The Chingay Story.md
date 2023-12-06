@@ -1,7 +1,8 @@
 ---
 title: The Chingay Story
 permalink: /about-us/the-chingay-story/
-description: ""
+description: Chingay story
+variant: tiptap
 ---
 The word Chingay is equivalent to the Mandarin word 妆艺 (zhuangyi) which means the art of costume and masquerade in the Hokkien dialect. Here in Singapore, the Chingay Parade started in 1973 as a street parade to celebrate the Chinese New Year. Since then, it has evolved into an annual iconic event that showcases Singapore’s rich and unique multi-ethnic and cosmopolitan cultures. 
 
