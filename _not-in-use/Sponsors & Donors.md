@@ -42,15 +42,7 @@ variant: markdown
 
 <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(325px,1fr));">
     <div style="text-align: left;">
-        <b>Official Caterer</b>
-        <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr));border-top: 1px solid black;">
-            <div style="text-align: left;padding-top:25px;"><img src="/images/Sponsors%20&amp;%20Donors/stamford-catering-18-october-2019-16-40-27.png" alt="People's Association" style="width:160px;float:left;"> </div>
-            <div style="text-align: left; padding-top: 8%;"><img src="/images/Sponsors%20&amp;%20Donors/peach-garden-(colour)-14-october-2019-18-28-03.png" alt="Chingay Parade Singapore" style="width: 150px; float: left;"> </div>
-            <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
-        </div>
-    </div>
-    <div style="text-align: left;">
-        <b>Official Ticketing Partner</b>
+<b>Official Ticketing Partner</b>
         <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr)); border-top: 1px solid black;">
             <div style="text-align: left; padding-top: 35px;"><img src="/images/SISTIC_Logo_Full_Color.png" alt="Lazada" style="width: 180px; float: left;"> </div>
             <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
