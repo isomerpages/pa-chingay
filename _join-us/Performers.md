@@ -21,7 +21,7 @@ However, individuals or groups with any type of performing talents can still exp
 </div>
 
 <!-- Change the width and height values to suit you best -->
-<iframe style="width: 100%; height: 500px" src="https://form.gov.sg/64a2386e773e020011928553" id="iframe"></iframe>
+<iframe title="myFrame" style="width: 100%; height: 500px" src="https://form.gov.sg/64a2386e773e020011928553" id="iframe">frame body</iframe>
 
 <div style="font-family: Sans-Serif;
     font-size: 10px;
