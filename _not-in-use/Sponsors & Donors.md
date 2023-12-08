@@ -14,9 +14,9 @@ variant: markdown
         </div>
     </div>
     <div style="text-align: left;">
-			<b>Principal Founding Sponsors</b>
+			<b>Principal Founding Sponsor</b>
         <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr)); border-top: 1px solid black;">
-            <div style="text-align: left; padding-top: 15px;"><img src="/images/Sponsors%20&amp;%20Donors/tote-board-23-october-2019-17-24-12.jpg" alt="Toteboard" style="width: 80px; float: left;"> </div>
+            <div style="text-align: left; padding-top: 15px;"><img src="/images/Sponsors%20&amp;%20Donors/tote-board-23-october-2019-17-24-12.jpg" alt="Toteboard" style="width: 80px; float: center;"> </div>
             <div style="text-align: left; padding-top: 18px;"></div>
             <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
             <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
@@ -29,14 +29,12 @@ variant: markdown
     <div style="margin: 5px auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr)); border-top: 1px solid black;">
         <div style="text-align: center;"><img src="/images/Sponsors%20&amp;%20Donors/DBS-Jan2023.png" alt="DBS" style="width:150px; padding-top:8%;"> </div>
         <div style="text-align: center;"><img src="/images/Sponsors%20&amp;%20Donors/POSB-Jan2023.png" alt="POSB" style="width:150px; padding-top:8%;"> </div>
-        <div style="text-align: center;"><img src="/images/Sponsors%20&amp;%20Donors/Nunchi%20Marine%20Logo%20Vector%20-%202023.png" alt="Nunchi Marine" style="width:200px;padding-top:3%;">        <img src="/images/Sponsors%20&amp;%20Donors/kkl-14-october-2019-18-47-18.png" alt="KKL" style="width:150px;padding-top:15%;"> </div>
-<div style="text-align: center;"> 
-        <div style="text-align: center;"><img src="/images/Sponsors%20&amp;%20Donors/loyang-tua-pek-gong-14-october-2019-18-26-36.jpg" alt="Loyang Tua Pek Gong" style="width:120px;"> </div>
-        <div style="text-align: center;"><img src="/images/Sponsors%20&amp;%20Donors/hock-lam-11-february-2021-21-54-16.png" alt="Hock Lam" style="width:170px;padding-top:29%;"> </div> </div>
+        <div style="text-align: center;"><img src="/images/Sponsors%20&amp;%20Donors/Nunchi%20Marine%20Logo%20Vector%20-%202023.png" alt="Nunchi Marine" style="width:200px;padding-top:3%;"></div>
+					<div style="text-align:center;"><img src="/images/Sponsors%20&amp;%20Donors/kkl-14-october-2019-18-47-18.png" alt="KKL" style="width:150px;padding-top:15%;"></div>
+        <div style="text-align: center;"><img src="/images/Sponsors%20&amp;%20Donors/hock-lam-11-february-2021-21-54-16.png" alt="Hock Lam" style="width:170px;padding-top:29%;"> </div></div>
         <div style="text-align: center;"> </div>
         <div style="text-align: center;"> </div>
         <div style="text-align: center;"> </div>
-</div>
 </div>
 <br>
 
@@ -51,6 +49,7 @@ variant: markdown
         </div>
     </div>
 </div>
+<br>
 
 <div style="text-align: left;">
     <b>Official Cards</b>
