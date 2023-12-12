@@ -12,7 +12,7 @@ sections:
         - title: Click here for more details
           description: ""
           url: https://www.chingay.gov.sg/tickets/
-      background: /images/Chingay_Website_Banner_ver_2.png
+      background: /images/Website_Banner_CorrectedLogo_Ver_1.png
   - infopic:
       title: "Theme: Blossom"
       subtitle: Chingay 2024
