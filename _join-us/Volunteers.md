@@ -29,7 +29,7 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 
 | Roles| Registration Link|  |  
 | -------- | -------- | -------- | 
-| **Volunteers Leader**<br> <img style="width:150px;height:200px" align="left" alt="volunteers leader" src="/images/Volunteers/Leader%202.png">| [Register as a Volunteers Leader!](https://form.gov.sg/64e74e188591b60012a6dccd) |         
+| **Volunteers Leader**<br> <img style="width:150px;height:200px" align="left" alt="volunteers leader" src="/images/Volunteers/Leader%202.png"> | Registration closed. |        
 
 1\. Oversee and manage a group of volunteers  
 2\. Attend additional recce / briefing sessions with planning committee to understand the operational plans  
@@ -70,8 +70,19 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 
 1\. To assist in preparation and movement of logistics and props during the parade (might need to carry and standby heavy props)  
 2\. To prepare and cue the performers for their entry/exit at specific timings  
-3\. To guide the performers and floats to the correct position on the parade route    
+3\. To guide the performers and floats to the correct position on the parade route 
 
+|  |   |
+| **Volunteers Leader**<br> <img style="width:150px;height:200px" align="left" alt="volunteers leader" src="/images/Volunteers/Leader%202.png"> | Registration closed. |        
+
+1\. Oversee and manage a group of volunteers  
+2\. Attend additional recce / briefing sessions with planning committee to understand the operational plans  
+3\. Assist in administrative issues (contacting of or disseminating information to volunteers, marking of attendance etc.)  
+4\. Communicate the plans to the volunteers under their charge  
+5\. Resolve any issues/situations that occur  
+6\. Encourage and motivate the volunteers
+
+|||
 |  |   |
 | -------- | -------- | 
 |**Logistics** <br><img style="width:150px;height:200px" align="left" alt="logistics" src="/images/Volunteers/Logistics%202.png">        | Registration closed. |
