@@ -28,7 +28,6 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 ## **Roles Available**
 
 | Roles| Registration Link|   
-|||
 | -------- | -------- | 
 |**Crowd Management**<br><img style="width:150px;height:200px" align="left" alt="crowd management" src="/images/Volunteers/Crowd%20Management%202.png"> | [Register as a Crowd Management Volunteer!](https://form.gov.sg/64f098160506050012fa99e7)  |        
 
