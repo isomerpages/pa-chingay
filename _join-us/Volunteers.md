@@ -6,7 +6,7 @@ variant: markdown
 ---
 # **Volunteer Recruitment for Chingay 2024 is back!**
 
-We would like to invite you to join us as volunteers to support the parade and contribute to the positive experiences of people from all walks o.f life. 
+We would like to invite you to join us as volunteers to support the parade and contribute to the positive experiences of people from all walks of life. 
 
 Alternatively, if you would like to be a part of the performing contingent, you may register via: [https://www.chingay.gov.sg/join-us/performers/](https://www.chingay.gov.sg/join-us/performers/).
 
@@ -63,14 +63,6 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 2\. Manage the buses at the various Coach Reporting areas  
 3\. Ensure the orderliness at the Coach Reporting Centre 
 
-|  |   |
-| -------- | -------- | 
-|**Logistics** <br><img style="width:150px;height:200px" align="left" alt="logistics" src="/images/Volunteers/Logistics%202.png">        |  [Register as  a Logistic Volunteer!](https://form.gov.sg/64e75bbb962d3200123a1144) |
-
-Assist in preparation and movement of production logistics &amp; props prior to the parade  
-1\. Distribute logistics items such as parade props, walkie talkie and lanyards  
-2\. Manage the logistics storage space during the parade  
-3\. Assist in stock taking and keeping of logistics and props after the parade  
 
 |  |  |
 | -------- | -------- | 
@@ -79,6 +71,15 @@ Assist in preparation and movement of production logistics &amp; props prior to 
 1\. To assist in preparation and movement of logistics and props during the parade (might need to carry and standby heavy props)  
 2\. To prepare and cue the performers for their entry/exit at specific timings  
 3\. To guide the performers and floats to the correct position on the parade route    
+
+|  |   |
+| -------- | -------- | 
+|**Logistics** <br><img style="width:150px;height:200px" align="left" alt="logistics" src="/images/Volunteers/Logistics%202.png">        | Registration closed. |
+
+Assist in preparation and movement of production logistics &amp; props prior to the parade  
+1\. Distribute logistics items such as parade props, walkie talkie and lanyards  
+2\. Manage the logistics storage space during the parade  
+3\. Assist in stock taking and keeping of logistics and props after the parade  
 
 |  |   |
 | -------- | -------- | 
