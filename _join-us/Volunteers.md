@@ -27,17 +27,7 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 
 ## **Roles Available**
 
-| Roles| Registration Link|  |  
-| -------- | -------- | -------- | 
-| **Volunteers Leader**<br> <img style="width:150px;height:200px" align="left" alt="volunteers leader" src="/images/Volunteers/Leader%202.png"> | Registration closed. |        
-
-1\. Oversee and manage a group of volunteers  
-2\. Attend additional recce / briefing sessions with planning committee to understand the operational plans  
-3\. Assist in administrative issues (contacting of or disseminating information to volunteers, marking of attendance etc.)  
-4\. Communicate the plans to the volunteers under their charge  
-5\. Resolve any issues/situations that occur  
-6\. Encourage and motivate the volunteers
-
+| Roles| Registration Link|   
 |||
 | -------- | -------- | 
 |**Crowd Management**<br><img style="width:150px;height:200px" align="left" alt="crowd management" src="/images/Volunteers/Crowd%20Management%202.png"> | [Register as a Crowd Management Volunteer!](https://form.gov.sg/64f098160506050012fa99e7)  |        
