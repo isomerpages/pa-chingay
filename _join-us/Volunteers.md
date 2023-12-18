@@ -64,7 +64,6 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 3\. Ensure the orderliness at the Coach Reporting Centre 
 
 
-
 |  |  |
 | -------- | -------- | 
 | **Production Crew** <br><img style="width:150px;height:200px" align="left" alt="production crew" src="/images/Volunteers/Production%20crew%202.png">    |  [Register as a Production Crew Volunteer!](https://form.gov.sg/64a3e53a3656490012ec67f8)  |       
@@ -72,6 +71,7 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 1\. To assist in preparation and movement of logistics and props during the parade (might need to carry and standby heavy props)  
 2\. To prepare and cue the performers for their entry/exit at specific timings  
 3\. To guide the performers and floats to the correct position on the parade route    
+
 |  |   |
 | -------- | -------- | 
 |**Logistics** <br><img style="width:150px;height:200px" align="left" alt="logistics" src="/images/Volunteers/Logistics%202.png">        | Registration closed. |
@@ -80,6 +80,7 @@ Assist in preparation and movement of production logistics &amp; props prior to 
 1\. Distribute logistics items such as parade props, walkie talkie and lanyards  
 2\. Manage the logistics storage space during the parade  
 3\. Assist in stock taking and keeping of logistics and props after the parade  
+
 |  |   |
 | -------- | -------- | 
 |**Food &amp; Beverage** <br><img style="width:150px;height:200px" align="left" alt="food and beverage" src="/images/Volunteers/F&amp;B%202.png">     | Registration closed. |
