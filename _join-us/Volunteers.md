@@ -71,7 +71,6 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 5\. Resolve any issues/situations that occur  
 6\. Encourage and motivate the volunteers
 
-|||
 |  |   |
 | -------- | -------- | 
 |**Logistics** <br><img style="width:150px;height:200px" align="left" alt="logistics" src="/images/Volunteers/Logistics%202.png">        | Registration closed. |
