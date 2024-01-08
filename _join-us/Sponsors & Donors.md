@@ -16,8 +16,8 @@ variant: markdown
     <div style="text-align: left;">
 			<b>Principal Founding Sponsor</b>
         <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr)); border-top: 1px solid black;">
-            <div style="text-align: center; padding-top: 15px;padding-left:120px;"><img src="/images/Sponsors%20&amp;%20Donors/tote-board-23-october-2019-17-24-12.jpg" alt="Toteboard" style="width: 80px; float: center;"> </div>
-            <div style="text-align: left; padding-top: 18px;"></div>
+            <div style="text-align: center; padding-top: 15px;padding-left:120px;"><img src="/images/Tote_Board_Logo_horizontal__Colour_.png" alt="toteboard" style="width: 1000px; height:68px; float: center;"> </div>
+            <div style="text-align: left; padding-top: 50px;"></div>
             <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
             <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
         </div>
