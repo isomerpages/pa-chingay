@@ -49,9 +49,7 @@ variant: markdown
   <div style="text-align: left;">
         <b>Official Ticketing Partner</b>
         <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr));border-top: 1px solid black; padding-top:2%;">
-            <div style="text-align: left; padding-top: 10%;"><img src="/images/SISTIC_Logo_Full_Color.png" alt="SISTIC" style="width: 133px; float: left;"> </div>
-            <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
-					
+            <div style="text-align: left; padding-top: 10%;"><img src="/images/SISTIC_Logo_Full_Color.png" alt="SISTIC" style="width: 133px; float: left;"> </div>					
   </div>
   </div>
 			
@@ -63,10 +61,10 @@ variant: markdown
             <div style="text-align: left; padding-top: 10%; padding-bottom:10%;"><img src="/images/Sponsors%20&amp;%20Donors/Tote_Board_Logo_horizontal__Colour_.png" alt="SMRT" style="width:150px;float:left;"> </div>
         </div>
 </div>
-	
+</div>	
 	
 <div style="text-align: left;">
-    <b>Official Cards</b>
+    <b>Official Caterer</b>
     <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr)); border-top: 1px solid black;">
         <div style="text-align: left; padding-top: 10px;"><img src="/images/Sponsors%20&amp;%20Donors/Tote_Board_Logo_horizontal__Colour_.png" alt="Stamford" style="width: 150px; float: left;"> </div>
         <div style="text-align: left; padding-top: 10px;"><img src="/images/Sponsors%20&amp;%20Donors/Tote_Board_Logo_horizontal__Colour_.png" alt="Peach Garden" style="width: 150px; float: left;"> </div>
@@ -75,6 +73,7 @@ variant: markdown
         <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
     </div>
 </div>
+
 
 <div style="text-align: left;">
     <b>Official Cards</b>
@@ -94,4 +93,4 @@ Be a part of our extensive outreach and co-create the Chingay Parade with us.
 
 For more information regarding sponsorship and partnership opportunities, please contact us at:
 
-[pa_acd@pa.gov.sg](mailto:pa_acd@pa.gov.sg)</div></div></div>
+[pa_acd@pa.gov.sg](mailto:pa_acd@pa.gov.sg)</div></div>
