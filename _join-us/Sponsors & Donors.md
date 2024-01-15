@@ -40,7 +40,7 @@ variant: markdown
         <div style="text-align: center;"> </div>
         <div style="text-align: center;"> </div>
         <div style="text-align: center;"> </div>
-</div>
+			</div></div>
 <br>
 <br>			
 			
@@ -88,7 +88,7 @@ variant: markdown
     </div>
 </div>
 
-</div>
+
 
 # **Be Our Sponsors Or Partners!**
 
