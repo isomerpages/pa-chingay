@@ -89,6 +89,7 @@ variant: markdown
 
 
 # **Be Our Sponsors Or Partners!**
+
 Be a part of our extensive outreach and co-create the Chingay Parade with us.
 
 For more information regarding sponsorship and partnership opportunities, please contact us at:
