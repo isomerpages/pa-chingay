@@ -63,7 +63,7 @@ variant: markdown
         <div style="text-align: left; padding-top: 10px;"><img src="/images/Sponsors%20&amp;%20Donors/peach-garden-(colour)-14-october-2019-18-28-03.png" alt="Peach Garden" style="width: 150px; float: left;"> </div>
         </div>
 </div>
-	
+</div>
 
 <div style="text-align: left;">
     <b>[TITLE]</b>
@@ -97,4 +97,4 @@ Be a part of our extensive outreach and co-create the Chingay Parade with us.
 
 For more information regarding sponsorship and partnership opportunities, please contact us at:
 
-[pa_acd@pa.gov.sg](mailto:pa_acd@pa.gov.sg)</div>
+[pa_acd@pa.gov.sg](mailto:pa_acd@pa.gov.sg)
