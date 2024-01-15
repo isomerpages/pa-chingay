@@ -42,7 +42,7 @@ variant: markdown
         <div style="text-align: center;"> </div>
 </div>
 <br>
-			
+<br>			
 			
 <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(325px,1fr));">
    
