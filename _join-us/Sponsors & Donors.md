@@ -40,7 +40,9 @@ variant: markdown
         <div style="text-align: center;"> </div>
         <div style="text-align: center;"> </div>
         <div style="text-align: center;"> </div>
-			</div></div>
+			</div>
+	</div>
+		</div>
 <br>
 <br>			
 			
@@ -74,7 +76,7 @@ variant: markdown
             <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
         </div>			
     </div>
-</div>
+
 
 
 <div style="text-align: left;">
