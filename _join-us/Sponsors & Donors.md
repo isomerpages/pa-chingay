@@ -42,7 +42,7 @@ variant: markdown
         <div style="text-align: center;"> </div>
 			</div>
 	</div>
-		</div>
+</div>
 <br>
 <br>			
 			
