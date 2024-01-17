@@ -22,6 +22,8 @@ description: ""
 </div>
 
 </div>
+</div>
+
 
 # **Be Our Sponsors Or Partners!**
 
@@ -29,4 +31,4 @@ Be a part of our extensive outreach and co-create the Chingay Parade with us.
 
 For more information regarding sponsorship and partnership opportunities, please contact us at:
 
-[pa_acd@pa.gov.sg](mailto:pa_acd@pa.gov.sg)</div>
+[pa_acd@pa.gov.sg](mailto:pa_acd@pa.gov.sg)
