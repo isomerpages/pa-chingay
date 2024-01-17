@@ -4,6 +4,9 @@ permalink: /test/
 variant: markdown
 description: ""
 ---
+
+<div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(325px,1fr));padding-bottom:20px;">
+	
 <div style="text-align: center;">
         <b>Organised By</b>
         <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr));border-top: 1px solid black; padding-top:3%; padding-bottom:3%;">
@@ -26,4 +29,4 @@ Be a part of our extensive outreach and co-create the Chingay Parade with us.
 
 For more information regarding sponsorship and partnership opportunities, please contact us at:
 
-[pa_acd@pa.gov.sg](mailto:pa_acd@pa.gov.sg)
+[pa_acd@pa.gov.sg](mailto:pa_acd@pa.gov.sg)</div>
