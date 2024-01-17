@@ -6,7 +6,7 @@ description: ""
 ---
 <div style="text-align: center;"><b>Organised By</b>
 
-&nbsp; &nbsp; <div style="text-align: center; margin:auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(150px,1fr)); border-top: 1px solid black; padding-top:2%;align-items: center">
+&nbsp; &nbsp; <div style="text-align: center; margin:auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(0px,1fr)); border-top: 1px solid black; padding-top:2%;align-items: center">
 
 &nbsp; &nbsp; &nbsp; <div><img src="/images/Sponsors%20&amp;%20Donors/pa-14-october-2019-18-19-28.png" alt="Peoples Association" style=""></div>
 
