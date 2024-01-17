@@ -76,9 +76,9 @@ variant: markdown
 <div style="text-align: center;">
         <b>Official Cards</b>
         <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(140px,1fr));border-top: 1px solid black; padding-top:3%; padding-bottom:3%;align-items: center;">
-      <div><img src="/images/Sponsors%20&amp;%20Donors/PAssionCard%202022%20Black.png" alt="PAssion Card" style="width: 150px;"></div>
-				<div><img src="/images/Sponsors%20&amp;%20Donors/PAssionCard%202022%20Silver.png" alt="PAssion Card Silver" style="width: 150px;"></div>
-				<div><img src="/images/Sponsors%20&amp;%20Donors/PAssionCard%202022%20POSB.png" alt="PAssion Card POSB" style="width: 150px;"></div>
+      <div><img src="/images/Sponsors%20&amp;%20Donors/PAssionCard%202022%20Black.png" alt="PAssion Card" style="width: 120px;"></div>
+				<div><img src="/images/Sponsors%20&amp;%20Donors/PAssionCard%202022%20Silver.png" alt="PAssion Card Silver" style="width: 120px;"></div>
+				<div><img src="/images/Sponsors%20&amp;%20Donors/PAssionCard%202022%20POSB.png" alt="PAssion Card POSB" style="width: 120px;"></div>
         </div>
     </div>
 
