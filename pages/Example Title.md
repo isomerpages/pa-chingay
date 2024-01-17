@@ -6,23 +6,19 @@ description: ""
 ---
 <div style="text-align: center;">
         <b>Organised By</b>
-        <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr));border-top: 1px solid black; padding-top:2%;">
-            <div style="text-align: left;padding-top:5px;"><img src="/images/Sponsors%20&amp;%20Donors/pa-14-october-2019-18-19-28.png" alt="People's Association" style="width:100px;float:left;"> </div>
-            <div style="text-align: left; padding-top: 10%;"><img src="/images/Sponsors%20&amp;%20Donors/chingay-(black)-31-october-2021-11-10-19.png" alt="Chingay Parade Singapore" style="width: 133px; float: left;"> </div>
-            <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
+        <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr));border-top: 1px solid black; padding-top:3%; padding-bottom:3%;">
+            <div><img src="/images/Sponsors%20&amp;%20Donors/pa-14-october-2019-18-19-28.png" alt="People's Association" style="width:100px;"> </div>
+            <div><img src="/images/Sponsors%20&amp;%20Donors/chingay-(black)-31-october-2021-11-10-19.png" alt="Chingay Parade Singapore" style="width: 133px;"> </div>
         </div>
     </div>
 			
-<div style="text-align: left;">
+<div style="text-align: Center;">
         <b>Principal Founding Sponsor</b>
         <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr));border-top: 1px solid black; padding-top:2%;">
-            <div style="text-align: left; padding-top: 10%; padding-bottom:10%;"><img src="/images/Sponsors%20&amp;%20Donors/Tote_Board_Logo_horizontal__Colour_.png" alt="Toteboard" style="width:150px;float:left;"> </div>
-            <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
-        </div>
-            <div style="text-align: left; padding-top: 5px;">&nbsp; </div>
-        </div>
+            <div><img src="/images/Sponsors%20&amp;%20Donors/Tote_Board_Logo_horizontal__Colour_.png" alt="Toteboard" style="width: 133px;"> </div>
+</div>
 
-
+</div>
 
 # **Be Our Sponsors Or Partners!**
 
