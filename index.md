@@ -26,7 +26,7 @@ sections:
       id: infopic
       description: Pre-save Blossom on your preferred music service
       button: Click here to pre-save
-      url: go.gov.sg/presave-cg2024blossom
+      url: https://go.gov.sg/presave-cg2024blossom
       image: /images/Chingay2024/Chingay2024_800x800.png
       alt: Image alt text
 ---
