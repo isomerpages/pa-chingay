@@ -34,9 +34,9 @@ description: ""
         <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(300px,1fr));border-top: 1px solid black; padding-top:3%; padding-bottom:3%;align-items: center;">
             <div><img src="/images/Sponsors%20&amp;%20Donors/DBS-Jan2023.png" alt="DBS" style="width:140px;"> </div>
             <div><img src="/images/Sponsors%20&amp;%20Donors/POSB-Jan2023.png" alt="POSB" style="width: 160px;"> </div>
-					            <div><img src="/images/Sponsors%20&amp;%20Donors/Nunchi%20Marine%20Logo%20Vector%20-%202023.png" alt="Nunchi Marine" style="width: 200px;"> </div>
+					            <div><img src="/images/Sponsors%20&amp;%20Donors/Nunchi%20Marine%20Logo%20Vector%20-%202023.png" alt="Nunchi Marine" style="width: 250px;"> </div>
 					            <div><img src="/images/Sponsors%20&amp;%20Donors/kkl-14-october-2019-18-47-18.png" alt="KKL" style="width: 100px;"> </div>
-					            <div><img src="/images/Sponsors%20&amp;%20Donors/hock-lam-11-february-2021-21-54-16.png" alt="Hock Lam" style="width: 133px;"> </div>
+					            <div><img src="/images/Sponsors%20&amp;%20Donors/hock-lam-11-february-2021-21-54-16.png" alt="Hock Lam" style="width: 190px;"> </div>
         </div>
     </div>
 </div>
