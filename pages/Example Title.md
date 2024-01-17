@@ -4,7 +4,7 @@ permalink: /test/
 variant: markdown
 description: ""
 ---
-<div style="text-align: left;">
+<div style="text-align: center;">
         <b>Organised By</b>
         <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(161px,1fr));border-top: 1px solid black; padding-top:2%;">
             <div style="text-align: left;padding-top:5px;"><img src="/images/Sponsors%20&amp;%20Donors/pa-14-october-2019-18-19-28.png" alt="People's Association" style="width:100px;float:left;"> </div>
