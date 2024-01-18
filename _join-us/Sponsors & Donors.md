@@ -31,8 +31,8 @@ variant: markdown
 <div style="text-align: center;">
         <b>Major Sponsors, Donors and Partners</b>
         <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(140px,1fr));border-top: 1px solid black; padding-top:3%; padding-bottom:3%;align-items: center;">
-            <div><img src="/images/Sponsors%20&amp;%20Donors/DBS-Jan2023.png" alt="DBS" style="width:150px;"> </div>
-            <div><img src="/images/Sponsors%20&amp;%20Donors/POSB-Jan2023.png" alt="POSB" style="width: 160px;"> </div>
+            <div><img src="/images/Sponsors%20&amp;%20Donors/DBS-Jan2023.png" alt="DBS" style="width:160px;"> </div>
+            <div><img src="/images/Sponsors%20&amp;%20Donors/POSB-Jan2023.png" alt="POSB" style="width: 170px;"> </div>
 					            <div><img src="/images/Sponsors%20&amp;%20Donors/Nunchi%20Marine%20Logo%20Vector%20-%202023.png" alt="Nunchi Marine" style="width: 250px;"> </div>
 					           </div>
 	<div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(140px,1fr)); padding-top:3%; padding-bottom:3%;align-items: center;">
