@@ -21,10 +21,12 @@ sections:
       image: /images/chingay2024_kv_landscape_compressed.png
       alt: Blossom
   - infopic:
-      title: Volunteer Registration
-      subtitle: chingay 2024
-      button: find out more
-      url: https://www.chingay.gov.sg/join-us/volunteers/
+      title: Chingay 2024 Themes Song
+      subtitle: Chingay 2024
+      id: infopic
+      description: Pre-save Blossom on your preferred music service
+      button: Click here to pre-save
+      url: https://go.gov.sg/presave-cg2024blossom
+      image: /images/Chingay2024/Chingay2024_800x800.png
       alt: Image alt text
-      image: /images/Volunteers/volunteer_image.jpeg
 ---

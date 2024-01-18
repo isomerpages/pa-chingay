@@ -1,6 +1,8 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+variant: markdown
+description: ""
 ---
 **General**
 
@@ -36,7 +38,7 @@ We further reserve the right to take down any material posted, uploaded, transmi
 
 **Consent and Copyright**
 
-By submitting any photos and/or videos to <a href= "www.chingay.gov.sg">www.chingay.gov.sg</a>, you agree to grant PA a perpetual worldwide non-exclusive royalty-free licence to use, reproduce modify, adapt and sub-licence the photos and/or videos and any accompanying statements or captions in any format or platforms (including print publications, electronic media, social media platforms, websites) for non-commercial purposes such as community projects which are in line with PA's objectives and mission. Where possible, you may be credited for your photos and/or videos in such manner and through such platform(s) as we may determine in our sole discretion.
+By submitting any photos and/or videos to <a href="www.chingay.gov.sg">www.chingay.gov.sg</a>, you agree to grant PA a perpetual worldwide non-exclusive royalty-free licence to use, reproduce modify, adapt and sub-licence the photos and/or videos and any accompanying statements or captions in any format or platforms (including print publications, electronic media, social media platforms, websites) for non-commercial purposes such as community projects which are in line with PA's objectives and mission. Where possible, you may be credited for your photos and/or videos in such manner and through such platform(s) as we may determine in our sole discretion.
 
 You agree that we will not be required to pay any additional consideration or seek any additional approval in connection with any of the above mentioned uses of your photo(s)/video(s).
 

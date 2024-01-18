@@ -1,6 +1,6 @@
 ---
 title: Volunteers
-permalink: /join-us/volunteers/
+permalink: /volunteer/
 description: Chingay volunteers
 variant: markdown
 ---
