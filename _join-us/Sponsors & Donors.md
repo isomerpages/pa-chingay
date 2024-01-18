@@ -31,12 +31,12 @@ variant: markdown
 <div style="text-align: center;">
         <b>Major Sponsors, Donors and Partners</b>
         <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(140px,1fr));border-top: 1px solid black; padding-top:3%; padding-bottom:3%;align-items: center;">
-            <div><img src="/images/Sponsors%20&amp;%20Donors/DBS-Jan2023.png" alt="DBS" style="width:140px;"> </div>
+            <div><img src="/images/Sponsors%20&amp;%20Donors/DBS-Jan2023.png" alt="DBS" style="width:150px;"> </div>
             <div><img src="/images/Sponsors%20&amp;%20Donors/POSB-Jan2023.png" alt="POSB" style="width: 160px;"> </div>
 					            <div><img src="/images/Sponsors%20&amp;%20Donors/Nunchi%20Marine%20Logo%20Vector%20-%202023.png" alt="Nunchi Marine" style="width: 250px;"> </div>
 					           </div>
 	<div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(140px,1fr)); padding-top:3%; padding-bottom:3%;align-items: center;">
-		<div><img src="/images/Sponsors%20&amp;%20Donors/sccc_logo_rgb.png" alt="SCCC" style="width: 140px;"> </div>
+		<div><img src="/images/Sponsors%20&amp;%20Donors/sccc_logo_rgb.png" alt="SCCC" style="width: 150px;"> </div>
 		<div><img src="/images/Sponsors%20&amp;%20Donors/kkl-14-october-2019-18-47-18.png" alt="KKL" style="width: 105px;"> </div>
 					            <div><img src="/images/Sponsors%20&amp;%20Donors/lorong-koo-chye-sheng-hong-14-october-2019-18-26-25.png" alt="Hock Lam" style="width: 95px;"> </div>
 <div><img src="/images/Sponsors%20&amp;%20Donors/loyang-tua-pek-gong-14-october-2019-18-26-36.jpg" alt="Hock Lam" style="width: 85px;"> </div>
