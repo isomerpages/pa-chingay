@@ -35,7 +35,7 @@ variant: markdown
             <div><img src="/images/Sponsors%20&amp;%20Donors/POSB-Jan2023.png" alt="POSB" style="padding-top:3%; padding-bottom:3%;width: 170px;"> </div>
 					            <div><img src="/images/Sponsors%20&amp;%20Donors/Nunchi%20Marine%20Logo%20Vector%20-%202023.png" alt="Nunchi Marine" style="padding-top:3%; padding-bottom:3%; width: 250px;"> </div>
 					           </div>
-<div style="margin: 0 auto; display: grid; grid-gap: 0.5rem; grid-template-columns: repeat(auto-fit, minmax(200px,1fr));align-items: center;">
+<div style="margin: 0 auto; display: grid; grid-gap: 0.5rem; grid-template-columns: repeat(auto-fit, minmax(250px,1fr));align-items: center;">
 		<div><img src="/images/Sponsors%20&amp;%20Donors/sccc_logo_rgb.png" alt="SCCC" style="padding-top:3%; padding-bottom:3%;width: 150px;"> </div>
 <div><img src="/images/Sponsors%20&amp;%20Donors/kkl-14-october-2019-18-47-18.png" alt="KKL" style="padding-top:3%; padding-bottom:3%;width: 105px;"> </div>
 <div><img src="/images/Sponsors%20&amp;%20Donors/lorong-koo-chye-sheng-hong-14-october-2019-18-26-25.png" alt="Hock Lam" style="padding-top:10%; padding-bottom:10%; width: 95px;"> </div>
