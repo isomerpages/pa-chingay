@@ -38,7 +38,7 @@ variant: markdown
 		<div><img src="/images/Sponsors%20&amp;%20Donors/kkl-14-october-2019-18-47-18.png" alt="KKL" style="width: 105px;"> </div>
 					            <div><img src="/images/Sponsors%20&amp;%20Donors/lorong-koo-chye-sheng-hong-14-october-2019-18-26-25.png" alt="Hock Lam" style="width: 95px;"> </div>
 <div><img src="/images/Sponsors%20&amp;%20Donors/loyang-tua-pek-gong-14-october-2019-18-26-36.jpg" alt="Hock Lam" style="width: 85px;"> </div>
-<div><img src="/images/Sponsors%20&amp;%20Donors/hock-lam-11-february-2021-21-54-16.png" alt="Hock Lam" style="width: 150px;"> </div>		
+<div><img src="/images/Sponsors%20&amp;%20Donors/hock-lam-11-february-2021-21-54-16.png" alt="Hock Lam" style="width: 150px; padding-bottom:30px; padding-top:30px;"> </div>		
  </div>
     </div>
 </div>
