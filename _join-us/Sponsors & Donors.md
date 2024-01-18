@@ -8,7 +8,7 @@ variant: markdown
 	
 <div style="text-align: center;">
         <b>Organised By</b>
-        <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(0px,1fr));border-top: 1px solid black; padding-top:3%; padding-bottom:3%;align-items: center; height:150px;">
+        <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(200px,1fr));border-top: 1px solid black; padding-top:3%; padding-bottom:3%;align-items: center; height:150px;">
             <div><img src="/images/Sponsors%20&amp;%20Donors/pa-14-october-2019-18-19-28.png" alt="People's Association" style="width:110px;"> </div>
             <div><img src="/images/Sponsors%20&amp;%20Donors/chingay-(black)-31-october-2021-11-10-19.png" alt="Chingay Parade Singapore" style="width: 200px;"> </div>
         </div>
@@ -35,7 +35,7 @@ variant: markdown
             <div><img src="/images/Sponsors%20&amp;%20Donors/POSB-Jan2023.png" alt="POSB" style="width: 170px;"> </div>
 					            <div><img src="/images/Sponsors%20&amp;%20Donors/Nunchi%20Marine%20Logo%20Vector%20-%202023.png" alt="Nunchi Marine" style="width: 250px;"> </div>
 					           </div>
-<div style="margin: 0 auto; display: grid; grid-gap: 0.5rem; grid-template-columns: repeat(auto-fit, minmax(170px,1fr)); padding-top:3%; padding-bottom:3%;align-items: center;">
+<div style="margin: 0 auto; display: grid; grid-gap: 0.5rem; grid-template-columns: repeat(auto-fit, minmax(150px,1fr)); padding-top:3%; padding-bottom:3%;align-items: center;">
 		<div><img src="/images/Sponsors%20&amp;%20Donors/sccc_logo_rgb.png" alt="SCCC" style="width: 150px;"> </div>
 		<div><img src="/images/Sponsors%20&amp;%20Donors/kkl-14-october-2019-18-47-18.png" alt="KKL" style="width: 105px;"> </div>
 					            <div><img src="/images/Sponsors%20&amp;%20Donors/lorong-koo-chye-sheng-hong-14-october-2019-18-26-25.png" alt="Hock Lam" style="width: 95px;"> </div>
