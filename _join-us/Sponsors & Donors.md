@@ -34,6 +34,8 @@ variant: markdown
             <div><img src="/images/Sponsors%20&amp;%20Donors/DBS-Jan2023.png" alt="DBS" style="width:160px;"> </div>
             <div><img src="/images/Sponsors%20&amp;%20Donors/POSB-Jan2023.png" alt="POSB" style="width: 170px;"> </div>
 					            <div><img src="/images/Sponsors%20&amp;%20Donors/Nunchi%20Marine%20Logo%20Vector%20-%202023.png" alt="Nunchi Marine" style="width: 250px;"> </div>
+					           </div>
+<div style="margin: 0 auto; display: grid; grid-gap: 0.5rem; grid-template-columns: repeat(auto-fit, minmax(150px,1fr)); padding-top:3%; padding-bottom:3%;align-items: center;">
 		<div><img src="/images/Sponsors%20&amp;%20Donors/sccc_logo_rgb.png" alt="SCCC" style="width: 150px;"> </div>
 		<div><img src="/images/Sponsors%20&amp;%20Donors/kkl-14-october-2019-18-47-18.png" alt="KKL" style="width: 105px;"> </div>
 					            <div><img src="/images/Sponsors%20&amp;%20Donors/lorong-koo-chye-sheng-hong-14-october-2019-18-26-25.png" alt="Hock Lam" style="width: 95px;"> </div>
@@ -67,7 +69,6 @@ variant: markdown
 <div style="text-align: center;">
         <b>Media Partners</b>
         <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(0px,1fr));border-top: 1px solid black; padding-top:3%; padding-bottom:3%;align-items: center; height:150px;">
-					  <div><img src="/images/Sponsors%20&amp;%20Donors/jcd-logo.jpeg" alt="JCD" style="width:150px;"> </div>
             <div><img src="/images/Sponsors%20&amp;%20Donors/Stellar_Ace_logo.png" alt="Stellar Ace" style="width:150px;"> </div>
 					<div><img src="/images/Sponsors%20&amp;%20Donors/smrt_trains_logo.jpg" alt="SMRT" style="width:150px;"> </div>
         </div>
