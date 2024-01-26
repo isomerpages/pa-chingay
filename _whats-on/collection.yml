@@ -2,6 +2,7 @@ collections:
   whats-on:
     output: true
     order:
+      - Chingay@Heartlands Celebrations.md
       - Chingay2024/Theme.md
       - Chingay2024/Chingay 2024 Ticketing.md
       - Chingay2024/.keep
