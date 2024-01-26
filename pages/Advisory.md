@@ -2,29 +2,31 @@
 title: Advisory
 permalink: /advisory/
 description: ""
+variant: markdown
 ---
-# Walking Route
-![](/images/whats-on/Chingay%202023%20Walking%20Route%20Map%20w%20Advisory(FreeStanding).png)
 
-[Download Walking Route Here](/files/whats-on/Chingay%202023%20Walking%20Route%20Map%20w%20Advisory(FreeStanding).pdf)
+![](/images/Chingay2024/Chingay_2023_Walking_Route_Map_w_Advisory_FreeStanding_.png)
+
+[Download Walking Route Here](/files/Chingay_2024_Walking_Route_Map_w_Advisory.pdf)
 
 # Road Closure
 
 The general public is encouraged to take note of the following road closure arrangements in order to support the event flow and safety of our participants. 
 
-<div><img src="/images/whats-on/RoadClosure.png"></div>
+<div><img src="/images/Chingay2024/CG24_Road_Closure.jpg"></div>
 
 Nearest Carpark: Millenia Walk &amp; Suntec City
 
 # Advisory
 
-Dear participants, kindly note of the following Terms &amp; Conditions
+Dear participants, kindly note of the following
 
-* No refund or exchange of ticket will be made under all circumstances i.e. adverse weather conditions, dangerous situations, or any other cause beyond reasonable control.
-*   Infants in arms and children under 2 years old may be admitted without ticket provided they do not occupy a seat i.e. they must be seated on the lap of a parent/guardian.
-*   Latecomers will not be admitted until appropriate pause (if any) during the parade. The Organiser reserves the right to refuse entry to latecomers.
-*   Strobe lighting effects and loud noises may be expected at the Parade.
-*   Use of this ticket denotes consent to all listed Terms and Conditions.
-*   The Organiser reserves the right to amend the Terms and Conditions or any information without prior notice.
-* Kindly be informed of the listed prohibited items for Chingay Parade 2023. Bag checks will be conducted, any of the listed items will be confiscated by the organiser as part of the security checks. Participants with pets will be denied entry to the event as well.
-	* The following is non-exhaustive list of prohibited items (Drugs, E-Cigarettes / Vaporisers, Weapons, Drones, Alcohol, Pets)
+TERMS &amp; CONDITIONS
+* Participation in the Event denotes consent to all the Terms and Conditions listed below.
+* The Organiser reserves the right to amend the Terms and Conditions or any information without prior notice.
+
+SECURITY
+* Bag checks will be conducted at the point of entry.
+* Patrons with pets will be denied entry to the Event.
+* Prohibited items will be confiscated by the Organiser for security purposes.
+*  The following is a non-exhaustive list of prohibited items (e.g. drugs, e-cigarettes or vaporisers, weapons, drones, alcohol, pets, etc.)
