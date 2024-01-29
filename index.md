@@ -24,9 +24,9 @@ sections:
       title: Chingay 2024 Themes Song
       subtitle: Chingay 2024
       id: infopic
-      description: Pre-save Blossom on your preferred music service
-      button: Click here to pre-save
-      url: https://go.gov.sg/presave-cg2024blossom
+      description: Listen to Chingay 2024 theme song on spotify.
+      button: Click here to listen
+      url: https://go.gov.sg/cg24blossom
       image: /images/Chingay2024/Chingay2024_800x800.png
       alt: Image alt text
 ---
