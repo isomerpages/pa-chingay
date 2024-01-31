@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 third_nav_title: Chingay2024
 ---
-![](/images/Chingay2024/Chingay_2023_Walking_Route_Map_w_Advisory_FreeStanding_.png)
+
 
 [Download Walking Route Here](/files/Chingay_2024_Walking_Route_Map_w_Advisory.pdf)
 
@@ -13,7 +13,7 @@ third_nav_title: Chingay2024
 
 The general public is encouraged to take note of the following road closure arrangements in order to support the event flow and safety of our participants. 
 
-<div><img src="/images/Chingay2024/CG24_Road_Closure.jpg"></div>
+<div><img src="/images/Chingay2024/Chingay_2024_Road_Closure.png"></div>
 
 Nearest Carpark: Millenia Walk &amp; Suntec City
 
