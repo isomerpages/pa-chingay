@@ -9,6 +9,7 @@ Blossom with your communities as our Chingay floats and stunning performances hi
 
 **Chingay@Jalan Besar GRC and Potong Pasir SMC** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sun, 25 February 2024 <br>
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">6.00pm to 10.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan Start - In front of Blk 77A Indus Rd, Along Ganges Ave<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Kolam Ayer CC<br>
@@ -37,6 +38,7 @@ Caravan End - One Punggol<br>
 
 **Chingay@West Coast GRC and Pioneer SMC**  <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sat, 9 March 2024<br>
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">5.00pm to 10.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan Start - Carpark in front of Telok Blangah CC<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Along Jurong West Street 91 beside Blk 953<br>
