@@ -6,8 +6,7 @@ variant: markdown
 third_nav_title: Chingay2024
 ---
 
-
-[Download Walking Route Here](/files/Chingay_2024_Walking_Route_Map_w_Advisory.pdf)
+![](/images/Chingay2024/Chingay_2023_Walking_Route_Map_w_Advisory_FreeStanding_.png)[Download Walking Route Here](/files/Chingay_2024_Walking_Route_Map_w_Advisory.pdf)
 
 # Road Closure
 
