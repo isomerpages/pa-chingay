@@ -36,11 +36,12 @@ variant: markdown
 					            <div><img src="/images/Sponsors%20&amp;%20Donors/Nunchi%20Marine%20Logo%20Vector%20-%202023.png" alt="Nunchi Marine" style="padding-top:3%; padding-bottom:3%; width: 250px;"> </div>
 					           </div>
 <div style="margin: 0 auto; display: grid; grid-gap: 0.5rem; grid-template-columns: repeat(auto-fit, minmax(200px,1fr));align-items: center;">
-		<div><img src="/images/Sponsors%20&amp;%20Donors/sccc_logo_rgb.png" alt="SCCC" style="padding-top:3%; padding-bottom:3%;width: 150px;"> </div>
-<div><img src="/images/Sponsors%20&amp;%20Donors/kkl-14-october-2019-18-47-18.png" alt="KKL" style="padding-top:3%; padding-bottom:3%;width: 105px;"> </div>
+		<div><img src="/images/Sponsors%20&amp;%20Donors/sccc_logo_rgb.png" alt="SCCC" style="padding-top:3%; padding-bottom:3%;width: 180px;"> </div>
+<div><img src="/images/Sponsors%20&amp;%20Donors/kkl-14-october-2019-18-47-18.png" alt="KKL" style="padding-top:3%; padding-bottom:3%;width: 115px;"> </div>
 <div><img src="/images/Sponsors%20&amp;%20Donors/lorong-koo-chye-sheng-hong-14-october-2019-18-26-25.png" alt="Hock Lam" style="padding-top:10%; padding-bottom:10%; width: 95px;"> </div>
 <div><img src="/images/Sponsors%20&amp;%20Donors/loyang-tua-pek-gong-14-october-2019-18-26-36.jpg" alt="Hock Lam" style="padding-top:10%; padding-bottom:10%; width: 85px;"> </div>
-<div><img src="/images/Sponsors%20&amp;%20Donors/hock-lam-11-february-2021-21-54-16.png" alt="Hock Lam" style="padding-top:20%; padding-bottom:20%;width: 150px;"> </div>		
+<div><img src="/images/Sponsors%20&amp;%20Donors/hock-lam-11-february-2021-21-54-16.png" alt="Hock Lam" style="padding-top:20%; padding-bottom:20%;width: 190px;"> </div>		
+<div><img src="/images/Sponsors%20&amp;%20Donors/dfi-retail-group-20-january-2022-15-08-36.png" alt="KKL" style="padding-top:3%; padding-bottom:3%;width: 99px;"> </div>
  </div>
     </div>
 </div>
@@ -49,12 +50,7 @@ variant: markdown
 
 <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(325px,1fr));padding-bottom:20px;">
 	
-<div style="text-align: center;">
-        <b>Official Ticketing Partner</b>
-        <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(0px,1fr));border-top: 1px solid black; padding-top:3%; padding-bottom:3%;align-items: center; height:150px;">
-            <div><img src="/images/SISTIC_Logo_Full_Color.png" alt="SISTIC" style="padding-top:3%; padding-bottom:3%; width:120px;"> </div>
-        </div>
-    </div>
+
 			
 <div style="text-align: Center;">
         <b>Official Caterers</b>
@@ -63,6 +59,13 @@ variant: markdown
 					   <div><img src="/images/Sponsors%20&amp;%20Donors/peach-garden-(colour)-14-october-2019-18-28-03.png" alt="Stamford" style="padding-top:3%; padding-bottom:3%; width: 120px;"> </div>
 </div>
 </div>
+	
+<div style="text-align: center;">
+        <b>Official Ticketing Partner</b>
+        <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(0px,1fr));border-top: 1px solid black; padding-top:3%; padding-bottom:3%;align-items: center; height:150px;">
+            <div><img src="/images/SISTIC_Logo_Full_Color.png" alt="SISTIC" style="padding-top:3%; padding-bottom:3%; width:120px;"> </div>
+        </div>
+    </div>
 </div>
 
 

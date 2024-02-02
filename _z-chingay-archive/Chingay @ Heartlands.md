@@ -1,7 +1,8 @@
 ---
 title: Chingay @ Heartlands
-permalink: /heartlands/
+permalink: /heartlands-2023/
 description: ""
+variant: tiptap
 ---
 Chingay@Heartlands Celebrations 2023 bring the Chingay experience closer to residents with a local twist and flavour, energising audiences through immersive and experiential Chingay (arts) programmes and invoking their interests. Featuring Chingay Truncated Show, Chingay Floats Caravan, Chingay Mini Floats display and roving Chingay performers, check out the celebrations at these listed dates and venues. Contact the relavant CC for more information.
 
