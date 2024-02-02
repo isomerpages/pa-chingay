@@ -9,7 +9,7 @@ third_nav_title: Chingay2024
 
 # Road Closure
 
-The general public is encouraged to take note of the following road closure arrangements in order to support the event flow and safety of our participants. 
+The general public is encouraged to take note of the following road closure arrangements. This will facilitate the event flow and safety of our participants. 
 
 <div><img src="/images/Chingay2024/Chingay_2024_Road_Closure.png"></div>
 
