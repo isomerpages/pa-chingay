@@ -25,7 +25,7 @@ Caravan End - Senja Cashew CC<br>
 **Chingay@Marine Parade GRC, MacPherson SMC and Mountbatten SMC** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sat, 2 March 2024<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
-Caravan Start - Infront of BraddellHeights CC Basketball Court and Sports Arena<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
+Caravan Start - Junction of Upper Serangoon Road and Serangoon Central<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Infront of Blk 311 along Eunos Link<br>
 
 

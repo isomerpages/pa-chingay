@@ -19,6 +19,9 @@ Nearest Carpark: Millenia Walk &amp; Suntec City
 
 Dear participants, kindly note the following
 
+* The parade will feature strobe lights and music broadcast through a surround-sound system.
+
+
 TERMS &amp; CONDITIONS
 * Participation in the Event denotes consent to all the Terms and Conditions listed below.
 * The Organiser reserves the right to amend the Terms and Conditions or any information without prior notice.
@@ -28,3 +31,4 @@ SECURITY
 * Patrons with pets will be denied entry to the Event.
 * Prohibited items will be confiscated by the Organiser for security purposes.
 *  The following is a non-exhaustive list of prohibited items (e.g. drugs, e-cigarettes or vaporisers, weapons, drones, alcohol, pets, etc.)
+
