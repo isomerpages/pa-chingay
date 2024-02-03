@@ -28,3 +28,4 @@ SECURITY
 * Patrons with pets will be denied entry to the Event.
 * Prohibited items will be confiscated by the Organiser for security purposes.
 *  The following is a non-exhaustive list of prohibited items (e.g. drugs, e-cigarettes or vaporisers, weapons, drones, alcohol, pets, etc.)
+*  Please note that the parade will feature strobe lights and music broadcast through a surround-sound system.
