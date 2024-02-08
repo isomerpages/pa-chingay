@@ -443,10 +443,3 @@ The artwork symbolises the diverse perspectives on facing challenges.  It reflec
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">Song Yan</span><br>Song Yan, a passionate multidisciplinary artist, explores societal dynamics through 3D art installations in the society.  Her main goal is to use art as a bridge to reunite people together.  Since clinching the Best Student Prize at Nanyang Academy of Fine Arts in 2021, she continues to practice as a professional artist.  Some work that she had participated in are Candy Pops installation at Downtown East in 2021, Discover and Explore art installation at National Library Board in 2021 and Chingay Mini Float for Chingay 2022. 
 </div>
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Co-Creation</span><br>Using their creativity, residents embellished the wooden boards with an array of vibrant flower shapes.  Adding a warm touch by using freehand painting and stencil dabbing techniques as guided by the artist. Residents also learnt from the artist how to place the wooden boards onto the waves and master colour combinations to ensure the painted wooden boards are positioned nicely.</div>
-	
-
-
-
-
-
-
