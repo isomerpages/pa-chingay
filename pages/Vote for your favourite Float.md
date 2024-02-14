@@ -6,7 +6,7 @@ description: ""
 ---
 <p>Click <u>vote</u> to vote for your favourite Chingay Parade 2024 Float</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Opening%Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Opening Float - Vanda Miss Joaquim Dragon Float" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Opening Float - Vanda Miss Joaquim Dragon Float</div><div class="isomer-card-description">Presented by Tote Board Group</div><div class="isomer-card-link">VOTE</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Opening%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Opening Float - Vanda Miss Joaquim Dragon Float" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Opening Float - Vanda Miss Joaquim Dragon Float</div><div class="isomer-card-description">Presented by Tote Board Group</div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Simley's%20Blossoming%20Garden" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
