@@ -279,8 +279,8 @@ At the heart of the community float is a large kinetic display of a firework bur
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024CommunityFloats/Sembawang_Cluster_1.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:-2rem;" src="/images/Chingay2024CommunityFloats/Sembawang_Cluster_2.jpg"></div></div>
-
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024CommunityFloats/Sembawang_Cluster_2.jpg"></div></div>
+	
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About The Blue Bloom</span><br> The Blue Bloom is a captivating sculpture that celebrates the resilience of nature and confronts the pervasive issue of pollution.  The float beautifully captures the essence of blossoming and thriving coral clusters, yet every inch is meticulously handcrafted from upcycled man-made materials by the Sembawang community.  This stunning piece serves as a reminder of the profusion of pollutants in our environment and to protect the Sembawang shores.  Transforming discarded waste into a symbol of hope, regeneration, and our collective responsibility to protect our oceans and planet.  It is a testament to the power of unity in the face of environmental challenges and for environment to blossom as one.</div>
