@@ -4,6 +4,12 @@ permalink: /communityfloats24/
 variant: markdown
 description: ""
 ---
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;">About  Chingay Community Floats</span></div>
+
+<div style="padding:1rem; font-size:1.1rem">Debuted at Chingay Parade 2022, this is an initiative made possible with the involvement of our residents in co-creating the community floats and guided by our local artists. A total of 17 unique community float will be presented at Chingay Parade 2024 and various heartlands, to bring cheers to the community.
+</div>
+
 
 
 <div style="padding-top:2rem;font-size:1.5rem;">
