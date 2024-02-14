@@ -4,8 +4,6 @@ permalink: /communityfloats24/
 variant: markdown
 description: ""
 ---
-<div style="font-size:1.1rem;">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque turpis ante, mattis non enim eu, mollis vulputate tortor. Morbi nec mi sed sem gravida congue eget eu nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin pretium elementum lorem, consectetur sollicitudin elit tincidunt id. Morbi lobortis tincidunt nibh vitae tincidunt. Aenean luctus eros vestibulum felis iaculis finibus. Sed et turpis quis leo sagittis finibus eu vitae tortor. Etiam vel nulla nec augue sagittis viverra. Donec id pharetra nisi. Mauris id sapien ex.</div>
 
 
 <div style="padding-top:2rem;font-size:1.5rem;">
