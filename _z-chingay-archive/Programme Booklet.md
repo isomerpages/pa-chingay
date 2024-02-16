@@ -1,7 +1,8 @@
 ---
 title: Programme Booklet
-permalink: /programme/
+permalink: /programme/old/
 description: ""
+variant: tiptap
 ---
 # Chingay 2023 Programme Booklet
 
