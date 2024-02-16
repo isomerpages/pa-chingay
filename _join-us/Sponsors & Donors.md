@@ -50,16 +50,21 @@ variant: markdown
 
 
 <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(325px,1fr));padding-bottom:20px;">
-	
-
-			
 <div style="text-align: Center;">
         <b>Official Caterers</b>
         <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(0px,1fr));border-top: 1px solid black; padding-top:5%; padding-bottom:5%;align-items: center; height:150px;">
-            <div><img src="/images/Sponsors%20&amp;%20Donors/stamford-catering-18-october-2019-16-40-27.png" alt="Stamford" style="padding-top:3%; padding-bottom:3%; width: 133px;"> </div>
-					   <div><img src="/images/Sponsors%20&amp;%20Donors/peach-garden-(colour)-14-october-2019-18-28-03.png" alt="Stamford" style="padding-top:3%; padding-bottom:3%; width: 120px;"> </div>
+            <div><img style="padding-top:3%; padding-bottom:3%; width: 133px;" alt="Stamford" src="/images/Sponsors%20&amp;%20Donors/stamford-catering-18-october-2019-16-40-27.png"> </div>
+					   <div><img style="padding-top:3%; padding-bottom:3%; width: 120px;" alt="Stamford" src="/images/Sponsors%20&amp;%20Donors/peach-garden-(colour)-14-october-2019-18-28-03.png"> </div>
 </div>
-</div></div>
+</div>
+	
+<div style="text-align: center;">
+        <b>Official Ticketing Partner</b>
+        <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(0px,1fr));border-top: 1px solid black; padding-top:3%; padding-bottom:3%;align-items: center; height:150px;">
+            <div><img style="padding-top:3%; padding-bottom:3%; width:120px;" alt="SISTIC" src="/images/SISTIC_Logo_Full_Color.png"> </div>
+        </div>
+    </div>
+</div>
 
 <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(325px,1fr));padding-bottom:20px;">
 	
