@@ -5,7 +5,10 @@ variant: markdown
 description: ""
 third_nav_title: Whats On
 ---
-International Group Performance
+<div style="padding-top:2rem;font-size:3rem;">
+<span style="font-weight: bold;color: #FFAC1C;"> FREE ADMISSION</span></div>
+
+<div>International Group Performance
 
 
 <div>Floor Project Show<br>
@@ -24,4 +27,4 @@ Featuring 12 community art installations from the PAssionArts Festival 2023 that
 <div>BLOSSOM ART-VENTURE INSTALLATIONS<br>
 Be welcomed by blossom-themed arches made from recycled materials by creative students! <br>
 Take your best selfies with the installations and try out the various PAssionArts activities and workshops!<br>
-4pm - 8pm</div>
+4pm - 8pm</div></div>
