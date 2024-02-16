@@ -33,7 +33,7 @@ variant: markdown
         <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));border-top: 1px solid black; padding-top:3%; align-items: center;">
             <div><img src="/images/Sponsors%20&amp;%20Donors/DBS-Jan2023.png" alt="DBS" style="padding-top:3%; padding-bottom:3%;width:160px;"> </div>
             <div><img src="/images/Sponsors%20&amp;%20Donors/POSB-Jan2023.png" alt="POSB" style="padding-top:3%; padding-bottom:3%;width: 170px;"> </div>
-					            <div><img src="/images/Sponsors%20&amp;%20Donors/Nunchi%20Marine%20Logo%20Vector%20-%202023.png" alt="Nunchi Marine" style="padding-top:3%; padding-bottom:3%; width: 250px;"> </div>
+					            <div><img src="/images/Sponsors%20&amp;%20Donors/nunchimarine_2024.png" alt="Nunchi Marine" style="padding-top:5%; padding-bottom:15%; width: 220px;"> </div>
 					           </div>
 <div style="margin: 0 auto; display: grid; grid-gap: 0.5rem; grid-template-columns: repeat(auto-fit, minmax(200px,1fr));align-items: center;">
 		<div><img src="/images/Sponsors%20&amp;%20Donors/SCCClogo_2024.png" alt="SCCC" style="padding-top:3%; padding-bottom:3%;width: 95px;"> </div>
