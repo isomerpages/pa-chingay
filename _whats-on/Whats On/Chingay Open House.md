@@ -67,9 +67,9 @@ The Chingay Blossom ART-Venture installations are co-created by students from se
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Chingay Light Show</span>
 <div style="overflow:hidden; padding:1rem;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/5IMG1378.jpg"></div>
 </div>
-<p>15-min Floor Projection, Lights and Laser Show<br>
+<p>Catch the 230m long floor projection, lights and laser Show........<br>
 8pm &amp; 8.15pm<br><br>
-Catch the 230m long floor projection......</p>
+</p>
 	
 
 <div style="padding-top:2rem">
@@ -91,7 +91,6 @@ Catch the 230m long floor projection......</p>
 
 
 <p>
-Sunday, 5 February only<br>
 5.30pm &amp; 8.15pm<br>
 Our international friends are here to share their beautiful cultures with us!
 Don’t miss the opportunity to interact and experience our international friends’ unique blend of cultural and modern performances from China, Indonesia and Thailand. 
