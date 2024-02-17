@@ -4,7 +4,7 @@ permalink: /blossomartventure/
 variant: markdown
 description: ""
 ---
-The Chingay Blossom ART-Venture installations are co-created by students from seven different schools, led by community artists, based on the theme of “Blossom”.&nbsp; Using flowers as main element, students were involved in transforming the Chingay space into a magical floral garden with arts installations based on their different interpretations of “Blossom” made using recycled materials.
+The Chingay Blossom ART-Venture installations are co-created by students from seven different schools, led by community artists, based on the theme of “Blossom”. Using flowers as main element, students were involved in transforming the Chingay space into a magical floral garden with arts installations based on their different interpretations of “Blossom” made using recycled materials.
 
 
 
