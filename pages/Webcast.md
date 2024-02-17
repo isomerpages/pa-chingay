@@ -2,15 +2,12 @@
 title: Webcast
 permalink: /webcast/
 description: ""
+variant: markdown
 ---
-Watch Chingay's Webcast, aired on 3 February 2023, 8pm
+Watch Chingay's Webcast, airing on 23 February 2024, 8pm
 
-Watch it on [YouTube](https://www.youtube.com/live/SNOEUaoSB5s?feature=share&amp;t=2422)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fchingayparadesg%2Fvideos%2F488660846807313%2F&amp;show_text=false&amp;width=560&amp;t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/F8I_I2dMHxo?si=Y0mvp0Lo7trjnMZQ" height="350" width="560"></iframe>
 
-Chingay returns to the F1 Pit Building in the first year since its Golden Jubilee, and the first physical parade after two years of hybrid and digital showcases. 
+Experience the floral festivities of Chingay 2024 as performers and individuals come together like petals unfurling and blossoming to light up this annual night parade.  Be enthralled by Singapore’s longest floor projection ever for a street parade interlaced with creative graphics, special visual effects and interactive elements for an unrivalled parade experience in this beautiful Chingay garden!  Theme “Blossom”, flowers will be the central motif throughout the parade consisting of six acts with different flowers showcasing different aspects of Singapore’s rich tapestry of culture and traditions, and narrated by two main characters – the Gardener and the Flower Fairy.
 
-Themed “Embrace Tomorrow”, the festive parade completes the trilogy that began with “Light of Hope” in 2021 and “Ignite our Dreams” in 2022; calling on Singaporeans to treasure the present and embrace tomorrow as a community with hope, dream and confidence. 
-
-Audiences can look forward to the comeback of iconic Chingay floats and 17 community co-created mini floats, indulge in the colourful and vibrant parade by the diverse talents and multi-ethnic community performed in front of a street-style container art backdrop that is co-created by youths.
