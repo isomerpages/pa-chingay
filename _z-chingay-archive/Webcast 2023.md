@@ -1,6 +1,7 @@
 ---
-title: Webcast
-permalink: /webcast/
+title: Webcast 2023
+permalink: /webcast2023/
+variant: markdown
 description: ""
 ---
 Watch Chingay's Webcast, aired on 3 February 2023, 8pm

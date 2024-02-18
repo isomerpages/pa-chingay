@@ -1,6 +1,6 @@
 ---
 title: Programme Booklet
 permalink: /programme/
-variant: tiptap
+variant: markdown
 description: ""
 ---
