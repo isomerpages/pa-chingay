@@ -31,6 +31,7 @@ Caravan End - Infront of Blk 311 along Eunos Link<br>
 
 **Chingay@Pasir Ris-Punggol GRC and Punggol West SMC** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sun, 3 March 2024<br>
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">5.00pm to 9.30pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan Start - Carpark opposite Downtown East (PasirRisClose)<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - One Punggol<br>
