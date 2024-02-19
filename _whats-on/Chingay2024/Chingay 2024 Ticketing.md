@@ -34,10 +34,10 @@ make these your instagrammable spots and try your hands in the various
 art activities.</p>
 </li>
 <li>
-<p><strong>Chingay National Education (NE) – Blossoming Art Installation</strong>:
-Explore the Chingay space, near/around the F1 Pit Building, which welcomes
-you with blossom-themed art installations made from recycled materials
-by the creative students from seven primary and secondary schools.</p>
+<p><strong>Blossom Art-Venture Installation</strong>: Explore the Chingay
+space, near/around the F1 Pit Building, which welcomes you with blossom-themed
+art installations made from recycled materials by the creative students
+from seven primary and secondary schools.</p>
 </li>
 </ul>
 <p>&nbsp; &nbsp; Date: Fri, 23 &amp; Sat 24 February 2024
