@@ -1,5 +1,5 @@
 ---
-title: Vote for your favourite Float
+title: Vote for your Favourite Big Float
 permalink: /cg24vote/
 variant: tiptap
 description: ""
