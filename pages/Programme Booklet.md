@@ -12,7 +12,6 @@ Download the [Programme Booklet](https://www.dropbox.com/scl/fo/4qiwa65m424p1hyj
 
 ---
 
-****
 
 **TAKE PART IN CONTEST TO WIN ATTRACTIVE PRIZES**
 
