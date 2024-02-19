@@ -9,9 +9,12 @@ notification: <a href="https://go.gov.sg/stay-in-touch-with-chingay">Sign Up</a>
 sections:
   - hero:
       key_highlights:
-        - title: Click here for more details
+        - title: Click here for Ticket details
           description: ""
           url: https://www.chingay.gov.sg/tickets/
+        - title: Chingay 2024 Webcast
+          description: ""
+          url: /webcast/
       background: /images/Website_Banner_CorrectedLogo_Ver_1.png
   - infopic:
       title: "Theme: Blossom"
