@@ -18,12 +18,14 @@ Caravan End - Kolam Ayer CC<br>
 **Chingay@Holland-Bukit Timah GRC and Bukit Panjang SMC** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Fri, 1 March 2024<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">6.00pm to 9.45pm<br>
 Caravan Start - Petir Rd (in front of PetirPark)<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Senja Cashew CC<br>
 
 
 **Chingay@Marine Parade GRC, MacPherson SMC and Mountbatten SMC** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sat, 2 March 2024<br>
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">4.00pm to 10.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan Start - Junction of Upper Serangoon Road and Serangoon Central<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Infront of Blk 311 along Eunos Link<br>
