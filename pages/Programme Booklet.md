@@ -4,10 +4,9 @@ permalink: /programme/
 variant: markdown
 description: ""
 ---
+<div style="max-width:50rem; overflow:hidden;"><a target="_blank" href="https://go.gov.sg/cg24-pb"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/Chingay_2024_PB.png"></a></div>
 
-![](/images/Chingay2024/Chingay_2024_PB.png)
 
- 
 ---
 
 ****
