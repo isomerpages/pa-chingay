@@ -27,7 +27,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Hopes and Dreams</div>
-<div class="isomer-card-description">Presented by Tanjog Pagar Cluster</div>
+<div class="isomer-card-description">Presented by Tanjong Pagar Cluster</div>
 <div class="isomer-card-link">VOTE</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Finale%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Blooming Flamingo Duo" src="/images/Chingay2024/NZ6_9072_edit.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Blooming Flamingo Duo</div><div class="isomer-card-description">Presented by Sengkang Cluster</div><div class="isomer-card-link">VOTE</div></div></a>
@@ -66,7 +66,7 @@ description: ""
 <div class="isomer-card-description">Presented by Marsiling - Yew Tee Cluster</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Blue Bloom" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Blue Bloom </div><div class="isomer-card-description">Presented by Sembawang Cluster</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Blue Bloom" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Blue Bloom</div><div class="isomer-card-description">Presented by Sembawang Cluster</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -90,7 +90,7 @@ description: ""
 <div class="isomer-card-description">Presented by Nee Soon Cluster</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Lush Garden Blooms in the Night" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Lush Garden Blooms in the Night</div><div class="isomer-card-description">Presented by Chua Chu Kang Cluster </div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Lush Garden Blooms in the Night" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Lush Garden Blooms in the Night</div><div class="isomer-card-description">Presented by Chua Chu Kang Cluster</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -102,6 +102,6 @@ description: ""
 <div class="isomer-card-description">Presented by Jurong Cluster</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ride the Wind and Waves" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ride the Wind and Waves </div><div class="isomer-card-description">Presented by West Coast Cluster</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ride the Wind and Waves" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ride the Wind and Waves</div><div class="isomer-card-description">Presented by West Coast Cluster</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
