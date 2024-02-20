@@ -42,7 +42,7 @@ description: ""
 <div class="isomer-card-description">Presented by Tampines Cluster with artist Jesse</div>
 <div class="isomer-card-link">VOTE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65d34661add35ed82298cce6?65d3480b0d9323466c00123f=The%20Children's%20Tropical%20Enclave" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Children's Tropical Enclave" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Children's Tropical Enclave</div><div class="isomer-card-description">Presented by Aljunied Cluster with artist Royston Phang</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65d34661add35ed82298cce6?65d3480b0d9323466c00123f=The%20Children's%20Tropical%20Enclave" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Children's Tropical Enclave" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Children's Tropical Enclave</div><div class="isomer-card-description">Presented by Aljunied Cluster with artist Royston Phang</div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65d34661add35ed82298cce6?65d3480b0d9323466c00123f=Blossoming%20Heartland" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
