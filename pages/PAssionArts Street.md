@@ -19,12 +19,13 @@ around Singapore and Singapore Art Week and are re-staged here at
 PAssionArts Street @ Chingay, curated by Sam Lo.
 </div>
 
-
+ 
 
 <div style="padding-top:2rem;font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> WEAVE &amp; PATCH TAPESTRY</span> Co-created by Artist Whee Ng and Bukit Batok residents</span></div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+
+ <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/AMK.jpg"></div></div>
@@ -33,8 +34,6 @@ PAssionArts Street @ Chingay, curated by Sam Lo.
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024CommunityFloats/AMK_Cluster_3.jpeg"></div></div>
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024CommunityFloats/AMK_Cluster_4.jpg"></div></div>
 
 </div>
 
