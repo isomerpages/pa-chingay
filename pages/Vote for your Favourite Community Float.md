@@ -4,7 +4,7 @@ permalink: /cg24votecommunity/
 variant: tiptap
 description: ""
 ---
-<p>Click <u>vote</u> to vote for your favourite Chingay Parade 2024 Community
+<p>Click <u>VOTE</u> to vote for your favourite Chingay Parade 2024 Community
 Float</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65d34661add35ed82298cce6?65d3480b0d9323466c00123f=Jewel%20in%20the%20Crown" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jewel in the Crown" src="/images/Chingay2024/ESR60796_crop.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Jewel in the Crown</div><div class="isomer-card-description">Presented by Ang Mo Kio Cluster with artist Didier Ng</div><div class="isomer-card-link">VOTE</div></div></a>
