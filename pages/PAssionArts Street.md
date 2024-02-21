@@ -34,5 +34,3 @@ The cosmos flowers, handmade by the Ang Mo Kio community, represent order, peace
 </div>
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Artist Didier Ng</span><br>Didier Ng is an artist who embraces nature and trash.  With a passion for transforming waste into wonders, Didier's creations breathe new life into discarded materials, adding a unique twist to conventional art.  Her work not only captivates the imagination but also prompts us to see beauty in the unexpected.</div>
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About the Co-Creation</span><br>Residents contributed and transformed their recycled t-shirts by cutting them into thin strips.  The cut-out strips and metal wires were used to thread through the recycled plastic sheet and shaped into vibrant flowers.</div>
-
-
