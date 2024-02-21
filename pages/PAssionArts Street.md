@@ -68,9 +68,6 @@ Ayer Rajah–Gek Poh residents</span></div>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024CommunityFloats/AMK_Cluster_3.jpeg"></div></div>
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024CommunityFloats/AMK_Cluster_4.jpg"></div></div>
-
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About FLOURISHING CANOPY
@@ -97,10 +94,6 @@ sure to catch it again at Chingay@West Coast GRC and Pioneer SMC on
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024CommunityFloats/AMK_Cluster_3.jpeg"></div></div>
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024CommunityFloats/AMK_Cluster_4.jpg"></div></div>
-
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About ENCHANTED THREADS</span><br><br>
@@ -125,10 +118,6 @@ residents from Tampines Changkat</span></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024CommunityFloats/AMK_Cluster_3.jpeg"></div></div>
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024CommunityFloats/AMK_Cluster_4.jpg"></div></div>
-
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About BLOOMING HEART</span><br><br>
@@ -158,10 +147,6 @@ MacPherson residents residents</span></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024CommunityFloats/AMK_Cluster_3.jpeg"></div></div>
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024CommunityFloats/AMK_Cluster_4.jpg"></div></div>
-
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About KINETIC ART
@@ -193,9 +178,6 @@ Marine Parade residents</span></div>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024CommunityFloats/AMK_Cluster_3.jpeg"></div></div>
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024CommunityFloats/AMK_Cluster_4.jpg"></div></div>
-
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About THE EVERYDAY VINYL -
@@ -218,9 +200,6 @@ Bukit Timah residents</span></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024CommunityFloats/AMK_Cluster_3.jpeg"></div></div>
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024CommunityFloats/AMK_Cluster_4.jpg"></div></div>
 
 </div>
 
@@ -251,9 +230,6 @@ Mountbatten residents</span></div>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024CommunityFloats/AMK_Cluster_3.jpeg"></div></div>
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024CommunityFloats/AMK_Cluster_4.jpg"></div></div>
-
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About GARDEN GATEWAY</span><br><br>
@@ -276,9 +252,6 @@ enriching the display of positivity and community spirit.</div>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024CommunityFloats/AMK_Cluster_3.jpeg"></div></div>
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024CommunityFloats/AMK_Cluster_4.jpg"></div></div>
-
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">A SUSTAINABLE SYMPHONY OF MERLION MAJESTY AND MOUSEDEER MAGIC</span><br><br>
@@ -294,9 +267,6 @@ Together, let us bloom with pride in our Lion City, embracing our heritage, root
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024CommunityFloats/AMK_Cluster_3.jpeg"></div></div>
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024CommunityFloats/AMK_Cluster_4.jpg"></div></div>
 
 </div>
 
@@ -318,9 +288,6 @@ ORIGAMI ANIMALS</span> Co-created by Bukit Batok East Community Arts and Culture
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024CommunityFloats/AMK_Cluster_3.jpeg"></div></div>
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024CommunityFloats/AMK_Cluster_4.jpg"></div></div>
 
 </div>
 
