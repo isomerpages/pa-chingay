@@ -257,16 +257,10 @@ Mountbatten residents</span></div>
 
 </div>
 
-<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About GARDEN GATEWAY</span><br> Our stories and well wishes bear testament to our beings. With hope,
-we blossom even stronger as we continue to build our city as
-illustrated by the well wishes on this installation.
-This also served as a beautiful photo backdrop at the PAssionArts
-Festival 2023 organised by Mountbatten Community Arts and Culture
-Club while encouraging community to give their creativity touch to it.
-The small wooden blocks with well wishes were assembled into
-mosaics resembling flower petals. When placed together, the petals of
-each individual structure formed heart shapes, symbolising the
-collective love and aspirations of the community.
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About GARDEN GATEWAY</span><br><br>
+	Our stories and well wishes bear testament to our beings. With hope, we blossom even stronger as we continue to build our city as illustrated by the well wishes on this installation.<br><br>
+This also served as a beautiful photo backdrop at the PAssionArts Festival 2023 organised by Mountbatten Community Arts and Culture Club while encouraging community to give their creativity touch to it.
+The small wooden blocks with well wishes were assembled into mosaics resembling flower petals. When placed together, the petals of each individual structure formed heart shapes, symbolising the collective love and aspirations of the community.<br><br>
 Take this opportunity to add your own messages to the installation,
 enriching the display of positivity and community spirit.</div>
 
@@ -288,17 +282,10 @@ enriching the display of positivity and community spirit.</div>
 
 </div>
 
-<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">A SUSTAINABLE SYMPHONY OF MERLION MAJESTY AND MOUSEDEER MAGIC</span><br> Greetings from a city full of life! Each voice displays ingenuity and together they form rich tapestries of our time, using whatever that is accessible to tell our stories.
-It was first presented at PAssionArts Festival 2023 that saw collaborative effort by residents, each contributing a piece of tapestry crafted from repurposed fabric scraps. The residents transformed discarded materials by weaving and patching them into unique art pieces, showcasing the beauty of creativity and sustainability. This collective endeavor not only celebrates the spirit of community collaboration but also highlights the potential for artistic expression.
-Proudly led by Bukit Batok Community Arts and Culture Club, residents continued to be engaged to add on giant flowers made of upcycled material to further complement the original art installation..<br>
-The cosmos flowers, handmade by the Ang Mo Kio community, represent order, peace, and harmony.  Amidst this natural ballet, mandarin ducks are regarded as symbols of love, trust and fidelity.  The artwork aims to celebrate the cyclical beauty of migration and the fleeting charm of the cosmos flowers.
-</div>
-<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Artist Didier Ng</span><br>Didier Ng is an artist who embraces nature and trash.  With a passion for transforming waste into wonders, Didier's creations breathe new life into discarded materials, adding a unique twist to conventional art.  Her work not only captivates the imagination but also prompts us to see beauty in the unexpected.</div>
-<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About the Co-Creation</span><br>Residents contributed and transformed their recycled t-shirts by cutting them into thin strips.  The cut-out strips and metal wires were used to thread through the recycled plastic sheet and shaped into vibrant flowers.</div>
-
-
-<div style="padding-top:2rem;font-size:1.5rem;">
-<span style="font-weight: bold;"><span style="color: #FFAC1C;"> DRAGON OF NOSTALGIA</span> Co-created by Artist Jesse and Whampoa residents</span></div>
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">A SUSTAINABLE SYMPHONY OF MERLION MAJESTY AND MOUSEDEER MAGIC</span><br><br>
+Residents repurposed discarded industrial materials to craft a unique ode to Singapore's heritage and biodiversity at the PAssionArts Festival organised by Kebun Baru Community Arts and Culture Club last year.<br><br>
+This cardboard Merlion is adorned with delicate flowers, symbolising the collective strength of diverse individuals uniting. The upcycled cardboard mousedeer stand as a reminder of the importance of preserving Singapore's endangered species and shared environment, showcasing the power of collaboration and sustainability within communities.<br><br>
+Together, let us bloom with pride in our Lion City, embracing our heritage, roots, present, and future.</div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
 
@@ -314,13 +301,10 @@ The cosmos flowers, handmade by the Ang Mo Kio community, represent order, peace
 
 </div>
 
-<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About DRAGON OF NOSTALGIA</span><br> Greetings from a city full of life! Each voice displays ingenuity and together they form rich tapestries of our time, using whatever that is accessible to tell our stories.
-It was first presented at PAssionArts Festival 2023 that saw collaborative effort by residents, each contributing a piece of tapestry crafted from repurposed fabric scraps. The residents transformed discarded materials by weaving and patching them into unique art pieces, showcasing the beauty of creativity and sustainability. This collective endeavor not only celebrates the spirit of community collaboration but also highlights the potential for artistic expression.
-Proudly led by Bukit Batok Community Arts and Culture Club, residents continued to be engaged to add on giant flowers made of upcycled material to further complement the original art installation..<br>
-The cosmos flowers, handmade by the Ang Mo Kio community, represent order, peace, and harmony.  Amidst this natural ballet, mandarin ducks are regarded as symbols of love, trust and fidelity.  The artwork aims to celebrate the cyclical beauty of migration and the fleeting charm of the cosmos flowers.
-</div>
-<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Artist Didier Ng</span><br>Didier Ng is an artist who embraces nature and trash.  With a passion for transforming waste into wonders, Didier's creations breathe new life into discarded materials, adding a unique twist to conventional art.  Her work not only captivates the imagination but also prompts us to see beauty in the unexpected.</div>
-<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About the Co-Creation</span><br>Residents contributed and transformed their recycled t-shirts by cutting them into thin strips.  The cut-out strips and metal wires were used to thread through the recycled plastic sheet and shaped into vibrant flowers.</div>
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About DRAGON OF NOSTALGIA</span><br><br>
+In the heart of Singapore, the Dragon Playground stands as a unique symbol of childhood nostalgia. First presented at Whampoa Community Arts and Culture Club’s PAssionArts Festival last year, residents adorned it with colourful felt flowers, representing the diverse community. This transformation reflects the spirit of unity and creativity, presenting beautiful outcomes that can arise from challenges.<br><br>
+The Dragon Playground serves as a testament to the community's growth and resilience; reminding all that amidst life's challenges, unity and creativity can lead to remarkable transformations.<br><br>
+Tell your own stories and blossom into your own unique journey today!</div>
 
 
 <div style="padding-top:2rem;font-size:1.5rem;">
@@ -342,18 +326,5 @@ ORIGAMI ANIMALS</span> Co-created by Bukit Batok East Community Arts and Culture
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About LARGER-THAN-LIFE
-ORIGAMI ANIMALS</span><br> Greetings from a city full of life! Each voice displays ingenuity and together they form rich tapestries of our time, using whatever that is accessible to tell our stories.
-It was first presented at PAssionArts Festival 2023 that saw collaborative effort by residents, each contributing a piece of tapestry crafted from repurposed fabric scraps. The residents transformed discarded materials by weaving and patching them into unique art pieces, showcasing the beauty of creativity and sustainability. This collective endeavor not only celebrates the spirit of community collaboration but also highlights the potential for artistic expression.
-Proudly led by Bukit Batok Community Arts and Culture Club, residents continued to be engaged to add on giant flowers made of upcycled material to further complement the original art installation..<br>
-The cosmos flowers, handmade by the Ang Mo Kio community, represent order, peace, and harmony.  Amidst this natural ballet, mandarin ducks are regarded as symbols of love, trust and fidelity.  The artwork aims to celebrate the cyclical beauty of migration and the fleeting charm of the cosmos flowers.
-</div>
-<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Artist Didier Ng</span><br>Didier Ng is an artist who embraces nature and trash.  With a passion for transforming waste into wonders, Didier's creations breathe new life into discarded materials, adding a unique twist to conventional art.  Her work not only captivates the imagination but also prompts us to see beauty in the unexpected.</div>
-<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About the Co-Creation</span><br>Residents contributed and transformed their recycled t-shirts by cutting them into thin strips.  The cut-out strips and metal wires were used to thread through the recycled plastic sheet and shaped into vibrant flowers.</div>
-
-
-<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">HEY THERE, DID YOU KNOW?</span><br> If you look closely, some of the art installations are constructed from upcycled materials. Pretty cool, right? By repurposing these materials, the artists and residents involved got super creative! Items that may otherwise have ended up in landfills are given a new lease of life here!<br>
-	
-<br> These lights on the trees are repurposed from Christmas on A Great Street 2023. We are happy that Orchard Road Business Association (ORBA) is supporting this initiative to decorate our surroundings sustainably!<br>
-	
-The cosmos flowers, handmade by the Ang Mo Kio community, represent order, peace, and harmony.  Amidst this natural ballet, mandarin ducks are regarded as symbols of love, trust and fidelity.  The artwork aims to celebrate the cyclical beauty of migration and the fleeting charm of the cosmos flowers.
-</div>
+ORIGAMI ANIMALS</span><br><br>
+Created by over 30 members from Bukit Batok East CACC Origami IG in five sessions, these larger-than-life folded animals illuminate the imaginary pathway along PAssionArts Street. Among these lighted origami animals are rabbits, cats and chickens painted with blossoming details to infuse the surroundings with a sense of wonder and enchantment.</div>
