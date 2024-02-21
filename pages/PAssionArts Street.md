@@ -25,7 +25,7 @@ PAssionArts Street @ Chingay, curated by Sam Lo.
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> WEAVE &amp; PATCH TAPESTRY</span> Co-created by Artist Whee Ng and Bukit Batok residents</span></div>
 
 
- <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/AMK.jpg"></div></div>
@@ -59,7 +59,7 @@ upcycled material to further complement the original art installation.
 OF COLOURS</span> Co-created by Artist Tan Kay Nguan and
 Ayer Rajah–Gek Poh residents</span></div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/AMK.jpg"></div></div>
@@ -86,7 +86,7 @@ sure to catch it again at Chingay@West Coast GRC and Pioneer SMC on
 <div style="padding-top:2rem;font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> ENCHANTED THREADS</span> Co-created by Yio Chu Kang Community Arts &amp; Culture Club (CACC) Crochet Interest Group (IG) and residents</span></div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/AMK.jpg"></div></div>
@@ -110,7 +110,7 @@ dedication and remarkable skills brought life to these dragons!</div>
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> BLOOMING HEART</span> Co-created by Artist Whee Ng and
 residents from Tampines Changkat</span></div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/AMK.jpg"></div></div>
@@ -139,7 +139,7 @@ too!</div>
 BLOOMING GARDEN</span> Co-created by Art Group ArtzJohan and
 MacPherson residents residents</span></div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/AMK.jpg"></div></div>
@@ -169,7 +169,7 @@ residents during the PAssionArts Festival 2023 proudly organised by
 COMMUNITY COLLAGING</span> Co-created by Art Collective DASSAD and
 Marine Parade residents</span></div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/AMK.jpg"></div></div>
@@ -192,7 +192,7 @@ This project was proudly led by <span style="font-weight: bold;">Marine Parade C
 <span style="font-weight: bold;"><span style="color: #FFAC1C;">COMMUNITY WAVE</span> Co-created by Art Group Kamal Art and
 Bukit Timah residents</span></div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/AMK.jpg"></div></div>
@@ -221,7 +221,7 @@ completing the full batik design as a community!</div>
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> GARDEN GATEWAY</span> Co-created by Art Group Saltt Workshop and
 Mountbatten residents</span></div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/AMK.jpg"></div></div>
@@ -243,7 +243,7 @@ enriching the display of positivity and community spirit.</div>
 <div style="padding-top:2rem;font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> A SUSTAINABLE SYMPHONY OF MERLION MAJESTY AND MOUSEDEER MAGIC</span> Co-created by Artist Didier Ng and Kebun Bahru residents residents</span></div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/AMK.jpg"></div></div>
@@ -259,7 +259,7 @@ Residents repurposed discarded industrial materials to craft a unique ode to Sin
 This cardboard Merlion is adorned with delicate flowers, symbolising the collective strength of diverse individuals uniting. The upcycled cardboard mousedeer stand as a reminder of the importance of preserving Singapore's endangered species and shared environment, showcasing the power of collaboration and sustainability within communities.<br><br>
 Together, let us bloom with pride in our Lion City, embracing our heritage, roots, present, and future.</div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/AMK.jpg"></div></div>
@@ -280,7 +280,7 @@ Tell your own stories and blossom into your own unique journey today!</div>
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> LARGER-THAN-LIFE
 ORIGAMI ANIMALS</span> Co-created by Bukit Batok East Community Arts and Culture Club (CACC) Origami Interest Group (IG) and residents residents</span></div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/AMK.jpg"></div></div>
