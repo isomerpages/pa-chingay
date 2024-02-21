@@ -68,7 +68,7 @@ The Chingay Blossom ART-Venture installations are co-created by students from se
 <div style="overflow:hidden; padding:1rem;"><img style="max-height:30rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/BLOSSOM_Text.jpg"></div>
 </div>
 <p>Catch the 230m long floor projection<br>
-8pm &amp; 8.30pm<br><br>
+Time: 8pm &amp; 8.30pm<br><br>
 </p>
 	
 
