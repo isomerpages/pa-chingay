@@ -4,10 +4,13 @@ permalink: /openhouse/
 variant: markdown
 description: ""
 ---
+
+
 # FREE ADMISSION
 <div style="line-height:2rem;font-size:1.1rem">
 25 February 2024<br>
 F1 Pit Building<br><br>
+
 
 The Chingay Parade area will be opened for members of the public to access and immerse in the Chingay spirit! Immerse yourself in PAssionArts Street workshop and get up-close with the Blossom ART-Venture and the Chingay Floats. There will also be special performances by our international friends and a 15-min Chingay Floor Projection Light show happening at 8pm &amp; 8.30pm.</div>
 
@@ -44,21 +47,10 @@ Workshop: 4pm - 8pm<br>
 The Chingay Blossom ART-Venture installations are co-created by students from seven different schools, led by community artists, based on the theme of “Blossom”. Using flowers as main element, students were involved in transforming the Chingay space into a magical floral garden with arts installations based on their different interpretations of “Blossom” made using recycled materials.<br>
 </p></div><p></p>
 
-<div style="padding-top:2rem">
+<div><div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Floats by the Community</span>
 
-  
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/DSC04142-2.jpg"></div></div>
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/DSC6171.jpg"></div></div>
-	
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/AngMoKioCluster.jpeg"></div></div>
-</div>
+ <div><img src="/images/Chingay2024CommunityFloats/Community_Floats.jpg" style="padding: 1rem;"></div>
 
 <p>Debuted at Chingay Parade 2022, this is an initiative made possible with the involvement of our residents in co-creating the community floats and guided by our local artists. A total of 17 unique community float will be presented at Chingay Parade 2024 and various heartlands, to bring cheers to the community.</p>
 </div>
@@ -106,4 +98,4 @@ By MRT:<br>
 2)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;14 mins walk from CC3 Esplanade MRT Station<br>
 3)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from NS25/EW13 City Hall MRT Station<br>
 4)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from CE1/DT16 Bayfront MRT Station
-	<br><br></div>
+	<br><br></div></div>
