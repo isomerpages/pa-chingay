@@ -59,8 +59,9 @@ The Chingay Blossom ART-Venture installations are co-created by students from se
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Chingay Floor Projection Show</span>
 <div style="overflow:hidden; padding:1rem;"><img style="max-height:30rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/BLOSSOM_Text.jpg"></div>
 </div>
-<p>Catch the 230m long floor projection<br>
-Time: 8pm &amp; 8.30pm<br><br>
+<p>Time: 8pm &amp; 8.30pm<br>
+	Catch the 230m long floor projection<br>
+<br>
 </p>
 	
 
@@ -77,13 +78,12 @@ Time: 8pm &amp; 8.30pm<br><br>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;">Thailand<img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Thai.jpg"></div></div>
 
-  
-  
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;">Thailand<img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Thai.jpg"></div></div>
 </div>
-
-
+	
 <p>
-7.30<br>
+Time: 7.30<br>
 Our international friends are here to share their beautiful cultures with us!
 Don’t miss the opportunity to interact and experience our international friends’ unique blend of cultural and modern performances from China, Indonesia and Thailand. 
 
