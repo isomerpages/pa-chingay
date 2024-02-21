@@ -35,7 +35,7 @@ Float</p>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65d34661add35ed82298cce6?65d3480b0d9323466c00123f=Dandelion%20Dreams" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dandelion Dreams" src="/images/CommunityFloats2024 Night/Float7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Dandelion Dreams" src="/images/CommunityFloats2024 Night/Float14.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -96,7 +96,7 @@ Lim Jia Ren</div>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65d34661add35ed82298cce6?65d3480b0d9323466c00123f=Garden%20by%20the%20Breeze" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Garden by the Breeze" src="/images/CommunityFloats2024 Night/Float7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Garden by the Breeze" src="/images/CommunityFloats2024 Night/Float13.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
