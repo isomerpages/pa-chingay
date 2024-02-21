@@ -15,7 +15,7 @@ Float</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Pixels Petals</div>
+<div class="isomer-card-title">Pixel Petals</div>
 <div class="isomer-card-description">Presented by Bishan - Toa Payoh Cluster with artist Fish Jaafar</div>
 <div class="isomer-card-link">VOTE</div>
 </div>
@@ -28,7 +28,7 @@ Float</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Hopes and Dreams</div>
-<div class="isomer-card-description">Presented by Tanjong Pagar Cluster with artist Hazlan (Artz Johan)</div>
+<div class="isomer-card-description">Presented by Tanjong Pagar Cluster with artist Hazlan</div>
 <div class="isomer-card-link">VOTE</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65d34661add35ed82298cce6?65d3480b0d9323466c00123f=The%20Blooming%20Flamingo%20Duo" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Blooming Flamingo Duo" src="/images/Chingay2024/ESR60973.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Blooming Flamingo Duo</div><div class="isomer-card-description">Presented by Sengkang Cluster with artist Ng Khin Whee</div><div class="isomer-card-link">VOTE</div></div></a>
@@ -40,7 +40,7 @@ Float</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dandelion Dreams</div>
-<div class="isomer-card-description">Presented by Tampines Cluster with artist Jesse</div>
+<div class="isomer-card-description">Presented by Tampines Cluster with artist Jesse Leong</div>
 <div class="isomer-card-link">VOTE</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65d34661add35ed82298cce6?65d3480b0d9323466c00123f=The%20Children's%20Tropical%20Enclave" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Children's Tropical Enclave" src="/images/Chingay2024/ESR60860.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Children's Tropical Enclave</div><div class="isomer-card-description">Presented by Aljunied Cluster with artist Royston Phang</div><div class="isomer-card-link">VOTE</div></div></a>
@@ -65,7 +65,7 @@ Float</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Fire Flower: A Celebration of Community</div>
 <div class="isomer-card-description">Presented by Marsiling - Yew Tee Cluster with artist Hoo Jian Li &amp;
-Lim Jia Ren (Junction Studio)</div>
+Lim Jia Ren</div>
 <div class="isomer-card-link">VOTE</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65d34661add35ed82298cce6?65d3480b0d9323466c00123f=The%20Blue%20Bloom" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Blue Bloom" src="/images/Chingay2024/ESR61040.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Blue Bloom</div><div class="isomer-card-description">Presented by Sembawang Cluster with artist Chong Tze Ee</div><div class="isomer-card-link">VOTE</div></div></a>
@@ -80,7 +80,7 @@ Lim Jia Ren (Junction Studio)</div>
 <div class="isomer-card-description">Presented by East Coast Cluster with artist Sebastian Chun</div>
 <div class="isomer-card-link">VOTE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65d34661add35ed82298cce6?65d3480b0d9323466c00123f=We%20Belong&amp;20Together" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="We Belong Together" src="/images/Chingay2024/ESR60961.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">We Belong Together</div><div class="isomer-card-description">Presented by Marine Parade with artist Mr Zul (Dzulkarnaen)(Art Johan)</div><div class="isomer-card-link">VOTE</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65d34661add35ed82298cce6?65d3480b0d9323466c00123f=We%20Belong&amp;20Together" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="We Belong Together" src="/images/Chingay2024/ESR60961.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">We Belong Together</div><div class="isomer-card-description">Presented by Marine Parade with artist Mr Zul (Dzulkarnaen)</div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65d34661add35ed82298cce6?65d3480b0d9323466c00123f=Para%20Para%20Pink%20Poui!" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
