@@ -20,8 +20,9 @@ The Chingay Parade area will be opened for members of the public to access and i
 <div style="overflow:hidden; padding:1rem;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/ContainerArtInstallation2.jpg"></div>
 </div>
 
-<p>Featuring 12 community art installations from the PAssionArts Festival 2023 that were co-created by residents and community artists!<br>
-4pm - 8pm (workshop timing)</p>
+<p>Featuring 11 community art installations from the PAssionArts Festival 2023 that were co-created by residents and community artists!<br>
+Workshop: 4pm - 8pm<br>
+• Crochet Bracelet with Flower • Fabric Flower Hairpin • Flower Brooch • Chenille Stem Flower Ring • Origami Lighted Flower •</p>
 
 
 
