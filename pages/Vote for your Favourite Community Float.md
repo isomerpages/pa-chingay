@@ -23,7 +23,7 @@ Float</p>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65d34661add35ed82298cce6?65d3480b0d9323466c00123f=Hopes%20and%20Dreams" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hopes and Dreams" src="/images/CommunityFloats2024 Night/Float_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Hopes and Dreams" src="/images/CommunityFloats2024 Night/Float_2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
