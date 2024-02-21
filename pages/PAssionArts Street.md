@@ -136,7 +136,7 @@ residents from Tampines Changkat</span></div>
 To blossom is to come into your own and to be your best self. This
 concept is epitomised by these six fairies dancing around the tree that
 symbolises life.<br><br>
-Led by Tampines Changkat Community Arts &amp; Culture Club, and
+	Led by <span style="font-weight: bold;">Tampines Changkat Community Arts &amp; Culture Club</span>, and
 guided by the community artist, residents turned plastic bags, felts,
 and fabric scraps into flowers. A little creativity and imagination gives
 us these vibrant and blossoming dresses of the fairies, showcasing the
@@ -176,7 +176,7 @@ the painted pieces by the residents, turning them into four art works
 of different sizes powered by kinetic movements!<br><br>
 This innovative kinetic art installation was painted by the MacPherson
 residents during the PAssionArts Festival 2023 proudly organised by
-MacPherson Community Arts &amp; Culture Club.</div>
+	<span style="font-weight: bold;">MacPherson Community Arts &amp; Culture Club</span>.</div>
 
 
 
@@ -202,8 +202,8 @@ Marine Parade residents</span></div>
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About THE EVERYDAY VINYL -
 COMMUNITY COLLAGING</span><br><br> In December 2023, the arts trio, DASSAD collaborated with the community of Marine Parade to create collages using unwanted vinyl stickers collected from print companies. Collectively, the collages tesselate into a 10m-long mural previously showcased at 50A Marine
 Terrace.<br><br>
-This project was proudly led by Marine Parade Community Arts and
-Culture Club for Singapore Art Week x PAssionArts in January 2024.</div>
+This project was proudly led by <span style="font-weight: bold;">Marine Parade Community Arts and
+	Culture Club</span> for Singapore Art Week x PAssionArts in January 2024.</div>
 
 
 
