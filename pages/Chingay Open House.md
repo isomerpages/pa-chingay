@@ -63,8 +63,8 @@ The Chingay Blossom ART-Venture installations are co-created by students from se
 </div>
 
 <div style="padding-top:2rem">
-<span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Chingay Light Show</span>
-<div style="overflow:hidden; padding:1rem;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/whats-on/5IMG1378.jpg"></div>
+<span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Chingay Floor Projection Show</span>
+<div style="overflow:hidden; padding:1rem;"><img style="max-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/BLOSSOM_Text.jpg"></div>
 </div>
 <p>Catch the 230m long floor projection<br>
 8pm &amp; 8.30pm<br><br>
