@@ -2,6 +2,7 @@ collections:
   whats-on:
     output: true
     order:
+      - Chingay2024/Vote for your Favourite Community Float.md
       - Chingay2024/Vote for your Favourite Big Float.md
       - Chingay2024/.keep
       - Chingay2024/Theme.md
