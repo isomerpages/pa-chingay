@@ -92,7 +92,7 @@ Lim Jia Ren</div>
 <div class="isomer-card-description">Presented by Nee Soon Cluster with artist Cherie Ng</div>
 <div class="isomer-card-link">VOTE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65d34661add35ed82298cce6?65d3480b0d9323466c00123f=The%20Lush%20Garden&amp;20Blooms%20in%20the%20Night" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Lush Garden Blooms in the Night" src="/images/CommunityFloats2024 Night/Float6.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Lush Garden Blooms in the Night</div><div class="isomer-card-description">Presented by Chua Chu Kang Cluster with artist Ryf Zaini</div><div class="isomer-card-link">VOTE</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65d34661add35ed82298cce6?65d3480b0d9323466c00123f=The%20Lush%20Garden&amp;20Blooms%20in%20the%20Night" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Lush Garden Blooms in the Night" src="/images/CommunityFloats2024 Night/UmbrellaFloat.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Lush Garden Blooms in the Night</div><div class="isomer-card-description">Presented by Chua Chu Kang Cluster with artist Ryf Zaini</div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65d34661add35ed82298cce6?65d3480b0d9323466c00123f=Garden%20by%20the%20Breeze" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
