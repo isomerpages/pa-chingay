@@ -191,12 +191,12 @@ Bukit Timah residents</span></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
-<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:-4rem;" src="/images/PAssionArtsStreet/IMG_7106_edit.jpg"></div></div>
-
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
-<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7109_edit.jpg"></div></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7109_edit.jpg"></div></div>
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:-4rem;" src="/images/PAssionArtsStreet/IMG_7106_edit.jpg"></div></div></div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About COMMUNITY WAVE</span><br><br> Whichever path we take, we continue to write our own stories,
 weaving rich tapestries that honour tradition while embracing the
