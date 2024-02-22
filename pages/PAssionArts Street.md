@@ -25,13 +25,13 @@ PAssionArts Street @ Chingay, curated by Sam Lo.
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> WEAVE &amp; PATCH TAPESTRY</span> Co-created by Artist Whee Ng and Bukit Batok residents</span></div>
 
 
-<div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
+<div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:15rem; max-height:15rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/20240221_235352_edit.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/20240221_235352_edit.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:15rem; max-height:15rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_1173_edit.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_1173_edit.jpg"></div></div>
 
 </div>
 
@@ -57,14 +57,14 @@ upcycled material to further complement the original art installation.
 OF COLOURS</span> Co-created by Artist Tan Kay Nguan and
 Ayer Rajah–Gek Poh residents</span></div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:15rem; max-height:15rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_1172_edit.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_1172_edit.jpg"></div></div>
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:15rem; max-height:15rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:-8rem;" src="/images/PAssionArtsStreet/20240221_235322_edit.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:-8rem;" src="/images/PAssionArtsStreet/20240221_235322_edit.jpg"></div></div>
 
 </div>
 
@@ -84,14 +84,14 @@ sure to catch it again at Chingay@West Coast GRC and Pioneer SMC on
 <div style="padding-top:2rem;font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> ENCHANTED THREADS</span> Co-created by Yio Chu Kang Community Arts &amp; Culture Club (CACC) Crochet Interest Group (IG) and residents</span></div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:15rem; max-height:15rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/20240221_235100_edit.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/20240221_235100_edit.jpg"></div></div>
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:15rem; max-height:15rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_1177_edit.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_1177_edit.jpg"></div></div>
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About ENCHANTED THREADS</span><br><br>
@@ -108,14 +108,14 @@ dedication and remarkable skills brought life to these dragons!</div>
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> BLOOMING HEART</span> Co-created by Artist Whee Ng and
 residents from Tampines Changkat</span></div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:15rem; max-height:15rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7143_edit.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7143_edit.jpg"></div></div>
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:15rem; max-height:15rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7141_2_edit.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7141_2_edit.jpg"></div></div>
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About BLOOMING HEART</span><br><br>
@@ -137,14 +137,14 @@ too!</div>
 BLOOMING GARDEN</span> Co-created by Art Group ArtzJohan and
 MacPherson residents residents</span></div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:15rem; max-height:15rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7123_edit.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7123_edit.jpg"></div></div>
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:15rem; max-height:15rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:-6rem;" src="/images/PAssionArtsStreet/IMG_7116_edit.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:-6rem;" src="/images/PAssionArtsStreet/IMG_7116_edit.jpg"></div></div>
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About KINETIC ART
@@ -166,14 +166,14 @@ residents during the PAssionArts Festival 2023 proudly organised by
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> THE EVERYDAY VINYL - COMMUNITY COLLAGING</span> Co-created by Art Collective DASSAD and
 Marine Parade residents</span></div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:15rem; max-height:15rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7096_edit.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7096_edit.jpg"></div></div>
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:15rem; max-height:15rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7130_edit.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7130_edit.jpg"></div></div>
 </div>
 
 
@@ -189,14 +189,14 @@ This project was proudly led by <span style="font-weight: bold;">Marine Parade C
 <span style="font-weight: bold;"><span style="color: #FFAC1C;">COMMUNITY WAVE</span> Co-created by Art Group Kamal Art and
 Bukit Timah residents</span></div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:15rem; max-height:15rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:-4rem;" src="/images/PAssionArtsStreet/IMG_7106_edit.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:-4rem;" src="/images/PAssionArtsStreet/IMG_7106_edit.jpg"></div></div>
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:15rem; max-height:15rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7109_edit.jpg"></div></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7109_edit.jpg"></div></div></div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About COMMUNITY WAVE</span><br><br> Whichever path we take, we continue to write our own stories,
 weaving rich tapestries that honour tradition while embracing the
@@ -216,11 +216,11 @@ completing the full batik design as a community!</div>
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> GARDEN GATEWAY</span> Co-created by Art Group Saltt Workshop and
 Mountbatten residents</span></div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:15rem; max-height:15rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7099_edit.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7099_edit.jpg"></div></div>
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About GARDEN GATEWAY</span><br><br>
@@ -234,13 +234,13 @@ enriching the display of positivity and community spirit.</div>
 <div style="padding-top:2rem;font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> A SUSTAINABLE SYMPHONY OF MERLION MAJESTY AND MOUSEDEER MAGIC</span> Co-created by Artist Didier Ng and Kebun Bahru residents residents</span></div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:15rem; max-height:15rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:-1rem;" src="/images/PAssionArtsStreet/IMG_7170_edit.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:-1rem;" src="/images/PAssionArtsStreet/IMG_7170_edit.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:15rem; max-height:15rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7168_edit.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7168_edit.jpg"></div></div>
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">A SUSTAINABLE SYMPHONY OF MERLION MAJESTY AND MOUSEDEER MAGIC</span><br><br>
@@ -248,14 +248,14 @@ Residents repurposed discarded industrial materials to craft a unique ode to Sin
 This cardboard Merlion is adorned with delicate flowers, symbolising the collective strength of diverse individuals uniting. The upcycled cardboard mousedeer stand as a reminder of the importance of preserving Singapore's endangered species and shared environment, showcasing the power of collaboration and sustainability within communities.<br><br>
 Together, let us bloom with pride in our Lion City, embracing our heritage, roots, present, and future.</div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:15rem; max-height:15rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7174_edit.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7174_edit.jpg"></div></div>
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:15rem; max-height:15rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7157_edit.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7157_edit.jpg"></div></div>
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About DRAGON OF NOSTALGIA</span><br><br>
@@ -268,11 +268,11 @@ Tell your own stories and blossom into your own unique journey today!</div>
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> LARGER-THAN-LIFE
 ORIGAMI ANIMALS</span> Co-created by Bukit Batok East Community Arts and Culture Club (CACC) Origami Interest Group (IG) and residents residents</span></div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:15rem; max-height:15rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:-1rem;" src="/images/PAssionArtsStreet/IMG_1179_edit.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:-1rem;" src="/images/PAssionArtsStreet/IMG_1179_edit.jpg"></div></div>
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About LARGER-THAN-LIFE
