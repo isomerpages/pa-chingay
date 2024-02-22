@@ -8,8 +8,7 @@ third_nav_title: Chingay2024
 <div style="padding-top:2rem;font-size:1.5rem;">
 <span style="font-weight: bold;">About PAssionArts Street</span></div>
 
-<div style="padding:1rem; font-size:1.1rem">PAssionArts Street is a fun, interactive and immersive experience for everyone, young and old, to participate in various activities such as hands-on arts activities, enjoy roving performances and view arts
-installations.<br><br>
+<div style="padding:1rem; font-size:1.1rem">PAssionArts Street is a fun, interactive and immersive experience for everyone, young and old, to participate in various activities such as hands-on arts activities, enjoy roving performances and view arts  installations.<br><br>
 This is the first time more than 10 Community Arts &amp; Culture Clubs (CACCs) are involved to present this one-of-kind outdoor community arts installations <br>co-created by community artists and residents.
 These art installations were first presented at the PAssionArts Festival 2023 around Singapore Art Week x PAssionArts and are re-staged here at
 PAssionArts Street @ Chingay, curated by Art Director/Visual Artist Sam Lo.
