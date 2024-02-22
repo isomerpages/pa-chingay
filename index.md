@@ -33,6 +33,7 @@ sections:
       button: find out more
       url: /passionartstreet/
       alt: Image alt text
+      image: /images/Chingay2024/IMG_7157_edit.jpg
   - infopic:
       title: Blossom Art Venture
       subtitle: chingay 2024
