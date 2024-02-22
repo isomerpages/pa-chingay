@@ -216,4 +216,4 @@ From all of us at Kim Choo Kueh Chang, have a blessed Year of the Rabbit!
 </div>
 
 
-<div style="font-size:1.2rem;"><br><br>Be part of Chingay Mama Shop! Click <a target="_blank" href="https://pa-chingay-staging.netlify.app/chingay2023-mamashop/">here</a> to find out more.</div>
+<div style="font-size:1.2rem;"><br><br>Be part of Chingay Mama Shop! Click <a target="_blank" href="/chingay2023-mamashop/">here</a> to find out more.</div>
