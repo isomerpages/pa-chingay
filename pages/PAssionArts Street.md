@@ -27,10 +27,10 @@ PAssionArts Street @ Chingay, curated by Sam Lo.
 
 <div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/20240221_235352_edit.jpg"></div></div>
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_1173_edit.jpg"></div></div>
 
 </div>
@@ -59,11 +59,11 @@ Ayer Rajah–Gek Poh residents</span></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_1172_edit.jpg"></div></div>
 
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:-8rem;" src="/images/PAssionArtsStreet/20240221_235322_edit.jpg"></div></div>
 
 </div>
@@ -86,11 +86,11 @@ sure to catch it again at Chingay@West Coast GRC and Pioneer SMC on
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/20240221_235100_edit.jpg"></div></div>
 
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_1177_edit.jpg"></div></div>
 </div>
 
@@ -110,11 +110,11 @@ residents from Tampines Changkat</span></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7143_edit.jpg"></div></div>
 
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7141_2_edit.jpg"></div></div>
 </div>
 
@@ -139,11 +139,11 @@ MacPherson residents residents</span></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7123_edit.jpg"></div></div>
 
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:-6rem;" src="/images/PAssionArtsStreet/IMG_7116_edit.jpg"></div></div>
 </div>
 
@@ -168,11 +168,11 @@ Marine Parade residents</span></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7096_edit.jpg"></div></div>
 
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7130_edit.jpg"></div></div>
 </div>
 
@@ -191,11 +191,11 @@ Bukit Timah residents</span></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:-4rem;" src="/images/PAssionArtsStreet/IMG_7106_edit.jpg"></div></div>
 
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7109_edit.jpg"></div></div></div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About COMMUNITY WAVE</span><br><br> Whichever path we take, we continue to write our own stories,
@@ -219,7 +219,7 @@ Mountbatten residents</span></div>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7099_edit.jpg"></div></div>
 </div>
 
@@ -236,10 +236,10 @@ enriching the display of positivity and community spirit.</div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:-1rem;" src="/images/PAssionArtsStreet/IMG_7170_edit.jpg"></div></div>
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7168_edit.jpg"></div></div>
 </div>
 
@@ -250,11 +250,11 @@ Together, let us bloom with pride in our Lion City, embracing our heritage, root
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7174_edit.jpg"></div></div>
 
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7157_edit.jpg"></div></div>
 </div>
 
@@ -271,7 +271,7 @@ ORIGAMI ANIMALS</span> Co-created by Bukit Batok East Community Arts and Culture
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:-1rem;" src="/images/PAssionArtsStreet/IMG_1179_edit.jpg"></div></div>
 </div>
 
