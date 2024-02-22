@@ -24,13 +24,19 @@ sections:
       image: /images/chingay2024_kv_landscape_compressed.png
       alt: Blossom
   - infopic:
-      title: Chingay 2024 Themes Song
-      subtitle: Chingay 2024
+      title: Blossom Art Venture
+      subtitle: chingay 2024
       id: infopic
-      description: Listen to Chingay 2024 theme song on spotify.
-      button: Click here to listen
-      url: https://go.gov.sg/cg24blossom
-      image: /images/Chingay2024/Chingay2024_800x800.png
+      description: >+
+        Students from 7 schools, led by artists, create floral installations,
+        transforming Chingay space into a magical garden with recycled
+        materials.
+
+
+
+
+      button: Button Text
+      image: /images/Chingay2024/Blossom_Art_Venture.jpg
       alt: Image alt text
   - infopic:
       title: Chingay 2024 Community Floats
@@ -42,4 +48,13 @@ sections:
       url: /communityfloats24/
       image: /images/Chingay2024CommunityFloats/Community_Floats.jpg
       alt: 17 Community Floats
+  - infopic:
+      title: Chingay 2024 Themes Song
+      subtitle: Chingay 2024
+      id: infopic
+      description: Listen to Chingay 2024 theme song on spotify.
+      button: Click here to listen
+      url: https://go.gov.sg/cg24blossom
+      image: /images/Chingay2024/Chingay2024_800x800.png
+      alt: Image alt text
 ---
