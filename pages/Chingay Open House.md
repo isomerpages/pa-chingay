@@ -74,17 +74,19 @@ The Chingay Blossom ART-Venture installations are co-created by students from se
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Special Performances by our International Friends</span>
 
   
-  
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;">South Korea<img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Korea.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;">China<img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/China_edit.jpg"></div></div>
+		
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;">Indonesia<img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/Indonesia_edit.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;">Thailand<img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Thai.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;">South Korea<img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/Korea_edit.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;">Thailand<img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/Thai.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;">Thailand<img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/Thailand_edit.jpg"></div></div>
 </div>
 	
 <p>
