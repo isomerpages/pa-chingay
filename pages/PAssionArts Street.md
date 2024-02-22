@@ -25,7 +25,7 @@ PAssionArts Street @ Chingay, curated by Sam Lo.
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> WEAVE &amp; PATCH TAPESTRY</span> Co-created by Artist Whee Ng and Bukit Batok residents</span></div>
 
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:-4rem;" src="/images/PAssionArtsStreet/20240221_235352_edit.jpg"></div></div>
@@ -55,7 +55,7 @@ upcycled material to further complement the original art installation.
 OF COLOURS</span> Co-created by Artist Tan Kay Nguan and
 Ayer Rajah–Gek Poh residents</span></div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_1172_edit.jpg"></div></div>
