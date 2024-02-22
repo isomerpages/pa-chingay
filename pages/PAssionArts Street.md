@@ -16,7 +16,7 @@ This is the first time more than 10 Community Arts &amp; Culture Clubs
 arts installations <br>co-created by community artists and residents.
 These art installations were first presented at the PAssionArts Festival
 around Singapore and Singapore Art Week and are re-staged here at
-PAssionArts Street @ Chingay, curated by Sam Lo.
+PAssionArts Street @ Chingay, curated by Art Director/Visual Artist Sam Lo.
 </div>
 
  
