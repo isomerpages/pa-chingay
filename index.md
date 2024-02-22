@@ -32,4 +32,14 @@ sections:
       url: https://go.gov.sg/cg24blossom
       image: /images/Chingay2024/Chingay2024_800x800.png
       alt: Image alt text
+  - infopic:
+      title: Chingay 2024 Community Floats
+      subtitle: Chingay 2024
+      id: infopic
+      description: A total of 17 unique community float will be presented at Chingay
+        Parade 2024 and various heartlands, to bring cheers to the community.
+      button: Find Out More
+      url: /communityfloats24/
+      image: /images/Chingay2024CommunityFloats/Community_Floats.jpg
+      alt: 17 Community Floats
 ---
