@@ -87,11 +87,11 @@ sure to catch it again at Chingay@West Coast GRC and Pioneer SMC on
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
-<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/20240221_235100_edit.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7151_edit.jpg"></div></div>
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
-<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_1177_edit.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7147_edit.jpg"></div></div>
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;"> ENCHANTED THREADS</span><br><br>
