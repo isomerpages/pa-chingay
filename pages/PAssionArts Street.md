@@ -113,10 +113,8 @@ residents from Tampines Changkat</span></div>
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7143_edit.jpg"></div></div>
 
-
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7141_2_edit.jpg"></div></div>
-</div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About BLOOMING HEART</span><br><br>
 To blossom is to come into your own and to be your best self. This
@@ -278,3 +276,4 @@ ORIGAMI ANIMALS</span> Co-created by Bukit Batok East Community Arts and Culture
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About LARGER-THAN-LIFE
 ORIGAMI ANIMALS</span><br><br>
 Created by over 30 members from Bukit Batok East CACC Origami IG in five sessions, these larger-than-life folded animals illuminate the imaginary pathway along PAssionArts Street. Among these lighted origami animals are rabbits, cats and chickens painted with blossoming details to infuse the surroundings with a sense of wonder and enchantment.</div>
+</div>
