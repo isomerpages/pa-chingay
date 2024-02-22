@@ -26,8 +26,8 @@ Caravan End - Senja Cashew CC<br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sat, 2 March 2024<br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">4.00pm to 10.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
-Caravan Start - Junction of Upper Serangoon Road and Serangoon Central<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
-Caravan End - Infront of Blk 311 along Eunos Link<br>
+Caravan Start - Braddell Heights Community Hub (along Serangoon Central<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
+Caravan End -  Open field in-front of Blk 311 Ubi Ave 1<br>
 
 
 **Chingay@Pasir Ris-Punggol GRC and Punggol West SMC** <br>
