@@ -24,20 +24,26 @@ sections:
       image: /images/chingay2024_kv_landscape_compressed.png
       alt: Blossom
   - infopic:
+      title: PAssionArts Street
+      subtitle: Chingay 2024
+      id: infopic
+      description: Experience the vibrant PAssionArts Street! Join hands-on
+        activities, performances, and view unique community art installations
+        curated by Sam Lo.
+      button: find out more
+      url: /passionartstreet/
+      alt: Image alt text
+  - infopic:
       title: Blossom Art Venture
       subtitle: chingay 2024
       id: infopic
-      description: >+
-        Students from 7 schools, led by artists, create floral installations,
-        transforming Chingay space into a magical garden with recycled
-        materials.
-
-
-
-
-      button: Button Text
+      description: Students from 7 schools, led by artists, create floral
+        installations, transforming Chingay space into a magical garden with
+        recycled materials.
+      button: Find out more
       image: /images/Chingay2024/Blossom_Art_Venture.jpg
       alt: Image alt text
+      url: /communityfloats24
   - infopic:
       title: Chingay 2024 Community Floats
       subtitle: Chingay 2024
