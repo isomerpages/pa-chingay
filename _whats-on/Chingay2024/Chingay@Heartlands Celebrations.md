@@ -19,7 +19,7 @@ Caravan End - Kolam Ayer CC<br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Fri, 1 March 2024<br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">6.00pm to 9.45pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">Caravan Start - Petir Rd (in front of PetirPark)<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
-Caravan End - Senja Cashew CC<br>
+Caravan End - Senja-Cashew CC<br>
 
 
 **Chingay@Marine Parade GRC, MacPherson SMC and Mountbatten SMC** <br>
