@@ -169,11 +169,11 @@ Marine Parade residents</span></div>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:15rem; max-height:15rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7123_edit.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:15rem; max-height:15rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7096_edit.jpg"></div></div>
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:15rem; max-height:15rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:-5rem;" src="/images/PAssionArtsStreet/IMG_7116_edit.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:15rem; max-height:15rem; overflow:hidden;"><img style="min-height:15rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7130_edit.jpg"></div></div>
 </div>
 
 
