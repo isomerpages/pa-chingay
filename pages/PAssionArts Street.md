@@ -280,5 +280,7 @@ ORIGAMI ANIMALS</span><br><br>
 Created by over 30 members from Bukit Batok East CACC Origami IG in five sessions, these larger-than-life folded animals illuminate the imaginary pathway along PAssionArts Street. Among these lighted origami animals are rabbits, cats and chickens painted with blossoming details to infuse the surroundings with a sense of wonder and enchantment.</div>
 
 
-<br><br>onnect with us @PAssionArtsSG
-on <a target="_blank" href="https://www.facebook.com/PAssionArtsSG/">Facebook</a>, <a target="_blank" href="https://www.instagram.com/passionartssg/">Instagram</a>, <a target="_blank" href="https://www.tiktok.com/@PAssionArtsSG/">TikTok</a>!
+<br>
+
+<div style="padding-top:2rem;font-size:1.5rem; font-weight:bold;">Connect with us @PAssionArtsSG
+on <a target="_blank" href="https://www.facebook.com/PAssionArtsSG/">Facebook</a>, <a target="_blank" href="https://www.instagram.com/passionartssg/">Instagram</a>, <a target="_blank" href="https://www.tiktok.com/@PAssionArtsSG/">TikTok</a>!</div>
