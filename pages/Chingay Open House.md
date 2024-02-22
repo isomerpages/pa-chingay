@@ -4,8 +4,6 @@ permalink: /openhouse/
 variant: markdown
 description: ""
 ---
-
-
 # FREE ADMISSION
 <div style="line-height:2rem;font-size:1.1rem">
 25 February 2024<br>
@@ -20,8 +18,15 @@ The Chingay Parade area will be opened for members of the public to access and i
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">PASSIONARTS STREET</span>
 
 
-<div style="overflow:hidden; padding:1rem;"><img style="min-height:14rem; object-fit: cover; position:relative; top:rem;" src="/images/CTE/ContainerArtInstallation2.jpg"></div>
+<div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;"><div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7151_edit.jpg"></div></div>
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:-4rem;" src="/images/PAssionArtsStreet/IMG_7106_edit.jpg"></div></div>
+
 </div>
+
 
 <p>Featuring 11 community art installations from the PAssionArts Festival 2023 that were co-created by residents and community artists!<br>
 Workshop: 4pm - 8pm<br>
@@ -98,4 +103,4 @@ By MRT:<br>
 2)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;14 mins walk from CC3 Esplanade MRT Station<br>
 3)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from NS25/EW13 City Hall MRT Station<br>
 4)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from CE1/DT16 Bayfront MRT Station
-	<br><br></div></div>
+	<br><br></div></div></div>
