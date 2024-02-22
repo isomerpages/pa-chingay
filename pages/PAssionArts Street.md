@@ -239,9 +239,9 @@ enriching the display of positivity and community spirit.</div>
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">A SUSTAINABLE SYMPHONY OF MERLION MAJESTY AND MOUSEDEER MAGIC</span><br><br>
-Residents repurposed discarded industrial materials to craft a unique ode to Singapore's heritage and biodiversity at the PAssionArts Festival organised by  <span style="font-weight: bold;">Kebun Baru Community Arts and Culture Club<span> last year.<br><br>
+Residents repurposed discarded industrial materials to craft a unique ode to Singapore's heritage and biodiversity at the PAssionArts Festival organised by  <span style="font-weight: bold;">Kebun Baru Community Arts and Culture Club</span> last year.<br><br>
 This cardboard Merlion is adorned with delicate flowers, symbolising the collective strength of diverse individuals uniting. The upcycled cardboard mousedeer stand as a reminder of the importance of preserving Singapore's endangered species and shared environment, showcasing the power of collaboration and sustainability within communities.<br><br>
-Together, let us bloom with pride in our Lion City, embracing our heritage, roots, present, and future.</span></span></div>
+Together, let us bloom with pride in our Lion City, embracing our heritage, roots, present, and future.</div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
@@ -272,7 +272,7 @@ ORIGAMI ANIMALS</span> <br>co-created by Bukit Batok East Community Arts and Cul
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;"> LARGER-THAN-LIFE
 ORIGAMI ANIMALS</span><br><br>
-Created by over 30 members from Bukit Batok East CACC Origami IG in five sessions, these larger-than-life folded animals illuminate the imaginary pathway along PAssionArts Street. Among these lighted origami animals are rabbits, cats and chickens painted with blossoming details to infuse the surroundings with a sense of wonder and enchantment.</div>
+	Created by over 30 members from <span style="font-weight: bold;">Bukit Batok East CACC</span> Origami IG in five sessions, these larger-than-life folded animals illuminate the imaginary pathway along PAssionArts Street. Among these lighted origami animals are rabbits, cats and chickens painted with blossoming details to infuse the surroundings with a sense of wonder and enchantment.</div>
 
 
 <br>
