@@ -8,7 +8,7 @@ description: ""
 <div style="line-height:2rem;font-size:1.1rem">
 25 February 2024<br>
 F1 Pit Building<br><br>
-
+ 
 
 The Chingay Parade area will be opened for members of the public to access and immerse in the Chingay spirit! Immerse yourself in PAssionArts Street workshop and get up-close with the Blossom ART-Venture and the Chingay Floats. There will also be special performances by our international friends and a 15-min Chingay Floor Projection Light show happening at 8pm &amp; 8.30pm.</div>
 

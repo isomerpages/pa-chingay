@@ -3,7 +3,6 @@ title: Webcast
 permalink: /webcast/
 description: ""
 variant: markdown
-third_nav_title: Chingay2024
 ---
 Watch Chingay's Webcast, airing on 23 February 2024, 8pm
 
