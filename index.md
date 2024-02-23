@@ -12,9 +12,6 @@ sections:
         - title: Click here for Ticket details
           description: ""
           url: https://www.chingay.gov.sg/tickets/
-        - title: Chingay 2024 Webcast
-          description: ""
-          url: /webcast/
         - title: Programme Booklet
           description: ""
           url: /programme/
