@@ -86,8 +86,9 @@ sure to catch it again at Chingay@West Coast GRC and Pioneer SMC on
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
-<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7147_edit.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/IMG_1175.jpg"></div></div>
 </div>
+
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;"> ENCHANTED THREADS</span><br><br>
 	This pair of dragon ushers in the new year, heralding new dimensions
