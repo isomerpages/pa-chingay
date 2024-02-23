@@ -14,6 +14,7 @@ The Chingay Parade area will be opened for members of the public to access and i
 
 
 
+
 <div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">PASSIONARTS STREET</span>
 
