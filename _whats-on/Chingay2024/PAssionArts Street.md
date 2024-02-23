@@ -86,8 +86,9 @@ sure to catch it again at Chingay@West Coast GRC and Pioneer SMC on
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
-<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7147_edit.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/IMG_1175.jpg"></div></div>
 </div>
+
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;"> ENCHANTED THREADS</span><br><br>
 	This pair of dragon ushers in the new year, heralding new dimensions
@@ -243,6 +244,11 @@ Residents repurposed discarded industrial materials to craft a unique ode to Sin
 This cardboard Merlion is adorned with delicate flowers, symbolising the collective strength of diverse individuals uniting. The upcycled cardboard mousedeer stand as a reminder of the importance of preserving Singapore's endangered species and shared environment, showcasing the power of collaboration and sustainability within communities.<br><br>
 Together, let us bloom with pride in our Lion City, embracing our heritage, roots, present, and future.</div>
 
+
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;"> Dragon of Nostalgia </span> <br>co-created by Artist Jesse and Whampoa residents</span></div>
+
+
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
@@ -252,6 +258,7 @@ Together, let us bloom with pride in our Lion City, embracing our heritage, root
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionArtsStreet/IMG_7157_edit.jpg"></div></div>
 </div>
+
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;"> DRAGON OF NOSTALGIA</span><br><br>
 In the heart of Singapore, the Dragon Playground stands as a unique symbol of childhood nostalgia. First presented at <span style="font-weight: bold;">Whampoa Community Arts and Culture Club’s</span> PAssionArts Festival last year, residents adorned it with colourful felt flowers, representing the diverse community. This transformation reflects the spirit of unity and creativity, presenting beautiful outcomes that can arise from challenges.<br><br>
