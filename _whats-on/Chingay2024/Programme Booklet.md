@@ -3,12 +3,14 @@ title: Programme Booklet
 permalink: /programme/
 variant: markdown
 description: ""
+third_nav_title: Chingay2024
 ---
 <div style="max-width:50rem; overflow:hidden;"><a target="_blank" href="https://go.gov.sg/cg24-pb"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/Chingay_2024_PB.png"></a></div>
 
 Download the [Programme Booklet](https://www.dropbox.com/scl/fo/4qiwa65m424p1hyjtki57/h?rlkey=12iu78d57gigd9586knx47ghq&amp;dl=0) here
 
 <br>
+
 
 ---
 

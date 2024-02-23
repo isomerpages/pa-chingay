@@ -15,6 +15,9 @@ sections:
         - title: Chingay 2024 Webcast
           description: ""
           url: /webcast/
+        - title: Programme Booklet
+          description: ""
+          url: /programme/
       background: /images/Website_Banner_CorrectedLogo_Ver_1.png
   - infopic:
       title: "Theme: Blossom"
