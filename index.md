@@ -44,7 +44,7 @@ sections:
       button: Find out more
       image: /images/Chingay2024/Blossom_Art_Venture.jpg
       alt: Image alt text
-      url: /communityfloats24
+      url: /blossomartventure/
   - infopic:
       title: Chingay 2024 Community Floats
       subtitle: Chingay 2024
