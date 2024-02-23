@@ -3,9 +3,9 @@ title: Blossom Art Venture
 permalink: /blossomartventure/
 variant: markdown
 description: ""
+third_nav_title: Chingay2024
 ---
-The Chingay Blossom ART-Venture installations are co-created by students from seven different schools, led by community artists, based on the theme of “Blossom”. Using flowers as main element, students were involved in transforming the Chingay space into a magical floral garden with arts installations based on their different interpretations of “Blossom” made using recycled materials.
-
+<div>Welcome to the Chingay Blossom ART-Venture - where the creativity of our youths blooms in a realm of enchantment! <br><br>Immerse yourself as you enter the enchanting walkway of Chingay Blossom ART-Venture, where the creative talents of students and artists from 7 different schools co-create a mesmerizing world of magical floral garden. Guided by the theme of "Blossom" and using flowers as the central motif, these installations transformed recycled materials into vibrant expressions of beautiful blooming flowers, encompassing diverse interpretations of what "Blossom" means to them. Beyond their visual appeal, these installations exemplify how art can promote sustainability, fostering environmental stewardship and community spirit.</div>
 
 
 <span style="font-weight: bold; font-size:1.5rem;"><span style="color: #FFAC1C;"> Titanium Garden</span> presented by Xingnan Primary School</span>

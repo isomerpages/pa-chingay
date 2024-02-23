@@ -3,6 +3,7 @@ title: Vote for your Favourite Community Float
 permalink: /cg24votecommunity/
 variant: tiptap
 description: ""
+third_nav_title: Chingay2024
 ---
 <p>Click <u>VOTE</u> to vote for your favourite Chingay Parade 2024 Community
 Float</p>
