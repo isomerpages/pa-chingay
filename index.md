@@ -16,7 +16,7 @@ sections:
           description: ""
           url: /programme/
         - title: Webcast
-          description: ""
+          description: COMING SOON!
           url: /webcast/
       background: /images/Website_Banner_CorrectedLogo_Ver_1.png
   - infopic:
