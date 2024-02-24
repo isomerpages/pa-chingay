@@ -14,7 +14,7 @@ variant: markdown
         </div>
     </div>
 			   
-	
+	  
 <div style="text-align: Center;">
         <b>Principal Founding Sponsor</b>
         <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(0px,1fr));border-top: 1px solid black; padding-top:5%; padding-bottom:5%;align-items: center; height:150px;">

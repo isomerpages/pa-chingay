@@ -9,12 +9,12 @@ notification: <a href="https://go.gov.sg/stay-in-touch-with-chingay">Sign Up</a>
 sections:
   - hero:
       key_highlights:
-        - title: Click here for Ticket details
-          description: ""
-          url: https://www.chingay.gov.sg/tickets/
         - title: Programme Booklet
           description: ""
           url: /programme/
+        - title: 25 Feb - Chingay Experience
+          description: FREE ADMISSION
+          url: /chingayexpereince/
         - title: Webcast
           description: COMING SOON!
           url: /webcast/
@@ -26,6 +26,16 @@ sections:
       url: /whats-on/chingay2024/theme/
       image: /images/chingay2024_kv_landscape_compressed.png
       alt: Blossom
+  - infopic:
+      title: 25 Feb - Chingay Experience
+      subtitle: Chingay 2024
+      id: infopic
+      description: The Chingay Parade area will be opened to members of the public to
+        experience the Chingay festivities!
+      button: Find Out More
+      url: /chingayexpereince/
+      image: /images/Chingay2024/2a81105e_d9db_4a62_8e0d_7f9bdec0a2db.jpg
+      alt: Image alt text
   - infopic:
       title: PAssionArts Street
       subtitle: Chingay 2024

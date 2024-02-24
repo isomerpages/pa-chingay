@@ -3,7 +3,6 @@ title: Chingay 2024 Ticketing
 permalink: /tickets/
 description: ""
 variant: tiptap
-third_nav_title: Chingay2024
 ---
 <h1></h1>
 <h2>Chingay Parade Singapore 2024: Blossom</h2>
