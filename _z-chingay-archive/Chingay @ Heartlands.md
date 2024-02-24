@@ -2,7 +2,7 @@
 title: Chingay @ Heartlands
 permalink: /heartlands-2023/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 Chingay@Heartlands Celebrations 2023 bring the Chingay experience closer to residents with a local twist and flavour, energising audiences through immersive and experiential Chingay (arts) programmes and invoking their interests. Featuring Chingay Truncated Show, Chingay Floats Caravan, Chingay Mini Floats display and roving Chingay performers, check out the celebrations at these listed dates and venues. Contact the relavant CC for more information.
 
@@ -51,9 +51,7 @@ Caravan End - Fernvale Square<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan Start - Northview Primary School<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
-Caravan End - MPC @ Khatib<br><!--
-<img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
-Tel: 6506 0900<br>-->
+Caravan End - MPC @ Khatib<br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sat, 4 Mar 2023<br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">6.00pm to 9.30pm
 
@@ -61,9 +59,7 @@ Tel: 6506 0900<br>-->
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan Start - Along Norfolk Road, near Blk 39A Cambridge Road<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
-Carvan End - Discover Tanjong Pagar Community Green<br><!--
-<img src="/images/Heartlands/Tel.png" style="float:left; width:28px;height:28px"/>
-Tel: 6506 0900<br>-->
+Carvan End - Discover Tanjong Pagar Community Green<br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sun, 5 Mar 2023<br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">6.00pm to 9.45pm<br>
 Advisory: Road closure - Wallich Street (between Tras St &amp; Peck Seah st) from 5.00pm to 11.59pm
