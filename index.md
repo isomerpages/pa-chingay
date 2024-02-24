@@ -27,7 +27,7 @@ sections:
       image: /images/chingay2024_kv_landscape_compressed.png
       alt: Blossom
   - infopic:
-      title: Chingay Experience
+      title: 25 Feb - Chingay Experience
       subtitle: Chingay 2024
       id: infopic
       description: The Chingay Parade area will be opened to members of the public to
