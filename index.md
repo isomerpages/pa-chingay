@@ -12,7 +12,7 @@ sections:
         - title: Programme Booklet
           description: ""
           url: /programme/
-        - title: Chingay Experience
+        - title: 25 Feb - Chingay Experience
           description: FREE ADMISSION
           url: /chingayexpereince/
         - title: Webcast
