@@ -9,9 +9,6 @@ notification: <a href="https://go.gov.sg/stay-in-touch-with-chingay">Sign Up</a>
 sections:
   - hero:
       key_highlights:
-        - title: Click here for Ticket details
-          description: ""
-          url: https://www.chingay.gov.sg/tickets/
         - title: Programme Booklet
           description: ""
           url: /programme/
