@@ -12,13 +12,10 @@ sections:
         - title: Programme Booklet
           description: ""
           url: /programme/
-        - title: 25 Feb - Chingay Experience
-          description: FREE ADMISSION
-          url: /chingayexpereince/
         - title: Webcast
-          description: COMING SOON!
+          description: ""
           url: /webcast/
-      background: /images/Website_Banner_CorrectedLogo_Ver_1.png
+      background: /images/Chingay2024/BC_240223_Chingay_2024_Fireworks_Red_Sector_3e.jpg
   - infopic:
       title: "Theme: Blossom"
       subtitle: Chingay 2024
@@ -26,16 +23,6 @@ sections:
       url: /whats-on/chingay2024/theme/
       image: /images/chingay2024_kv_landscape_compressed.png
       alt: Blossom
-  - infopic:
-      title: 25 Feb - Chingay Experience
-      subtitle: Chingay 2024
-      id: infopic
-      description: The Chingay Parade area will be opened to members of the public to
-        experience the Chingay festivities!
-      button: Find Out More
-      url: /chingayexpereince/
-      image: /images/Chingay2024/2a81105e_d9db_4a62_8e0d_7f9bdec0a2db.jpg
-      alt: Image alt text
   - infopic:
       title: PAssionArts Street
       subtitle: Chingay 2024
