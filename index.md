@@ -15,7 +15,7 @@ sections:
         - title: Webcast
           description: ""
           url: /webcast/
-      background: /images/Website_Banner_CorrectedLogo_Ver_1.png
+      background: /images/Chingay2024/BC_240223_Chingay_2024_Fireworks_Red_Sector_3.jpg
   - infopic:
       title: "Theme: Blossom"
       subtitle: Chingay 2024
