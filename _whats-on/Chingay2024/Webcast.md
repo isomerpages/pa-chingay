@@ -5,7 +5,10 @@ description: ""
 variant: markdown
 third_nav_title: Chingay2024
 ---
-<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="314" width="560" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fchingayparadesg%2Fvideos%2F844425274121917%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe><br>
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fchingayparadesg%2Fvideos%2F844425274121917%2F&amp;show_text=false&amp;width=560&amp;t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+
 
 Or watch it on <a target="_blank" href="https://youtu.be/0YB4jhSxKTA?si=ZXr2N3ttq2O88Imh">YouTube</a>
 
