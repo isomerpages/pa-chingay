@@ -22,7 +22,7 @@ Caravan End - Kolam Ayer CC<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">Caravan Start Point 2 - Petir Rd (in front of Petir Park)<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Senja-Cashew CC<br>
-For more infomation visit: <a href="https://t.me/chingayheartlandshbtbp">Telegram</a> or <a href="https://www.facebook.com/Senja.Cashew">Cashew Community Facebook Page</a> <br>
+For more infomation visit: <a href="https://t.me/chingayheartlandshbtbp">Chingay@Holland-Bukit Timah GRC and Bukit Panjang SMC Telegram</a> or <a href="https://www.facebook.com/Senja.Cashew">Cashew Community Facebook Page</a> <br>
 
 
 **Chingay@Marine Parade GRC, MacPherson SMC and Mountbatten SMC** <br>
