@@ -1,0 +1,4 @@
+collections:
+  edm:
+    output: true
+    order: []

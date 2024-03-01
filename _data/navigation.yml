@@ -1,0 +1,38 @@
+logo: /images/logo-light.svg
+links:
+  - title: Chingay 2024
+    url: /tickets/
+    sublinks:
+      - title: "Theme: Blossom"
+        url: /whats-on/chingay2024/theme/
+      - title: Heartlands
+        url: /heartlands
+      - title: Programme Booklet
+        url: /programme/
+      - title: Webcast
+        url: /webcast/
+      - title: Advisory
+        url: /advisory
+      - title: PAssionArts Street
+        url: /passionartstreet/
+      - title: Blossom Art Ventue
+        url: /blossomartventure/
+      - title: Community Floats
+        url: /communityfloats24/
+      - title: PAssion Card Deals
+        url: /passioncard-deals/
+  - title: Join Us
+    collection: join-us
+  - title: ABOUT US
+    url: /about-us/the-chingay-story/
+    sublinks:
+      - title: The Chingay Story
+        url: /about-us/the-chingay-story
+      - title: The Chingay Timeline
+        url: /about-us/the-chingay-timeline/
+      - title: Chingay Photo Gallery
+        url: /chingay-photo-gallery/
+      - title: Press Room
+        url: /about-us/press-room/press-room-2023/
+      - title: Chingay50
+        url: /chingay50/ignite-our-dreams/

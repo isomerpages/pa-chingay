@@ -1,0 +1,5 @@
+collections:
+  join-us:
+    output: true
+    order:
+      - Sponsors & Donors.md

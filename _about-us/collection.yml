@@ -1,0 +1,16 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - The Chingay Story.md
+      - The Chingay Timeline.md
+      - Chingay Photo Gallery/.keep
+      - Chingay Photo Gallery/Chingay Photo Gallery.md
+      - Chingay Photo Gallery/Contributors.md
+      - Chingay Photo Gallery/2010 to 2021.md
+      - Chingay Photo Gallery/2000 to 2009.md
+      - Chingay Photo Gallery/1985 to 1999.md
+      - Chingay Photo Gallery/1973 to 1984.md
+      - Press Room/2023.md
+      - Press Room/.keep
+      - Press Room/2022.md
