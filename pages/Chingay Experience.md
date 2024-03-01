@@ -3,7 +3,6 @@ title: Chingay Experience
 permalink: /chingayexpereince/
 variant: markdown
 description: ""
-third_nav_title: Chingay2024
 ---
 # FREE ADMISSION
 <div style="line-height:4rem;font-size:3rem; font-color: #b242a2">
