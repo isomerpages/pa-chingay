@@ -15,12 +15,12 @@ Caravan Start - In front of Blk 77A Indus Rd, Along Ganges Ave<br><img src="/ima
 Caravan End - Kolam Ayer CC<br>
 
 
+
 **Chingay@Holland-Bukit Timah GRC and Bukit Panjang SMC** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Fri, 1 March 2024<br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">5.30pm to 9.45pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">Caravan Start Point 1 - Ghim Moh Road<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">Caravan Start Point 2 - Petir Rd (in front of Petir Park)<br>
-
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Senja-Cashew CC<br>
 
