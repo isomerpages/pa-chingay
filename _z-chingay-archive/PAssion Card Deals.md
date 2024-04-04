@@ -3,7 +3,6 @@ title: PAssion Card Deals
 permalink: /passioncard-deals/
 variant: markdown
 description: ""
-third_nav_title: Chingay2024
 ---
 <div style="max-width:50rem; overflow:hidden;"><a href="https://www.onepa.gov.sg/passion-card/passion-deals"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/PAssionCard%20Deals/PC_Deals_1.png"></a></div>
 	
