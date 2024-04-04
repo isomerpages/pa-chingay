@@ -107,7 +107,7 @@ Assist in preparation and movement of production logistics &amp; props prior to 
 
 |   |   |
 | -------- | -------- | 
-|**Volunteer EXCO** <img style="width:150px;height:200px" align="left" alt="volunteer exco" src="/images/Volunteers/EXCO.png">| Registration closed. |  
+|**Volunteer EXCO** <br><img style="width:150px;height:200px" align="left" alt="volunteer exco" src="/images/Volunteers/EXCO.png">| Registration closed. |  
 
 1\. Recruitment of Volunteers  
 2\. Planning of training sessions and preparation of materials required  
