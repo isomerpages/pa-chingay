@@ -3,7 +3,6 @@ title: Chingay@Heartlands Celebrations
 permalink: /heartlands/
 variant: markdown
 description: ""
-third_nav_title: Chingay2024
 ---
 Blossom with your communities as our Chingay floats and stunning performances hit the Heartlands!
 
@@ -50,4 +49,3 @@ For more infomation visit: <a href="https://www.facebook.com/ourprpg">Our Pasir 
 Caravan Start - Carpark in front of Telok Blangah CC<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Along Jurong West Street 91 beside Blk 953<br>
 For more infomation visit: <a href="https://www.facebook.com/friends.of.west.coast">Friends of West Coast Facebook Page</a> <br>
-
