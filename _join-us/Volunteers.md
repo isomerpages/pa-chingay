@@ -4,7 +4,7 @@ permalink: /volunteers/
 variant: markdown
 description: ""
 ---
-# **Volunteer Recruitment for Chingay 2024 is back!**
+# **Volunteer Recruitment for Chingay 2025 is back!**
 
 We would like to invite you to join us as volunteers to support the parade and contribute to the positive experiences of people from all walks of life. 
 
