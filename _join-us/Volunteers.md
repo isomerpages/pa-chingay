@@ -8,7 +8,7 @@ description: ""
 
 We would like to invite you to join us as volunteers to support the parade and contribute to the positive experiences of people from all walks of life. 
 
-Alternatively, if you would like to be a part of the performing contingent, you may register via: [https://www.chingay.gov.sg/join-us/performers/](https://www.chingay.gov.sg/join-us/performers/).
+Alternatively, we are on a lookout for performing groups that can light up the Chingay Parade and electrify the crowd with your energy, talent, and never-ending passion! If you and your group are interested, you may register via: [Join Us A Performing Group!](https://form.gov.sg/64a2386e773e020011928553)
 
 ## **Pre-Requisites for Volunteer Application** 
 
@@ -29,81 +29,72 @@ Alternatively, if you would like to be a part of the performing contingent, you 
 
 | Roles| Registration Link|   
 | -------- | -------- | 
-|**Crowd Management**<br><img style="width:150px;height:200px" align="left" alt="crowd management" src="/images/Volunteers/Crowd%20Management%202.png"> | [Register as a Crowd Management Volunteer!](https://form.gov.sg/64f098160506050012fa99e7)  |        
+|**Crowd Management**<br><img style="width:150px;height:200px" align="left" alt="crowd management" src="/images/Volunteers/Crowd%20Management%202.png"> | [Register as a Crowd Management Volunteer!](https://go.gov.sg/cg25cmregistration)  |        
 
-1\. Provide directions and information to members of the public  
-2\. Facilitate orderly arrival and dispersal of crowd before and after the parade  
-3\. Facilitate the performers movement during the parade  
-4\. Control the entry-exit points of the parade       
-
-|   |   |
-| -------- | -------- | 
-|**General Hospitality** <br><img style="width:150px;height:200px" align="left" alt="general hospitality" src="/images/Volunteers/General%20Hospi.png"> |  [[Register as a Crowd Management Volunteer](https://go.gov.sg/cg25cmregistration)Register as a General Hospitality Volunteer!](https://form.gov.sg/64f09875d3a709001201dd03)  |         
-
-1\. Check tickets and usher guests to their designated seats  
-2\. Hype up atmosphere and engage the audience before, during and after the parade  
-3\. Answer general queries from guests     
+1\. Ensure the crowd moves effortlessly before and after the parade.<br>
+2\. Help performers get the parade route smoothly.<br>
+3\. Control the entry and exit points like a pro.  
+   
 
 |   |   |
 | -------- | -------- | 
-| **Liaison**<br> <img style="width:150px;height:200px" align="left" alt="liaison" src="/images/Volunteers/Liaison%202.png"> | [Register as a Liaison Volunteer!](https://form.gov.sg/64f0990136f4d00012040b9e) |
+|**General Hospitality** <br><img style="width:150px;height:200px" align="left" alt="general hospitality" src="/images/Volunteers/General%20Hospi.png"> |  [Register as a General Hospitality Volunteer!](https://go.gov.sg/cg25ghregistration) |         
 
-1\. Manage the arrival and departure of performers and organized groups by chartered buses  
-2\. Manage the buses at the various Coach Reporting areas  
-3\. Ensure the orderliness at the Coach Reporting Centre 
+1\. That welcoming atmosphere our guests will experiences? Yeah, that's thanks to you!<br>
+2\. Guide the audience, and keep the good vibes rolling!<br>
+3\. Provide quick tips and answers with a smile.    
+
+|   |   |
+| -------- | -------- | 
+| **Liaison**<br> <img style="width:150px;height:200px" align="left" alt="liaison" src="/images/Volunteers/Liaison%202.png"> | [Register as a Liaison Volunteer!](https://go.gov.sg/cg25loregistration) |
+
+1\. Welcome performers as they arrive, making them feel at home.<br> 
+2\. Be the go-to for anything to do with arrivals, departures and everything in between.  
 
 
 |  |  |
 | -------- | -------- | 
-| **Production Crew** <br><img style="width:150px;height:200px" align="left" alt="production crew" src="/images/Volunteers/Production%20crew%202.png">    |  [Register as a Production Crew Volunteer!](https://form.gov.sg/64a3e53a3656490012ec67f8)  |       
+| **Production Crew** <br><img style="width:150px;height:200px" align="left" alt="production crew" src="/images/Volunteers/Production%20crew%202.png">    |  [Register as a Production Crew Volunteer!](https://go.gov.sg/chingay25pdncrew) |       
 
-1\. To assist in preparation and movement of logistics and props during the parade (might need to carry and standby heavy props)  
-2\. To prepare and cue the performers for their entry/exit at specific timings  
-3\. To guide the performers and floats to the correct position on the parade route 
-
+1\. Be the prepper and mover that brings the event to life.<br>
+2\. Guide performers and ensure everything runs smoothly for the parade. 
 
 |  |  |
 | -------- | -------- | 
-| **Volunteers Leader**<br> <img style="width:150px;height:200px" align="left" alt="volunteers leader" src="/images/Volunteers/Leader%202.png"> | Registration closed. |       
+| **Volunteers Leader**<br> <img style="width:150px;height:200px" align="left" alt="volunteers leader" src="/images/Volunteers/Leader%202.png"> |[Register as a Volunteer Leader!](https://go.gov.sg/cg25vlregistration) |       
 
-1\. Oversee and manage a group of volunteers  
-2\. Attend additional recce / briefing sessions with planning committee to understand the operational plans  
-3\. Assist in administrative issues (contacting of or disseminating information to volunteers, marking of attendance etc.)  
-4\. Communicate the plans to the volunteers under their charge  
-5\. Resolve any issues/situations that occur  
-6\. Encourage and motivate the volunteers
-
+1\. Be the Team Captain of the crew! Motivate and lead your vibrant group of fellow volunteers.<br>
+2\. Be the guiding force through the Chingay Parade journey.<br>
+3\. Inspire and solve all challenges that comes your way efficiently! 
 
 
 |  |   |
 | -------- | -------- | 
-|**Logistics** <br><img style="width:150px;height:200px" align="left" alt="logistics" src="/images/Volunteers/Logistics%202.png">        | Registration closed. |
-
-Assist in preparation and movement of production logistics &amp; props prior to the parade  
-1\. Distribute logistics items such as parade props, walkie talkie and lanyards  
-2\. Manage the logistics storage space during the parade  
-3\. Assist in stock taking and keeping of logistics and props after the parade  
+|**Logistics** <br><img style="width:150px;height:200px" align="left" alt="logistics" src="/images/Volunteers/Logistics%202.png">        | [Register as a Logistics Volunteer!](https://go.gov.sg/cg25logregistration) |
+  
+1\. Assist with parade essentials, ensuring all props and equipment are in the right place so we're ready for anything!<br>
+2\. Keep things organised and ensure the teams are ready for action! 
 
 |  |   |
 | -------- | -------- | 
-|**Food &amp; Beverage** <br><img style="width:150px;height:200px" align="left" alt="food and beverage" src="/images/Volunteers/F&amp;B%202.png">     | Registration closed. |
+|**Food &amp; Beverage** <br><img style="width:150px;height:200px" align="left" alt="food and beverage" src="/images/Volunteers/F&amp;B%202.png">     | [Register as a Food &amp; Beverage Volunteer!](https://go.gov.sg/cg25fnbregistration) |
 
-1\. Distribution of food and drinks to performers, volunteers and working crew    
+1\. Be the heartbeat behind the event's refreshment efforts!<br>
+2\. Keep everyone energized and happy by serving food and drinks!
      
 |   |   |
 | -------- | -------- | 
-| **Admin &amp; Welfare** <br> <img style="width:150px;height:200px" align="left" alt="admin and welfare" src="/images/Volunteers/Admin%20&amp;%20logs%202.png">       | Registration closed. |    
+| **Admin &amp; Welfare** <br> <img style="width:150px;height:200px" align="left" alt="admin and welfare" src="/images/Volunteers/Admin%20&amp;%20logs%202.png">       | [Register as an Admin &amp; Welfare Volunteer!](https://go.gov.sg/cg25anwregistration)  |    
 
-1\. Ensure a smooth administrative process for our volunteers during training and event days  
-2\. Assist in the distribution of logistics to volunteers and ensure that their welfare have been taken care of
+1\. Care &amp; Comfort is key; help ensure things run smoothly behind the scenes!<br>
+2\. Become the helping hand of logistics and ensure everyone feels supported and taken care of!
 
 |   |   |
 | -------- | -------- | 
 | **Media Volunteer** <br> <img style="width:150px;height:200px" align="left" alt="media volunteer" src="/images/Volunteers/Media%202.png">      | Registration closed. |
 
-1\. Be the photographer or videographer for Volunteers of Chingay  
-2\. Capture the volunteers in action during their trainings, briefings and during actual event days  
-3\. Assist with the social media publicity to showcase the various volunteer groups 
+1\. Capture the magic behind the scenes and of the parade with your photo and video taking prowess! <br>
+2\. Help capture the parade's magical journey on social media through your lens. 
 
 |   |   |
 | -------- | -------- | 
@@ -111,8 +102,8 @@ Assist in preparation and movement of production logistics &amp; props prior to 
 
 1\. Recruitment of Volunteers  
 2\. Planning of training sessions and preparation of materials required  
-3\. Planning of crowd management, general hospitality management and coach arrangements<br>
-4\. Deployment of Volunteers based on plans and requirements  
+3\. Planning of crowd management, general hospitality management and coach arrangements.<br>
+4\. Deployment of Volunteers based on plans and requirements.  
 5\. On-ground operations with fellow volunteers in assigned area/sector  
-6\. Management of Volunteers and Volunteers leaders<br>
-7\. Post-parade administrative matters
+6\. Management of Volunteers and Volunteers leaders.<br>
+7\. Post-parade administrative matters.
