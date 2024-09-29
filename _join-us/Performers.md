@@ -16,7 +16,7 @@ We are on a lookout for performing groups with any type of performing talents th
     padding-top: 5px;
     padding-bottom: 8px;">
   If the form below is not loaded, you can also fill it in at
-  <a href="https://go.gov.sg/chingay24callforperformers">https://go.gov.sg/chingay24callforperformers</a>.
+  <a href="https://form.gov.sg/64a2386e773e020011928553">https://form.gov.sg/64a2386e773e020011928553</a>.
 </div>
 
 
