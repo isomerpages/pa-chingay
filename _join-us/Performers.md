@@ -4,11 +4,10 @@ permalink: /join-us/performers/
 description: Chingay performer
 variant: markdown
 ---
-# **Chingay is calling out for performing talents!**
+# **Chingay is calling out for performing groups!**
 
-Registration for Chingay 2024 has closed! Thank you for your support! 
+We are on a lookout for performing groups with any type of performing talents that can light up the Chingay Parade and electrify the crowd with your energy, talent, and never-ending passion! If you and your group are interested, register via the form below.
 
-However, individuals or groups with any type of performing talents can still express interest to be part of future editions of Chingay and its related events by registering through the form below.
 
 <div style="font-family: Sans-Serif;
     font-size: 10px;
@@ -17,7 +16,7 @@ However, individuals or groups with any type of performing talents can still exp
     padding-top: 5px;
     padding-bottom: 8px;">
   If the form below is not loaded, you can also fill it in at
-  <a href="https://go.gov.sg/chingay24callforperformers">https://go.gov.sg/chingay24callforperformers</a>.
+  <a href="https://form.gov.sg/64a2386e773e020011928553">https://form.gov.sg/64a2386e773e020011928553</a>.
 </div>
 
 
