@@ -8,7 +8,7 @@ description: ""
 
 We would like to invite you to join us as volunteers to support the parade and contribute to the positive experiences of people from all walks of life. 
 
-Alternatively, we are on a lookout for performing groups that can light up the Chingay Parade and electrify the crowd with your energy, talent, and never-ending passion! If you and your group are interested, you may register via: [Join Us A Performing Group!](https://form.gov.sg/64a2386e773e020011928553)
+Alternatively, we are on a lookout for performing groups that can light up the Chingay Parade and electrify the crowd with your energy, talent, and never-ending passion! If you and your group are interested, you may register via: [Join Us As A Performing Group!](https://form.gov.sg/64a2386e773e020011928553)
 
 ## **Pre-Requisites for Volunteer Application** 
 
