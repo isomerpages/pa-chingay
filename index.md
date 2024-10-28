@@ -15,7 +15,7 @@ sections:
         - title: Webcast
           description: ""
           url: /webcast/
-      background: /images/Chingay2025/test_portrait.png
+      background: /images/Chingay2025/test_p_2.png
   - infopic:
       title: "Theme: Blossom"
       subtitle: Chingay 2024
