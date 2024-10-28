@@ -4,38 +4,49 @@ permalink: /chingayforunesco/
 variant: markdown
 description: ""
 ---
-##### **JOINT NOMINATION FOR THE INSCRIPTION OF CHINGAY PARADE ONTO THE UNESCO REPRESENTATIVE LIST OF THE INTANGIBLE CULTURAL HERITAGE OF HUMANITY**
+##### ****Joint nomination for the inscription of Chingay Parade onto the UNESCO Representative List of the Intangible Cultural Heritage of Humanity****
 
-Chingay Parade, a vibrant and colourful street parade that has captivated Singaporeans for generations, is more than just a parade. It's a testament to the nation's rich cultural heritage and a symbol of unity, diversity, and creativity. Chingay now owns the reputation as one of Asia's largest street performance and float parade, a colourful epitome of the country's multi-cultural society.  
+![](/images/UNESCO_P1.png)
+
+Chingay: a street parade that showcases multiculturalism, traditions, and artistic displays of communities in both Malaysia and Singapore. &nbsp;Both countries will jointly UNESCO Representative List of the Intangible Cultural Heritage of Humanity in March 2025 as an SG60 milestone and a joint effort with Malaysia to mark 60 years of bilateral ties. &nbsp;This would mark Singapore’s third nomination to the List.&nbsp;
+
+In Singapore, Chingay, a vibrant and colourful street parade that has captivated Singaporeans for generations, is more than just a parade. &nbsp;It’s a testament to the nation’s rich cultural heritage and a symbol of unity, diversity, and creativity. &nbsp;Chingay now owns the reputation as one of Asia’s largest street performance and float parade, a colourful epitome of the country’s multi-cultural society.&nbsp;
+
+Chingay is also practised in Malaysia, in the cities of Johor Bahru and Penang as important multicultural events, both of which feature creative floats and performances featuring various cultures.  
 
 ![colors of spring](/images/About%20Us/colors-of-spring.png)
 
 **Why is Chingay important to Singapore?** <br>
-Chingay embodies the spirit of Singapore, reflecting its diversity, resilience, and creativity. It is a platform that unites people from all walks of life, fostering a sense of belonging and national pride. The parade's themes often highlight Singapore's achievements, aspirations, and cultural identity. 
-Held on 4th February 1973, the first Chingay saw PA teaming up with the Singapore National Pugilistic Federation to put up a grand parade. The main elements in the inaugural parade included various aspects of Chinese culture such as dragon and lion dances, martial arts and street opera performed in local dialects. The inaugural parade was so well received that PA made it an annual festival.
+Chingay embodies the multiculturalism of Singaporean communities, reflecting their diversity, traditions as well as visual and performing arts. &nbsp;It is a platform that unites people from all walks of life, fostering a sense of belonging and national pride. &nbsp;The parade’s themes often highlight Singapore’s achievements, aspirations, and cultural identity. &nbsp;Held on 4th February 1973, the first Chingay saw the People’s Association teaming up with the Singapore National Pugilistic Federation to put up a grand parade. &nbsp;The main elements in the inaugural parade included various aspects of Chinese culture such as dragon and lion dances, martial arts and street opera performed in local dialects.&nbsp;&nbsp;&nbsp;
+
+Since then, it has evolved and has grown to become a significant community-centred event in the nation’s socio-cultural calendar. &nbsp;Today, it is commemorated through an engaging parade that is renowned for its dazzling and characteristic floats, intricate props and cultural performances from diverse cultural and ethnic communities.&nbsp; These require specific skills and knowledge which are passed down from the senior to younger practitioners, and between cultural communities.&nbsp; In addition, the annual parade involves multiple communities of all ages and backgrounds, such as local practitioners and artists from a wide range of performing art forms, community groups and interest groups; community volunteers; as well as international participants which facilitate cross-cultural exchanges.
 
 ![light of hope 2021](/images/About%20Us/light-of-hope-2021.jpg)
 
-**Why is the nomination important to Chingay and Singapore?** <br>
-The UNESCO nomination for Chingay is a significant step in preserving and promoting this invaluable cultural heritage. By recognising Chingay as an intangible cultural heritage of humanity, UNESCO would elevate its global profile and ensure its continued practice for future generations. This recognition would also solidify Singapore's position as a cultural hub in Southeast Asia.
+**Why is the joint nomination important?** <br>
+The UNESCO nomination for Chingay is a significant step in promoting this living heritage in Malaysia and Singapore.&nbsp; A successful nomination would bring numerous benefits:
+
+* **Foster social cohesion**: Chingay in both countries foster social cohesion by bringing together people from various backgrounds, encouraging respect and appreciation for different cultures.&nbsp;&nbsp;
+
+* **Foster community ownership and pride:** the nomination of Chingay would not only promote cultural diversity and understanding but also cultivate a deeper sense of ownership and pride among communities. &nbsp;It can inspire individuals and groups to actively participate in its celebration and transmission. &nbsp;This increased involvement will ensure that Chingay remains a living tradition, reflecting the dynamic and evolving spirit of the community.&nbsp;
+
+* **Reinforce our shared heritage:** Chingay showcases the shared heritage of both countries while highlighting the distinctiveness of Chingay in each country. &nbsp;Its inclusion on the UNESCO Representative List will raise global awareness of this living heritage.
 
 ![chingay story](/images/About%20Us/chingay-story-2.jpg)
 
-**How will it add value to Chingay and Singapore?** <br>
-A successful nomiation would bring numerous benefits to Chingay and Singapore. <br>
-* **Highlight Singapore's Unique Heritage**: Chingay showcases the unique blend of cultures that have shaped Singapore. Its inclusion on the UNESCO list would elevate the nation's cultural identity and position it as a global hub for cultural exchange. Chingay would attract more international visitors, boosting tourism and contributing to the local economy. <br>
-* **Ensure Chingay's Cultural Preservation**: By securing UNESCO's recognition, we can safeguard Chingay's future and ensure that it remains a vital part of Singapore's cultural landscape for generations to come. <br>
-* **Foster Community Ownership and Pride**: Chingay's inscription would not only promote cultural diversity and understanding byt also cultivate a deeper sense of ownership and pride among the community. By recognising Chingay as a UNESCO-recognised cultural heritage, we can inspire individuals and groups to actively participate in its preservation and celebration. This increased involvement will ensure that Chingay remains a living tradition, reflecting the dynamic and evolving spirit of the community. <br>
+**How can you support this joint nomination?** <br>
+By supporting this joint nomination, we can play a part to allow this vibrant street parade to continue to enrich of communities in Singapore and Malaysia and inspire future generations to be part of Chingay.<br>
 
-![chingay story](/images/About%20Us/chingay-story-2.jpg)
+**Option 1: Post on your social media.**
+<br> 
+Post on your social media with the following details. Copy the text below and share a photo or video that capture your experience with Chingay, whether you’re participating or attending as an audience member. Include the text and hashtags below with your post. <br><br>
+**_“Chingay Parade: Singapore’s living heritage, reflecting our multiculturalism and the artistic displays of our diverse communities. A SG60 milestone, this will be Singapore’s third nomination to UNESCO’s Representative List of the Intangible Cultural Heritage of Humanity and a joint effort with Malaysia to mark 60 years of close bilateral ties.”  #ChingaySG_** <br>
 
-**How can you support this nomination?** <br>
-By supporting Chingay's UNESCO nomiation, we can help ensure that this vibrant tradition continues to enrich the lives of Singaporeans and inspire future generations to be part of Chingay. <br>
-***Post on your social media with the following details.***
-<br>1. Copy the text below and share a photo or video that capture your experience with Chingay, whether you're participating or attending as an audience member. Include the text and hashtags below with your post. <br>
+**Option 2: Show your support, CLICK HERE **
+<br> 
+I support the joint nomination of Chingay because....<br>
+Chingay celebrates the cultural diversity of my community. Join me in supporting #ChingaySG<br>
+Chingay brings communities together. Join me in supporting #ChingaySG<br>
+Chingay is our living heritage which should be passed on to future generations. Join me in supporting #ChingaySG
 
-**Chingay: Uniquely Singapore. Let's #ChingayUNESCO #MyChingayStory** <br>
-Click Here to see activities related to the join nomination. <br>
-Click Here to see the official press release <br>
-Click Here to find out more on **What is UNESCO's Intangible Cultural Heritage?**<br>
-Click Here to find our more about the submission process for the UNESCO's nomiation.
+Click HERE to find out more on Intangible Cultural Heritage of Humanity
