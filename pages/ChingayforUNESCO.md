@@ -4,7 +4,7 @@ permalink: /chingayforunesco/
 variant: markdown
 description: ""
 ---
-##### ****Joint nomination for the inscription of Chingay Parade onto the UNESCO Representative List of the Intangible Cultural Heritage of Humanity****
+##### **Joint nomination for the inscription of Chingay Parade onto the UNESCO Representative List of the Intangible Cultural Heritage of Humanity**
 
 ![UNESCO 1](/images/UNESCO_P1.png)
 
