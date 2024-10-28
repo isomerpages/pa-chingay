@@ -21,7 +21,7 @@ sections:
       subtitle: Chingay 2024
       button: find out more
       url: /whats-on/chingay2024/theme/
-      image: /images/chingay2024_kv_landscape_compressed.png
+      image: /images/Chingay2025/CG25_Chingay_Event_Page_Tile.png
       alt: Blossom
   - infopic:
       title: PAssionArts Street
