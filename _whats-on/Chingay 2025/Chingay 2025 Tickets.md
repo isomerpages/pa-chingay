@@ -7,6 +7,7 @@ third_nav_title: Chingay 2025
 ---
 <h1></h1>
 <h2>Chingay Parade Singapore 2025: Joy</h2>
+<p></p>
 <p>Chingay Parade 2025: Celebrate "JOY" Together!</p>
 <p>Get ready for an extraordinary celebration at Chingay Parade 2025! This
 vibrant multicultural extravaganza returns on 7th and 8th February 2025
@@ -18,7 +19,7 @@ a spectacular celebration of our nation's unity and shared journey. This
 year's parade brings together communities and families through the universal
 language of food, offering a more immersive experience than ever before.</p>
 <p>Highlights:</p>
-<ol>
+<ol data-tight="true" class="tight">
 <li>
 <p>Culinary Extravaganza: Prepare for a sensory feast with food-inspired
 floats, stunning costumes, and PAssionArts installations that reflect our
@@ -58,8 +59,8 @@ your tickets now to secure your spot at this must-see event!</p>
 <p>PAssion Card Member Exclusive:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Early-bird discount of 60% off standard ticket prices (6 November - 3
-December 2024)</p>
+<p>Enjoy a SG60 discount by having 60% off standard ticket prices (6 November
+- 3 December 2024)</p>
 </li>
 <li>
 <p>20% discount after the early-bird promotion period</p>
@@ -67,5 +68,6 @@ December 2024)</p>
 </ul>
 </li>
 </ul>
-<p>For the latest updates and information, visit <a href="http://www.chingay.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.chingay.gov.sg</u></a> or follow
-us on Facebook @ChingayParadeSG and Instagram @chingayparadesg.</p>
+<p>For the latest updates and information, visit <a rel="noopener noreferrer nofollow" target="_blank">www.chingay.gov.sg</a> or
+follow us on Facebook @ChingayParadeSG and Instagram @chingayparadesg.</p>
+<p></p>
