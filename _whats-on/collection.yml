@@ -2,7 +2,7 @@ collections:
   whats-on:
     output: true
     order:
-      - Chingay 2025/Chingay 2025 Tickets.md
+      - Chingay 2025/Tickets.md
       - Chingay 2025/.keep
       - Chingay2024/.keep
       - Chingay2024/Theme.md
