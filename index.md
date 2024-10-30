@@ -18,7 +18,7 @@ sections:
       background: /images/Chingay2025/test_p_3.png
   - infopic:
       title: "Theme: Joy"
-      subtitle: Chingay 2024
+      subtitle: Chingay 2025
       button: find out more
       url: /whats-on/chingay2024/theme/
       image: /images/Chingay2025/CG25_Chingay_Event_Page_Tile.png
