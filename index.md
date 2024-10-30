@@ -17,7 +17,7 @@ sections:
           url: /webcast/
       background: /images/Chingay2025/test_p_3.png
   - infopic:
-      title: "Theme: Blossom"
+      title: "Theme: Joy"
       subtitle: Chingay 2024
       button: find out more
       url: /whats-on/chingay2024/theme/
