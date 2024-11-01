@@ -10,10 +10,10 @@ sections:
   - hero:
       key_highlights:
         - title: Get Your Tickets Here!
-          description: Key Highlight description
+          description: ""
           url: ""
-        - title: UNESCO Nomination
-          description: Key Highlight description
+        - title: Joint Nomination For UNESCO
+          description: ""
           url: ""
       background: /images/Chingay2025/Untitled_design.gif
   - infopic:
