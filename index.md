@@ -15,7 +15,7 @@ sections:
         - title: UNESCO Nomination
           description: Key Highlight description
           url: ""
-      background: /images/Chingay2025/Testing_Preferred_01.png
+      background: /images/Chingay2025/Untitled_design.gif
   - infopic:
       title: "Theme: Joy"
       subtitle: Chingay 2025
