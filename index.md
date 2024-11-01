@@ -12,7 +12,7 @@ sections:
         - title: Get Your Tickets Here!
           description: Key Highlight description
           url: ""
-      background: /images/Mainpage_Banner.png
+      background: /images/Staging_Site_Banner_1.png
   - infopic:
       title: "Theme: Joy"
       subtitle: Chingay 2025
