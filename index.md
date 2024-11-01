@@ -15,7 +15,7 @@ sections:
         - title: Webcast
           description: ""
           url: /webcast/
-      background: /images/Chingay2025/test_p_3.png
+      background: /images/testing_v2_01.png
   - infopic:
       title: "Theme: Joy"
       subtitle: Chingay 2025
