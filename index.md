@@ -9,12 +9,9 @@ notification: <a href="https://go.gov.sg/stay-in-touch-with-chingay">Sign Up</a>
 sections:
   - hero:
       key_highlights:
-        - title: Programme Booklet
-          description: ""
-          url: /programme/
-        - title: Webcast
-          description: ""
-          url: /webcast/
+        - title: Get Your Tickets Here!
+          description: Key Highlight description
+          url: ""
       background: /images/Chingay2025/testing_v2_1_01.png
   - infopic:
       title: "Theme: Joy"
