@@ -24,11 +24,11 @@ sections:
       image: /images/Chingay2025/CG25_Chingay_Event_Page_Tile.png
       alt: Joy
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: SHOW YOUR SUPPORT!
+      subtitle: JOINT NOMINATION FOR UNESCO
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: FIND OUT MORE
       image: /images/Chingay2025/UNESCO_80_.png
       alt: Image alt text
+      url: /jointnominationforunesco/
 ---
