@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Get Your Tickets Here!
           description: ""
-          url: ""
+          url: /chingay-2025-tickets/
         - title: Joint Nomination For UNESCO
           description: ""
           url: ""
