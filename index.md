@@ -23,4 +23,12 @@ sections:
       url: /whats-on/chingay2024/theme/
       image: /images/Chingay2025/CG25_Chingay_Event_Page_Tile.png
       alt: Joy
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/Chingay2025/UNESCO_Page_Tile.jpg
+      alt: Image alt text
 ---
