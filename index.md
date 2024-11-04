@@ -20,7 +20,7 @@ sections:
       title: "Theme: Joy"
       subtitle: Chingay 2025
       button: find out more
-      url: /whats-on/chingay2024/theme/
+      url: /whats-on/chingay2025/theme/
       image: /images/Chingay2025/CG25_Chingay_Event_Page_Tile.png
       alt: Joy
 ---
