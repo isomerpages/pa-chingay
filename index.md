@@ -29,6 +29,6 @@ sections:
       id: infopic
       description: Infopic description
       button: Button Text
-      image: /images/Chingay2025/UNESCO_Page_Tile_80_.jpg
+      image: /images/Chingay2025/UNESCO_85_.jpg
       alt: Image alt text
 ---
