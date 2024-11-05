@@ -1,20 +1,5 @@
 logo: /images/logo-light.svg
 links:
-  - title: Chingay 2024
-    url: /tickets/
-    sublinks:
-      - title: "Theme: Blossom"
-        url: /whats-on/chingay2024/theme/
-      - title: Programme Booklet
-        url: /programme/
-      - title: Webcast
-        url: /webcast/
-      - title: PAssionArts Street
-        url: /passionartstreet/
-      - title: Blossom Art Ventue
-        url: /blossomartventure/
-      - title: Community Floats
-        url: /communityfloats24/
   - title: Chingay 2025
     url: /permalink
     sublinks:
