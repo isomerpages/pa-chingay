@@ -48,8 +48,8 @@ Look out for these postcards!
 
 
 <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(0px,1fr));border-top: 0px solid black; padding-top:3%; padding-bottom:3%;align-items: center; height:150px;">
-            <div><img src="/images/Sponsors%20&amp;%20Donors/pa-14-october-2019-18-19-28.png" alt="People's Association" style="padding-top:3%; padding-bottom:3%;width:110px;"> </div>
-		<div><img src="/images/NHB_Master_Logo_Gold_RGB.png" alt="Chingay Parade Singapore" style="padding-top:3%; padding-bottom:3%;width: 200px;"> </div>
-            <div><img src="/images/Chingay_Parade_Sg_Logo.png" alt="Chingay Parade Singapore" style="padding-top:3%; padding-bottom:3%;width: 900px;"> </div>
-	<div><img src="/images/SG60_Signature_Event_Logo_for_web.png" alt="Chingay Parade Singapore" style="padding-top:3%; padding-bottom:3%;width: 200px;"> </div>
+            <div><img src="/images/Sponsors%20&amp;%20Donors/pa-14-october-2019-18-19-28.png" alt="People's Association" style="padding-top:3%; padding-bottom:3%;width:95px;"> </div>
+		<div><img src="/images/NHB_Master_Logo_Gold_RGB.png" alt="Chingay Parade Singapore" style="padding-top:7%; padding-bottom:%;width: 200px;"> </div>
+            <div><img src="/images/Chingay_Parade_Sg_Logo.png" alt="Chingay Parade Singapore" style="padding-top:3%; padding-bottom:3%;width: 500px;"> </div>
+	<div><img src="/images/SG60_Signature_Event_Logo_for_web.png" alt="Chingay Parade Singapore" style="padding-top:3%; padding-bottom:3%;width: 109px;"> </div>
 </div>
