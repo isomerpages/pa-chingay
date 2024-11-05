@@ -20,17 +20,17 @@ year's parade brings together communities and families through the universal
 language of food, offering a more immersive experience than ever before.</p>
 <p>Highlights:</p>
 
-<p> 1. <strong> Culinary Extravaganza </strong>: Prepare for a sensory feast with food-inspired
+<p> <strong> 1. Culinary Extravaganza </strong>: Prepare for a sensory feast with food-inspired
 floats, stunning costumes, and PAssionArts installations that reflect our
 shared culinary heritage and the joy of shared meals.</p>
 
-<p>2. <strong> SG60 Special </strong>: Witness a roaring showcase of 60 lion dancers embodying
+<p><strong>2. SG60 Special </strong>: Witness a roaring showcase of 60 lion dancers embodying
 the energy and spirit of Singapore.</p>
 
-<p>3. <strong> All-New Immersive Layout </strong>: Experience the parade like never before, bringing
+<p><strong>3. All-New Immersive Layout </strong>: Experience the parade like never before, bringing
 you closer to the dazzling performances and eye-catching inflatables.</p>
 
-<p>4. <strong> Grand Spectacle </strong>: Be amazed by large-scale performances featuring over 4,000 performers from 150 organisations, showcasing the vibrant energy and excitement that Chingay is known for.</p>
+<p><strong>4. Grand Spectacle </strong>: Be amazed by large-scale performances featuring over 4,000 performers from 150 organisations, showcasing the vibrant energy and excitement that Chingay is known for.</p>
 
 <p>Don't miss this joyous celebration that brings our nation together. Book
 your tickets now to secure your spot at this must-see event!</p>
