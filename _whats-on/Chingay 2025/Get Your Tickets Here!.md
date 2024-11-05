@@ -10,7 +10,7 @@ third_nav_title: Chingay 2025
 <br><b>Celebrate "JOY" Together!</b><br>
 <b>7 and 8 February 2025 | 8pm | F1 Pit Building</b><br>
 <br>
-<img src="/images/Chingay2025/Ticketing_Banner.png">
+<a href="”https://guide.isomer.gov.sg”"><img src="/images/Chingay2025/Ticketing_Banner.png">
 <p>Get ready for an extraordinary celebration at Chingay Parade 2025! This
 vibrant multicultural extravaganza returns on 7 and 8 February 2025 with the theme "JOY," promising
 an unforgettable experience that brings all of us together.</p>
@@ -52,6 +52,6 @@ your tickets now to secure your spot at this must-see event!</p>
 </ul>
 
 
-<p>For the latest updates and information, visit <a rel="noopener noreferrer nofollow" target="_blank">www.chingay.gov.sg</a> or
+</a><p><a href="”https://guide.isomer.gov.sg”">For the latest updates and information, visit </a><a rel="noopener noreferrer nofollow" target="_blank">www.chingay.gov.sg</a> or
 follow us on Facebook @ChingayParadeSG and Instagram @chingayparadesg.</p>
 <p></p>
