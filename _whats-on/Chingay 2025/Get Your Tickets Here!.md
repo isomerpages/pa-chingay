@@ -54,5 +54,5 @@ your tickets now to secure your spot at this must-see event!</p>
 </ul>
 
 
-For the latest updates and information, visit <a rel="noopener noreferrer nofollow" target="_blank">www.chingay.gov.sg</a> or
+For the latest updates and information, visit [www.chingay.gov.sg](www.chingay.gov.sg) or
 follow us on Facebook @ChingayParadeSG and Instagram @chingayparadesg.
