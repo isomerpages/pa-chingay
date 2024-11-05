@@ -17,7 +17,7 @@ sections:
           url: /jointnominationforunesco/
       background: /images/Chingay2025/Untitled_design__2_.gif
   - infopic:
-      title: "Theme: Joy"
+      title: "Theme: JOY"
       subtitle: Chingay 2025
       button: find out more
       url: /whats-on/chingay2024/theme/
