@@ -1,6 +1,6 @@
 ---
 title: Joint Nomination for UNESCO
-permalink: /jointnominationforunesco/
+permalink: /unesco/
 variant: markdown
 description: ""
 ---
