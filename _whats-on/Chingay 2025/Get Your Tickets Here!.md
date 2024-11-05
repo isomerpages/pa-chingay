@@ -10,7 +10,7 @@ third_nav_title: Chingay 2025
 <br><b>Celebrate "JOY" Together!</b><br>
 <b>7 and 8 February 2025 | 8pm | F1 Pit Building</b><br>
 <br>
-<img src="/images/Chingay2025/Ticket_Banner.png">
+<img src="/images/Chingay2025/Ticketing_Banner.png">
 <p>Get ready for an extraordinary celebration at Chingay Parade 2025! This
 vibrant multicultural extravaganza returns on 7 and 8 February 2025 with the theme "JOY," promising
 an unforgettable experience that brings all of us together.</p>
