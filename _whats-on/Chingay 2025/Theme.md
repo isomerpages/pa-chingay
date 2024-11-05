@@ -6,7 +6,8 @@ description: ""
 third_nav_title: Chingay 2025
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Theme" src="/images/Chingay2025/Theme_Visual_revised_01.png">
+<img style="width: 100%" height="auto" width="100%" alt="Theme" src="/images/Chingay2025/Theme_Visual_01.png">
 </div>
 <p></p>
