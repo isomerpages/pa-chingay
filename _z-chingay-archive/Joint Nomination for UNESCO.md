@@ -6,13 +6,13 @@ description: ""
 ---
 ##### **Joint nomination for the inscription of Chingay Parade onto the UNESCO Representative List of the Intangible Cultural Heritage of Humanity** 
 <br>
-<div style="max-width:50rem; overflow:hidden;"><a target="_blank" href="https://supportchingaysg.gov.sg/"><img style="min-height:rem; object-fit: cover; position:relative; top:rem;" src="/images/UNESCO.jpg"></a>
+<div style="max-width:50rem; overflow:hidden;"><a target="_blank" href="https://supportchingaysg.gov.sg/"><img style="min-height:rem; object-fit: cover; position:relative; top:rem;" src="/images/UNESCO.jpg"></a><br>
 	
-Chingay: a street parade that showcases multiculturalism, traditions, and artistic displays of communities in both Malaysia and Singapore. Both countries will jointly nominate Chingay onto the UNESCO Representative List of the Intangible Cultural Heritage of Humanity in March 2025 as an SG60 milestone and a joint effort with Malaysia to mark 60 years of bilateral ties. This would mark Singapore’s third nomination to the List. <br>
+<br>Chingay: a street parade that showcases multiculturalism, traditions, and artistic displays of communities in both Malaysia and Singapore. Both countries will jointly nominate Chingay onto the UNESCO Representative List of the Intangible Cultural Heritage of Humanity in March 2025 as an SG60 milestone and a joint effort with Malaysia to mark 60 years of bilateral ties. This would mark Singapore’s third nomination to the List. <br>
 	
-In Singapore, Chingay is a vibrant and colourful street parade that has captivated Singaporeans for generations. It’s a testament to the nation’s rich cultural heritage and a symbol of unity, diversity, and creativity. Chingay now owns the reputation as one of Asia’s largest street performance and float parade, a colourful epitome of the country’s multi-cultural society. <br>
+<br>In Singapore, Chingay is a vibrant and colourful street parade that has captivated Singaporeans for generations. It’s a testament to the nation’s rich cultural heritage and a symbol of unity, diversity, and creativity. Chingay now owns the reputation as one of Asia’s largest street performance and float parade, a colourful epitome of the country’s multi-cultural society. <br>
 
-Chingay is also practised in Malaysia, in the cities of Johor Bahru and Penang as important multicultural events. Held annually at the Johor Bahru Old Chinese Temple on the 21st day of the first month of the Lunar New Year since the 1870, it is organised by Johor Bahru Tionghua Association and features creative floats and traditional performances from both Chinese and non-Chinese groups. In Penang, it is organised as a multicultural and secular performance by Penang Chingay Association in the Georgetown historical area, involving both local and overseas performers and communities. <br>
+<br>Chingay is also practised in Malaysia, in the cities of Johor Bahru and Penang as important multicultural events. Held annually at the Johor Bahru Old Chinese Temple on the 21st day of the first month of the Lunar New Year since the 1870, it is organised by Johor Bahru Tionghua Association and features creative floats and traditional performances from both Chinese and non-Chinese groups. In Penang, it is organised as a multicultural and secular performance by Penang Chingay Association in the Georgetown historical area, involving both local and overseas performers and communities. <br>
 
 ![](/images/Picture1.jpg)
 
