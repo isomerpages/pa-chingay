@@ -1,6 +1,6 @@
 ---
 title: Joint Nomination for UNESCO
-permalink: /joint-unesco-nomination/
+permalink: /jointnominationforunesco/
 variant: markdown
 description: ""
 ---
@@ -49,11 +49,4 @@ Look out for these postcards!
 
 *Photo credit: National Archives of Singapore*
 
-
-
-<div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(0px,1fr));border-top: 0px solid black; padding-top:3%; padding-bottom:3%;align-items: center; height:150px;">
-           <div><img src="/images/Sponsors%20&amp;%20Donors/pa-14-october-2019-18-19-28.png" alt="People's Association" style="padding-top:3%; padding-bottom:3%;width:100px;"> </div>
-		<div><img src="/images/NHB_Master_Logo_Gold_RGB.png" alt="Chingay Parade Singapore" style="padding-top:%; padding-bottom:%;width: 600px;"> </div>
-	<div><img src="/images/Chingay_Parade_Sg_Logo.png" alt="Chingay Parade Singapore" style="padding-top:%; padding-bottom:3%;width: 500px;"> </div>
-	<div><img src="/images/SG60_Signature_Event_Logo_for_web.png" alt="Chingay Parade Singapore" style="padding-top:%; padding-bottom:3%;width: 130px;"> </div>
-</div>
+<div style="max-width:50rem; overflow:hidden;"><img src="/images/Logos_all.png"></div>

@@ -14,7 +14,7 @@ sections:
           url: /chingay-2025-tickets/
         - title: Joint Nomination For UNESCO
           description: ""
-          url: /unesco/
+          url: /jointnominationforunesco/
       background: /images/Chingay2025/Untitled_design__2_.gif
   - infopic:
       title: "Theme: JOY"
@@ -31,5 +31,5 @@ sections:
       button: FIND OUT MORE
       image: /images/Chingay2025/UNESCO_80_.png
       alt: Image alt text
-      url: /unesco/
+      url: /jointnominationforunesco/
 ---
