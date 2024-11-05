@@ -2,6 +2,7 @@ collections:
   z-chingay-archive:
     output: true
     order:
+      - 2024 Programme Booklet.md
       - Webcast.md
       - Theme.md
       - Volunteers.md
