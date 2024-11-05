@@ -23,7 +23,7 @@ sections:
       url: /theme/
       image: /images/Chingay2025/CG25_Chingay_Event_Page_Tile.png
       alt: Joy
-      description: JOY - a vibrant parade celebrating our shared cultural heritage and SG60.
+      description: A vibrant parade celebrating our shared cultural heritage and SG60.
   - infopic:
       title: SHOW YOUR SUPPORT!
       subtitle: JOINT NOMINATION FOR UNESCO
