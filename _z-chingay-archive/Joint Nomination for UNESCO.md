@@ -6,7 +6,7 @@ description: ""
 ---
 ##### **Joint nomination for the inscription of Chingay Parade onto the UNESCO Representative List of the Intangible Cultural Heritage of Humanity** 
 <br>
-<div style="max-width:50rem; overflow:hidden;"><a target="_blank" href="https://supportchingaysg.gov.sg/"><img style="min-height:rem; object-fit: cover; position:relative; top:rem;" src="/images/UNESCO.jpg"></a>
+<div style="max-width:50rem; overflow:hidden;"><a target="_blank" href="https://supportchingaysg.gov.sg/"><img style="min-height:rem; object-fit: cover; position:relative; top:rem;" src="/images/UNESCO.jpg"></a><br>
 	
 <br>Chingay: a street parade that showcases multiculturalism, traditions, and artistic displays of communities in both Malaysia and Singapore. Both countries will jointly nominate Chingay onto the UNESCO Representative List of the Intangible Cultural Heritage of Humanity in March 2025 as an SG60 milestone and a joint effort with Malaysia to mark 60 years of bilateral ties. This would mark Singapore’s third nomination to the List. <br>
 	
