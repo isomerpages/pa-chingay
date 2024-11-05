@@ -2,11 +2,7 @@ collections:
   whats-on:
     output: true
     order:
-      - Chingay2024/.keep
-      - Chingay2024/Theme.md
-      - Chingay2024/Programme Booklet.md
-      - Chingay2024/Webcast.md
-      - Chingay2024/PAssionArts Street.md
-      - Chingay2024/Blossom Art Venture.md
-      - Chingay2024/Chingay 2024 Community Floats.md
+      - Chingay 2025/Theme.md
+      - Chingay 2025/Get Your Tickets Here!.md
+      - Chingay 2025/.keep
       - Fringe Activities/.keep
