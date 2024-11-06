@@ -11,7 +11,7 @@ third_nav_title: Chingay 2025
 <b>7 and 8 February 2025 | 8pm | F1 Pit Building</b><br>
 <br>
 
-<a target="_blank" href="https://sistic.com.sg/events/chingay0225/"><img src="/images/Chingay2025/Ticketing_Banner_2.png"></a>
+<a target="_blank" href="https://sistic.com.sg/events/chingay0225/"><img src="/images/Chingay2025/Ticketing_Banner_3.png"></a>
 
 <p>Get ready for an extraordinary celebration at Chingay Parade 2025! This
 vibrant multicultural extravaganza returns on 7 and 8 February 2025 with the theme "JOY," promising
