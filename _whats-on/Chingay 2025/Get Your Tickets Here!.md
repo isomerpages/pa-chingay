@@ -54,4 +54,4 @@ your tickets now to secure your spot at this must-see event!</p>
 </ul>
 
 
-For the latest updates and information, follow us on Facebook @ChingayParadeSG and Instagram @chingayparadesg.
+For the latest updates and information, follow us on Facebook [@ChingayParadeSG](https://www.facebook.com/chingayparadesg/) and Instagram [@chingayparadesg](https://www.instagram.com/chingayparadesg/).
