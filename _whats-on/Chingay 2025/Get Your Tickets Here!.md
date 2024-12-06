@@ -46,7 +46,7 @@ your tickets now to secure your spot at this must-see event!</p>
 <p>PAssion Card Member Exclusive:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Early bird promotion - Enjoy 60% discount off standard ticket prices. Promotion ends 3 December 2024!</p>
+<p>Early bird promotion - Enjoy 60% discount off standard ticket prices. Promotion extended to 31 December 2024!</p>
 </li>
 <li>
 <p>Enjoy 20% discount after the early bird promotion period.</p>
