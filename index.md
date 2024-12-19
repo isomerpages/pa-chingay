@@ -32,4 +32,12 @@ sections:
       image: /images/Chingay2025/UNESCO_80_.png
       alt: Image alt text
       url: /chingayunesco/
+  - infopic:
+      title: Theme Song "Joy"
+      subtitle: CHINGAY 2025
+      id: infopic
+      button: find out more
+      url: https://open.spotify.com/track/2lyrawvIEYYUi5L8VL0h7L?si=cICpLeeCQzC2oC8P-rxmrw
+      image: /images/CG25_SPOTIFY_COVER_DESIGN__without_dots_.png
+      alt: Image alt text
 ---
