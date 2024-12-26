@@ -32,6 +32,9 @@ sections:
       url: https://open.spotify.com/track/2lyrawvIEYYUi5L8VL0h7L?si=cICpLeeCQzC2oC8P-rxmrw
       image: /images/CG25_SPOTIFY_COVER_DESIGN__without_dots_.png
       alt: Image alt text
+      description: This song is about hope and unity, reflecting Singapore's spirit.
+        It highlights finding joy in tough times and the strength we gain
+        together.
   - infopic:
       title: SHOW YOUR SUPPORT!
       subtitle: JOINT NOMINATION FOR UNESCO
