@@ -15,7 +15,7 @@ sections:
         - title: Joint Nomination For UNESCO
           description: ""
           url: /chingayunesco/
-      background: /images/Chingay2025/Untitled_design__3_.gif
+      background: /images/Chingay2025/Untitled_design__7_.gif
   - infopic:
       title: "Theme: JOY"
       subtitle: Chingay 2025
