@@ -68,4 +68,4 @@ For more infomation, visit: <a href="https://www.facebook.com/BishanToaPayoh/">B
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan Start - Between Blk 6 Teck Whye Avenue and open field next to Chua Chu Kang Secondary School along Teck Whye Crescent<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Bukit Batok East Ave 5 along Little Guilin<br>
-For more infomation visit: <a href="https://www.facebook.com/friends.of.west.coast">Friends of West Coast Facebook Page</a> <br>
+For more infomation, visit: <a href="https://www.facebook.com/ilovebrickland/">Brickland Facebook Page</a>, <a href="https://www.facebook.com/OurBukitGombak/">Bukit Gombak Facebook Page</a>, <a href="https://www.facebook.com/ChuaChuKangOurHome/">Chua Chu Kang Facebook Page</a>, <a href="https://www.facebook.com/ilovekeathong/">Keat Hong Facebook Page</a> and <a href="https://www.facebook.com/HongKahNorthCC/">Hong Kah North CC Facebook Page</a>
