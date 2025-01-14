@@ -43,7 +43,7 @@ Caravan Start - De La Salle Primary School<br><img src="/images/Heartlands/Pin.p
 Caravan End -  Open field near Al-Ameen<br>
 For more infomation visit: <a href="https://www.facebook.com/marineparadecluster">Marine Parade Cluster Facebook Page</a> <br>
 
-**Chingay@Pasir Ris-Punggol ** <br>
+**Chingay@Pasir Ris-Punggol** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sun, 23 February 2025<br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">4.30pm to 10.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
@@ -52,10 +52,18 @@ Caravan End - Punggol West Community Square along Punggol Field<br>
 For more infomation visit: <a href="https://www.facebook.com/pasirriscentralco/">Pasir Ris Central Facebook Page</a>, <a href="https://www.facebook.com/pasirriseastcc/">Pasir Ris East Facebook Page</a>, <a href="https://www.facebook.com/eliascc/">Pasir Ris West Elias Facebook Page</a>, <a href="https://www.facebook.com/punggol.coast//">Punggol Coast Facebook Page</a>, <a href="https://www.facebook.com/p21cc/">Punggol 21 Facebook Page</a>, <a href="https://www.facebook.com/divisionpunggolwest/">Punggol West Facebook Page</a> and <a href="https://www.facebook.com/ourprpg/">Our Pasir Ris Punggol Facebook Page</a> <br> 
 
 
-**[ENDED] Chingay@West Coast GRC and Pioneer SMC**  <br>
-<img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sat, 9 March 2024<br>
-<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">5.00pm to 10.00pm<br>
+**Chingay@Bishan-Toa Payoh and Marymount** <br>
+<img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sat, 1 March 2025<br>
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">6.00pm to 10.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
-Caravan Start - Carpark in front of Telok Blangah CC<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
-Caravan End - Along Jurong West Street 91 beside Blk 953<br>
+Caravan Start - Bishan Community Club<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
+Caravan End - Toa Payoh Central, Blk 179<br>
+For more infomation visit: <a href="https://www.facebook.com/friends.of.west.coast">Friends of West Coast Facebook Page</a> <br>
+
+**Chingay@Chua Chu Kang GRC and Hong Kah North SMC** <br>
+<img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sun, 2 March 2025<br>
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">5.00pm to 9.30pm<br>
+<img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
+Caravan Start - Between Blk 6 Teck Whye Avenue and open field next to Chua Chu Kang Secondary School along Teck Whye Crescent<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
+Caravan End - Bukit Batok East Ave 5 along Little Guilin<br>
 For more infomation visit: <a href="https://www.facebook.com/friends.of.west.coast">Friends of West Coast Facebook Page</a> <br>
