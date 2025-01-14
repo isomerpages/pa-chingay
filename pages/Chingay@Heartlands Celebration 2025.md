@@ -12,6 +12,7 @@ Blossom with your communities as our Chingay floats and stunning performances hi
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan Start - Open field beside Eastpoint Mall, Simei Street 1<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Bradell Heights Community Hub<br>
+For more infomation, visit: <a href="https://www.facebook.com/amkgrckbycksmcs/">Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMC Facebook Page</a>, <a href="https://www.facebook.com/Chengsancommunity/">Cheng San CC Facebook Page</a>, <a href="https://www.facebook.com/ciyuancclub/">Ci Yuan Facebook Page</a>, <a href="https://www.facebook.com/FernvaleCC/">Fernvale CC Facebook Page</a>, <a href="https://www.facebook.com/OurKebunBaru/">Our Kebun Baru Facebook Page</a>, <a href="https://www.facebook.com/teckgheedivision/">Teck Ghee Facebook Page</a> and <a href="https://www.facebook.com/yckcc/">Yio Chu Kang Facebook Page</a> <br> 
 
 **Chingay@Ang Mo Kio GRC, Kebun Baru &amp; Yio Chu Kang SMCs** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sat, 15 February 2025 <br>
@@ -27,6 +28,7 @@ For more infomation, visit: <a href="https://www.facebook.com/amkgrckbycksmcs/">
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan Start - Open field beside Eastpoint Mall, Simei Street 1 <br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Open space between Blk 19 and 20, Bedok South Road<br>
+For more infomation, visit: <a href="https://www.facebook.com/OurEastCoastBuzz/">East Coast Buzz Facebook Page</a>, <a href="https://www.facebook.com/ChangiSimeiCC/">Changi Simei CC Facebook Page</a>, <a href="https://www.facebook.com/kcc.ekampong/">Kampong Chai Chee Facebook Page</a>, <a href="https://www.facebook.com/mysiglap/">Siglap CC Facebook Page</a>, <a href="https://www.facebook.com/OurKebunBaru/">Our Kebun Baru Facebook Page</a> and <a href="https://www.facebook.com/fengshancommunityclub/">Fengshan Facebook Page</a> 
 
 **Chingay@Tampines** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Fri, 21 February 2025<br>
