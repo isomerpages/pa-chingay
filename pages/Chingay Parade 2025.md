@@ -44,12 +44,11 @@ Performances: 7 Feb 6pm - 8pm<br></p>
 </div>
 
 <div style="padding-top:2rem">
-<span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Four-Storey Stage</span>
+<span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Four-Storey Stage Layout</span>
 <div style="overflow:hidden; padding:1rem;"><img style="max-height:30rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/BLOSSOM_Text.jpg"></div>
 </div>
 <p>First in Chingay history!<br>
-Be wowed by the first of its kind stage layout at Chingay 2025.  Measuring 90 metres wide and 26 metres, the stage consists of 76 "cubicles" that reflects the challenges Singapore faced and the  successes how it bec <br>
-<br>
+Be wowed by the first of its kind stage layout at Chingay 2025.  Measuring 90 metres wide and 26 metres, the stage consists of 76 "cubicles" that reflects Singapore's success in overcoming challenges in shaping the nation. <br>
 </p>
 	
 
