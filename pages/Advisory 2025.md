@@ -4,8 +4,6 @@ permalink: /advisory/
 description: ""
 variant: markdown
 ---
-![](/images/Chingay2024/Chingay_2023_Walking_Route_Map_w_Advisory_FreeStanding_.png)[Download Walking Route Here](/files/Chingay_2024_Walking_Route_Map_w_Advisory.pdf)
-
 # Road Closure
 
 The general public is encouraged to take note of the following road closure arrangements. This will facilitate the event flow and safety of our participants. 
