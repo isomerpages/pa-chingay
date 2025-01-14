@@ -33,7 +33,7 @@ Caravan End - Open space between Blk 19 and 20, Bedok South Road<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">Caravan Start - Along Tampines St 82 within Tampines Central Park<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Along Tampines St 82 within Tampines Central Park<br>
-For more infomation visit: <a href="https://t.me/chingayheartlandshbtbp">Chingay@Holland-Bukit Timah GRC and Bukit Panjang SMC Telegram</a> or <a href="https://www.facebook.com/Senja.Cashew">Cashew Community Facebook Page</a> <br>
+For more infomation visit: <a href="https://www.facebook.com/tampineswest/">Chingay@Tampines West Facebook Page </a>, <a href="https://www.facebook.com/tampinescentralcc/">Chingay@Tampines Central Facebook Page</a>, <a href="https://www.facebook.com/tampines.changkat/">Chingay@Tampines Changkat Facebook Page</a>, <a href="https://www.facebook.com/Senja.Cashew">Cashew Community Facebook Page</a>, <a href="https://www.facebook.com/Senja.Cashew">Cashew Community Facebook Page</a> <br> <br>
 
 
 **[ENDED] Chingay@Marine Parade GRC, MacPherson SMC and Mountbatten SMC** <br>
