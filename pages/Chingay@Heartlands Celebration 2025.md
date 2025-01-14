@@ -10,7 +10,7 @@ Blossom with your communities as our Chingay floats and stunning performances hi
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sun, 9 February 2025 <br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">4.30pm to 9.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
-Caravan Start - Cul-de-sac and basketball court oppositte MacPherson CC<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
+Caravan Start - Open field beside Eastpoint Mall, Simei Street 1<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Bradell Heights Community Hub<br>
 
 **Chingay@Ang Mo Kio GRC, Kebun Baru &amp; Yio Chu Kang SMCs** <br>
@@ -24,16 +24,15 @@ Caravan End - Thanggam Hardcourt<br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sun, 16 February 2025 <br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">6.20pm to 10.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
-Caravan Start - Teck Ghee Square<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
-Caravan End - Thanggam Hardcourt<br>
+Caravan Start - Open field beside Eastpoint Mall, Simei Street 1 <br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
+Caravan End - Open space between Blk 19 and 20, Bedok South Road<br>
 
-**[ENDED] Chingay@Holland-Bukit Timah GRC and Bukit Panjang SMC** <br>
-<img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Fri, 1 March 2024<br>
-<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">5.30pm to 9.45pm<br>
-<img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">Caravan Start Point 1 - Ghim Moh Road<br>
-<img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">Caravan Start Point 2 - Petir Rd (in front of Petir Park)<br>
+**Chingay@Tampines** <br>
+<img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Fri, 21 February 2025<br>
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">7.00pm to 9.30pm<br>
+<img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">Caravan Start - Along Tampines St 82 within Tampines Central Park<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
-Caravan End - Senja-Cashew CC<br>
+Caravan End - Along Tampines St 82 within Tampines Central Park<br>
 For more infomation visit: <a href="https://t.me/chingayheartlandshbtbp">Chingay@Holland-Bukit Timah GRC and Bukit Panjang SMC Telegram</a> or <a href="https://www.facebook.com/Senja.Cashew">Cashew Community Facebook Page</a> <br>
 
 
