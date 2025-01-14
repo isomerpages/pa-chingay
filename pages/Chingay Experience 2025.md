@@ -31,12 +31,13 @@ The Chingay Parade area will be opened to members of the public to experience th
 
 <p>Featuring a stunning array of visual art installations from the PAssionArts Festival, Giant Delights and JOYOUS ART-VENTURE  co-created by residents and community artists!<br>
 Workshops: 6pm - 8pm<br>
-• Fruitful Felt Craft • Kopi Tie-Dye  • Food-themed Wood Block Keychain •</p>
+• Fruitful Felt Craft • Kopi Tie-Dye  • Food-themed Wood Block Keychain •<br>
+Performances: 7 Feb 6pm - 8pm<br></p>
 
 
 
 <div style="padding-top:2rem">
-<span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Joyous ART-Venture</span>
+<span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">JOYOUS ART-Venture</span>
   
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
 
