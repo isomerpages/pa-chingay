@@ -33,15 +33,14 @@ Caravan End - Open space between Blk 19 and 20, Bedok South Road<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">Caravan Start - Along Tampines St 82 within Tampines Central Park<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Along Tampines St 82 within Tampines Central Park<br>
-For more infomation visit: <a href="https://www.facebook.com/tampineswest/">Chingay@Tampines West Facebook Page </a>, <a href="https://www.facebook.com/tampinescentralcc/">Chingay@Tampines Central Facebook Page</a>, <a href="https://www.facebook.com/tampines.changkat/">Chingay@Tampines Changkat Facebook Page</a>, <a href="https://www.facebook.com/Senja.Cashew">Cashew Community Facebook Page</a>, <a href="https://www.facebook.com/Senja.Cashew">Cashew Community Facebook Page</a> <br> <br>
+For more infomation, visit: <a href="https://www.facebook.com/tampineswest/">Chingay@Tampines West Facebook Page </a>, <a href="https://www.facebook.com/tampinescentralcc/">Chingay@Tampines Central Facebook Page</a>, <a href="https://www.facebook.com/tampines.changkat/">Chingay@Tampines Changkat Facebook Page</a>, <a href="https://www.facebook.com/TampNorth/">Chingay@Tampines North Facebook Page</a>, <a href="https://www.facebook.com/tampeastcc/">Chingay@Tampines East Facebook Page</a> <br> 
 
-
-**[ENDED] Chingay@Marine Parade GRC, MacPherson SMC and Mountbatten SMC** <br>
-<img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sat, 2 March 2024<br>
-<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">4.00pm to 10.00pm<br>
+**Chingay@Marsiling-Yew Tee** <br>
+<img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sat, 22 February 2025<br>
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">6.00pm to 10.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
-Caravan Start - Braddell Heights Community Hub (along Serangoon Central<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
-Caravan End -  Open field in-front of Blk 311 Ubi Ave 1<br>
+Caravan Start - De La Salle Primary School<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
+Caravan End -  Open field near Al-Ameen<br>
 For more infomation visit: <a href="https://www.facebook.com/marineparadecluster">Marine Parade Cluster Facebook Page</a> <br>
 
 
