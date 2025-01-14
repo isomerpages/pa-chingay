@@ -29,8 +29,8 @@ The Chingay Parade area will be opened to members of the public to experience th
 </div>
 
 
-<p>Featuring a stunning array of visual art installations from the PAssionArts Festival, Giant Delights and JOYOUS ART-VENTURE  co-created by residents and community artists!<br>
-Workshops: 6pm - 8pm<br>
+<p>Located in front of the F1 pit building, the PAssionArts Street features a stunning array of visual art installations from the PAssionArts Festival, Giant Delights and JOYOUS ART-VENTURE  co-created by residents and community artists!<br>
+Catch the Workshops: 6pm - 8pm<br>
 • Fruitful Felt Craft • Kopi Tie-Dye  • Food-themed Wood Block Keychain •<br>
 Performances: 7 Feb 6pm - 8pm<br></p>
 
