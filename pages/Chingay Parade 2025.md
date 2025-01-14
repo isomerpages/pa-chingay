@@ -35,25 +35,6 @@ Workshops: 6pm - 8pm<br>
 Performances: 7 Feb 6pm - 8pm<br></p>
 
 
-
-<div style="padding-top:2rem">
-<span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">JOYOUS ART-Venture</span>
-  
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/IMG_7008.jpeg"></div></div>
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/IMG_7057.jpeg"></div></div>
-	
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/IMG_7012.jpeg"></div></div>
-</div>
-<p>
-The Chingay Blossom ART-Venture installations are co-created by students from seven different schools, facilitated by community artists based on the theme “Blossom”. Using flowers as the main element, students were involved in transforming the Chingay space into a magical floral garden based on their interpretations of “Blossom” using recycled materials.<br>
-</p></div><p></p>
-
 <div><div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Chingay Community Floats</span>
 
@@ -63,11 +44,11 @@ The Chingay Blossom ART-Venture installations are co-created by students from se
 </div>
 
 <div style="padding-top:2rem">
-<span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Chingay Floor Projection Show</span>
+<span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Four-Storey Stage</span>
 <div style="overflow:hidden; padding:1rem;"><img style="max-height:30rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/BLOSSOM_Text.jpg"></div>
 </div>
-<p>Time: 8pm &amp; 8.30pm<br>
-Be mesmerised by Singapore's longest interactive floor projection (230m) that was presented at Chingay Parade 2024 <br>
+<p>First of its kind in Chingay history!<br>
+Be wowed by the first-of-its-kind mesmerised by Singapore's longest interactive floor projection (230m) that was presented at Chingay Parade 2024 <br>
 <br>
 </p>
 	
