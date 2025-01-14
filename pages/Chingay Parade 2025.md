@@ -4,16 +4,15 @@ permalink: /example-title/
 variant: markdown
 description: ""
 ---
-# FREE ADMISSION
+# 7 &amp; 8 February 2025
 <div style="line-height:4rem;font-size:3rem; font-color: #b242a2">
-7 &amp; 8 February 2025<br>
+
 F1 Pit Building<br></div>
  
 
-Chingay 2025 returns with the theme of "Joy", inviting members of the public to reflect on shared experiences transcending ethnicity, language and age through food. <br>
+Chingay 2025 returns with the theme "Joy", inviting members of the public to reflect on shared experiences transcending ethnicity, language and age through food. <br>
 
-Immerse yourself by a first-of-its-kind stage layout,  
-
+The culinary extravaganza will unfold across an overture and five acts, featuring more than 4,000 performers, 23 food-inspired floats, vibrant costumes, and dynamic music and choreography that encapsulate Singapore’s rich cultural tapestry, artistic talent, and collective spirit. It will captivate audiences with a four-level stage for performers.
 
 
 
@@ -43,15 +42,17 @@ Catch the vibrant performances and participatory art workshops on both the 7th a
  <div><img src="/images/Chingay2024CommunityFloats/Community_Floats.jpg" style="padding: 1rem;"></div>
 
 <p> Made possible by our residents and local artists, this initiative looks to foster a sense of identity and ownership within the community. <br>
-The result A total of 17 unique community floats were presented at Chingay Parade 2024 and will be at the 5 Chingay@Heartlands Celebrations, to bring cheers to the community.</p>
+The result is a record-breaking 23 floats expressing Singapore's spirit of inclusitivity and festivity
+
+ill be at the 5 Chingay@Heartlands Celebrations, to bring cheers to the community.</p>
 </div>
 
 <div style="padding-top:2rem">
-<span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Four-Storey Stage Layout</span>
+<span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Four-Level Stage</span>
 <div style="overflow:hidden; padding:1rem;"><img style="max-height:30rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/BLOSSOM_Text.jpg"></div>
 </div>
 <p>First in Chingay history!<br>
-Be wowed by the first of its kind stage layout at Chingay 2025.  Measuring 90 metres wide and 26 metres, the stage consists of 76 "cubicles" that reflects Singapore's success in overcoming challenges in shaping the nation. <br>
+Be wowed by the first of its kind stage  at Chingay 2025.  Measuring 90 metres wide and 26 metres, the stage consists of 76 "cubicles" that reflects Singapore's success in overcoming challenges in shaping the nation. <br>
 </p>
 	
 
