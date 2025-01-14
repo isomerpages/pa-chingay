@@ -19,6 +19,7 @@ Caravan End - Bradell Heights Community Hub<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan Start - Teck Ghee Square<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Thanggam Hardcourt<br>
+For more infomation, visit: <a href="https://www.facebook.com/amkgrckbycksmcs/">Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMC Facebook Page</a>, <a href="https://www.facebook.com/Chengsancommunity/">Cheng San CC Facebook Page</a>, <a href="https://www.facebook.com/ciyuancclub/">Ci Yuan Facebook Page</a>, <a href="https://www.facebook.com/FernvaleCC/">Fernvale CC Facebook Page</a>, <a href="https://www.facebook.com/OurKebunBaru/">Our Kebun Baru Facebook Page</a>, <a href="https://www.facebook.com/teckgheedivision/">Teck Ghee Facebook Page</a> and <a href="https://www.facebook.com/yckcc/">Yio Chu Kang Facebook Page</a> <br> 
 
 **Chingay@East Coast** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sun, 16 February 2025 <br>
@@ -49,8 +50,7 @@ For more infomation visit: <a href="https://www.facebook.com/marineparadecluster
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan Start - Pasir Ris Dr 4<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Punggol West Community Square along Punggol Field<br>
-For more infomation visit: <a href="https://www.facebook.com/pasirriscentralco/">Pasir Ris Central Facebook Page</a>, <a href="https://www.facebook.com/pasirriseastcc/">Pasir Ris East Facebook Page</a>, <a href="https://www.facebook.com/eliascc/">Pasir Ris West Elias Facebook Page</a>, <a href="https://www.facebook.com/punggol.coast//">Punggol Coast Facebook Page</a>, <a href="https://www.facebook.com/p21cc/">Punggol 21 Facebook Page</a>, <a href="https://www.facebook.com/divisionpunggolwest/">Punggol West Facebook Page</a> and <a href="https://www.facebook.com/ourprpg/">Our Pasir Ris Punggol Facebook Page</a> <br> 
-
+For more infomation, visit: <a href="https://www.facebook.com/pasirriscentralco/">Pasir Ris Central Facebook Page</a>, <a href="https://www.facebook.com/pasirriseastcc/">Pasir Ris East Facebook Page</a>, <a href="https://www.facebook.com/eliascc/">Pasir Ris West Elias Facebook Page</a>, <a href="https://www.facebook.com/punggol.coast//">Punggol Coast Facebook Page</a>, <a href="https://www.facebook.com/p21cc/">Punggol 21 Facebook Page</a>, <a href="https://www.facebook.com/divisionpunggolwest/">Punggol West Facebook Page</a> and <a href="https://www.facebook.com/ourprpg/">Our Pasir Ris Punggol Facebook Page</a> <br> 
 
 **Chingay@Bishan-Toa Payoh and Marymount** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sat, 1 March 2025<br>
