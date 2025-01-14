@@ -10,7 +10,9 @@ description: ""
 F1 Pit Building<br></div>
  
 
-The Chingay Parade area will be opened to members of the public to experience the Chingay festivities! Immerse yourself in the PAssionArts Street workshops and get up-close with Blossom ART-Venture Installation and the Chingay Community Floats. There will also be special performances by our international friends and two 15-min Chingay Floor Projection shows happening at 8pm &amp; 8.30pm.
+Chingay 2025 returns with the theme of "Joy", inviting members of the public to reflect on shared experiences transcending ethnicity, language and age through food. <br>
+
+Immerse yourself by a first-of-its-kind stage layout,  
 
 
 
@@ -30,9 +32,9 @@ The Chingay Parade area will be opened to members of the public to experience th
 
 
 <p>Located in front of the F1 pit building, the PAssionArts Street features a stunning array of visual art installations from the PAssionArts Festival, Giant Delights and JOYOUS ART-VENTURE  co-created by residents and community artists!<br>
-Catch the Workshops: 6pm - 8pm<br>
-• Fruitful Felt Craft • Kopi Tie-Dye  • Food-themed Wood Block Keychain •<br>
-Performances: 7 Feb 6pm - 8pm<br></p>
+	
+Catch the vibrant performances and participatory art workshops on both the 7th and 8th February from 5.30pm to 9.00pm!<br>
+</p>
 
 
 <div><div style="padding-top:2rem">
@@ -40,7 +42,8 @@ Performances: 7 Feb 6pm - 8pm<br></p>
 
  <div><img src="/images/Chingay2024CommunityFloats/Community_Floats.jpg" style="padding: 1rem;"></div>
 
-<p> This is an initiative made possible with the involvement of our residents in the makeing of community floats and guided by our local artists. A total of 17 unique community floats were presented at Chingay Parade 2024 and will be at the 5 Chingay@Heartlands Celebrations, to bring cheers to the community.</p>
+<p> Made possible by our residents and local artists, this initiative looks to foster a sense of identity and ownership within the community. <br>
+The result A total of 17 unique community floats were presented at Chingay Parade 2024 and will be at the 5 Chingay@Heartlands Celebrations, to bring cheers to the community.</p>
 </div>
 
 <div style="padding-top:2rem">
