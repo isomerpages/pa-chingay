@@ -17,7 +17,7 @@ Nearest Carpark: Millenia Walk &amp; Suntec City
 
 Dear participants, kindly note the following:
 
-* The parade will feature strobe lights and music broadcast through a surround-sound system.
+* The parade will feature strobe lights and high-volume audio will be expected throughout the event. We strongly recommend Patrons to bring suitable eye and ear protection, especially if you are sensitive to bright lights or loud noises.
 
 
 TERMS &amp; CONDITIONS
