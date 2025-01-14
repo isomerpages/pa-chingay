@@ -10,7 +10,9 @@ variant: markdown
 
 The general public is encouraged to take note of the following road closure arrangements. This will facilitate the event flow and safety of our participants. 
 
-<div><img src="/images/Chingay2024/Chingay_2024_Road_Closure.png"></div>
+<div> <img src="/images/Chingay2024/Chingay_2024_Road_Closure.png"></div>
+
+<div> <img src="/images/Chingay2024/Chingay_2024_Road_Closure.png"></div>
 
 Nearest Carpark: Millenia Walk &amp; Suntec City
 
