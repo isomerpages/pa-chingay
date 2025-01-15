@@ -4,6 +4,8 @@ permalink: /chingayparade2025/
 variant: markdown
 description: ""
 ---
+<div> <img src="/images/Chingay_Onsite_Map.png"></div>
+
 # 7 &amp; 8 February 2025
 <div style="line-height:4rem;font-size:3rem; font-color: #b242a2">
 
@@ -48,9 +50,9 @@ The result is a record-breaking 23 floats expressing Singapore's spirit of inclu
 
 <div> <img src="/images/Structure_Photo_2.png"></div>
 	
-Be wowed by the first of its kind stage  at Chingay 2025.  The stage consists of 76 "cubicles" that reflects Singapore's success in overcoming challenges in shaping the nation and is sure to wow audiences with its scale and spectacular performers. <br>
+<p> Be wowed by the first of its kind stage  at Chingay 2025.  The stage consists of 76 "cubicles" that reflects Singapore's success in overcoming challenges in shaping the nation and is sure to wow audiences with its scale and spectacular performers. <br>
 	
-<div><div style="padding-top:2rem">
+</p><div><div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Chingay: Road to UNESCO Exhibits</span>
 
  <div><img src="/images/Chingay2024CommunityFloats/Community_Floats.jpg" style="padding: 1rem;"></div>
