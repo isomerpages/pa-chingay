@@ -31,6 +31,15 @@ sections:
           description: food-inspired floats
       url: /chingayparade2025/
   - infopic:
+      title: Highlights
+      subtitle: Chingay 2025
+      id: infopic
+      description: Theme of "Joy", 23 food inspired community floats, 4-storey stage
+        and multi-ethnic performers
+      button: Find out more
+      url: /chingayparade2025/
+      alt: Image alt text
+  - infopic:
       title: "Theme: JOY"
       subtitle: Chingay 2025
       button: find out more
