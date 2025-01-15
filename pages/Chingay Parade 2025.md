@@ -55,9 +55,10 @@ Be wowed by the first of its kind stage  at Chingay 2025.  The stage consists of
 
  <div><img src="/images/Chingay2024CommunityFloats/Community_Floats.jpg" style="padding: 1rem;"></div>
 
-<p> Be part of the Chingay 2025 celebrations as we continue our road to UNESCO Check out the  </p>
-</div>
-</div>
+<p> Chingay is importance to Singapore as it embodies the multiculturalism of Singaporean communities that reflects our diversity, traditions as well as visual and performing arts. <br>
+	
+Be part of the Chingay celebrations! Check out the interactive UNESCO booths at PAssionArt Street to begin your Chingay journey and share your support for Chingay onto UNESCO!
+</p></div>
 
 # How to get there?
 	
@@ -68,4 +69,4 @@ By MRT:<br>
 2)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;14 mins walk from CC3 Esplanade MRT Station<br>
 3)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from NS25/EW13 City Hall MRT Station<br>
 4)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from CE1/DT16 Bayfront MRT Station
-	<br><br></div></div></div>
+	<br><br></div></div></div></div>
