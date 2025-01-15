@@ -4,7 +4,7 @@ permalink: /chingay-heartlands-celebration-2025/
 variant: markdown
 description: ""
 ---
-Blossom with your communities as our Chingay floats and stunning performances hit the Heartlands!
+Bringing joy into our communities as our Chingay floats and stunning performances hit the Heartlands!
 
 **Chingay@Marine Parade Cluster** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sun, 9 February 2025 <br>
