@@ -41,19 +41,16 @@ Catch the vibrant performances and participatory art workshops on both the 7th a
 
  <div><img src="/images/Chingay2024CommunityFloats/Community_Floats.jpg" style="padding: 1rem;"></div>
 
-<p> Made possible by our residents and local artists, this initiative looks to foster a sense of identity and ownership within the community. <br>
-The result is a record-breaking 23 floats expressing Singapore's spirit of inclusitivity and festivity
-
-ill be at the 5 Chingay@Heartlands Celebrations, to bring cheers to the community.</p>
+<p> Made possible by our residents and local artists, this initiative looks to foster a sense of identity and ownership within the community. 
+The result is a record-breaking 23 floats expressing Singapore's spirit of inclusitivity and festivity as we find joy in the connections we create and the moments we share over food. </p>
 </div>
 
 <div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Four-Level Stage</span>
 <div style="overflow:hidden; padding:1rem;"><img style="max-height:30rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/BLOSSOM_Text.jpg"></div>
-</div>
-<p>First in Chingay history!<br>
+</div> 
 Be wowed by the first of its kind stage  at Chingay 2025.  Measuring 90 metres wide and 26 metres, the stage consists of 76 "cubicles" that reflects Singapore's success in overcoming challenges in shaping the nation. <br>
-</p>
+<p></p>
 	
 
 <div style="padding-top:2rem">
