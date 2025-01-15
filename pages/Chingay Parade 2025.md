@@ -4,7 +4,6 @@ permalink: /chingayparade2025/
 variant: markdown
 description: ""
 ---
-
 # 7 &amp; 8 February 2025
 <div style="line-height:4rem;font-size:3rem; font-color: #b242a2">
 
