@@ -35,7 +35,6 @@ The culinary extravaganza will unfold across an overture and five acts, featurin
 Catch the vibrant performances and participatory art workshops on both the 7th and 8th February from 5.30pm to 9.00pm!<br>
 </p>
 
-
 <div><div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Chingay Community Floats</span>
 
@@ -52,6 +51,15 @@ The result is a record-breaking 23 floats expressing Singapore's spirit of inclu
 Be wowed by the first of its kind stage  at Chingay 2025.  Measuring 90 metres wide and 26 metres, the stage consists of 76 "cubicles" that reflects Singapore's success in overcoming challenges in shaping the nation. <br>
 <p></p>
 	
+<div><div style="padding-top:2rem">
+<span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Chingay: Road to UNESCO Exhibits</span>
+
+ <div><img src="/images/Chingay2024CommunityFloats/Community_Floats.jpg" style="padding: 1rem;"></div>
+
+<p> Made possible by our residents and local artists, this initiative looks to foster a sense of identity and ownership within the community. 
+The result is a record-breaking 23 floats expressing Singapore's spirit of inclusitivity and festivity as we find joy in the connections we create and the moments we share over food. </p>
+</div>
+
 
 <div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Special Performances by our International Friends</span>
@@ -73,7 +81,7 @@ Be wowed by the first of its kind stage  at Chingay 2025.  Measuring 90 metres w
 </div>
 	
 <p>
-Time: 7.30pm<br>
+Time: 7<br>
 Our international friends are here to share their beautiful cultures with us!
 Don’t miss the opportunity to interact and experience the unique blend of cultural and modern performances brought by our international friends from China, Indonesia, South Korea and Thailand. 
 
@@ -91,4 +99,4 @@ By MRT:<br>
 2)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;14 mins walk from CC3 Esplanade MRT Station<br>
 3)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from NS25/EW13 City Hall MRT Station<br>
 4)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from CE1/DT16 Bayfront MRT Station
-	<br><br></div></div></div>
+	<br><br></div></div></div></div>
