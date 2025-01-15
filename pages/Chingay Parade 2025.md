@@ -15,7 +15,6 @@ Chingay 2025 returns with the theme "Joy", inviting members of the public to ref
 The culinary extravaganza will unfold across an overture and five acts, featuring more than 4,000 performers, 23 food-inspired floats, vibrant costumes, and dynamic music and choreography that encapsulate Singapore’s rich cultural tapestry, artistic talent, and collective spirit. It will captivate audiences with a four-level stage for performers.
 
 
-
 <div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">PASSIONARTS STREET </span>
 
@@ -30,7 +29,7 @@ The culinary extravaganza will unfold across an overture and five acts, featurin
 </div>
 
 
-<p>Located in front of the F1 pit building, the PAssionArts Street features a stunning array of visual art installations from the PAssionArts Festival, Giant Delights and JOYOUS ART-VENTURE  co-created by residents and community artists!<br>
+<p>Located in front of the F1 pit building, the PAssionArts Street features a stunning array of visual art installations from the PAssionArts Festival, Giant Delights and JOYOUS ART-VENTURE that were co-created by residents and community artists!<br>
 	
 Catch the vibrant performances and participatory art workshops on both the 7th and 8th February from 5.30pm to 9.00pm! 
 
