@@ -55,7 +55,7 @@ Be wowed by the first of its kind stage  at Chingay 2025.  The stage consists of
 
  <div><img src="/images/Chingay2024CommunityFloats/Community_Floats.jpg" style="padding: 1rem;"></div>
 
-<p> Chingay is importance to Singapore as it embodies the multiculturalism of Singaporean communities that reflects our diversity, traditions as well as visual and performing arts. <br>
+<p> Chingay is important to Singapore as it embodies the multiculturalism of Singaporean communities that reflects our diversity, traditions as well as visual and performing arts. <br>
 	
 Be part of the Chingay celebrations! Check out the interactive UNESCO booths at PAssionArt Street to begin your Chingay journey and share your support for Chingay onto UNESCO!
 </p></div>
