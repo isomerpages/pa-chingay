@@ -46,7 +46,8 @@ The result is a record-breaking 23 floats expressing Singapore's spirit of inclu
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">New Four-Level Stage</span>
 <div style="overflow:hidden; padding:1rem;"><img style="max-height:30rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2024/BLOSSOM_Text.jpg"></div>
 </div> 
-	
+
+<div> <img src="/images/Road_closure_1_V1.png"></div>
 Be wowed by the first of its kind stage  at Chingay 2025.  The stage consists of 76 "cubicles" that reflects Singapore's success in overcoming challenges in shaping the nation and is sure to wow audiences with its scale and spectacular performers. <br>
 	
 <div><div style="padding-top:2rem">
