@@ -32,7 +32,7 @@ The culinary extravaganza will unfold across an overture and five acts, featurin
 
 <p>Located in front of the F1 pit building, the PAssionArts Street features a stunning array of visual art installations from the PAssionArts Festival, Giant Delights and JOYOUS ART-VENTURE  co-created by residents and community artists!<br>
 	
-Catch the vibrant performances and participatory art workshops on both the 7th and 8th February from 5.30pm to 9.00pm!<br>
+Catch the vibrant performances and participatory art workshops on both the 7th and 8th February from 5.30pm to 9.00pm! 
 
 </p><div><div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Chingay Community Floats</span>
@@ -56,7 +56,7 @@ Be wowed by the first of its kind stage  at Chingay 2025.  The stage consists of
  <div><img src="/images/Chingay2024CommunityFloats/Community_Floats.jpg" style="padding: 1rem;"></div>
 
 <p> Chingay is important to Singapore as it embodies the multiculturalism of Singaporean communities that reflects our diversity, traditions as well as visual and performing arts. <br>
-
+	
 Be part of the Chingay celebrations! Check out the interactive UNESCO booths at PAssionArt Street to begin your Chingay journey and share your support for Chingay onto UNESCO!
 </p></div>
 
