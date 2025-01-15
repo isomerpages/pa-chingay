@@ -16,20 +16,12 @@ sections:
           description: ""
           url: /chingayunesco/
       background: /images/Chingay2025/Untitled_design__7_.gif
-  - infocols:
-      title: Chingay Parade 2025 at a glance
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: "> 20,000"
-          description: seated audience
-        - title: 4,000
-          description: performers
-        - title: "60"
-          description: multi-ethnic drummers and lion dancers
-        - title: "23"
-          description: food-inspired floats
-      url: /chingayparade2025/
+  - textcards:
+      title: About Chingay
+      id: textcards
+      description: The Chingay Parade started in 1973 as a street parade to celebrate
+        Chinese New Year, evolving into an annual iconic event showcasing
+        Singapore’s rich and unique multi-ethnic and cosmopolitan culture
   - infopic:
       title: Highlights
       subtitle: Chingay 2025
@@ -66,4 +58,18 @@ sections:
       image: /images/Chingay2025/UNESCO_80_.png
       alt: Image alt text
       url: /chingayunesco/
+  - infocols:
+      title: Chingay Parade 2025 at a glance
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: "> 20,000"
+          description: seated audience
+        - title: 4,000
+          description: performers
+        - title: "60"
+          description: multi-ethnic drummers and lion dancers
+        - title: "23"
+          description: food-inspired floats
+      url: /chingayparade2025/
 ---
