@@ -21,7 +21,7 @@ sections:
       id: textcards
       description: The Chingay Parade started in 1973 as a street parade to celebrate
         Chinese New Year, evolving into an annual iconic event showcasing
-        Singapore’s rich and unique multi-ethnic and cosmopolitan culture
+        Singapore’s rich and unique multi-ethnic and cosmopolitan cultures
   - infopic:
       title: Highlights
       subtitle: Chingay 2025
