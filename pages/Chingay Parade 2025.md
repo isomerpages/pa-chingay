@@ -56,8 +56,12 @@ Be wowed by the first of its kind stage  at Chingay 2025.  The stage consists of
 
 <p> Chingay is important to Singapore as it embodies the multiculturalism of Singaporean communities that reflects our diversity, traditions as well as visual and performing arts. <br>
 Be part of the Chingay experience! Check out the interactive UNESCO booths at PAssionArt Street to begin your Chingay journey and share your support for Chingay onto UNESCO!
-</p></div>
 
+</p>
+</div>
+
+	
+	
 # How to get there?
 	
 <div> Parking <b>not</b> available at F1 Pit Building. The nearest carparks are at Singapore Flyer, Millenia Walk and Suntec City (at own cost).<br><br>
