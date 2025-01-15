@@ -4,6 +4,21 @@ permalink: /advisory/
 description: ""
 variant: markdown
 ---
+# Walking Route
+<div> <img src="/images/Road_closure_1_V1.png"></div><br>
+
+<div style="line-height:4rem;font-size:3rem; font-color: #b242a2">
+
+How to get there?<br></div><br>
+<b>If you are arriving by car, </b><br>
+Parking <b>not</b> available at F1 Pit Building. The nearest carparks are at Singapore Flyer, Millenia Walk and Suntec City (at own cost).<br><br>
+<b>If you are taking public transport</b><br>
+By MRT:<br>
+1)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;11 mins walk from CC4/DT15 Promenade MRT Station<br>
+2)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;14 mins walk from CC3 Esplanade MRT Station<br>
+3)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from NS25/EW13 City Hall MRT Station<br>
+4)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from CE1/DT16 Bayfront MRT Station
+
 # Road Closure
 
 The general public is encouraged to take note of the following road closure arrangements. This will facilitate the event flow and safety of our participants. 
