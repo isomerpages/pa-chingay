@@ -5,13 +5,13 @@ description: ""
 variant: markdown
 ---
 # Walking Route
-<div> <img src="/images/Road_closure_1_V1.png"></div><br>
+<div> <img src="/images/Chingay_2025_Walking_Route.png"></div><br>
 
 <div style="line-height:4rem;font-size:3rem; font-color: #b242a2">
 
 How to get there?<br></div><br>
 <b>If you are arriving by car, </b><br>
-Parking <b>not</b> available at F1 Pit Building. The nearest carparks are at Singapore Flyer, Millenia Walk and Suntec City (at own cost).<br><br>
+Parking is <b>not</b> available at F1 Pit Building. The nearest carparks are at Singapore Flyer, Millenia Walk and Suntec City (at own cost).<br><br>
 <b>If you are taking public transport</b><br>
 By MRT:<br>
 1)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;11 mins walk from CC4/DT15 Promenade MRT Station<br>
