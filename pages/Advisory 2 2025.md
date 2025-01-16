@@ -19,6 +19,8 @@ By MRT:<br>
 3)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from NS25/EW13 City Hall MRT Station<br>
 4)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from CE1/DT16 Bayfront MRT Station
 
+[Download Walking Route Here](/files/Chingay_2025_Walking_Route_Map.pdf)
+
 # Road Closure
 
 The general public is encouraged to take note of the following road closure arrangements. This will facilitate the event flow and safety of our participants. 
