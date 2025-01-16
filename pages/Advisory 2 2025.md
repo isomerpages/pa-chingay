@@ -6,9 +6,11 @@ description: ""
 ---
 # Walking Route
 <div> <img src="/images/Chingay_2025_Walking_Route.png"></div><br><br>
+
 <div style="line-height:4rem;font-size:3rem; font-color: #b242a2">
 
 How to get there?</div>
+
 <b>If you are arriving by car, </b><br>
 Parking is <b>not</b> available at F1 Pit Building. The nearest carparks are at Singapore Flyer, Millenia Walk and Suntec City (at own cost).<br><br>
 <b>If you are taking public transport</b><br>
