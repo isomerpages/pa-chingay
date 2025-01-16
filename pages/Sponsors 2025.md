@@ -44,7 +44,7 @@ description: ""
 <div><img src="/images/Sponsors%20&amp;%20Donors/loyang-tua-pek-gong-14-october-2019-18-26-36.jpg" alt="Hock Lam" style="padding-top:10%; padding-bottom:10%; width: 85px;"> </div>
 <div><img src="/images/Sponsors%20&amp;%20Donors/hock-lam-11-february-2021-21-54-16.png" alt="Hock Lam" style="padding-top:20%; padding-bottom:20%;width: 190px;"> </div>		
 <div><img src="/images/Sponsors%20&amp;%20Donors/dfi-retail-group-20-january-2022-15-08-36.png" alt="KKL" style="padding-top:3%; padding-bottom:3%;width: 99px;"> </div>
-<div><img src="/images/Sponsors%20&amp;%20Donors/smrt_trains_logo.jpg" alt="SMRT" style="padding-top:3%; padding-bottom:3%;width:170px;"> </div>
+<div><img src="/images/TPIHK_Logo.png" alt="Teochew Poit IP Huay Kuan" style="padding-top:3%; padding-bottom:3%;width:170px;"> </div>
  </div>
     </div>
 </div>
@@ -55,8 +55,9 @@ description: ""
 <div style="text-align: Center;">
         <b>Caterers</b>
         <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(0px,1fr));border-top: 1px solid black; padding-top:5%; padding-bottom:5%;align-items: center; height:150px;">
-            <div><img style="padding-top:3%; padding-bottom:3%; width: 133px;" alt="Stamford" src="/images/Sponsors%20&amp;%20Donors/stamford-catering-18-october-2019-16-40-27.png"> </div>
-					   <div><img style="padding-top:3%; padding-bottom:3%; width: 120px;" alt="Stamford" src="/images/Sponsors%20&amp;%20Donors/peach-garden-(colour)-14-october-2019-18-28-03.png"> </div>
+            <div><img style="padding-top:3%; padding-bottom:3%; width: 133px;" alt="Peach Garden" src="/images/Sponsors%20&amp;%20Donors/peach-garden-(colour)-14-october-2019-18-28-03.png"> </div>
+					<div><img style="padding-top:3%; padding-bottom:3%; width: 133px;" alt="Stamford" src="/images/Sponsors%20&amp;%20Donors/stamford-catering-18-october-2019-16-40-27.png"> </div>
+					   <div><img style="padding-top:3%; padding-bottom:3%; width: 120px;" alt="How's Catering" src="/images/HOWS_Logo_01.jpg"> </div>
 </div>
 </div>
 	
@@ -71,7 +72,7 @@ description: ""
 <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(325px,1fr));padding-bottom:20px;">
 	
 <div style="text-align: center;">
-        <b>Official Media Partners</b>
+        <b>Media Partners</b>
         <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(0px,1fr));border-top: 1px solid black; padding-top:3%; padding-bottom:3%;align-items: center; height:150px;">
             <div><img src="/images/Sponsors%20&amp;%20Donors/Stellar_Ace_logo.png" alt="Stellar Ace" style="padding-top:3%; padding-bottom:3%;width:150px;"> </div>
         </div>
