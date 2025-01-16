@@ -44,11 +44,11 @@ description: ""
 <div><img src="/images/Sponsors%20&amp;%20Donors/loyang-tua-pek-gong-14-october-2019-18-26-36.jpg" alt="Hock Lam" style="padding-top:10%; padding-bottom:10%; width: 85px;"> </div>
 <div><img src="/images/Sponsors%20&amp;%20Donors/hock-lam-11-february-2021-21-54-16.png" alt="Hock Lam" style="padding-top:20%; padding-bottom:20%;width: 190px;"> </div>		
 
-<div><img src="/images/radioquip.png" alt="Radioquip" style="padding-top:3%; padding-bottom:3%;width: 99px;"> </div>
+<div><img src="/images/radioquip.png" alt="Radioquip" style="padding-top:3%; padding-bottom:3%;width: 180px;"> </div>
 
-<div><img src="/images/Smartcom_logo.jpg" alt="SMARTCOM" style="padding-top:3%; padding-bottom:3%;width: 99px;"> </div>
+<div><img src="/images/Smartcom_logo.jpg" alt="SMARTCOM" style="padding-top:3%; padding-bottom:3%;width: 150px;"> </div>
 	
-<div><img src="/images/Cooltopia_logo_Bar.png" alt="Cooltopia" style="padding-top:3%; padding-bottom:3%;width: 99px;"> </div>
+<div><img src="/images/Cooltopia_logo_Bar.png" alt="Cooltopia" style="padding-top:3%; padding-bottom:3%;width: 180px;"> </div>
 
 <div><img src="/images/Sponsors%20&amp;%20Donors/dfi-retail-group-20-january-2022-15-08-36.png" alt="DFI" style="padding-top:3%; padding-bottom:3%;width: 99px;"> </div>
 
