@@ -51,6 +51,12 @@ sections:
         It highlights finding joy in tough times and the strength we gain
         together.
   - infopic:
+      title: How to get there?
+      id: infopic
+      description: Car, MRT, Taxi
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: SHOW YOUR SUPPORT!
       subtitle: JOINT NOMINATION FOR UNESCO
       id: infopic
