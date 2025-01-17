@@ -47,32 +47,17 @@ Catch the vibrant performances and participatory art workshops on both the 7 and
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">New Four-Level Stage</span>
 <div style="overflow:hidden; padding:1rem;">
 
-<div> <img src="/images/Structure_Photo_2.png"></div>
+<div> <img src="/images/Stage_Photo.png"></div>
 	
 <p> Be wowed by the first of its kind stage at Chingay 2025. The stage consisting 76 "cubicles" that reflects Singapore's successes in overcoming challenges and in shaping the nation's multiculturalism and diversity. <br>
 	
-</p><div><div style="padding-top:2rem">
-<span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Chingay: Road to UNESCO Exhibits</span>
-
- <div><img src="/images/Chingay2024CommunityFloats/Community_Floats.jpg" style="padding: 1rem;"></div>
-
-<p> Chingay is important to Singapore as it embodies the multiculturalism of Singaporean communities that reflects our diversity, traditions as well as visual and performing arts. <br>
-	
-Be part of the Chingay experience! Check out the interactive UNESCO booths at PAssionArt Street to begin your Chingay journey and share your support for Chingay onto UNESCO!
-
-</p>
-</div>
-
-	
-
-	
 # How to get there?
 	
-<div> Parking <b>not</b> available at F1 Pit Building. The nearest carparks are at Singapore Flyer, Millenia Walk and Suntec City (at own cost).<br><br>
+</p><div> Parking is <b>not</b> available at F1 Pit Building. The nearest carparks are at Singapore Flyer, Millenia Walk and Suntec City (at own cost).<br><br>
 <b>If you are taking public transport</b><br>
 By MRT:<br>
 1)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;11 mins walk from CC4/DT15 Promenade MRT Station<br>
 2)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;14 mins walk from CC3 Esplanade MRT Station<br>
 3)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from NS25/EW13 City Hall MRT Station<br>
 4)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from CE1/DT16 Bayfront MRT Station
-	<br><br></div></div></div></div></div></div>
+	<br><br></div></div></div></div></div>
