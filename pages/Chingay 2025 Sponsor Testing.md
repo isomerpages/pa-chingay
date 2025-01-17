@@ -47,7 +47,7 @@ description: ""
   <div><img src="/images/Smartcom_logo.jpg" alt="SMARTCOM" style="padding-top:10%; padding-bottom:10%;width: 160px;"> </div>
  <div><img src="/images/Cooltopia_logo_Bar.png" alt="Cooltopia" style="padding-top:10%; padding-bottom:3%;width: 190px;"> </div>
   <div><img src="/images/Sponsors%20&amp;%20Donors/dfi-retail-group-20-january-2022-15-08-36.png" alt="DFI" style="padding-top:10%; padding-bottom:10%;width: 99px;"> </div>
-<div><img src="/images/TPIHK_Logo.png" alt="Teochew Poit IP Huay Kuan" style="padding-top:10%; padding-bottom:10%;width:200px;"> </div>
+<div><img src="/images/TPIHK_Logo.png" alt="Teochew Poit IP Huay Kuan" style="padding-top:20%; padding-bottom:20%;width:200px;"> </div>
 </div>
 </div>
 
