@@ -40,8 +40,7 @@ Catch the vibrant performances and participatory art workshops on both the 7 and
 
  <div><img src="/images/Chingay2024CommunityFloats/Community_Floats.jpg" style="padding: 1rem;"></div>
 
-<p> Made possible by our residents and local artists, this initiative looks to foster a sense of identity and ownership within the community. 
-The result is a record-breaking 23 floats expressing Singapore's spirit of inclusitivity and festivity as we find joy in the connections we create and the moments we share over food. </p>
+<p>The community floats debuted at Chingay Parade 2022, where residents with guidance from local artists, get to showcase their co-creations and creativity on a national platform.  The co-creation workshops held several weeks to months enabled residents the opportunity to interact with one another, contribute their creativity and have been a great way for neighbours and friends to foster a sense of identity, ownership and being part of the community.  This initiative exemplifies the community’s active participation in the Chingay Parade, an annual celebration of multiculturalism and diversity. . </p>
 </div>
 
 <div style="padding-top:2rem">
