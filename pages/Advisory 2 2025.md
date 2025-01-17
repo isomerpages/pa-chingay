@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 # Walking Route
-<div> <img src="/images/Chingay_2025_Walking_Route.png"></div><br><br>
+<div> <img src="/images/Chingay_2025_Walking_Route.png"></div><br>
 
 <div style="line-height:4rem;font-size:3rem; font-color: #b242a2">
 
