@@ -38,7 +38,7 @@ description: ""
     <div><img src="/images/NunchiMarine_Stacked.png" alt="NunchiMarine" style="padding-top:1%; padding-bottom:1%;width: 170px;"></div>
 	</div>
 
-<div style="margin: 0 auto; display: grid; grid-gap: 0.5rem; grid-template-columns: repeat(auto-fit, minmax(300px,1fr));align-items: center; padding-top:1%;">
+<div style="margin: 0 auto; display: grid; grid-gap: 0.5rem; grid-template-columns: repeat(auto-fit, minmax(250px,1fr));align-items: center; padding-top:1%;">
 				<div><img src="/images/Sponsors%20&amp;%20Donors/SCCClogo_2024.png" alt="SCCC" style="padding-top:3%; padding-bottom:3%;width: 95px;"> </div>
 				<div><img src="/images/Sponsors%20&amp;%20Donors/kkl-14-october-2019-18-47-18.png" alt="KKL" style="padding-top:3%; padding-bottom:3%;width: 115px;"> </div>
   <div><img src="/images/Sponsors%20&amp;%20Donors/loyang-tua-pek-gong-14-october-2019-18-26-36.jpg" alt="Hock Lam" style="padding-top:3%; padding-bottom:3%; width: 85px;"> </div>
