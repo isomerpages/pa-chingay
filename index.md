@@ -55,7 +55,7 @@ sections:
       id: infopic
       alt: Image alt text
       url: /advisory-2-2025/
-      button: Find out now
+      button: Find out more
       image: /images/How_to_get_there_.png
   - infopic:
       title: SHOW YOUR SUPPORT!
@@ -65,18 +65,4 @@ sections:
       image: /images/Chingay2025/UNESCO_80_.png
       alt: Image alt text
       url: /chingayunesco/
-  - infocols:
-      title: Chingay Parade 2025 at a glance
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: "> 20,000"
-          description: seated audience
-        - title: 4,000
-          description: performers
-        - title: "60"
-          description: multi-ethnic drummers and lion dancers
-        - title: "23"
-          description: food-inspired floats
-      url: /chingayparade2025/
 ---
