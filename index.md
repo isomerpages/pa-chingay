@@ -54,6 +54,8 @@ sections:
       title: How to get there?
       id: infopic
       alt: Image alt text
+      url: /advisory-2-2025/
+      button: Find out now
   - infopic:
       title: SHOW YOUR SUPPORT!
       subtitle: JOINT NOMINATION FOR UNESCO
