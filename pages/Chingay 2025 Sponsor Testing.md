@@ -103,7 +103,8 @@ description: ""
 				<div><img src="/images/Sponsors%20&amp;%20Donors/PAssionCard%202022%20Silver.png" alt="PAssion Card Silver" style="padding-top:3%; padding-bottom:3%;width: 120px;"></div>
 				<div><img src="/images/Sponsors%20&amp;%20Donors/PAssionCard%202022%20POSB.png" alt="PAssion Card POSB" style="padding-top:3%; padding-bottom:3%;width: 120px;"></div>
 </div>
-
+	</div>
+	
 			
 <div style="text-align: Center;">
         <b>Supporting Partner</b>
@@ -121,4 +122,4 @@ Be a part of our extensive outreach and co-create the Chingay Parade with us.
 
 For more information regarding sponsorship and partnership opportunities, please contact us at:
 
-[pa_acd@pa.gov.sg](mailto:pa_acd@pa.gov.sg)</div>
+[pa_acd@pa.gov.sg](mailto:pa_acd@pa.gov.sg)
