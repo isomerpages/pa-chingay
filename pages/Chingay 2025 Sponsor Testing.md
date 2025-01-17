@@ -17,7 +17,7 @@ description: ""
 
 <div style="text-align: center;">
         <b>Principal Founding Sponsor</b>
-	<div style="margin: 0 auto; display: grid; grid-gap: 2rem; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); border-top: 1px solid black; padding-top:5%; padding-bottom:%; align-items: center;">
+	<div style="margin: 0 auto; display: grid; grid-gap: 2rem; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); border-top: 1px solid black; padding-top:5%; padding-bottom:5%; align-items: center;">
 		<div><img src="/images/Sponsors%20&amp;%20Donors/Tote_Board_Logo_horizontal__Colour_.png" alt="Toteboard" style="padding-top:3%; padding-bottom:3%;width: 250px;"></div>
 	</div>
 </div>
