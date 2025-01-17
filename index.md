@@ -26,8 +26,9 @@ sections:
       title: Highlights
       subtitle: Chingay 2025
       id: infopic
-      description: Catch the multi-ethnic performers, 23 food inspired community
-        floats and a 4-storey stage
+      description: Catch the multi-ethnic performers in their dazzling costumes and
+        the largest fleet of 23 food inspired floats as well as a 4-storey stage
+        with
       button: Find out more
       url: /chingayparade2025/
       alt: Image alt text
