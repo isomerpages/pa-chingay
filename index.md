@@ -19,7 +19,7 @@ sections:
   - textcards:
       title: About Chingay Parade
       id: textcards
-      description: Chingay is a vibrant parade celebrating multiculturalism with
+      description: Chingay is a people's parade celebrating multiculturalism with
         elaborate costumes, colourful floats, and cultural performances that
         showcase Singapore's rich traditions and artistic diversity.
   - infopic:
