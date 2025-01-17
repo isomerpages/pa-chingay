@@ -35,7 +35,8 @@ description: ""
       <div><img src="/images/Sponsors%20&amp;%20Donors/harmony%20circle%202025.png" alt="Harmony Circle" style="padding-top:15%; padding-bottom:15%; width: 280px;"></div>
       <div><img src="/images/NgeeAnnKongsi_logo.jpg" alt="THE NGEE ANN KONGSI" style="padding-top:3%; padding-bottom:3%;width: 200px;"> </div>
     <div><img src="/images/NunchiMarine_Stacked.png" alt="NunchiMarine" style="padding-top:3%; padding-bottom:3%;width: 180px;"></div>
-  
+	</div>
+
 <div style="margin: 0 auto; display: grid; grid-gap: 0.5rem; grid-template-columns: repeat(auto-fit, minmax(200px,1fr));align-items: center;">
 				<div><img src="/images/Sponsors%20&amp;%20Donors/SCCClogo_2024.png" alt="SCCC" style="padding-top:3%; padding-bottom:3%;width: 95px;"> </div>
 				<div><img src="/images/Sponsors%20&amp;%20Donors/kkl-14-october-2019-18-47-18.png" alt="KKL" style="padding-top:3%; padding-bottom:3%;width: 115px;"> </div>
@@ -105,4 +106,4 @@ Be a part of our extensive outreach and co-create the Chingay Parade with us.
 
 For more information regarding sponsorship and partnership opportunities, please contact us at:
 
-[pa_acd@pa.gov.sg](mailto:pa_acd@pa.gov.sg)</div>
+[pa_acd@pa.gov.sg](mailto:pa_acd@pa.gov.sg)
