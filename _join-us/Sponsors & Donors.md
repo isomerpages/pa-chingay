@@ -35,7 +35,7 @@ variant: markdown
   <div style="margin: 0 auto; display: grid; grid-gap: 0.5rem; grid-template-columns: repeat(auto-fit, minmax(250px,1fr));align-items: center;">
       <div><img src="/images/Sponsors%20&amp;%20Donors/harmony%20circle%202025.png" alt="Harmony Circle" style="padding-top:1%; padding-bottom:1%; width: 250px;"></div>
       <div><img src="/images/NgeeAnnKongsi_logo.jpg" alt="THE NGEE ANN KONGSI" style="padding-top:1%; padding-bottom:1%;width: 180px;"> </div>
-    <div><img src="/images/NunchiMarine_Stacked.png" alt="NunchiMarine" style="padding-top:1%; padding-bottom:1%;width: 170px;"></div>
+    <div><img src="/images/NunchiMarine_Stacked.png" alt="NunchiMarine" style="padding-top:1%; padding-bottom:1%;width: 180px;"></div>
 	</div>
 
 <div style="margin: 0 auto; display: grid; grid-gap: 0.5rem; grid-template-columns: repeat(auto-fit, minmax(250px,1fr));align-items: center; padding-top:1%;">
