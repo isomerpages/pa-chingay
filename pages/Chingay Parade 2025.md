@@ -61,5 +61,5 @@ By MRT:<br>
 3)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from NS25/EW13 City Hall MRT Station<br>
 4)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from CE1/DT16 Bayfront MRT Station <br>
 
-<a target="_blank" href="/advisory-2-2025/"><img src="/images/How_to_get_there.png"></a>
+<a target="Click here to find out more" href="https://www.chingay.gov.sg/advisory-2025/"><img src="/images/How_to_get_there.png"></a>
 	<br><br><p></p></div></div></div></div></div>
