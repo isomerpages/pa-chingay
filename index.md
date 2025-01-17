@@ -31,6 +31,7 @@ sections:
       button: Find out more
       url: /chingayparade2025/
       alt: Image alt text
+      image: /images/About Us/chingay-story-2.jpg
   - infopic:
       title: "Theme: JOY"
       subtitle: Chingay 2025
