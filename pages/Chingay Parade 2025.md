@@ -59,5 +59,7 @@ By MRT:<br>
 1)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;11 mins walk from CC4/DT15 Promenade MRT Station<br>
 2)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;14 mins walk from CC3 Esplanade MRT Station<br>
 3)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from NS25/EW13 City Hall MRT Station<br>
-4)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from CE1/DT16 Bayfront MRT Station
-	<br><br></div></div></div></div></div>
+4)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from CE1/DT16 Bayfront MRT Station <br>
+
+<p>Click here to find out more!
+	<br><br></p></div></div></div></div></div>
