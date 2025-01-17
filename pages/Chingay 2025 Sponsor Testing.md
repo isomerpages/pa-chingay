@@ -56,7 +56,7 @@ description: ""
   </div>
   
  <div style="margin: 0 auto; display: grid; grid-gap: 0.5rem; grid-template-columns: repeat(auto-fit, minmax(200px,1fr));align-items: center;">
-<div><img src="/images/TPIHK_Logo.png" alt="Teochew Poit IP Huay Kuan" style="padding-top:3%; padding-bottom:3%;width:170px;"> </div>
+<div><img src="/images/TPIHK_Logo.png" alt="Teochew Poit IP Huay Kuan" style="padding-top:3%; padding-bottom:3%;width:200px;"> </div>
   </div>
 
  </div>
