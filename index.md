@@ -19,9 +19,9 @@ sections:
   - textcards:
       title: About Chingay Parade
       id: textcards
-      description: The Chingay Parade is a street parade to celebrate Chinese New
-        Year, evolving into an annual iconic event showcasing Singapore’s rich
-        and unique multi-ethnic and cosmopolitan cultures.
+      description: Chingay is a vibrant parade celebrating multiculturalism with
+        elaborate costumes, colourful floats, and cultural performances that
+        showcase Singapore's rich traditions and artistic diversity.
   - infopic:
       title: Highlights
       subtitle: Chingay 2025
