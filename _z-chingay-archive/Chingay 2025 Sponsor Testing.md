@@ -76,8 +76,6 @@ description: ""
         <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(0px,1fr));border-top: 1px solid black; padding-top:3%; padding-bottom:3%;align-items: center; height:150px;">
           <div><img src="/images/captive_media_BLACK.png" alt="Focus Media" style="padding-top:3%; padding-bottom:3%;width:150px;"> </div>  
 					<div><img src="/images/JCDecauxLogoBluePNG.png" alt="JCDecaux" style="padding-top:3%; padding-bottom:3%;width:150px;"> </div>
-					<div><img src="/images/SMRT_Trains_Logo_Pantone_190429_.jpg" alt="SMRT" style="padding-top:3%; padding-bottom:3%;width:150px;"> </div>
-					<div><img src="/images/Sponsors%20&amp;%20Donors/Stellar_Ace_logo.png" alt="Stellar Ace" style="padding-top:3%; padding-bottom:3%;width:150px;"> </div>
         </div>
     </div>
 			
