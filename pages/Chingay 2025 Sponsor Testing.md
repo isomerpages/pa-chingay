@@ -17,7 +17,7 @@ description: ""
 
 <div style="text-align: center;">
         <b>Principal Founding Sponsor</b>
-	<div style="margin: 0 auto; display: grid; grid-gap: 2rem; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); border-top: 1px solid black; padding-top:5%; padding-bottom:5%; align-items: center;">
+	<div style="margin: 0 auto; display: grid; grid-gap: 2rem; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); border-top: 1px solid black; padding-top:5%; padding-bottom:%; align-items: center;">
 		<div><img src="/images/Sponsors%20&amp;%20Donors/Tote_Board_Logo_horizontal__Colour_.png" alt="Toteboard" style="padding-top:3%; padding-bottom:3%;width: 250px;"></div>
 	</div>
 </div>
@@ -26,13 +26,14 @@ description: ""
         <b>Major Sponsors, Donors and Partners</b>
 	
 
-   <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));border-top: 1px solid black; padding-top:3%; align-items: center;"> 
-      <div><img src="/images/Sponsors%20&amp;%20Donors/DBS-Jan2023.png" alt="DBS" style="padding-top:3%; padding-bottom:5%;width:200px;"> </div>
-      <div><img src="/images/Sponsors%20&amp;%20Donors/POSB-Jan2023.png" alt="POSB" style="padding-top:3%; padding-bottom:3%;width: 200px;"> </div>
+   <div style="margin: 0 auto; display: grid; grid-gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));border-top: 1px solid black; padding-top:3%; align-items: center;">
+		 
+<div><img src="/images/Sponsors%20&amp;%20Donors/DBS-Jan2023.png" alt="DBS" style="padding-top:1%; padding-bottom:1%;width:200px;"> </div>
+      <div><img src="/images/Sponsors%20&amp;%20Donors/POSB-Jan2023.png" alt="POSB" style="padding-top:1%; padding-bottom:1%;width: 200px;"> </div>
   </div>
   
   <div style="margin: 0 auto; display: grid; grid-gap: 0.5rem; grid-template-columns: repeat(auto-fit, minmax(200px,1fr));align-items: center;">
-      <div><img src="/images/Sponsors%20&amp;%20Donors/harmony%20circle%202025.png" alt="Harmony Circle" style="padding-top:15%; padding-bottom:15%; width: 250px;"></div>
+      <div><img src="/images/Sponsors%20&amp;%20Donors/harmony%20circle%202025.png" alt="Harmony Circle" style="padding-top:3%; padding-bottom:3%; width: 250px;"></div>
       <div><img src="/images/NgeeAnnKongsi_logo.jpg" alt="THE NGEE ANN KONGSI" style="padding-top:3%; padding-bottom:3%;width: 180px;"> </div>
     <div><img src="/images/NunchiMarine_Stacked.png" alt="NunchiMarine" style="padding-top:3%; padding-bottom:3%;width: 170px;"></div>
 	</div>
@@ -46,7 +47,7 @@ description: ""
   <div><img src="/images/Smartcom_logo.jpg" alt="SMARTCOM" style="padding-top:10%; padding-bottom:10%;width: 160px;"> </div>
  <div><img src="/images/Cooltopia_logo_Bar.png" alt="Cooltopia" style="padding-top:10%; padding-bottom:3%;width: 190px;"> </div>
   <div><img src="/images/Sponsors%20&amp;%20Donors/dfi-retail-group-20-january-2022-15-08-36.png" alt="DFI" style="padding-top:10%; padding-bottom:10%;width: 99px;"> </div>
-<div><img src="/images/TPIHK_Logo.png" alt="Teochew Poit IP Huay Kuan" style="padding-top:3%; padding-bottom:10%;width:200px;"> </div>
+<div><img src="/images/TPIHK_Logo.png" alt="Teochew Poit IP Huay Kuan" style="padding-top:10%; padding-bottom:10%;width:200px;"> </div>
 </div>
 </div>
 
