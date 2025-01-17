@@ -14,9 +14,7 @@ F1 Pit Building<br></div>
 
 Chingay 2025 returns with the theme "Joy", inviting members of the public to reflect on shared experiences transcending ethnicity, language and age through food. <br>
 
-The culinary extravaganza will unfold across an overture and five acts, featuring more than 4,000 talented local and overseas performers. Among the 23 food-inspired floats, we have a 12 metres district level float for the first time co-created by the community.
-
-vibrant costumes, and dynamic music and choreography that encapsulate Singapore’s rich cultural tapestry, artistic talent, and collective spirit. It will captivate audiences with a four-level stage for performers.
+The culinary extravaganza will unfold across an overture and five acts, featuring more than 4,000 performers, food-inspired floats, vibrant costumes, and dynamic music and choreography that encapsulate Singapore’s rich cultural tapestry, artistic talent, and collective spirit. It will captivate audiences with a four-level stage for performers. 
 
 
 <div style="padding-top:2rem">
