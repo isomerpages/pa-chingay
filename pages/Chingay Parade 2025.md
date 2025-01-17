@@ -49,7 +49,7 @@ Catch the vibrant performances and participatory art workshops on both the 7 and
 
 <div> <img src="/images/Structure_Photo_2.png"></div>
 	
-<p> Be wowed by the first of its kind stage at Chingay 2025.  The stage consists of 76 "cubicles" that reflects Singapore's success in overcoming challenges and the successes it has achieved as essential building block ins haping the nation and its multiculturalism and diversity. <br>
+<p> Be wowed by the first of its kind stage at Chingay 2025. The stage consisting 76 "cubicles" that reflects Singapore's successes in overcoming challenges and in shaping the nation's multiculturalism and diversity. <br>
 	
 </p><div><div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Chingay: Road to UNESCO Exhibits</span>
