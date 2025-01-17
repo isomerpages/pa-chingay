@@ -53,8 +53,6 @@ sections:
   - infopic:
       title: How to get there?
       id: infopic
-      description: Car, MRT, Taxi
-      button: Button Text
       alt: Image alt text
   - infopic:
       title: SHOW YOUR SUPPORT!
