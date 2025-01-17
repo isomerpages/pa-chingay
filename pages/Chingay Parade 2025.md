@@ -31,9 +31,9 @@ The culinary extravaganza will unfold across an overture and five acts, featurin
 </div>
 
 
-<p>Located in front of the F1 pit building, the PAssionArts Street features a stunning array of visual art installations from the PAssionArts Festival, Giant Delights and JOYOUS ART-VENTURE that were co-created by residents and community artists!<br>
+<p>Located in front of the F1 pit building, the PAssionArts Street features a stunning array of visual art installations from the PAssionArts Festival, Giant Delights and Joyous ART-VENTURE that were co-created by residents and community artists!<br>
 	
-Catch the vibrant performances and participatory art workshops on both the 7th and 8th February from 5.30pm to 9.00pm! 
+Catch the vibrant performances and participatory art workshops on both the 7 and 8 February from 6.00pm to 9.00pm! 
 
 </p><div><div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Chingay Community Floats</span>
