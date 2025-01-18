@@ -9,7 +9,6 @@ third_nav_title: Chingay 2025
 <h2>Chingay Parade 2025: JOY</h2>
 <br><b>Celebrate "JOY" Together!</b><br>
 <b>7 and 8 February 2025 | 8pm | F1 Pit Building</b><br>
-<br>
 
 Tickets are sold out. Thank you for your support! 
 
