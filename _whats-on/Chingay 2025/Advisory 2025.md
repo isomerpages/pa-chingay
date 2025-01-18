@@ -28,7 +28,8 @@ By MRT:<br>
 The general public is encouraged to take note of the following road closure arrangements. This will facilitate the event flow and safety of our participants. 
 
 <div> <img src="/images/Road_closure_1_V1.png"></div>
-<div> <img src="/images/Road_closure_2_V1.png"></div>
+<div> <img src="/images/Chingay2025/Roadclosure2.jpg"></div>
+
 
 Nearest Carpark: Millenia Walk &amp; Suntec City
 
