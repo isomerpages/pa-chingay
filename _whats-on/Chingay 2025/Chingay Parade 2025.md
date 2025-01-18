@@ -49,7 +49,7 @@ Catch the vibrant performances and participatory art workshops on both the 7 and
 
 <div> <img src="/images/Stage_Photo.png"></div>
 	
-<p> Be wowed by the first of its kind stage at Chingay 2025. The stage consisting 76 "cubicles" that reflects Singapore's successes in overcoming challenges and in shaping the nation's multiculturalism and diversity. <br></p>
+<p> Be wowed by the first of its kind stage at Chingay 2025. The stage consisting 76 "cubicles" that reflects Singapore's successes in overcoming challenges and in shaping the nation's multiculturalism and diversity. <br></p></div></div>
 	
 # **How to get there?**
 	
@@ -62,4 +62,4 @@ By MRT:<br>
 4)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from CE1/DT16 Bayfront MRT Station <br>
 
 Click <a target="Click here to find out more" href="/advisory-2025/">here</a> for directions
-	<br><br><p></p></div></div></div></div></div>
+	<br><br><p></p></div></div></div>
