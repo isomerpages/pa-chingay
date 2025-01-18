@@ -2,9 +2,9 @@ collections:
   whats-on:
     output: true
     order:
-      - Chingay 2025/Chingay@Heartlands Celebrations 2025.md
-      - Chingay 2025/Advisory 2025.md
+      - Chingay 2025/.keep
       - Chingay 2025/Theme.md
       - Chingay 2025/Get Your Tickets Here!.md
-      - Chingay 2025/.keep
+      - Chingay 2025/Advisory 2025.md
+      - Chingay 2025/Chingay@Heartlands Celebrations 2025.md
       - Fringe Activities/.keep
