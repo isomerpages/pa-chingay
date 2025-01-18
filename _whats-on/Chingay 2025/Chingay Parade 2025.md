@@ -8,9 +8,7 @@ third_nav_title: Chingay 2025
 <div> <img src="/images/Chingay_Onsite_Map.png"></div>
 
 # 7 &amp; 8 February 2025
-<div style="line-height:4rem;font-size:3rem; font-color: #b242a2">
-
-F1 Pit Building<br></div>
+<div style="line-height:4rem;font-size:3rem; font-color: #b242a2">F1 Pit Building<br></div>
  
 
 Chingay 2025 returns with the theme "Joy", inviting members of the public to reflect on shared experiences transcending ethnicity, language and age through food. <br>
@@ -21,13 +19,11 @@ The culinary extravaganza will unfold across an overture and five acts, featurin
 <div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">PASSIONARTS STREET </span>
 
-
 <div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;"><div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2025/JOL00249.jpg"></div></div>
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;"><div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2025/JOL00211.jpg"></div></div>
-	
 </div>
 
 
@@ -43,8 +39,11 @@ Catch the vibrant performances and participatory art workshops on both the 7 and
 
 <p>The community floats debuted at Chingay Parade 2022, where residents with guidance from local artists, get to showcase their co-creations and creativity on a national platform.  The co-creation workshops held several weeks to months enabled residents the opportunity to interact with one another, contribute their creativity and have been a great way for neighbours and friends to foster a sense of identity, ownership and being part of the community.  This initiative exemplifies the community’s active participation in the Chingay Parade, an annual celebration of multiculturalism and diversity.</p>
 
+</div>
+	
 <div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">New Four-Level Stage</span>
+
 <div style="overflow:hidden; padding:1rem;">
 
 <div> <img src="/images/Stage_Photo.png"></div>
@@ -62,4 +61,4 @@ By MRT:<br>
 4)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from CE1/DT16 Bayfront MRT Station <br>
 
 Click <a target="Click here to find out more" href="/advisory-2025/">here</a> for directions
-	<br><br><p></p></div></div>
+	<br><br><p></p></div>
