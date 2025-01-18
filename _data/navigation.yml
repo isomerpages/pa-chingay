@@ -3,10 +3,16 @@ links:
   - title: Chingay 2025
     url: /chingay-2025-tickets/
     sublinks:
+      - title: Chingay Parade 2025
+        url: /chingayparade2025/
       - title: "Theme: Joy"
         url: /theme/
       - title: Get Your Tickets Here!
         url: /chingay-2025-tickets/
+      - title: Advisory
+        url: /advisory-2025/
+      - title: Chingay@Hearlands
+        url: /heartlands2025/
   - title: Join Us
     collection: join-us
   - title: ABOUT US
