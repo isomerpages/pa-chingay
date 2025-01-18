@@ -26,9 +26,8 @@ The culinary extravaganza will unfold across an overture and five acts, featurin
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;"><div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2025/JOL00249.jpg"></div></div>
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
-<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:-4rem;" src="/images/Chingay2025/JOL00211.jpg"></div></div>
-
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;"><div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2025/JOL00211.jpg"></div></div>
+	
 </div>
 
 
