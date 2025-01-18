@@ -40,7 +40,7 @@ Catch the vibrant performances and participatory art workshops on both the 7 and
 
  <div><img src="/images/Chingay_Com_Floats.png" style="padding: 1rem;"></div>
 
-<p>The community floats debuted at Chingay Parade 2022, where residents with guidance from local artists, get to showcase their co-creations and creativity on a national platform.  The co-creation workshops held several weeks to months enabled residents the opportunity to interact with one another, contribute their creativity and have been a great way for neighbours and friends to foster a sense of identity, ownership and being part of the community.  This initiative exemplifies the community’s active participation in the Chingay Parade, an annual celebration of multiculturalism and diversity. . </p>
+<p>The community floats debuted at Chingay Parade 2022, where residents with guidance from local artists, get to showcase their co-creations and creativity on a national platform.  The co-creation workshops held several weeks to months enabled residents the opportunity to interact with one another, contribute their creativity and have been a great way for neighbours and friends to foster a sense of identity, ownership and being part of the community.  This initiative exemplifies the community’s active participation in the Chingay Parade, an annual celebration of multiculturalism and diversity.</p>
 </div>
 
 <div style="padding-top:2rem">
