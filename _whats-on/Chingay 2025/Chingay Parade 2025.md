@@ -51,6 +51,7 @@ Catch the vibrant performances and participatory art workshops on both the 7 and
 	
 <p> Be wowed by the first of its kind stage at Chingay 2025. The stage consisting 76 "cubicles" that reflects Singapore's successes in overcoming challenges and in shaping the nation's multiculturalism and diversity. <br>
 	
+
 # How to get there?
 	
 </p><div> Parking is <b>not</b> available at F1 Pit Building. The nearest carparks are at Singapore Flyer, Millenia Walk and Suntec City (at own cost).<br><br>
