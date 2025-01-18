@@ -56,7 +56,7 @@ sections:
       title: How to get there?
       id: infopic
       alt: Image alt text
-      url: /advisory-2-2025/
+      url: /advisory-2025/
       button: Find out more
       image: /images/How_to_get_there_.png
   - infopic:
