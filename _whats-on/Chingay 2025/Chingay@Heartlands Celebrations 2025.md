@@ -1,8 +1,9 @@
 ---
 title: Chingay@Heartlands Celebrations 2025
-permalink: /chingay-heartlands-celebration-2025/
+permalink: /heartlands2025/
 variant: markdown
 description: ""
+third_nav_title: Chingay 2025
 ---
 Bringing joy into our communities as our Chingay floats and stunning performances hit the Heartlands!
 
@@ -16,7 +17,7 @@ For more infomation, visit: <a href="https://www.facebook.com/BraddellHeightsCon
 
 **Chingay@Ang Mo Kio GRC, Kebun Baru &amp; Yio Chu Kang SMCs** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sat, 15 February 2025 <br>
-<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">7.00pm to 8.52pm<br>
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">7.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan Start - Teck Ghee Square<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Thanggam Hardcourt<br>
@@ -43,7 +44,7 @@ For more infomation, visit: <a href="https://www.facebook.com/tampineswest/">Chi
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">6.00pm to 10.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan Start - De La Salle Primary School<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
-Caravan End -  Open field near Al-Ameen<br>
+Caravan End -  Open field near Al-Ameen, Marsiling<br>
 For more infomation, visit: <a href="https://www.facebook.com/our.limbang/">Lim Bang Facebook Page</a>, <a href="https://www.facebook.com/MarsilingHome/">Marsiling Facebook Page</a>, <a href="https://www.facebook.com/WoodgroveOurHome/">Woodgrove Facebook Page</a> and <a href="https://www.facebook.com/YewTee.Singapore/">Yew Tee Facebook Page</a> <br>
 
 **Chingay@Pasir Ris-Punggol** <br>

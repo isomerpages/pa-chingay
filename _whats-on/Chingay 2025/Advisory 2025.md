@@ -3,6 +3,7 @@ title: Advisory 2025
 permalink: /advisory-2025/
 variant: markdown
 description: ""
+third_nav_title: Chingay 2025
 ---
 # Walking Route
 <div> <img src="/images/Chingay_2025_Walking_Route.png"></div><br>
@@ -27,7 +28,8 @@ By MRT:<br>
 The general public is encouraged to take note of the following road closure arrangements. This will facilitate the event flow and safety of our participants. 
 
 <div> <img src="/images/Road_closure_1_V1.png"></div>
-<div> <img src="/images/Road_closure_2_V1.png"></div>
+<div> <img src="/images/Chingay2025/Roadclosure2.jpg"></div>
+
 
 Nearest Carpark: Millenia Walk &amp; Suntec City
 
@@ -47,3 +49,5 @@ SECURITY
 * Patrons with pets will be denied entry to the Event.
 * Prohibited items will be confiscated by the Organiser for security purposes.
 * The following is a non-exhaustive list of prohibited items (e.g. drugs, e-cigarettes or vaporisers, weapons, drones, alcohol, pets, etc.)
+
+![](/images/Chingay2025/Advisory_Image.png)

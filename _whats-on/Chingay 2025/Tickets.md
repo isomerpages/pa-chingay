@@ -1,5 +1,5 @@
 ---
-title: Get Your Tickets Here!
+title: Tickets
 permalink: /chingay-2025-tickets/
 variant: markdown
 description: ""
@@ -9,9 +9,12 @@ third_nav_title: Chingay 2025
 <h2>Chingay Parade 2025: JOY</h2>
 <br><b>Celebrate "JOY" Together!</b><br>
 <b>7 and 8 February 2025 | 8pm | F1 Pit Building</b><br>
-<br>
 
-<a target="_blank" href="https://sistic.com.sg/events/chingay0225?utm_source=website_sistic&amp;utm_medium=hmrtb&amp;utm_campaign=pa&amp;utm_content=chingay0225"><img src="/images/Chingay2025/Ticketing_Page_Banner_NEW.png"></a>
+Tickets are sold out. Thank you for your support! 
+
+Public can also visit the Free Admission area including the PAssionArts Street@Chingay
+
+--------
 
 <p>Get ready for an extraordinary celebration at Chingay Parade 2025! This
 vibrant multicultural extravaganza returns on 7 and 8 February 2025 with the theme "JOY," promising
