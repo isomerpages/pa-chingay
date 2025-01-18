@@ -39,11 +39,11 @@ Dear participants, kindly note the following:
 
 
 TERMS &amp; CONDITIONS
-* Participation in the Event denotes consent to all the Terms and Conditions listed below.
+* Participation in the Event denotes consent to all the Terms and Conditions listed on the ticket.
 * The Organiser reserves the right to amend the Terms and Conditions or any information without prior notice.
 
 SECURITY
 * Bag checks will be conducted at the point of entry.
 * Patrons with pets will be denied entry to the Event.
 * Prohibited items will be confiscated by the Organiser for security purposes.
-*  The following is a non-exhaustive list of prohibited items (e.g. drugs, e-cigarettes or vaporisers, weapons, drones, alcohol, pets, etc.)
+* The following is a non-exhaustive list of prohibited items (e.g. drugs, e-cigarettes or vaporisers, weapons, drones, alcohol, pets, etc.)
