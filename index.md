@@ -16,6 +16,23 @@ sections:
           description: ""
           url: /chingayunesco/
       background: /images/Chingay2025/Untitled_design__7_.gif
+  - textcards:
+      title: About Chingay Parade
+      id: textcards
+      description: Chingay is a people's parade celebrating multiculturalism with
+        elaborate costumes, colourful floats, and cultural performances that
+        showcase Singapore's rich traditions and artistic diversity.
+  - infopic:
+      title: Highlights
+      subtitle: Chingay 2025
+      id: infopic
+      description: Catch multi-ethnic performers in dazzling costumes and
+        record-breaking 23 food inspired floats as well as 60 lion dancers on a
+        4-storey stage.
+      button: Find out more
+      url: /chingayparade2025/
+      alt: Image alt text
+      image: /images/Highlights/Chingay_Highlights.png
   - infopic:
       title: "Theme: JOY"
       subtitle: Chingay 2025
@@ -35,6 +52,13 @@ sections:
       description: This song is about hope and unity, reflecting Singapore's spirit.
         It highlights finding joy in tough times and the strength we gain
         together.
+  - infopic:
+      title: How to get there?
+      id: infopic
+      alt: Image alt text
+      url: /advisory-2025/
+      button: Find out more
+      image: /images/How_to_get_there_.png
   - infopic:
       title: SHOW YOUR SUPPORT!
       subtitle: JOINT NOMINATION FOR UNESCO
