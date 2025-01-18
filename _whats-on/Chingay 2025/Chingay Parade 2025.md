@@ -32,7 +32,7 @@ The culinary extravaganza will unfold across an overture and five acts, featurin
 </div>
 
 
-<p>Located in front of the F1 pit building, the PAssionArts Street features a stunning array of visual art installations from the PAssionArts Festival, Giant Delights and Joyous ART-VENTURE that were co-created by residents and community artists! You can also view the Chingay: Road to UNESCO Exhibits and pen your support for its nomination!<br>
+<p>Located in front of the F1 pit building, the PAssionArts Street features a stunning array of visual art installations from the PAssionArts Festival, Giant Delights and Joyous ART-VENTURE that were co-created by residents and community artists! You can also view the Chingay: Road to UNESCO Exhibits and pen your support for its nomination!
 	
 Catch the vibrant performances and participatory art workshops on both the 7 and 8 February from 6.00pm to 9.00pm! 
 
