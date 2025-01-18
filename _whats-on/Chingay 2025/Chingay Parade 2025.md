@@ -34,14 +34,14 @@ The culinary extravaganza will unfold across an overture and five acts, featurin
 <p>Located in front of the F1 pit building, the PAssionArts Street features a stunning array of visual art installations from the PAssionArts Festival, Giant Delights and Joyous ART-VENTURE that were co-created by residents and community artists! You can also view the Chingay: Road to UNESCO Exhibits and pen your support for its nomination!
 	
 Catch the vibrant performances and participatory art workshops on both the 7 and 8 February from 6.00pm to 9.00pm! 
-
-</p><div><div style="padding-top:2rem">
+</p></div>
+	
+<div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Chingay Community Floats</span>
 
  <div><img src="/images/Chingay2025/ComFloat.jpg" style="padding: 1rem;"></div>
 
 <p>The community floats debuted at Chingay Parade 2022, where residents with guidance from local artists, get to showcase their co-creations and creativity on a national platform.  The co-creation workshops held several weeks to months enabled residents the opportunity to interact with one another, contribute their creativity and have been a great way for neighbours and friends to foster a sense of identity, ownership and being part of the community.  This initiative exemplifies the community’s active participation in the Chingay Parade, an annual celebration of multiculturalism and diversity.</p>
-</div>
 
 <div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">New Four-Level Stage</span>
@@ -62,4 +62,4 @@ By MRT:<br>
 4)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from CE1/DT16 Bayfront MRT Station <br>
 
 Click <a target="Click here to find out more" href="/advisory-2025/">here</a> for directions
-	<br><br><p></p></div></div></div>
+	<br><br><p></p></div></div>
