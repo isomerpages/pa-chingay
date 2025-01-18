@@ -52,7 +52,7 @@ Catch the vibrant performances and participatory art workshops on both the 7 and
 	
 # **How to get there?**
 	
-<p></p><div> Parking is <b>not</b> available at F1 Pit Building. The nearest carparks are at Singapore Flyer, Millenia Walk and Suntec City (at own cost).<br><br>
+<div> <p>Parking is <b>not</b> available at F1 Pit Building. The nearest carparks are at Singapore Flyer, Millenia Walk and Suntec City (at own cost).<br><br>
 <b>If you are taking public transport</b><br>
 By MRT:<br>
 1)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;11 mins walk from CC4/DT15 Promenade MRT Station<br>
@@ -61,4 +61,4 @@ By MRT:<br>
 4)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from CE1/DT16 Bayfront MRT Station <br>
 
 Click <a target="Click here to find out more" href="/advisory-2025/">here</a> for directions
-	<br><br><p></p></div>
+	<br><br></p></div>
