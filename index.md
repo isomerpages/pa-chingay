@@ -9,12 +9,12 @@ notification: <a href="https://go.gov.sg/stay-in-touch-with-chingay">Sign Up</a>
 sections:
   - hero:
       key_highlights:
-        - title: Get Your Tickets Here!
-          description: ""
-          url: /chingay-2025-tickets/
         - title: Joint Nomination For UNESCO
           description: ""
           url: /chingayunesco/
+        - title: Chingay2025 Site Map
+          description: ""
+          url: /chingayparade2025/
       background: /images/Chingay2025/Untitled_design__7_.gif
   - textcards:
       title: About Chingay Parade
