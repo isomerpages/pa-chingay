@@ -41,7 +41,7 @@ variant: markdown
 <div style="margin: 0 auto; display: grid; grid-gap: 0.5rem; grid-template-columns: repeat(auto-fit, minmax(250px,1fr));align-items: center; padding-top:1%;">
 				<div><img src="/images/Sponsors%20&amp;%20Donors/SCCClogo_2024.png" alt="SCCC" style="padding-top:3%; padding-bottom:3%;width: 95px;"> </div>
 				<div><img src="/images/Sponsors%20&amp;%20Donors/kkl-14-october-2019-18-47-18.png" alt="KKL" style="padding-top:3%; padding-bottom:3%;width: 115px;"> </div>
-	<div><img src="/images/Sponsors%20&amp;%20Donors/loyang-tua-pek-gong-14-october-2019-18-26-36.jpg" alt="XXX" style="padding-top:3%; padding-bottom:3%; width: 85px;"> </div>
+	<div><img src="/images/Sponsors%20&amp;%20Donors/lorong-koo-chye-sheng-hong-14-october-2019-18-26-25.png" alt="XXX" style="padding-top:3%; padding-bottom:3%; width: 85px;"> </div>
   <div><img src="/images/Sponsors%20&amp;%20Donors/loyang-tua-pek-gong-14-october-2019-18-26-36.jpg" alt="Loyang Tua Pek Kong" style="padding-top:3%; padding-bottom:3%; width: 85px;"> </div>
   <div><img src="/images/Sponsors%20&amp;%20Donors/hock-lam-11-february-2021-21-54-16.png" alt="Hock Lam" style="padding-top:10%; padding-bottom:10%;width: 190px;"></div>
   <div><img src="/images/radioquip.png" alt="Radioquip" style="padding-top:10%; padding-bottom:10%;width: 190px;"> </div>
