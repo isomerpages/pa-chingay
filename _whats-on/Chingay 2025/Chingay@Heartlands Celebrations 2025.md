@@ -60,7 +60,7 @@ For more infomation, visit: <a href="https://www.facebook.com/pasirriscentralco/
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">6.00pm to 10.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan Start - Bishan Community Club<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
-Caravan End - Toa Payoh Central, Blk 179<br>
+Caravan End - Blk 179 Toa Payoh Central<br>
 For more infomation, visit: <a href="https://www.facebook.com/BishanToaPayoh/">Bishan Toa Payoh Facebook Page</a>, <a href="https://www.facebook.com/BishanCommunityClub/">Bishan CC Facebook Page</a>, <a href="https://www.facebook.com/tpycentralcc/">Toa Payoh Central CC Facebook Page</a>, <a href="https://www.facebook.com/toapayoheastcc/">Toa Payoh East CC Facebook Page</a>, <a href="https://www.facebook.com/tpwcc/">Toa Payoh West CC Facebook Page</a>, <a href="https://www.facebook.com/MarymountCC/">Marymount CC Facebook Page</a> and <a href="https://www.facebook.com/ThomsonCC/">Thomson CC Punggol Facebook Page</a> <br> 
 
 **Chingay@Chua Chu Kang GRC and Hong Kah North SMC** <br>
