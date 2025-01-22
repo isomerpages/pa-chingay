@@ -11,7 +11,7 @@ Bringing joy into our communities as our Chingay floats and stunning performance
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sun, 9 February 2025 <br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">4.30pm to 9.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
-Caravan Start - Open field beside Eastpoint Mall, Simei Street 1<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
+Caravan Start - Cul-de-sac and basketball court opposite MacPherson CC<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Bradell Heights Community Hub<br>
 For more infomation, visit: <a href="https://www.facebook.com/BraddellHeightsConstituency/">Braddell Heights Facebook Page</a>, <a href="https://www.facebook.com/YourGeylangSerai/">Geyland Serai Facebook Page</a>, <a href="https://www.facebook.com/joochiatourhome/">Joo Chiat Facebook Page</a>, <a href="https://www.facebook.com/KembanganChaiChee/">Kembangan Chai Chee Facebook Page</a>, <a href="https://www.facebook.com/MacPherson.Spirit/">MacPherson Facebook Page</a>, <a href="https://www.facebook.com/MarineParadeSG/">Marine Parade Facebook Page</a> , <a href="https://www.facebook.com/HappeningsatMountbatten/">Mountbatten Facebook Page</a> and <a href="https://www.facebook.com/marineparadecluster/">Marine Parade Cluster Facebook Page</a><br> 
 
@@ -21,7 +21,7 @@ For more infomation, visit: <a href="https://www.facebook.com/BraddellHeightsCon
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan Start - Teck Ghee Square<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Thanggam Hardcourt beside Blk 464A Fernvale Road<br>
-For more infomation, visit: <a href="https://www.facebook.com/amkgrckbycksmcs/">Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMC Facebook Page</a>, <a href="https://www.facebook.com/Chengsancommunity/">Cheng San CC Facebook Page</a>, <a href="https://www.facebook.com/ciyuancclub/">Ci Yuan Facebook Page</a>, <a href="https://www.facebook.com/FernvaleCC/">Fernvale CC Facebook Page</a>, <a href="https://www.facebook.com/OurKebunBaru/">Our Kebun Baru Facebook Page</a>, <a href="https://www.facebook.com/teckgheedivision/">Teck Ghee Facebook Page</a> and <a href="https://www.facebook.com/yckcc/">Yio Chu Kang Facebook Page</a> <br> 
+For more infomation, visit: <a href="https://www.facebook.com/amkgrckbycksmcs/">Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMC Facebook Page</a>, <a href="https://www.facebook.com/Chengsancommunity/">Cheng San CC Facebook Page</a>, <a href="https://www.facebook.com/ciyuancclub/">Ci Yuan Facebook Page</a>, <a href="https://www.facebook.com/FernvaleCC/">Fernvale CC Facebook Page</a>, <a href="https://www.facebook.com/jalan.kayu/">Hwi Yoh Facebook Page</a>, <a href="https://www.facebook.com/OurKebunBaru/">Our Kebun Baru Facebook Page</a>, <a href="https://www.facebook.com/teckgheedivision/">Teck Ghee Facebook Page</a> and <a href="https://www.facebook.com/yckcc/">Yio Chu Kang Facebook Page</a> <br> 
 
 **Chingay@East Coast** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sun, 16 February 2025 <br>
