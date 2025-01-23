@@ -23,7 +23,7 @@ Caravan Start - Teck Ghee Square<br><img src="/images/Heartlands/Pin.png" style=
 Caravan End - Thanggam Hardcourt beside Blk 464A Fernvale Road<br>
 For more infomation, visit: <a href="https://www.facebook.com/amkgrckbycksmcs/">Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMC Facebook Page</a>, <a href="https://www.facebook.com/Chengsancommunity/">Cheng San CC Facebook Page</a>, <a href="https://www.facebook.com/ciyuancclub/">Ci Yuan Facebook Page</a>, <a href="https://www.facebook.com/FernvaleCC/">Fernvale CC Facebook Page</a>, <a href="https://www.facebook.com/jalan.kayu/">Hwi Yoh Facebook Page</a>, <a href="https://www.facebook.com/OurKebunBaru/">Our Kebun Baru Facebook Page</a>, <a href="https://www.facebook.com/teckgheedivision/">Teck Ghee Facebook Page</a> and <a href="https://www.facebook.com/yckcc/">Yio Chu Kang Facebook Page</a> <br> 
 
-**Chingay@East Coast** <br>
+**Chingay@East Coast GRC** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sun, 16 February 2025 <br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">6.20pm to 10.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
