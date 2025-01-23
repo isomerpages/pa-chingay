@@ -31,7 +31,7 @@ Caravan Start - Open field beside Eastpoint Mall, Simei Street 1 <br><img src="/
 Caravan End - Open space between Blk 19 and 20, Bedok South Road<br>
 For more infomation, visit: <a href="https://www.facebook.com/OurEastCoastBuzz/">East Coast Buzz Facebook Page</a>, <a href="https://www.facebook.com/weluvbedok/">Bedok Facebook Page</a>,<a href="https://www.facebook.com/ChangiSimeiCC/">Changi Simei CC Facebook Page</a>, <a href="https://www.facebook.com/kcc.ekampong/">Kampong Chai Chee Facebook Page</a>, <a href="https://www.facebook.com/mysiglap/">Siglap CC Facebook Page</a>, <a href="https://www.facebook.com/OurKebunBaru/">Our Kebun Baru Facebook Page</a> and <a href="https://www.facebook.com/fengshancommunityclub/">Fengshan Facebook Page</a> 
 
-**Chingay@Tampines** <br>
+**Chingay@Tampines GRC** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Fri, 21 February 2025<br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">7.00pm to 9.30pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">Caravan Start - Along Tampines St 82 within Tampines Central Park<br>
@@ -39,7 +39,7 @@ For more infomation, visit: <a href="https://www.facebook.com/OurEastCoastBuzz/"
 Caravan End - Along Tampines St 82 within Tampines Central Park<br>
 For more infomation, visit: <a href="https://www.facebook.com/tampineswest/">Chingay@Tampines West Facebook Page </a>, <a href="https://www.facebook.com/tampinescentralcc/">Chingay@Tampines Central Facebook Page</a>, <a href="https://www.facebook.com/tampines.changkat/">Chingay@Tampines Changkat Facebook Page</a>, <a href="https://www.facebook.com/TampNorth/">Chingay@Tampines North Facebook Page</a>, <a href="https://www.facebook.com/tampeastcc/">Chingay@Tampines East Facebook Page</a> <br> 
 
-**Chingay@Marsiling-Yew Tee** <br>
+**Chingay@Marsiling-Yew Tee GRC** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sat, 22 February 2025<br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">6.00pm to 10.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
