@@ -37,7 +37,7 @@ For more infomation, visit: <a href="https://www.facebook.com/OurEastCoastBuzz/"
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">Caravan Start - Along Tampines St 82 within Tampines Central Park<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Along Tampines St 82 within Tampines Central Park<br>
-For more infomation, visit: <a href="https://www.facebook.com/tampineswest/">Chingay@Tampines West Facebook Page </a>, <a href="https://www.facebook.com/tampinescentralcc/">Chingay@Tampines Central Facebook Page</a>, <a href="https://www.facebook.com/tampines.changkat/">Chingay@Tampines Changkat Facebook Page</a>, <a href="https://www.facebook.com/TampNorth/">Chingay@Tampines North Facebook Page</a>, <a href="https://www.facebook.com/tampeastcc/">Chingay@Tampines East Facebook Page</a> <br> 
+For more infomation, visit: <a href="https://www.facebook.com/tampineswest/">Tampines West Facebook Page </a>, <a href="https://www.facebook.com/tampinescentralcc/">Tampines Central Facebook Page</a>, <a href="https://www.facebook.com/tampines.changkat/">Tampines Changkat Facebook Page</a>, <a href="https://www.facebook.com/TampNorth/">Tampines North Facebook Page</a>, <a href="https://www.facebook.com/tampeastcc/">Tampines East Facebook Page</a> <br> 
 
 **Chingay@Marsiling-Yew Tee GRC** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sat, 22 February 2025<br>
