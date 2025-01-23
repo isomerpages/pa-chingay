@@ -47,7 +47,7 @@ Caravan Start - De La Salle Primary School<br><img src="/images/Heartlands/Pin.p
 Caravan End -  Open field near Al-Ameen, Marsiling<br>
 For more infomation, visit: <a href="https://www.facebook.com/our.limbang/">Lim Bang Facebook Page</a>, <a href="https://www.facebook.com/MarsilingHome/">Marsiling Facebook Page</a>, <a href="https://www.facebook.com/WoodgroveOurHome/">Woodgrove Facebook Page</a> and <a href="https://www.facebook.com/YewTee.Singapore/">Yew Tee Facebook Page</a> <br>
 
-**Chingay@Pasir Ris-Punggol** <br>
+**Chingay@Pasir Ris-Punggol GRC and Punggol West SMC** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sun, 23 February 2025<br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">4.30pm to 10.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
@@ -55,7 +55,7 @@ Caravan Start - Pasir Ris Dr 4<br><img src="/images/Heartlands/Pin.png" style="f
 Caravan End - Punggol West Community Square along Punggol Field<br>
 For more infomation, visit: <a href="https://www.facebook.com/pasirriscentralco/">Pasir Ris Central Facebook Page</a>, <a href="https://www.facebook.com/pasirriseastcc/">Pasir Ris East Facebook Page</a>, <a href="https://www.facebook.com/eliascc/">Pasir Ris West Elias Facebook Page</a>, <a href="https://www.facebook.com/punggol.coast//">Punggol Coast Facebook Page</a>, <a href="https://www.facebook.com/p21cc/">Punggol 21 Facebook Page</a>, <a href="https://www.facebook.com/divisionpunggolwest/">Punggol West Facebook Page</a> and <a href="https://www.facebook.com/ourprpg/">Our Pasir Ris Punggol Facebook Page</a> <br> 
 
-**Chingay@Bishan-Toa Payoh and Marymount** <br>
+**Chingay@Bishan-Toa Payoh GRC and Marymount SMC** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sat, 1 March 2025<br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">6.00pm to 10.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
