@@ -51,7 +51,7 @@ For more infomation, visit: <a href="https://www.facebook.com/our.limbang/">Lim 
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sun, 23 February 2025<br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">4.30pm to 10.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
-Caravan Start - Pasir Ris Dr 4, opposite Seastrand and Ripple Bay Condominiums<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
+Caravan Start - Along Pasir Ris Dr 4, opposite Seastrand and Ripple Bay Condominiums<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Punggol West Community Square along Punggol Field<br>
 For more infomation, visit: <a href="https://www.facebook.com/pasirriscentralco/">Pasir Ris Central Facebook Page</a>, <a href="https://www.facebook.com/pasirriseastcc/">Pasir Ris East Facebook Page</a>, <a href="https://www.facebook.com/eliascc/">Pasir Ris West Elias Facebook Page</a>, <a href="https://www.facebook.com/punggol.coast//">Punggol Coast Facebook Page</a>, <a href="https://www.facebook.com/p21cc/">Punggol 21 Facebook Page</a>, <a href="https://www.facebook.com/divisionpunggolwest/">Punggol West Facebook Page</a> and <a href="https://www.facebook.com/ourprpg/">Our Pasir Ris Punggol Facebook Page</a> <br> 
 
