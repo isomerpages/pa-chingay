@@ -9,7 +9,7 @@ Bringing joy into our communities as our Chingay floats and stunning performance
 
 **Chingay@Marine Parade Cluster** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sun, 9 February 2025 <br>
-<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">4.30pm to 9.00pm<br>
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">4.30pm to 9.30pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan Start - Cul-de-sac and basketball court opposite MacPherson CC<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Bradell Heights Community Hub<br>
