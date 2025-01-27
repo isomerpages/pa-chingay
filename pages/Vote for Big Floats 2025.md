@@ -10,9 +10,9 @@ Click vote to vote for your favourite Chingay Parade 2025 Big Floats!
 
 ![Chingay 2024 Blossom Dragon Float](/images/Chingay2024/NZ6_9150_edit.jpg)
 
-Chingay 2024 Blossom Dragon Float
+Chingay 2025 SG60 Lion Float
 
-Presented by Tote Board Group. Designed by Sebastian Chun.
+Presented by Tote Board Group.
 
 VOTE
 
@@ -22,9 +22,9 @@ VOTE
 
 ![Chingay 2024 Smiley’s Blossoming Garden Float](/images/Chingay2024/LKC_2869_edit.jpg)
 
-Chingay 2024 Smiley’s Blossoming Garden Float
+Chingay 2025 Smiley’s Sedap Buzz Float
 
-Presented by POSB. Designed by Hoo Jian Li and Lim Jia Ren.
+Presented by DBS and POSB. Designed by Chin Hwee Khim and Tay Swee Siong.
 
 VOTE
 
@@ -34,9 +34,9 @@ VOTE
 
 ![Chingay 2024 Petals of Passion Float](/images/Chingay2024/ESR60051_2.jpg)
 
-Chingay 2024 Petals of Passion Float
+Chingay 2025 Grandma's Curry Debal Float
 
-Co-presented by Select Group, Lorong Koo Chye Sheng Hong Temple Association and Loyang Tua Pek Kong Temple. Designed by Sebastian Chun.
+Presented by Select Group. Designed by Hoo Jian Li and Lim Jia Ren (JUNCTION STUDIO).
 
 VOTE
 
