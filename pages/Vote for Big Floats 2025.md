@@ -46,8 +46,7 @@ description: ""
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chingay 2025 Grandma's Curry Debal Float" src="/images/Chingay2024/ESR60051_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chingay 2025 Joy in Harmony: Flavours of our multi-racial and religious Singapore Float </div><div class="isomer-card-description">Presented by Racial and Religious Harmony Circle. Designed by Sebastian Chun.</div><div class="isomer-card-link">VOTE</div>
 </div>
 
-	</a>
-<a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blooming%20in%20Harmony%20Float" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blooming%20in%20Harmony%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Chingay 2025 Delightful Nasi Lemak Float" src="/images/Chingay2024/Harmony_Circle_Float_edit.jpg">
