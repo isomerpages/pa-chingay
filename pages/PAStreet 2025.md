@@ -30,12 +30,11 @@ PAssionArts Street @ Chingay, curated by Art Director/Visual Artist Sam Lo.
 <div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
-<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="(/images/DSC0429.jpg)"></div></div>
-
+<div style="font-size: 1rem"></div><div style="min-height:35rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/DSC0429.jpg"></div></div>
 
 </div>
 
-<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;"> WEAVE &amp; PATCH TAPESTRY</span><br><br> Greetings from a city full of life! Each voice displays ingenuity and
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;"> WEAVE</span><br><br> Greetings from a city full of life! Each voice displays ingenuity and
 together they form rich tapestries of our time, using whatever that is
 accessible to tell our stories.<br><br>
 It was first presented at PAssionArts Festival 2023 that saw
