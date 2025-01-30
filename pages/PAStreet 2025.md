@@ -44,7 +44,20 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div>
 
 <div style="padding-top:2rem;font-size:1.5rem;">
-<span style="font-weight: bold;"><span style="color: #FFAC1C;"> KIAP KIAP</span> <br>co-created by Radin Mas Community Arts &amp; Culture Club (ACAA), Artist Royston Phang and residents</span></div>
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">OUR FOOD, OUR HISTORY, OUR CULTURE</span> <br>co-created by Fernvale Community Arts &amp; Culture Club (ACAA), Artist Didier Ng and residents</span></div>
+
+<div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
+<div style="font-size: 1rem"></div><div style="min-height:36rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/DSC0423.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;"> OUR FOOD, OUR HISTORY, OUR CULTURE </span><br><br>Singapore's culinary scene blends vibrant cultures, creating a symphony of flavours. From the aromatic Teh Tarik tolocal desserts such as Chendol and Ice Kacang, each dish celebrates our rich, diverse heritage, offering a unique and delicious experience with every bite. <br><br>
+</div>
+
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">THE GIANT APPLE</span> <br>co-created by Radin Mas Community Arts &amp; Culture Club (ACAA), Artist Royston Phang and residents</span></div>
 
 <div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
