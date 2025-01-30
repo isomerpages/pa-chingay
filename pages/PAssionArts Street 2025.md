@@ -7,7 +7,7 @@ description: ""
 <div style="padding-top:2rem;font-size:1.5rem;">
 <span style="font-weight: bold;">About PAssionArts Street</span></div>
 
-<div style="padding:1rem; font-size:1.1rem">PAssionArts Street is a fun, interactive and immersive experience for everyone, young and old, to participate in various activities such as hands-on arts activities, enjoy stage performances and view arts  installations.
+<div style="padding:1rem; font-size:1.1rem">PAssionArts Street is a fun, interactive and immersive experience for everyone, young and old, to participate in various hands-on arts activities. You can enjoy a vibrant stage performances and view arts  installations.
 <br>
 	
 The exhibition celebrates food in all its larger-than-life glory, reimagined in spectacular gastronomical proportions.&nbsp; Through a vibrant collection of installations, we explore the profound ways of food shapes and reflects Singapore’s rich cultural tapestry.
