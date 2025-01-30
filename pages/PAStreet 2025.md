@@ -17,11 +17,8 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 18 Community Arts &amp; Culture Clubs (CACCs) and 8 schools are involved to present this one-of-a-kind outdoor arts installations co-created by community artists, students and residents. 
 </div>
 
- 
-
 <div style="padding-top:2rem;font-size:1.5rem;">
-<span style="font-weight: bold;"><span style="color: #FFAC1C;"> WEAVE &amp; PATCH TAPESTRY</span> <br>co-created by Artist Whee Ng and Bukit Batok residents</span></div>
-
+<span style="font-weight: bold;"><span style="color: #FFAC1C;"> KIAP KIAP</span> <br>co-created by Radin Mas Community Arts &amp; Culture Club (ACAA), Artist Royston Phang and residents</span></div>
 
 <div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
@@ -30,16 +27,18 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 
 </div>
 
-<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;"> WEAVE</span><br><br> Greetings from a city full of life! Each voice displays ingenuity and
-together they form rich tapestries of our time, using whatever that is
-accessible to tell our stories.<br><br>
-It was first presented at PAssionArts Festival 2023 that saw
-collaborative effort by residents, each contributing a piece of tapestry
-crafted from repurposed fabric scraps. The residents transformed
-discarded materials by weaving and patching them into unique art
-pieces, showcasing the beauty of creativity and sustainability. This
-collective endeavor not only celebrates the spirit of community
-collaboration but also highlights the potential for artistic expression.<br><br>
-	Proudly led by <span style="font-weight: bold;">Bukit Batok Community Arts and Culture Club</span>, residents continued to be engaged to add on giant flowers made of
-upcycled material to further complement the original art installation.
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;"> KIAP KIAP</span><br><br> "Kiap Kiap" is an installation celebrating the tradition of using clothes pegs to indicate customers' orders at Singapore's hawker centres, which are vital social hubs. By incorporating nostalgic elements like hawker plates and wooden pegs, it highlights the diverse tastes and communal joy food brings. <br><br>
+</div>
+
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;"> KIAP KIAP</span> <br>co-created by Radin Mas Community Arts &amp; Culture Club (ACAA), Artist Royston Phang and residents</span></div>
+
+<div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
+<div style="font-size: 1rem"></div><div style="min-height:35rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/DSC0429.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;"> KIAP KIAP</span><br><br> "Kiap Kiap" is an installation celebrating the tradition of using clothes pegs to indicate customers' orders at Singapore's hawker centres, which are vital social hubs. By incorporating nostalgic elements like hawker plates and wooden pegs, it highlights the diverse tastes and communal joy food brings. <br><br>
 </div>
