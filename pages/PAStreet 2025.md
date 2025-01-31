@@ -100,10 +100,57 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
-<div style="font-size: 1rem"></div><div style="min-height:40rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00265_2.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:31rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00197.jpg"></div></div>
 
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;"> GUST OF SWEET HARMONY </span><br><br>A kinetic art installation featuring local fruits, food and desserts is enhanced with AR effects in collaboration with Ngee Ann Polytechnic. <br><br>
+	
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">HOMEMADE FUSION</span> <br>co-created by Brickland Community Arts &amp; Culture Club (CACC), Artist Eunice Hannah Lim and residents</span></div>
 
-</div></div></div></div></div></div></div>
+<div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
+<div style="font-size: 1rem"></div><div style="min-height:31rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00197.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;"> HOMEMADE FUSION </span><br><br>Homemade Fusion features five food illustrations with Brickland mascots, using household items to evoke memories of everyday food. This artwork celebrates Singapore's diverse multiracial culture through community engagement. <br><br>
+	
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">KUEH INSPIRED SEATS</span> <br>co-created by Marine Parade Community Arts &amp; Culture Club (CACC) and residents</span></div>
+
+<div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
+<div style="font-size: 1rem"></div><div style="min-height:3rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00237_2.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;"> KUEH INSPIRED SEATS </span><br><br>The Peranakan kueh inspired benches were part of the "Sit on Kuehs" installation, with involvement from Tao Nan School. The installation invites you to explore the Peranakan culture and heritage through these vibrant benches depicting the flavourful pastries. <br><br>
+
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">BLISS-CUITS AND INSTANT DOPA-MEE</span> <br>co-created by Pasir Ris Central Community Arts &amp; Culture Club (CACC), Artists Esther Ng, Casey Chen and residents</span></div>
+
+<div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
+<div style="font-size: 1rem"></div><div style="min-height:18rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/IMG_0223.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">BLISS-CUITS AND INSTANT DOPA-MEE</span><br><br>Comfort food provides consolation and warmth. Often, they are associated with childhood or home cooking. In Singapore, we each have a go-to snack to indulge in when we are stressed, restless or peckish; a sugary rush for the kid after a test, warm and savory instant meal for the up-at-night working adult, or familiar bites of a timeless treat for the leisurely. This artwork celebrates the types of comfort food that many of us enjoy, while also playing upon iconic and familiar packaging to engage the audience's memories of them enjoying these foods. <br><br>
+	
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">STRINGS AND SPIKES</span> <br>co-created by Admiralty Community Arts &amp; Culture Club (CACC), Artists Casey Chen, Esther Ng and residents</span></div>
+
+<div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
+<div style="font-size: 1rem"></div><div style="min-height:10rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00205.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">STRINGS AND SPIKES</span><br><br>Durian, Singapore's iconic fruit, fosters shared moments with family and friends. This installation encourages residents to bond over art, using strong art to create connections, highlighting the importance of friendship and community ties. <br><br>
+</div></div></div></div></div></div></div></div></div></div></div>
