@@ -112,7 +112,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
-<div style="font-size: 1rem"></div><div style="min-height:31rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/20250131_145943.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:20rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/20250131_145943.jpg"></div></div>
 
 </div>
 
