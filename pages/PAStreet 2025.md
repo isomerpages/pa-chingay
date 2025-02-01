@@ -310,5 +310,33 @@ The installation highlights the warmth and unity of communal dining, reflecting 
 	
 It symbolises how enjoying food together at different occasions break down barriers and build relationships based on mutual respect and appreciation, uniting the people of diverse culture into one community.<br><br>
 	
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">FRUITS OF JOY</span> <br>co-created by students from Yuan Ching Secondary School and Artists Norhazlan Bin Mohd Saad and Pang Li Jun</span></div>
 
-</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+<div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
+<div style="font-size: 1rem"></div><div style="min-height:20rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00207.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">FRUITS OF JOY</span><br><br>Fruits of Joy celebrates the joy of gifting fruits to our family, friends and neighbours, wishing for their good health and well-being and encourages healthy living. 
+	
+The orange peel shaped as the Vanda Miss Joaquim petals as the centrepiece symbolises a prosperous and blossoming Singapore.<br><br>
+	
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">JOYOUS SAVOUR THE EDIBLE ART GARDEN</span> <br>co-created by students from Lianhua Primary School and Artist Jesse Leong</span></div>
+
+<div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
+<div style="font-size: 1rem"></div><div style="min-height:15rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00249_2.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">JOYOUS SAVOUR THE EDIBLE ART GARDEN</span><br><br>This fruits and veggies edition explores the emotional joy that fruits and vegetables bring and reminds us of the importance of healthy eating and living. 
+	
+The installation featuring the durian, the fruits bench and vegetable basket hopes to evoke nostalgia and happiness of our shared family moments with the familiar fruits and vegetables that we enjoy in our homes.<br><br>
+	
+
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
