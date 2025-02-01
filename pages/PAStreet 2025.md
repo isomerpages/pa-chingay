@@ -148,9 +148,21 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
-<div style="font-size: 1rem"></div><div style="min-height:10rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00205.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:10rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00205_2.jpg"></div></div>
 
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">STRINGS AND SPIKES</span><br><br>Durian, Singapore's iconic fruit, fosters shared moments with family and friends. This installation encourages residents to bond over art, using strong art to create connections, highlighting the importance of friendship and community ties. <br><br>
-</div></div></div></div></div></div></div></div></div></div></div>
+	
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">KUEH-ZY COCONUTS</span> <br>co-created by Telok Blangah Community Arts &amp; Culture Club (CACC), Artists Esther Ng, Casy Chen and residents</span></div>
+
+<div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
+<div style="font-size: 1rem"></div><div style="min-height:20rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00211_2.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">KUEH-ZY COCONUTS</span><br><br>Inspired by coconut, this installation celebrates its use in making Kueh Kueh, a beloved Singapore treat. With coconut milk and flesh as key ingredients, the installation features giant replicas of popular Kueh Kueh, paying tribute to the island's culinary delights and diverse flavours. <br><br>
+</div></div></div></div></div></div></div></div></div></div></div></div>
