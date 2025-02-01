@@ -253,4 +253,18 @@ Their 3D Aeroponic Fishpond, Pineapple Display and Crab Condo showcase resource-
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">NOODLE NATION SINGAPORE</span><br><br>Noodle Nation Singapore creatively uses three iconic noodles - Hokkien Mee, Mee Rebus and Mee Goreng - to represent Singapore's rich cultural diversity, celebrating the distinctive identity of our three main ethnic groups.
 
 The addition of the uniquely-flavoured Zhangde Noodles infused with the school's GIVER'S heart values represent how these values are important to the overall unity of Singapore's cultural fabric.<br><br>
-</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+	
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">BUT I WANT TO GOO! - PASAR MALAM</span> <br>co-created by students from APSN Chaoyang School and Artists Zhang Bin, Cherie, Didier, Jackson and Zhiwen </span></div>
+
+<div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
+<div style="font-size: 1rem"></div><div style="min-height:1rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00229_2.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">BUT I WANT TO GOO! - PASAR MALAM</span><br><br>APSN Chaoyang School's students capture the joy of visiting pasar malams, with their families through this installation created using up-cycled materials like plastic bags and foam blocks.
+	
+Oversized sculptures of cotton candy, corn in a cup, and interactive games evoke fond childhood memories, while reminding the community of the importance of sustainability and preservation of our culture and environment.<br><br>
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
