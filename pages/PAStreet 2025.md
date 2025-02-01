@@ -225,4 +225,32 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">FRUIT TART ART</span><br><br>Built on. acrate box, this 3D installations transformed into a Fruit Tart featuring different fruits and colours creatively made using different recycled materials such as packaging styrofoam and items such as toy balls, yoga mat etc. are painted to form the installation.<br><br>
-</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+	
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">HARVESTING JOY: ART MEETS AGRICULTURE</span> <br>co-created by students from St Gabriel's Primary School, Artists Jackson, Cherie, Didier, Zhang Bin and Zhiwen </span></div>
+
+<div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
+<div style="font-size: 1rem"></div><div style="min-height:1rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00251_2.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">HARVESTING JOY: ART MEETS AGRICULTURE</span><br><br>St. Gabriel's Primary School students and their artist mentors celebrate joy in creating art using up-cycled everyday materials and inspiring everyone on food sustainability and local agriculture. 
+
+Their 3D Aeroponic Fishpond, Pineapple Display and Crab Condo showcase resource-efficient farming, the school's sustainability initiatives, and innovative food production.<br><br>
+	
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">NOODLE NATION SINGAPORE</span> <br>co-created by students from Zhangde Primary School and Artist Moses Sia </span></div>
+
+<div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
+<div style="font-size: 1rem"></div><div style="min-height:1rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/DSC0425_2.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">NOODLE NATION SINGAPORE</span><br><br>Noodle Nation Singapore creatively uses three iconic noodles - Hokkien Mee, Mee Rebus and Mee Goreng - to represent Singapore's rich cultural diversity, celebrating the distinctive identity of our three main ethnic groups.
+
+The addition of the uniquely-flavoured Zhangde Noodles infused with the school's GIVER'S heart values represent how these values are important to the overall unity of Singapore's cultural fabric.<br><br>
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
