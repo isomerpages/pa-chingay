@@ -124,7 +124,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
-<div style="font-size: 1rem"></div><div style="min-height:3rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00237_2.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:3rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/20250131_145943.jpg"></div></div>
 
 </div>
 
@@ -260,7 +260,7 @@ The addition of the uniquely-flavoured Zhangde Noodles infused with the school's
 <div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
-<div style="font-size: 1rem"></div><div style="min-height:1rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00229_2.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00229_2.jpg"></div></div>
 
 </div>
 
