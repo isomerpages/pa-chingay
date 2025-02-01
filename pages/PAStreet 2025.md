@@ -112,7 +112,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
-<div style="font-size: 1rem"></div><div style="min-height:31rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00197.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:31rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/20250131_145943.jpg"></div></div>
 
 </div>
 
@@ -136,7 +136,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
-<div style="font-size: 1rem"></div><div style="min-height:18rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/IMG_0223.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:18rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00237_2.jpg"></div></div>
 
 </div>
 
@@ -267,4 +267,48 @@ The addition of the uniquely-flavoured Zhangde Noodles infused with the school's
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">BUT I WANT TO GOO! - PASAR MALAM</span><br><br>APSN Chaoyang School's students capture the joy of visiting pasar malams, with their families through this installation created using up-cycled materials like plastic bags and foam blocks.
 	
 Oversized sculptures of cotton candy, corn in a cup, and interactive games evoke fond childhood memories, while reminding the community of the importance of sustainability and preservation of our culture and environment.<br><br>
-</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+	
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">FOOD WONDERLAND</span> <br>co-created by students from Nan Chiau Primary School and Artists Dzulkarnanen Deo and Amruthaa Kalaiselvan </span></div>
+
+<div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
+<div style="font-size: 1rem"></div><div style="min-height:20rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00259.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">FOOD WONDERLAND</span><br><br>Singapore is a culinary paradise where food brings families, friends and communities together. Our love for food extends beyond the main meals, embracing everything from appetizers to desserts. 
+	
+Nan Chiau Primary School students creatively turned up-cycled materials into delightful desserts, inviting all to share this lovely afternoon tea with them.<br><br>
+	
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">CRABBY DELIGHT</span> <br>co-created by students from Yuhua Secondary School and Artist Royston Phang </span></div>
+
+<div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
+<div style="font-size: 1rem"></div><div style="min-height:20rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00209_3.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">CRABBY DELIGHT</span><br><br>Crabby Delight is a celebration of the sensory and communal joy of eating with our hands, particularly when we dig into Singapore's iconic chili crab and other crab dishes.
+	
+The installation highlights the warmth and unity of communal dining, reflecting Singapore's rich food culture and the social bonds forged through shared culinary experiences.<br><br>
+	
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">IT'S SHOW</span> <br>co-created by students from Yuvabharathi International School and Artists Cherie, Didier, Jackson, Zhang Bin and Zhiwen </span></div>
+
+<div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
+<div style="font-size: 1rem"></div><div style="min-height:20rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/IMG_0228.jpg"></div></div>
+
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">IT'S SHOW</span><br><br>This installation depicts popular movie time snacks such as popcorn, nachos and hotdog, alongside healthier choices like nuts, corn and salad, evoking memories of enjoying a fun movie time with your family and friends.
+	
+It symbolises how enjoying food together at different occasions break down barriers and build relationships based on mutual respect and appreciation, uniting the people of diverse culture into one community.<br><br>
+	
+
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
