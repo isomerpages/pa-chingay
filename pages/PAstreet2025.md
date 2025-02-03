@@ -258,8 +258,100 @@ Their 3D Aeroponic Fishpond, Pineapple Display and Crab Condo showcase resource-
 Noodle Nation Singapore creatively uses three iconic noodles - Hokkien Mee, Mee Rebus and Mee Goreng - to represent Singapore's rich cultural diversity, celebrating the distinctive identity of our three main ethnic groups.<br>
 	
 The addition of the uniquely-flavoured Zhangde Noodles infused with the school's GIVER'S heart values represent how these values are important to the overall unity of Singapore's cultural fabric.<br></div>
+	
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">BUT I WANT TO GOO! - PASAR MALAM</span> <br>co-created by students from APSN Chaoyang School and Artists Zhang Bin, Cherie, Didier, Jackson and Zhiwen</span></div>
 
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
+<div style="font-size: 1rem"></div><div style="min-height:15rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:-1rem;" src="/images/JOL00229.jpg"></div></div>
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">BUT I WANT TO GOO! - PASAR MALAM</span><br><br>
+APSN Chaoyang School's students capture the joy of visiting pasar malams, with their families through this installation created using up-cycled materials like plastic bags and foam blocks.<br>
+	
+Oversized sculptures of cotton candy, corn in a cup, and interactive games evoke fond childhood memories, while reminding the community of the importance of sustainability and preservation of our culture and environment.<br></div>
+	
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">FOOD WONDERLAND</span> <br>co-created by students from Nan Chiau Primary School and Artists Dzulkarnanen Deo and Amruthaa Kalaiselvan</span></div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
+<div style="font-size: 1rem"></div><div style="min-height:22rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:-1rem;" src="/images/JOL00259.jpg"></div></div>
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">FOOD WONDERLAND</span><br><br>
+Singapore is a culinary paradise where food brings families, friends and communities together. Our love for food extends beyond the main meals, embracing everything from appetizers to desserts. <br>
+	
+Nan Chiau Primary School students creatively turned up-cycled materials into delightful desserts, inviting all to share this lovely afternoon tea with them.<br></div>
+
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">CRABBY DELIGHT</span> <br>co-created by students from Yuhua Secondary School and Artist Royston Phang </span></div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:-1rem;" src="/images/JOL00209_2.jpg"></div></div>
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">CRABBY DELIGHT</span><br><br>
+Crabby Delight is a celebration of the sensory and communal joy of eating with our hands, particularly when we dig into Singapore's iconic chili crab and other crab dishes. <br>
+	
+The installation highlights the warmth and unity of communal dining, reflecting Singapore's rich food culture and the social bonds forged through shared culinary experiences.<br></div>
+
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">IT'S SHOW TIME!</span> <br>co-created by students from Yuvabharathi International School and Artists Cherie, Didier, Jackson, Zhang Bin and Zhiwen </span></div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:-1rem;" src="/images/IMG_0228.jpg"></div></div>
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">IT'S SHOW TIME!</span><br><br>
+This installation depicts popular movie time snacks such as popcorn, nachos and hotdog, alongside healthier choices like nuts, corn and salad, evoking memories of enjoying a fun movie time with your family and friends. <br>
+	
+It symbolises how enjoying food together at different occasions break down barriers and build relationships based on mutual respect and appreciation, uniting the people of diverse culture into one community.<br></div>
 <br>
 
+	
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">FRUITS OF JOY</span> <br>co-created by students from Yuan Ching Secondary School and Artists Norhazlan Bin Mohd Saad and Pang Li Jun </span></div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
+<div style="font-size: 1rem"></div><div style="min-height:25rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:-1rem;" src="/images/JOL00207.jpg"></div></div>
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">FRUITS OF JOY</span><br><br>
+Fruits of Joy celebrates the joy of gifting fruits to our family, friends and neighbours, wishing for their good health and well-being and encourages healthy living.<br>
+	
+The orange peel shaped as the Vanda Miss Joaquim petals as the centrepiece symbolises a prosperous and blossoming Singapore.<br></div>
+<br>
+	
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">JOYOUS SAVOUR THE EDIBLE ART GARDEN</span> <br>co-created by students from Lianhua Primary School and Artist Jesse Leong</span></div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
+<div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:-1rem;" src="/images/JOL00249_2.jpg"></div></div>
+</div>
+
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">JOYOUS SAVOUR THE EDIBLE ART GARDEN</span><br><br>
+This fruits and veggies edition explores the emotional joy that fruits and vegetables bring and reminds us of the importance of healthy eating and living. <br>
+	
+The installation featuring the durian, the fruits bench and vegetable basket hopes to evoke nostalgia and happiness of our shared family moments with the familiar fruits and vegetables that we enjoy in our homes.<br></div>
+<br>
+	
 <div style="padding-top:2rem;font-size:1.5rem; font-weight:bold;">Connect with us @PAssionArtsSG
 on <a target="_blank" href="https://www.facebook.com/PAssionArtsSG/">Facebook</a>, <a target="_blank" href="https://www.instagram.com/passionartssg/">Instagram</a>, <a target="_blank" href="https://www.tiktok.com/@PAssionArtsSG/">TikTok</a>!</div></div></div></div></div></div></div></div>
