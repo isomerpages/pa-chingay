@@ -7,15 +7,13 @@ description: ""
 <div style="padding-top:2rem;font-size:1.5rem;">
 <span style="font-weight: bold;">About PAssionArts Street</span></div>
 
-
-
 <div style="padding-top:1rem; font-size:1.1rem">PAssionArts Street is a fun, interactive and immersive experience for everyone, young and old, to participate in various hands-on-arts activities. You can enjoy a vibrant mix of performances and explore stunning array of visual arts installations re-staged from PAssionArts Festival (PAF), Giant Delight and JOYOUS ART-VENTURE, curated by Art Director, Sam Lo. <br><br>
 This exhibition takes food to an entirely new level, showcasing its cultural significance through bold and imaginative installations. From iconic local dishes like chilli crab to the much-loved durian, each piece delves into how food not only sustains us but also binds us together as a community. The vibrant, larger-than-life displays offer a playful yet meaningful exploration of food's role in shaping shared identity and daily joy.<br><br>
 18 Community Arts &amp; Culture Clubs (CACCs) and 8 schools were involved to present this one-of-a-kind outdoor arts installations co-created by community artists, students and residents. 
 </div> <br>
 
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; border-top: 2px solid #E5E4E2; padding-top;2rem; padding-bottom:2rem">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
 <div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/DSC0429.jpg"></div></div>
@@ -25,11 +23,12 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="font-size:1.1rem"><br>"Kiap Kiap" is an installation highlighting a familiar yet unique culture where Singapore hawkers use wooden clothes pegs to mark orders. It incorporates nostalgic elements like hawker plates and wooden pegs, celebrating the communal joy and diverse tastes food brings to these vital social hubs in our neighbourhood. <br>
 </div></div>
 </div>
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 
 
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; border-top: 2px solid #E5E4E2; padding-top;2rem; padding-bottom:2rem">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
   
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
 <div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00261.jpg"></div></div>
@@ -39,11 +38,12 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="font-size:1.1rem"><br>This installation features basket of fresh fruits symbolising healthy food choices. The Community Crochet Project brings residents together to create vibrant crocheted fruit artworks, promoting community, creativity and wellness. People of all ages collaborate in workshops, celebrating skill-sharing and building a joyful, healthier community.<br>
 </div></div>
 </div>
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 
 
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; border-top: 2px solid #E5E4E2; padding-top;2rem; padding-bottom:2rem">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
   
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
 <div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/DSC0423.jpg"></div></div>
@@ -53,6 +53,8 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="font-size:1.1rem"><br>Singapore's culinary scene blends vibrant cultures, creating a symphony of flavours. From the aromatic Teh Tarik to local desserts such as Chendol and Ice Kacang, each dish celebrates our rich, diverse heritage, offering a unique and delicious experience with every bite.<br>
 </div></div>
 </div>
+
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 
 
