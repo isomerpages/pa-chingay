@@ -7,6 +7,8 @@ description: ""
 <div style="padding-top:2rem;font-size:1.5rem;">
 <span style="font-weight: bold;">About PAssionArts Street</span></div>
 
+
+
 <div style="padding-top:1rem; font-size:1.1rem">PAssionArts Street is a fun, interactive and immersive experience for everyone, young and old, to participate in various hands-on-arts activities. You can enjoy a vibrant mix of performances and explore stunning array of visual arts installations re-staged from PAssionArts Festival (PAF), Giant Delight and JOYOUS ART-VENTURE, curated by Art Director, Sam Lo. <br><br>
 This exhibition takes food to an entirely new level, showcasing its cultural significance through bold and imaginative installations. From iconic local dishes like chilli crab to the much-loved durian, each piece delves into how food not only sustains us but also binds us together as a community. The vibrant, larger-than-life displays offer a playful yet meaningful exploration of food's role in shaping shared identity and daily joy.<br><br>
 18 Community Arts &amp; Culture Clubs (CACCs) and 8 schools were involved to present this one-of-a-kind outdoor arts installations co-created by community artists, students and residents. 
