@@ -4,10 +4,18 @@ permalink: /pa-street-test/
 variant: markdown
 description: ""
 ---
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+<div style="padding-top:2rem;font-size:1.5rem;">
+<span style="font-weight: bold;">About PAssionArts Street</span></div>
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem; padding-right:1rem;">
-<div style="min-height:30rem; max-height:16rem; overflow:hidden;"><img style="object-fit: cover; position:relative; top:rem;" src="/images/DSC0429.jpg"></div></div>
+<div style="padding-top:1rem; font-size:1.1rem">PAssionArts Street is a fun, interactive and immersive experience for everyone, young and old, to participate in various hands-on-arts activities. You can enjoy a vibrant mix of performances and explore stunning array of visual arts installations re-staged from PAssionArts Festival (PAF), Giant Delight and JOYOUS ART-VENTURE, curated by Art Director, Sam Lo. <br><br>
+This exhibition takes food to an entirely new level, showcasing its cultural significance through bold and imaginative installations. From iconic local dishes like chilli crab to the much-loved durian, each piece delves into how food not only sustains us but also binds us together as a community. The vibrant, larger-than-life displays offer a playful yet meaningful exploration of food's role in shaping shared identity and daily joy.<br><br>
+18 Community Arts &amp; Culture Clubs (CACCs) and 8 schools were involved to present this one-of-a-kind outdoor arts installations co-created by community artists, students and residents. 
+</div> <br><br>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
+<div style="min-height:30rem; overflow:hidden;"><img style="object-fit: cover; position:relative; top:rem;" src="/images/DSC0429.jpg"></div></div>
   
 <div style="padding-bottom:1rem; font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> KIAP KIAP</span> <br>co-created by Radin Mas Community Arts &amp; Culture Club (CACC), Artist Royston Phang and residents</span>
@@ -18,8 +26,8 @@ description: ""
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 	
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem; padding-right:1rem;">
-<div style="min-height:30rem; max-height:16rem; overflow:hidden;"><img style="object-fit: cover; position:relative; top:rem;" src="/images/JOL00261.jpg"></div></div>
+<div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
+<div style="min-height:30rem; overflow:hidden;"><img style="object-fit: cover; position:relative; top:rem;" src="/images/JOL00261.jpg"></div></div>
   
 <div style="padding-bottom:1rem; font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> #YIO FRUIT BASKET</span> <br>co-created by Yio Chu Kang Community Arts &amp; Culture Club (CACC), Crochet Interest Group (IG) and residents</span>
@@ -30,8 +38,8 @@ description: ""
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem; padding-right:1rem;">
-<div style="min-height:30rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/DSC0423.jpg"></div></div>
+<div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
+<div style="min-height:30rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/DSC0423.jpg"></div></div>
   
 <div style="padding-bottom:1rem; font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> OUR FOOD, OUR HISTORY, OUR CULTURE</span> <br>co-created by Fernvale Community Arts &amp; Culture Club (CACC), Artist Didier Ng and residents</span>
@@ -42,8 +50,8 @@ description: ""
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
-<div style="min-height:30rem; max-height:16rem; overflow:hidden; padding-right:1rem;"><img style="object-fit: cover; position:relative; top:rem;" src="/images/DSC0458.jpg"></div></div>
+<div style="display: block; overflow:hidden; text-decoration: none;">
+<div style="min-height:30rem; overflow:hidden; padding-right:1rem;"><img style="object-fit: cover; position:relative; top:rem;" src="/images/DSC0458.jpg"></div></div>
 
 <div style="padding-bottom:1rem; font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> THE GIANT PINEAPPLE</span> <br>co-created by Whampoa Community Arts &amp; Culture Club (CACC), Artist Faizal and residents</span>
