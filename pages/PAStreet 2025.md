@@ -10,11 +10,12 @@ description: ""
 <div style="padding:1rem; font-size:1.1rem">
 
 PAssionArts Stret is a fun, interactive and immersive experience for everyone, young and old, to participate in various hands-on-arts activities. You can enjoy a vibrant mix of performances and explore stunning array of visual arts installations re-staged from PAssionArts Festival (PAF), Giant Delight and JOYOUS ART-VENTURE, curated by Art Director, Sam Lo. <br>
-	
+<div>
+
 This exhibition takes food to an entirely new level, showcasing its cultural significance through bold and imaginative installations. From iconic local dishes like chilli crab to the much-loved durian, each piece delves into how food not only sustains us but also binds us together as a community. The vibrant, larger-than-life displays offer a playful yet meaningful exploration of food's role in shaping shared identity and daily joy.
-<br>
+<div>
 	
-18 Community Arts &amp; Culture Clubs (CACCs) and 8 schools are involved to present this one-of-a-kind outdoor arts installations co-created by community artists, students and residents. 
+18 Community Arts &amp; Culture Clubs (CACCs) and 8 schools were involved to present this one-of-a-kind outdoor arts installations co-created by community artists, students and residents. 
 </div>
 
 <div style="padding-top:2rem;font-size:1.5rem;">
@@ -339,4 +340,4 @@ The orange peel shaped as the Vanda Miss Joaquim petals as the centrepiece symbo
 The installation featuring the durian, the fruits bench and vegetable basket hopes to evoke nostalgia and happiness of our shared family moments with the familiar fruits and vegetables that we enjoy in our homes.<br><br>
 	
 
-</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
