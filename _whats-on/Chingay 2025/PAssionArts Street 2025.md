@@ -20,7 +20,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> KIAP KIAP</span> <br>co-created by Radin Mas Community Arts &amp; Culture Club (CACC), Artist Royston Phang and residents</span></div>
 
 
-<div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="text-align: center; display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:30rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/DSC0429.jpg"></div></div>
