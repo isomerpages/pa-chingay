@@ -23,6 +23,8 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem"></div>
+
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 	
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
@@ -34,7 +36,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="border-top: 2px solid #E5E4E2"></div>
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem"></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 	
@@ -48,6 +50,8 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem"></div>
+
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
@@ -60,6 +64,8 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem"></div>
+
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 	
@@ -71,3 +77,5 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="font-size:1.1rem"><br>The Giant Apple symbolises growth, renewal, harmony, and healthy living. The design of an apple also reinforces grassroots' efforts to promote healthy living to residents during house visits, bringing them joy at the same time.<br>
 </div></div>
 </div>
+
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem"></div>
