@@ -42,7 +42,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:30rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00261.jpg"></div></div>
-
+	
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">#YIO FRUIT BASKET</span><br><br> 
@@ -57,7 +57,9 @@ This installation features basket of fresh fruits symbolising healthy food choic
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
-<div style="font-size: 1rem"></div><div style="min-height:32rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/DSC0423.jpg"></div></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:32rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/DSC0423.jpg"></div></div>
+
+</div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;"> OUR FOOD, OUR HISTORY, OUR CULTURE</span><br><br>
 Singapore's culinary scene blends vibrant cultures, creating a symphony of flavours. From the aromatic Teh Tarik to local desserts such as Chendol and Ice Kacang, each dish celebrates our rich, diverse heritage, offering a unique and delicious experience with every bite.<br>
@@ -71,6 +73,8 @@ Singapore's culinary scene blends vibrant cultures, creating a symphony of flavo
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:32rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/DSC0458.jpg"></div></div>
 
+</div>
+	
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;"> THE GIANT PINEAPPLE</span><br><br>
 The artwork integrates pineapple symbolising wealth and prosperity in Chinese culture, with Batik Art, linked to Malay culture. It celebrates Singapore's multiculturalism and the harmonious society we enjoy. The wooden plank structure symbolises unity, while the batik artworks of local fruits highlight Singapore's shared cultural heritage.<br></div>
 
@@ -83,6 +87,8 @@ The artwork integrates pineapple symbolising wealth and prosperity in Chinese cu
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:30rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00253_3.jpg"></div></div>
 
+</div>
+
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;"> JALAN KAYU BIG APPLE</span><br><br>
 The Giant Apple symbolises growth, renewal, harmony, and healthy living. The design of an apple also reinforces grassroots' efforts to promote healthy living to residents during house visits, bringing them joy at the same time.<br></div>
 
@@ -93,6 +99,8 @@ The Giant Apple symbolises growth, renewal, harmony, and healthy living. The des
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:34rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00265_2.jpg"></div></div>
+
+</div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">PEARFECTION IN EVERY HUE</span><br><br> The pear represents abundance, prosperity, health, growth, nurturing and natural beauty. The rainbow colours represent diversity, inclusion and connection.<br></div>
 
@@ -115,7 +123,8 @@ The Giant Apple symbolises growth, renewal, harmony, and healthy living. The des
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:20rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/20250131_145943.jpg"></div></div>
-</div>
+
+	</div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">HOMEMADE FUSION</span><br><br>
 Homemade Fusion features five food illustrations with Brickland mascots, using household items to evoke memories of everyday food. This artwork celebrates Singapore's diverse multiracial culture through community engagement.<br></div>
@@ -129,6 +138,7 @@ Homemade Fusion features five food illustrations with Brickland mascots, using h
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:-1rem;" src="/images/JOL00237_2.jpg"></div></div>
 
+</div>
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">KUEH INSPIRED SEATS</span><br><br>
 The Peranakan kueh inspired benches were part of the "Sit on Kuehs" installation, with involvement from Tao Nan School. The installation invites you to explore the Peranakan culture and heritage through these vibrant benches depicting the flavourful pastries.<br></div>
 
@@ -142,6 +152,8 @@ The Peranakan kueh inspired benches were part of the "Sit on Kuehs" installation
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:23rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/IMG_0223.jpg"></div></div>
 
+</div>
+	
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">BLISS-CUITS AND INSTANT DOPA-MEE</span><br><br>
 Comfort food provides consolation and warmth. Often, they are associated with childhood or home cooking. In Singapore, we each have a go-to snack to indulge in when we are stressed, restless or peckish; a sugary rush for the kid after a test, warm and savory instant meal for the up-at-night working adult, or familiar bites of a timeless treat for the leisurely. This artwork celebrates the types of comfort food that many of us enjoy, while also playing upon iconic and familiar packaging to engage the audience's memories of them enjoying these foods.<br></div>
 
@@ -362,4 +374,4 @@ The installation featuring the durian, the fruits bench and vegetable basket hop
 <br>
 	
 <div style="padding-top:2rem;font-size:1.5rem; font-weight:bold;">Connect with us @PAssionArtsSG
-on <a target="_blank" href="https://www.facebook.com/PAssionArtsSG/">Facebook</a>, <a target="_blank" href="https://www.instagram.com/passionartssg/">Instagram</a>, <a target="_blank" href="https://www.tiktok.com/@PAssionArtsSG/">TikTok</a>!</div></div></div></div></div></div></div>
+on <a target="_blank" href="https://www.facebook.com/PAssionArtsSG/">Facebook</a>, <a target="_blank" href="https://www.instagram.com/passionartssg/">Instagram</a>, <a target="_blank" href="https://www.tiktok.com/@PAssionArtsSG/">TikTok</a>!</div></div>
