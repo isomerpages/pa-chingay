@@ -151,7 +151,6 @@ The Peranakan kueh inspired benches were part of the "Sit on Kuehs" installation
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
 <div style="font-size: 1rem"></div><div style="min-height:23rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/IMG_0223.jpg"></div></div>
-
 </div>
 	
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">BLISS-CUITS AND INSTANT DOPA-MEE</span><br><br>
