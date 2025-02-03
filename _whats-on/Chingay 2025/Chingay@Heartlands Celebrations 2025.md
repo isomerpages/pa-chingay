@@ -44,7 +44,7 @@ For more infomation, visit: <a href="https://www.facebook.com/tampineswest/">Tam
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">6.00pm to 10.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan Start - De La Salle Primary School<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
-Caravan End -  Open field near Al-Ameen, Marsiling<br>
+Caravan End -  Open field near Al-Ameen along Woodlands Ave 5<br>
 For more infomation, visit: <a href="https://www.facebook.com/our.limbang/">Limbang Facebook Page</a>, <a href="https://www.facebook.com/MarsilingHome/">Marsiling Facebook Page</a>, <a href="https://www.facebook.com/WoodgroveOurHome/">Woodgrove Facebook Page</a> and <a href="https://www.facebook.com/YewTee.Singapore/">Yew Tee Facebook Page</a> <br>
 
 **Chingay@Pasir Ris-Punggol GRC and Punggol West SMC** <br>
