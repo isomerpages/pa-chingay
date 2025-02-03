@@ -12,6 +12,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 18 Community Arts &amp; Culture Clubs (CACCs) and 8 schools were involved to present this one-of-a-kind outdoor arts installations co-created by community artists, students and residents. 
 </div> <br>
 
+
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
@@ -24,6 +25,8 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div>
 
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+
+
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -38,6 +41,8 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
+
+
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
@@ -50,6 +55,8 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div>
 
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+
+
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -64,6 +71,8 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
+
+
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
@@ -76,6 +85,8 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div>
 
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+
+
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -90,6 +101,8 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
+
+
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
@@ -103,6 +116,8 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
+
+
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
@@ -115,6 +130,8 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div>
 
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+
+
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -130,6 +147,8 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
+
+
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
@@ -143,6 +162,8 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div>
 
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+
+
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -159,6 +180,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 
+
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
@@ -172,6 +194,8 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div>
 
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+
+
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -187,6 +211,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div>
 
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+
 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
@@ -205,6 +230,24 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
+
+<div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
+<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00217.jpg"></div></div>
+  
+<div style="padding-bottom:1rem; font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;"> FRUTOPIA SEEDS OF PARADISE</span> <br>co-created by Fernvale Community Arts &amp; Culture Club (CACC), Artist Jesse Leong and residents
+</span>
+<div style="font-size:1.1rem"><br>Frutopia celebrates the vibrancy and cultural significance of tropical fruits. At its heart lies the iconic Pineapple, flanked by cross-sections of mangosteen, kiwi, orange, watermelon and lemon, each symboling the richness and diversity of nature's bounty. Crafted from contemporary materials, this installation combines organic shapes with innovative design, inviting viewers to appreciate the intricate beauty of these fruits, The pineapple is a bold focal point, representing abundance and uniqueness, while the colourful cross-sections invite exploration and curiosity.
+<br>
+</div></div>
+</div>
+
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+
+
+
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
@@ -225,22 +268,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00217.jpg"></div></div>
-  
-<div style="padding-bottom:1rem; font-size:1.5rem;">
-<span style="font-weight: bold;"><span style="color: #FFAC1C;"> FRUTOPIA SEEDS OF PARADISE</span> <br>co-created by Fernvale Community Arts &amp; Culture Club (CACC), Artist Jesse Leong and residents
-</span>
-<div style="font-size:1.1rem"><br>Frutopia celebrates the vibrancy and cultural significance of tropical fruits. At its heart lies the iconic Pineapple, flanked by cross-sections of mangosteen, kiwi, orange, watermelon and lemon, each symboling the richness and diversity of nature's bounty. Crafted from contemporary materials, this installation combines organic shapes with innovative design, inviting viewers to appreciate the intricate beauty of these fruits, The pineapple is a bold focal point, representing abundance and uniqueness, while the colourful cross-sections invite exploration and curiosity.
-<br>
-</div></div>
-</div>
-
-<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
-
-<div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="jpg"></div></div>
+<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00203_2.jpg"></div></div>
 
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> FROM FARM TO FEAST</span> <br>co-created by Bukit Timah Community Arts &amp; Culture Club (CACC), Artists Didier Ng, Cherie Ng, Thian Zhiwen and residents
@@ -251,3 +279,184 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div>
 
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+
+
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
+
+<div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
+<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00219.jpg"></div></div>
+
+<div style="font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;"> FRUIT TART ART</span> <br>co-created by Zhenghua Community Arts &amp; Culture Club (CACC), Artist Artz Johan and residents
+</span>
+<div style="font-size:1.1rem"><br>Built on a crate box, this 3D installations transformed into a Fruit Tart featuring different fruits and colours creatively made using different recycled materials such as packaging styrofoam and items such as toy balls, yoga mat etc. are painted to form the installation.
+<br>
+</div></div>
+</div>
+
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+
+
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
+
+<div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
+<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00251_2.jpg"></div></div>
+
+<div style="font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;"> HARVESTING JOY: ART MEETS AGRICULTURE</span> <br>co-created by students from St Gabriel's Primary School, Artists Jackson, Cherie, Didier, Zhang Bin and Zhiwen
+</span>
+<div style="font-size:1.1rem"><br>St. Gabriel's Primary School students and their artist mentors celebrate joy in creating art using up-cycled everyday materials and inspiring everyone on food sustainability and local agriculture.<br>
+Their 3D Aeroponic Fishpond, Pineapple Display and Crab Condo showcase resource-efficient farming, the school's sustainability initiatives, and innovative food production.
+<br>
+</div></div>
+</div>
+
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+
+
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
+
+<div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
+<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/DSC0425_2.jpg"></div></div>
+
+<div style="font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;"> NOODLE NATION SINGAPORE</span> <br>co-created by students from Zhangde Primary School and Artist Moses Sia</span>
+<div style="font-size:1.1rem"><br>Noodle Nation Singapore creatively uses three iconic noodles - Hokkien Mee, Mee Rebus and Mee Goreng - to represent Singapore's rich cultural diversity, celebrating the distinctive identity of our three main ethnic groups.<br>
+The addition of the uniquely-flavoured Zhangde Noodles infused with the school's GIVER'S heart values represent how these values are important to the overall unity of Singapore's cultural fabric.
+
+<br>
+</div></div>
+</div>
+
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+
+
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
+
+<div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
+<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00229.jpg"></div></div>
+
+<div style="font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;"> BUT I WANT TO GOO! - PASAR MALAM</span> <br>co-created by students from APSN Chaoyang School and Artists Zhang Bin, Cherie, Didier, Jackson and Zhiwen</span>
+<div style="font-size:1.1rem"><br>APSN Chaoyang School's students capture the joy of visiting pasar malams, with their families through this installation created using up-cycled materials like plastic bags and foam blocks.<br>
+Oversized sculptures of cotton candy, corn in a cup, and interactive games evoke fond childhood memories, while reminding the community of the importance of sustainability and preservation of our culture and environment.
+<br>
+</div></div>
+</div>
+
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+
+
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
+
+<div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
+<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00259.jpg"></div></div>
+
+<div style="font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;"> FOOD WONDERLAND</span> <br>co-created by students from Nan Chiau Primary School and Artists Dzulkarnanen Deo and Amruthaa Kalaiselvan</span>
+<div style="font-size:1.1rem"><br>Singapore is a culinary paradise where food brings families, friends and communities together. Our love for food extends beyond the main meals, embracing everything from appetizers to desserts.<br>
+Nan Chiau Primary School students creatively turned up-cycled materials into delightful desserts, inviting all to share this lovely afternoon tea with them.
+<br>
+</div></div>
+</div>
+
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+
+
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
+
+<div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
+<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00209_2.jpg"></div></div>
+
+<div style="font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;"> CRABBY DELIGHT</span> <br>co-created by students from Yuhua Secondary School and Artist Royston Phang</span>
+<div style="font-size:1.1rem"><br>Crabby Delight is a celebration of the sensory and communal joy of eating with our hands, particularly when we dig into Singapore's iconic chili crab and other crab dishes.<br>
+The installation highlights the warmth and unity of communal dining, reflecting Singapore's rich food culture and the social bonds forged through shared culinary experiences.
+<br>
+</div></div>
+</div>
+
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+
+
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
+
+<div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
+<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/IMG_0228.jpg"></div></div>
+
+<div style="font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;"> IT'S SHOW TIME!</span> <br>co-created by students from Yuvabharathi International School and Artists Cherie, Didier, Jackson, Zhang Bin and Zhiwen</span>
+<div style="font-size:1.1rem"><br>This installation depicts popular movie time snacks such as popcorn, nachos and hotdog, alongside healthier choices like nuts, corn and salad, evoking memories of enjoying a fun movie time with your family and friends.<br>
+It symbolises how enjoying food together at different occasions break down barriers and build relationships based on mutual respect and appreciation, uniting the people of diverse culture into one community.
+<br>
+</div></div>
+</div>
+
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+
+
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
+
+<div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
+<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00207.jpg"></div></div>
+
+<div style="font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;"> FRUITS OF JOY</span> <br>co-created by students from Yuan Ching Secondary School and Artists Norhazlan Bin Mohd Saad and Pang Li Jun</span>
+<div style="font-size:1.1rem"><br>Fruits of Joy celebrates the joy of gifting fruits to our family, friends and neighbours, wishing for their good health and well-being and encourages healthy living.<br>
+The orange peel shaped as the Vanda Miss Joaquim petals as the centrepiece symbolises a prosperous and blossoming Singapore.
+
+<br>
+</div></div>
+</div>
+
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+
+
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
+
+<div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
+<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00249_2.jpg"></div></div>
+
+<div style="font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;"> JOYOUS SAVOUR THE EDIBLE ART GARDEN</span> <br>co-created by students from Lianhua Primary School and Artist Jesse Leong</span>
+<div style="font-size:1.1rem"><br>This fruits and veggies edition explores the emotional joy that fruits and vegetables bring and reminds us of the importance of healthy eating and living.<br>
+The installation featuring the durian, the fruits bench and vegetable basket hopes to evoke nostalgia and happiness of our shared family moments with the familiar fruits and vegetables that we enjoy in our homes.
+
+<br>
+</div></div>
+</div>
+
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+
+
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
+
+<div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
+<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00249_2.jpg"></div></div>
+
+<div style="font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;"> JOYOUS SAVOUR THE EDIBLE ART GARDEN</span> <br>co-created by students from Lianhua Primary School and Artist Jesse Leong</span>
+<div style="font-size:1.1rem"><br>This fruits and veggies edition explores the emotional joy that fruits and vegetables bring and reminds us of the importance of healthy eating and living.<br>
+The installation featuring the durian, the fruits bench and vegetable basket hopes to evoke nostalgia and happiness of our shared family moments with the familiar fruits and vegetables that we enjoy in our homes.
+
+<br>
+</div></div>
+</div>
+
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+
+
+
+
+<div style="padding-top:2rem;font-size:1.5rem; font-weight:bold;">Connect with us @PAssionArtsSG
+on <a target="_blank" href="https://www.facebook.com/PAssionArtsSG/">Facebook</a>, <a target="_blank" href="https://www.instagram.com/passionartssg/">Instagram</a>, <a target="_blank" href="https://www.tiktok.com/@PAssionArtsSG/">TikTok</a>!</div>
