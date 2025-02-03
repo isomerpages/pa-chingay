@@ -57,7 +57,7 @@ description: ""
 <div class="isomer-card-link">VOTE</div>
 </div>
 </a></div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kiap Kiap" src="/images/Chingay2025/PAssionArts2025/Kiap_Kiap_Edited.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kiap Kiap</div><div class="isomer-card-description">Presented by Radin Mas CACC. </div><div class="isomer-card-link">VOTE</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kiap Kiap" src="/images/Chingay2025/PAssionArts2025/Kiap_Kiap_Edited_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kiap Kiap</div><div class="isomer-card-description">Presented by Radin Mas CACC. </div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -84,7 +84,7 @@ description: ""
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Our food, our history, our culture" src="/images/Chingay2025/PAssionArts2025/Our_Food__Our_History__Our_Culture.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Our food, our history, our culture" src="/images/Chingay2025/PAssionArts2025/our_food_our_history__our_culture_edited.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -111,7 +111,7 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blooming%20in%20Harmony%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pearfection in Every Hue" src="/images/Chingay2025/PAssionArts2025/Pearfection_in_Every_Hue.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Pearfection in Every Hue" src="/images/Chingay2025/PAssionArts2025/Pearfection_in_Every_Hue_Edited.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -145,7 +145,7 @@ description: ""
 <div class="isomer-card-description">Presented by by Telok Blangah CACC. </div>
 <div class="isomer-card-link">VOTE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="#Yio Fruit Basket" src="/images/Chingay2025/PAssionArts2025/Yio_Fruit_Basket.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">#Yio Fruit Basket</div><div class="isomer-card-description">Presented by Yio Chu Kang CACC.</div><div class="isomer-card-link">VOTE</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="#Yio Fruit Basket" src="/images/Chingay2025/PAssionArts2025/Yio_Fruit_Basket_Edited.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">#Yio Fruit Basket</div><div class="isomer-card-description">Presented by Yio Chu Kang CACC.</div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blooming%20in%20Harmony%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
