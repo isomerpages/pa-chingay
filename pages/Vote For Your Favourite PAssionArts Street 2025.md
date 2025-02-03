@@ -44,16 +44,16 @@ description: ""
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Fruits of Joy" src="/images/Chingay2025/PAssionArts2025/Harvesting_Joy.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Fruits of Joy</div><div class="isomer-card-description">Presented by Yuan Ching Secondary School. </div><div class="isomer-card-link">VOTE</div></div></a></div>
 
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chingay 2025 SG60 Lion Float" src="/images/Chingay2025/PAssionArts2025/Harvesting_Joy.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chingay 2025 SG60 Lion Float</div><div class="isomer-card-description">Presented by Tote Board Group. </div><div class="isomer-card-link">VOTE</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Noodle Nation Singapore" src="/images/Chingay2025/PAssionArts2025/Harvesting_Joy.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Noodle Nation Singapore</div><div class="isomer-card-description">Presented by Zhangde Primary School. </div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Chingay 2025 Smiley’s Sedap Buzz Float" src="/images/Chingay2025/PAssionArts2025/Harvesting_Joy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Food Wonderland" src="/images/Chingay2025/PAssionArts2025/Harvesting_Joy.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Chingay 2025 Smiley’s Sedap Buzz Float</div>
-<div class="isomer-card-description">Presented by DBS and POSB. Designed by Chin Hwee Khim and Tay Swee Siong. </div>
+<div class="isomer-card-title">Food Wonderland</div>
+<div class="isomer-card-description">Presented by Nan Chiau Primary School. </div>
 <div class="isomer-card-link">VOTE</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chingay 2025 Grandma's Curry Debal Float" src="/images/Chingay2025/BigFloats/chingay2025grandmascurrydebalfloat.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chingay 2025 Grandma's Curry Debal Float</div><div class="isomer-card-description">Presented by Select Group. Designed by Hoo Jian Li and Lim Jia Ren (JUNCTION STUDIO).</div><div class="isomer-card-link">VOTE</div></div></a>
