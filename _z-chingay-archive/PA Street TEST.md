@@ -25,7 +25,6 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
-
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
@@ -37,8 +36,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="“border-top:"></div>
-
+<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -51,8 +49,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="“border-top:"></div>
-
+<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -65,8 +62,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="“border-top:"></div>
-
+<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -79,8 +75,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="“border-top:"></div>
-
+<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -93,8 +88,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="“border-top:"></div>
-
+<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -107,8 +101,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="“border-top:"></div>
-
+<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -121,8 +114,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="“border-top:"></div>
-
+<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -136,8 +128,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="“border-top:"></div>
-
+<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -151,8 +142,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="“border-top:"></div>
-
+<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -166,8 +156,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="“border-top:"></div>
-
+<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
@@ -182,8 +171,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="“border-top:"></div>
-
+<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -198,8 +186,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="“border-top:"></div>
-
+<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
@@ -215,7 +202,23 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="“border-top:"></div>
+<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
+
+<div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
+<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00217.jpg"></div></div>
+  
+<div style="padding-bottom:1rem; font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;"> FRUTOPIA SEEDS OF PARADISE</span> <br>co-created by Fernvale Community Arts &amp; Culture Club (CACC), Artist Jesse Leong and residents
+</span>
+<div style="font-size:1.1rem"><br>Frutopia celebrates the vibrancy and cultural significance of tropical fruits. At its heart lies the iconic Pineapple, flanked by cross-sections of mangosteen, kiwi, orange, watermelon and lemon, each symboling the richness and diversity of nature's bounty. Crafted from contemporary materials, this installation combines organic shapes with innovative design, inviting viewers to appreciate the intricate beauty of these fruits, The pineapple is a bold focal point, representing abundance and uniqueness, while the colourful cross-sections invite exploration and curiosity.
+<br>
+</div></div>
+</div>
+
+<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 
 
@@ -232,38 +235,19 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="“border-top:"></div>
-
-
-
+<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00217.jpg"></div></div>
-  
-<div style="padding-bottom:1rem; font-size:1.5rem;">
-<span style="font-weight: bold;"><span style="color: #FFAC1C;"> FRUTOPIA SEEDS OF PARADISE</span> <br>co-created by Fernvale Community Arts &amp; Culture Club (CACC), Artist Jesse Leong and residents
-</span>
-<div style="font-size:1.1rem"><br>Frutopia celebrates the vibrancy and cultural significance of tropical fruits. At its heart lies the iconic Pineapple, flanked by cross-sections of mangosteen, kiwi, orange, watermelon and lemon, each symboling the richness and diversity of nature's bounty. Crafted from contemporary materials, this installation combines organic shapes with innovative design, inviting viewers to appreciate the intricate beauty of these fruits, The pineapple is a bold focal point, representing abundance and uniqueness, while the colourful cross-sections invite exploration and curiosity.
-<br>
-</div></div>
-</div>
+<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="jpg"></div></div>
 
-<div style="“border-top:"></div>
-
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
-
-<div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem”>
-<div style="><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00203_2.jpg"></div></div>
-  
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> FROM FARM TO FEAST</span> <br>co-created by Bukit Timah Community Arts &amp; Culture Club (CACC), Artists Didier Ng, Cherie Ng, Thian Zhiwen and residents
 </span>
 <div style="font-size:1.1rem"><br>From Farm to Feast celebrates sustainability, food security, and community resilience. Set on a grassy knoll among towering flats, it features vibrant, lifelike sculptures of fresh produce like fish, vegetables, and eggs. The installation reflects Singapore's goal to locally source 30% of its food by 2030, celebrating the progress made and inspiring local pride. It encourages families and neighbours to engage in conversations about food, sustainability, and access to healthy produce, reinforcing the importance of community involvement for a sustainable future. It's a celebration of creativity, culture, and commitment to a better tomorrow.
 <br>
 </div></div>
+</div>
 
-
-<div style="“border-top:"></div>
+<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
