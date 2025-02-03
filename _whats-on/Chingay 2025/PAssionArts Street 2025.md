@@ -51,15 +51,13 @@ This installation features basket of fresh fruits symbolising healthy food choic
 
 
 
-
-
 <div style="padding-top:2rem;font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> OUR FOOD, OUR HISTORY, OUR CULTURE</span> <br>co-created by Fernvale Community Arts &amp; Culture Club (CACC), Artist Didier Ng and residents</span></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
-<div style="font-size: 1rem"></div><div style="min-height:32rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/DSC0423.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:32rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/DSC0423.jpg"></div></div></div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;"> OUR FOOD, OUR HISTORY, OUR CULTURE</span><br><br>
 Singapore's culinary scene blends vibrant cultures, creating a symphony of flavours. From the aromatic Teh Tarik to local desserts such as Chendol and Ice Kacang, each dish celebrates our rich, diverse heritage, offering a unique and delicious experience with every bite.<br>
@@ -364,4 +362,4 @@ The installation featuring the durian, the fruits bench and vegetable basket hop
 <br>
 	
 <div style="padding-top:2rem;font-size:1.5rem; font-weight:bold;">Connect with us @PAssionArtsSG
-on <a target="_blank" href="https://www.facebook.com/PAssionArtsSG/">Facebook</a>, <a target="_blank" href="https://www.instagram.com/passionartssg/">Instagram</a>, <a target="_blank" href="https://www.tiktok.com/@PAssionArtsSG/">TikTok</a>!</div></div></div></div></div></div></div></div>
+on <a target="_blank" href="https://www.facebook.com/PAssionArtsSG/">Facebook</a>, <a target="_blank" href="https://www.instagram.com/passionartssg/">Instagram</a>, <a target="_blank" href="https://www.tiktok.com/@PAssionArtsSG/">TikTok</a>!</div></div></div></div></div></div></div>
