@@ -15,7 +15,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:30rem; overflow:hidden;"><img style="object-fit: cover; position:relative; top:rem;" src="/images/DSC0429.jpg"></div></div>
+<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/DSC0429.jpg"></div></div>
   
 <div style="padding-bottom:1rem; font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> KIAP KIAP</span> <br>co-created by Radin Mas Community Arts &amp; Culture Club (CACC), Artist Royston Phang and residents</span>
@@ -27,7 +27,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 	
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:30rem; overflow:hidden;"><img style="object-fit: cover; position:relative; top:rem;" src="/images/JOL00261.jpg"></div></div>
+<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00261.jpg"></div></div>
   
 <div style="padding-bottom:1rem; font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> #YIO FRUIT BASKET</span> <br>co-created by Yio Chu Kang Community Arts &amp; Culture Club (CACC), Crochet Interest Group (IG) and residents</span>
@@ -56,5 +56,27 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="padding-bottom:1rem; font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> THE GIANT PINEAPPLE</span> <br>co-created by Whampoa Community Arts &amp; Culture Club (CACC), Artist Faizal and residents</span>
 <div style="font-size:1.1rem"><br>The artwork integrates pineapple symbolising wealth and prosperity in Chinese culture, with Batik Art, linked to Malay culture. It celebrates Singapore's multiculturalism and the harmonious society we enjoy. The wooden plank structure symbolises unity, while the batik artworks of local fruits highlight Singapore's shared cultural heritage.<br>
+</div></div>
+</div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;">
+<div style="min-height:30rem; overflow:hidden; padding-right:1rem;"><img style="object-fit: cover; position:relative; top:rem;" src="/images/DSC0458.jpg"></div></div>
+
+<div style="padding-bottom:1rem; font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;"> JALAN KAYU BIG APPLE</span> <br>co-created by Jalan Kayu Community Arts &amp; Culture Club (CACC), Artist Fish Jaafar and residents</span>
+<div style="font-size:1.1rem"><br>The Giant Apple symbolises growth, renewal, harmony, and healthy living. The design of an apple also reinforces grassroots' efforts to promote healthy living to residents during house visits, bringing them joy at the same time.<br>
+</div></div>
+</div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+
+<div style="display: block; overflow:hidden; text-decoration: none;">
+<div style="min-height:30rem; overflow:hidden; padding-right:1rem;"><img style="object-fit: cover; position:relative; top:rem;" src="images/JOL00253_3.jpg"></div></div>
+
+<div style="padding-bottom:1rem; font-size:1.5rem;">
+<span style="font-weight: bold;"><span style="color: #FFAC1C;"> JALAN KAYU BIG APPLE</span> <br>co-created by Jalan Kayu Community Arts &amp; Culture Club (CACC), Artist Fish Jaafar and residents</span>
+<div style="font-size:1.1rem"><br>The Giant Apple symbolises growth, renewal, harmony, and healthy living. The design of an apple also reinforces grassroots' efforts to promote healthy living to residents during house visits, bringing them joy at the same time.<br>
 </div></div>
 </div>
