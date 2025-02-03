@@ -18,7 +18,7 @@ description: ""
 <div class="isomer-card-description">Presented by Bukit Batok East CACC. </div>
 <div class="isomer-card-link">VOTE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chingay 2025 Grandma's Curry Debal Float" src="/images/Chingay2025/BigFloats/chingay2025grandmascurrydebalfloat.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chingay 2025 Grandma's Curry Debal Float</div><div class="isomer-card-description">Presented by Select Group. Designed by Hoo Jian Li and Lim Jia Ren (JUNCTION STUDIO).</div><div class="isomer-card-link">VOTE</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Giant Bites of Nostalgia" src="/images/Chingay2025/BigFloats/chingay2025grandmascurrydebalfloat.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Giant Bites of Nostalgia</div><div class="isomer-card-description">Presented by Bukit Batok East CACC.</div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blooming%20in%20Harmony%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -26,22 +26,22 @@ description: ""
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Chingay 2025 Delightful Nasi Lemak Float</div>
-<div class="isomer-card-description">Presented by People's Association with Malay Contingent (MESRA). </div>
+<div class="isomer-card-title">Jalan Kayu Big Apple</div>
+<div class="isomer-card-description">Presented by Jalan Kayu CACC. </div>
 <div class="isomer-card-link">VOTE</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Chingay 2025 Mummy's Loving Breakfast Float" src="/images/Chingay2024/LKC_2869_edit.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Our food, our history, our culture" src="/images/Chingay2024/LKC_2869_edit.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Chingay 2025 Mummy's Loving Breakfast Float</div>
-<div class="isomer-card-description">Presented by People's Association with Indian Contingent (Narpani). </div>
+<div class="isomer-card-title">Our food, our history, our culture</div>
+<div class="isomer-card-description">Presented by Fernvale CACC. </div>
 <div class="isomer-card-link">VOTE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chingay 2025 Grandma's Curry Debal Float" src="/images/Chingay2025/BigFloats/chingay2025steamboat.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chingay 2025 Steamboat</div><div class="isomer-card-description">Presented by Lorong Koo Chye Sheng Hong Temple Association and Loyang Tua Pek Kong Temple. </div><div class="isomer-card-link">VOTE</div>
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chingay 2025 Grandma's Curry Debal Float" src="/images/Chingay2025/BigFloats/chingay2025steamboat.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Frutopia Seeds of Paradise</div><div class="isomer-card-description">Presented by Fernvale CACC. </div><div class="isomer-card-link">VOTE</div>
 	</div>
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chingay 2025 Grandma's Curry Debal Float" src="/images/Chingay2025/BigFloats/chingay2025harmonycircle.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chingay 2025 Joy in Harmony: Flavours of our multi-racial and religious Singapore Float </div><div class="isomer-card-description">Presented by Racial and Religious Harmony Circle. Designed by Sebastian Chun.</div><div class="isomer-card-link">VOTE</div>
 </div>
