@@ -23,7 +23,6 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 	
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
@@ -35,6 +34,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
+<div style="border-top: 2px solid #E5E4E2"></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 	
