@@ -88,7 +88,7 @@ description: ""
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Our food, our history, our culture</div>
+<div class="isomer-card-title">Our Food, Our History, Our Culture</div>
 <div class="isomer-card-description">Presented by Fernvale CACC. </div>
 <div class="isomer-card-link">VOTE</div>
 </div>
