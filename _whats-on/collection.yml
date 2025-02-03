@@ -2,6 +2,7 @@ collections:
   whats-on:
     output: true
     order:
+      - Chingay 2025/PAssionArts Street2025.md
       - Chingay 2025/Chingay Parade 2025.md
       - Chingay 2025/.keep
       - Chingay 2025/Theme.md
