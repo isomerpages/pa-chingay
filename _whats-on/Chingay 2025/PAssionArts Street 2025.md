@@ -31,19 +31,27 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 "Kiap Kiap" is an installation highlighting a familiar yet unique culture where Singapore hawkers use wooden clothes pegs to mark orders. It incorporates nostalgic elements like hawker plates and wooden pegs, celebrating the communal joy and diverse tastes food brings to these vital social hubs in our neighbourhood. <br>
 </div>
 
+
+
+
 <div style="padding-top:2rem;font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> #YIO FRUIT BASKET</span> <br>co-created by Yio Chu Kang Community Arts &amp; Culture Club (CACC), Crochet Interest Group (IG) and residents</span></div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+
+<div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
-<div style="font-size: 1rem"></div><div style="min-height:25rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00261.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:30rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00261.jpg"></div></div>
 
 </div>
 
-<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;"> #YIO FRUIT BASKET</span><br><br>
+<div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">#YIO FRUIT BASKET</span><br><br> 
 This installation features basket of fresh fruits symbolising healthy food choices. The Community Crochet Project brings residents together to create vibrant crocheted fruit artworks, promoting community, creativity and wellness. People of all ages collaborate in workshops, celebrating skill-sharing and building a joyful, healthier community. <br>
 </div>
+
+
+
+
 
 <div style="padding-top:2rem;font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> OUR FOOD, OUR HISTORY, OUR CULTURE</span> <br>co-created by Fernvale Community Arts &amp; Culture Club (CACC), Artist Didier Ng and residents</span></div>
