@@ -4,7 +4,7 @@ permalink: /vote-for-your-favourite-passionarts-street-2025/
 variant: markdown
 description: ""
 ---
-<p>Click <u>here</u> to vote for your favourite Chingay Parade 2025 Big Float</p>
+<p>Click <u>here</u> to vote for your favourite PAssionArts Street 2025 Installations.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kiap Kiap" src="/images/Chingay2025/PAssionArts2025/Kiap_Kiap.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kiap Kiap</div><div class="isomer-card-description">Presented by Radin Mas CACC. </div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
