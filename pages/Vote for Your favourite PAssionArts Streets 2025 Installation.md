@@ -6,16 +6,16 @@ description: ""
 ---
 <p>Click <u>here</u> to vote for your favourite PAssionArts Street 2025 Installations </p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chingay 2025 SG60 Lion Float" src="/images/Chingay2024/NZ6_9150_edit.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chingay 2025 SG60 Lion Float</div><div class="isomer-card-description">Presented by Tote Board Group. </div><div class="isomer-card-link">VOTE</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kiap Kiap" src="/images/Chingay2025/PAssionArts2025/Kiap_Kiap.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kiap Kiap</div><div class="isomer-card-description">Presented by Radin Mas CACC. </div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Chingay 2025 Smiley’s Sedap Buzz Float" src="/images/Chingay2025/BigFloats/chingay2025smileysedapbuzzfloat.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Gust of Sweet Harmony" src="/images/Chingay2025/PAssionArts2025/Gust_of_Sweet_Harmony.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Chingay 2025 Smiley’s Sedap Buzz Float</div>
-<div class="isomer-card-description">Presented by DBS and POSB. Designed by Chin Hwee Khim and Tay Swee Siong. </div>
+<div class="isomer-card-title">Gust of Sweet Harmony</div>
+<div class="isomer-card-description">Presented by Bukit Batok East CACC. </div>
 <div class="isomer-card-link">VOTE</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chingay 2025 Grandma's Curry Debal Float" src="/images/Chingay2025/BigFloats/chingay2025grandmascurrydebalfloat.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chingay 2025 Grandma's Curry Debal Float</div><div class="isomer-card-description">Presented by Select Group. Designed by Hoo Jian Li and Lim Jia Ren (JUNCTION STUDIO).</div><div class="isomer-card-link">VOTE</div></div></a>
