@@ -7,7 +7,7 @@ description: ""
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem; padding-right:1rem;">
-<div style="min-height:30rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/DSC0429.jpg"></div></div>
+<div style="min-height:30rem; max-height:16rem; overflow:hidden;"><img style="object-fit: cover; position:relative; top:rem;" src="/images/DSC0429.jpg"></div></div>
   
 <div style="padding-bottom:1rem; font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> KIAP KIAP</span> <br>co-created by Radin Mas Community Arts &amp; Culture Club (CACC), Artist Royston Phang and residents</span>
@@ -19,7 +19,7 @@ description: ""
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 	
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem; padding-right:1rem;">
-<div style="min-height:30rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00261.jpg"></div></div>
+<div style="min-height:30rem; max-height:16rem; overflow:hidden;"><img style="object-fit: cover; position:relative; top:rem;" src="/images/JOL00261.jpg"></div></div>
   
 <div style="padding-bottom:1rem; font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> #YIO FRUIT BASKET</span> <br>co-created by Yio Chu Kang Community Arts &amp; Culture Club (CACC), Crochet Interest Group (IG) and residents</span>
@@ -43,7 +43,7 @@ description: ""
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
-<div style="min-height:30rem; max-height:16rem; overflow:hidden; padding-right:1rem;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/DSC0458.jpg"></div></div>
+<div style="min-height:30rem; max-height:16rem; overflow:hidden; padding-right:1rem;"><img style="object-fit: cover; position:relative; top:rem;" src="/images/DSC0458.jpg"></div></div>
 
 <div style="padding-bottom:1rem; font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> THE GIANT PINEAPPLE</span> <br>co-created by Whampoa Community Arts &amp; Culture Club (CACC), Artist Faizal and residents</span>
