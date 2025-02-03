@@ -111,7 +111,7 @@ The Giant Apple symbolises growth, renewal, harmony, and healthy living. The des
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;">
-<div style="font-size: 1rem"></div><div style="min-height:30rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00197.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:30rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00197.jpg"></div></div></div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;"> GUST OF SWEET HARMONY</span><br><br> A kinetic art installation featuring local fruits, food and desserts is enhanced with AR effects in collaboration with Ngee Ann Polytechnic.<br><br></div>
 	
@@ -374,4 +374,4 @@ The installation featuring the durian, the fruits bench and vegetable basket hop
 <br>
 	
 <div style="padding-top:2rem;font-size:1.5rem; font-weight:bold;">Connect with us @PAssionArtsSG
-on <a target="_blank" href="https://www.facebook.com/PAssionArtsSG/">Facebook</a>, <a target="_blank" href="https://www.instagram.com/passionartssg/">Instagram</a>, <a target="_blank" href="https://www.tiktok.com/@PAssionArtsSG/">TikTok</a>!</div></div>
+on <a target="_blank" href="https://www.facebook.com/PAssionArtsSG/">Facebook</a>, <a target="_blank" href="https://www.instagram.com/passionartssg/">Instagram</a>, <a target="_blank" href="https://www.tiktok.com/@PAssionArtsSG/">TikTok</a>!</div>
