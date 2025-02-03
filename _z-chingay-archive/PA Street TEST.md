@@ -422,24 +422,6 @@ The installation featuring the durian, the fruits bench and vegetable basket hop
 
 
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
-
-<div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00249_2.jpg"></div></div>
-
-<div style="font-size:1.5rem;">
-<span style="font-weight: bold;"><span style="color: #FFAC1C;"> JOYOUS SAVOUR THE EDIBLE ART GARDEN</span> <br>co-created by students from Lianhua Primary School and Artist Jesse Leong</span>
-<div style="font-size:1.1rem"><br>This fruits and veggies edition explores the emotional joy that fruits and vegetables bring and reminds us of the importance of healthy eating and living.<br>
-The installation featuring the durian, the fruits bench and vegetable basket hopes to evoke nostalgia and happiness of our shared family moments with the familiar fruits and vegetables that we enjoy in our homes.
-
-<br>
-</div></div>
-</div>
-
-<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
-
-
-
 
 <div style="padding-top:2rem;font-size:1.5rem; font-weight:bold;">Connect with us @PAssionArtsSG
 on <a target="_blank" href="https://www.facebook.com/PAssionArtsSG/">Facebook</a>, <a target="_blank" href="https://www.instagram.com/passionartssg/">Instagram</a>, <a target="_blank" href="https://www.tiktok.com/@PAssionArtsSG/">TikTok</a>!</div>
