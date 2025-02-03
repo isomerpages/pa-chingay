@@ -36,7 +36,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -49,7 +49,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -62,7 +62,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -75,7 +75,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -88,7 +88,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -101,7 +101,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -114,7 +114,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -128,7 +128,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -142,7 +142,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -156,7 +156,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
@@ -171,7 +171,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -186,7 +186,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
@@ -202,7 +202,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
@@ -218,7 +218,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 
 
@@ -235,7 +235,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
@@ -250,4 +250,4 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="border-top; 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
