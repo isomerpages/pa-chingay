@@ -251,23 +251,6 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00217.jpg"></div></div>
-  
-<div style="padding-bottom:1rem; font-size:1.5rem;">
-<span style="font-weight: bold;"><span style="color: #FFAC1C;"> FRUTOPIA SEEDS OF PARADISE</span> <br>co-created by Fernvale Community Arts &amp; Culture Club (CACC), Artist Jesse Leong and residents
-</span>
-<div style="font-size:1.1rem"><br>Frutopia celebrates the vibrancy and cultural significance of tropical fruits. At its heart lies the iconic Pineapple, flanked by cross-sections of mangosteen, kiwi, orange, watermelon and lemon, each symboling the richness and diversity of nature's bounty. Crafted from contemporary materials, this installation combines organic shapes with innovative design, inviting viewers to appreciate the intricate beauty of these fruits, The pineapple is a bold focal point, representing abundance and uniqueness, while the colourful cross-sections invite exploration and curiosity.
-<br>
-</div></div>
-</div>
-
-<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
-
-
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
-
-<div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
 <div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00203_2.jpg"></div></div>
 
 <div style="font-size:1.5rem;">
