@@ -13,10 +13,10 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div> <br>
 
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; border-top: 2px solid #E5E4E2; padding-top;2rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/DSC0429.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/DSC0429.jpg"></div></div>
   
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> KIAP KIAP</span> <br>co-created by Radin Mas Community Arts &amp; Culture Club (CACC), Artist Royston Phang and residents</span>
@@ -24,14 +24,13 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
-
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; border-top: 2px solid #E5E4E2; padding-top;2rem; padding-bottom:2rem">
+  
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00261.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00261.jpg"></div></div>
   
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> #YIO FRUIT BASKET</span> <br>co-created by Yio Chu Kang Community Arts &amp; Culture Club (CACC), Crochet Interest Group (IG) and residents</span>
@@ -39,14 +38,13 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
-
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; border-top: 2px solid #E5E4E2; padding-top;2rem; padding-bottom:2rem">
+  
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/DSC0423.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/DSC0423.jpg"></div></div>
   
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> OUR FOOD, OUR HISTORY, OUR CULTURE</span> <br>co-created by Fernvale Community Arts &amp; Culture Club (CACC), Artist Didier Ng and residents</span>
@@ -54,14 +52,12 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div></div>
 </div>
 
-<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
-
 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/DSC0458.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/DSC0458.jpg"></div></div>
   
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> THE GIANT PINEAPPLE</span> <br>co-created by Whampoa Community Arts &amp; Culture Club (CACC), Artist Faizal and residents</span>
@@ -76,7 +72,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00253_3.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00253_3.jpg"></div></div>
   
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> JALAN KAYU BIG APPLE</span> <br>co-created by Jalan Kayu Community Arts &amp; Culture Club (CACC), Artist Fish Jaafar and residents</span>
@@ -91,7 +87,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00265_2.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00265_2.jpg"></div></div>
   
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> PEARFECTION IN EVERY HUE</span> <br>co-created by Sengkang North Community Arts &amp; Culture Club (CACC), Artist Whee Ng and residents</span>
@@ -106,7 +102,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00197.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00197.jpg"></div></div>
   
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> GUST OF SWEET HARMONY</span> <br>co-created by Bukit Batok East Community Arts &amp; Culture Club (CACC), Artist Swee Siong and residents</span>
@@ -121,7 +117,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/20250131_145943.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/20250131_145943.jpg"></div></div>
   
 <div style="padding-bottom:1rem; font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> HOMEMADE FUSION</span> <br>co-created by Brickland Community Arts &amp; Culture Club (CACC), Artist Eunice Hannah Lim and residents</span>
@@ -136,7 +132,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00237_2.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00237_2.jpg"></div></div>
   
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> KUEH INSPIRED SEATS</span> <br>co-created by Marine Parade Community Arts &amp; Culture Club (CACC) and residents</span>
@@ -152,7 +148,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/IMG_0223.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/IMG_0223.jpg"></div></div>
   
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> BLISS-CUITS AND INSTANT DOPA-MEE</span> <br>co-created by Pasir Ris Central Community Arts &amp; Culture Club (CACC), Artists Esther Ng, Casey Chen and residents</span>
@@ -168,7 +164,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00205_2.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00205_2.jpg"></div></div>
   
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> STRINGS AND SPIKES</span> <br>co-created by Admiralty Community Arts &amp; Culture Club (CACC), Artists Casey Chen, Esther Ng and residents</span>
@@ -184,7 +180,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00211_2.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00211_2.jpg"></div></div>
   
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> KUEH-ZY COCONUTS</span> <br>co-created by Telok Blangah Community Arts &amp; Culture Club (CACC), Artists Esther Ng, Casy Chen and residents</span>
@@ -200,7 +196,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00245.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00245.jpg"></div></div>
   
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> GIANT BITES OF NOSTALGIA</span> <br>co-created by Bukit Batok East Community Arts &amp; Culture Club (CACC), Artists Chan Yong Song, Koh Wan Hup, Loo Kok Wah, Liew Lee Khong and residents
@@ -217,7 +213,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00215.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00215.jpg"></div></div>
   
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> FOOD FOR THOUGHT</span> <br>co-created by Cheng San-Seletar Community Arts &amp; Culture Club (CACC), Artists Barry Yeow, Cipto Purnamo, Muhammad Riduan, Evangeline Ang, Mukul Hossine and residents
@@ -234,7 +230,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00217.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00217.jpg"></div></div>
   
 <div style="padding-bottom:1rem; font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> FRUTOPIA SEEDS OF PARADISE</span> <br>co-created by Fernvale Community Arts &amp; Culture Club (CACC), Artist Jesse Leong and residents
@@ -251,7 +247,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00203_2.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00203_2.jpg"></div></div>
 
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> FROM FARM TO FEAST</span> <br>co-created by Bukit Timah Community Arts &amp; Culture Club (CACC), Artists Didier Ng, Cherie Ng, Thian Zhiwen and residents
@@ -268,7 +264,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00219.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00219.jpg"></div></div>
 
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> FRUIT TART ART</span> <br>co-created by Zhenghua Community Arts &amp; Culture Club (CACC), Artist Artz Johan and residents
@@ -285,7 +281,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00251_2.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00251_2.jpg"></div></div>
 
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> HARVESTING JOY: ART MEETS AGRICULTURE</span> <br>co-created by students from St Gabriel's Primary School, Artists Jackson, Cherie, Didier, Zhang Bin and Zhiwen
@@ -303,7 +299,7 @@ Their 3D Aeroponic Fishpond, Pineapple Display and Crab Condo showcase resource-
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/DSC0425_2.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/DSC0425_2.jpg"></div></div>
 
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> NOODLE NATION SINGAPORE</span> <br>co-created by students from Zhangde Primary School and Artist Moses Sia</span>
@@ -321,7 +317,7 @@ The addition of the uniquely-flavoured Zhangde Noodles infused with the school's
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00229.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00229.jpg"></div></div>
 
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> BUT I WANT TO GOO! - PASAR MALAM</span> <br>co-created by students from APSN Chaoyang School and Artists Zhang Bin, Cherie, Didier, Jackson and Zhiwen</span>
@@ -338,7 +334,7 @@ Oversized sculptures of cotton candy, corn in a cup, and interactive games evoke
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00259.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00259.jpg"></div></div>
 
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> FOOD WONDERLAND</span> <br>co-created by students from Nan Chiau Primary School and Artists Dzulkarnanen Deo and Amruthaa Kalaiselvan</span>
@@ -355,7 +351,7 @@ Nan Chiau Primary School students creatively turned up-cycled materials into del
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00209_2.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00209_2.jpg"></div></div>
 
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> CRABBY DELIGHT</span> <br>co-created by students from Yuhua Secondary School and Artist Royston Phang</span>
@@ -372,7 +368,7 @@ The installation highlights the warmth and unity of communal dining, reflecting 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/IMG_0228.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/IMG_0228.jpg"></div></div>
 
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> IT'S SHOW TIME!</span> <br>co-created by students from Yuvabharathi International School and Artists Cherie, Didier, Jackson, Zhang Bin and Zhiwen</span>
@@ -389,7 +385,7 @@ It symbolises how enjoying food together at different occasions break down barri
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00207.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00207.jpg"></div></div>
 
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> FRUITS OF JOY</span> <br>co-created by students from Yuan Ching Secondary School and Artists Norhazlan Bin Mohd Saad and Pang Li Jun</span>
@@ -407,7 +403,7 @@ The orange peel shaped as the Vanda Miss Joaquim petals as the centrepiece symbo
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="min-height:20rem; overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00249_2.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00249_2.jpg"></div></div>
 
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> JOYOUS SAVOUR THE EDIBLE ART GARDEN</span> <br>co-created by students from Lianhua Primary School and Artist Jesse Leong</span>
