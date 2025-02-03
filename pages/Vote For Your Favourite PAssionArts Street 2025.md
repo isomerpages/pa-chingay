@@ -56,27 +56,27 @@ description: ""
 <div class="isomer-card-description">Presented by Whampoa CACC. </div>
 <div class="isomer-card-link">VOTE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chingay 2025 Grandma's Curry Debal Float" src="/images/Chingay2025/BigFloats/chingay2025grandmascurrydebalfloat.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chingay 2025 Grandma's Curry Debal Float</div><div class="isomer-card-description">Presented by Select Group. Designed by Hoo Jian Li and Lim Jia Ren (JUNCTION STUDIO).</div><div class="isomer-card-link">VOTE</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Pearfection in Every Hue" src="/images/Chingay2025/PAssionArts2025/Pearfection_in_Every_Hue.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Pearfection in Every Hue</div><div class="isomer-card-description">Presented by Sengkang North CACC.</div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blooming%20in%20Harmony%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Chingay 2025 Delightful Nasi Lemak Float" src="/images/Chingay2025/BigFloats/chingay2025delightfulnasilemakfloat.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Food For Thought" src="/images/Chingay2025/PAssionArts2025/Food_for_Thought.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Chingay 2025 Delightful Nasi Lemak Float</div>
-<div class="isomer-card-description">Presented by People's Association with Malay Contingent (MESRA). </div>
+<div class="isomer-card-title">Food For Thought</div>
+<div class="isomer-card-description">Presented by Cheng San-Seletar CACC. </div>
 <div class="isomer-card-link">VOTE</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Chingay 2025 Mummy's Loving Breakfast Float" src="/images/Chingay2024/LKC_2869_edit.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Strings and Spikes" src="/images/Chingay2025/PAssionArts2025/Strings_and_Spikes.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Chingay 2025 Mummy's Loving Breakfast Float</div>
-<div class="isomer-card-description">Presented by People's Association with Indian Contingent (Narpani). </div>
+<div class="isomer-card-title">Strings and Spikes</div>
+<div class="isomer-card-description">Presented by Admiralty CACC. </div>
 <div class="isomer-card-link">VOTE</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chingay 2025 Grandma's Curry Debal Float" src="/images/Chingay2025/BigFloats/chingay2025steamboat.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chingay 2025 Steamboat</div><div class="isomer-card-description">Presented by Lorong Koo Chye Sheng Hong Temple Association and Loyang Tua Pek Kong Temple. </div><div class="isomer-card-link">VOTE</div></div></a></div>
