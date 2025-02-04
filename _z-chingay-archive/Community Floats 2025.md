@@ -4,8 +4,6 @@ permalink: /community-floats/
 variant: markdown
 description: ""
 ---
-<div><img src="/images/Chingay2024CommunityFloats/Community_Floats.jpg"></div>
-
 <div style="padding-top:2rem;font-size:1.5rem;">
 <span style="font-weight: bold;">About Chingay Community Floats</span></div>
 
