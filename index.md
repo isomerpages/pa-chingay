@@ -15,7 +15,7 @@ sections:
         - title: Joint Nomination For UNESCO
           description: ""
           url: /chingayunesco/
-      background: /images/Chingay2025/Hero_Banner_with_Live_Webcast.png
+      background: /images/Chingay2025/Untitled_design__8_.gif
   - textcards:
       title: About Chingay Parade
       id: textcards
