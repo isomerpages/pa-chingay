@@ -67,6 +67,6 @@ For more infomation, visit: <a href="https://www.facebook.com/BishanToaPayoh/">B
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sun, 2 March 2025<br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">5.00pm to 9.30pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
-Caravan Start - Between Blk 6 Teck Whye Avenue and open field next to Chua Chu Kang Secondary School along Teck Whye Crescent<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
+Caravan Start - Teck Whye Crescent in front of Chua Chu Kang Secondary School<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Bukit Batok East Ave 5 along Little Guilin<br>
 For more infomation, visit: <a href="https://www.facebook.com/ilovebrickland/">Brickland Facebook Page</a>, <a href="https://www.facebook.com/OurBukitGombak/">Bukit Gombak Facebook Page</a>, <a href="https://www.facebook.com/ChuaChuKangOurHome/">Chua Chu Kang Facebook Page</a>, <a href="https://www.facebook.com/ilovekeathong/">Keat Hong Facebook Page</a> and <a href="https://www.facebook.com/HongKahNorthCC/">Hong Kah North CC Facebook Page</a>
