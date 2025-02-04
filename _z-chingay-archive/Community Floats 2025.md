@@ -21,11 +21,7 @@ The community floats debuted at Chingay Parade 2022, where residents with guidan
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/amk2.jpg"></div></div>
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/amk1.jpg"></div></div>
-
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/IZZAH_250203_Chingay_2025___Act_2___Community_Float_Rehearsal_18.jpg"></div></div>
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Curry Friends Adventure</span><br> Meet the star: a playful mackerel surfing veggie curry with fins and scales. &nbsp;Its BFF, Ang Mo Kio's gigantic tomato, bounces its terrific hairstyle with shining and colourful LED lights. &nbsp;Swirling with expressive veggie friends - chillies, lady’s fingers, cabbages, long beans, eggplants and tomatoes - this float celebrates art, culture, and community with joyful food characters!
@@ -41,10 +37,7 @@ The community floats debuted at Chingay Parade 2022, where residents with guidan
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/amk2.jpg"></div></div>
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/amk1.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/IZZAH_250203_Chingay_2025___Act_2___Community_Float_Rehearsal_8.jpg"></div></div>
 
 </div>
 
@@ -62,7 +55,7 @@ The community floats debuted at Chingay Parade 2022, where residents with guidan
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/JB1.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/IZZAH_250203_Chingay_2025___Act_2___Community_Float_Rehearsal_20.jpg"></div></div>
 
 </div>
 
@@ -79,8 +72,7 @@ The community floats debuted at Chingay Parade 2022, where residents with guidan
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/JB1.jpg"></div></div>
-
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/IZZAH_250203_Chingay_2025___Act_2___Community_Float_Rehearsal_11.jpg"></div></div>
 
 </div>
 
@@ -97,7 +89,7 @@ The community floats debuted at Chingay Parade 2022, where residents with guidan
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/ALJ1.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/IZZAH_250203_Chingay_2025___Act_2___Community_Float_Rehearsal_4.jpg"></div></div>
 
 </div>
 
@@ -114,10 +106,7 @@ The community floats debuted at Chingay Parade 2022, where residents with guidan
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/amk2.jpg"></div></div>
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/amk1.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/IZZAH_250203_Chingay_2025___Act_2___Community_Float_Rehearsal_17.jpg"></div></div>
 
 </div>
 
@@ -134,10 +123,8 @@ The community floats debuted at Chingay Parade 2022, where residents with guidan
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/amk2.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/IZZAH_250203_Chingay_2025___Act_2___Community_Float_Rehearsal_12.jpg"></div></div>
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/amk1.jpg"></div></div>
 
 </div>
 
@@ -154,10 +141,8 @@ The community floats debuted at Chingay Parade 2022, where residents with guidan
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/amk2.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/IZZAH_250203_Chingay_2025___Act_2___Community_Float_Rehearsal_6.jpg"></div></div>
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/amk1.jpg"></div></div>
 
 </div>
 
@@ -175,7 +160,7 @@ Chilli Crab Fever boldly reimagines the iconic dish, blending 80s disco vibes wi
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/HBT1.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/IZZAH_250203_Chingay_2025___Act_2___Community_Float_Rehearsal_15.jpg"></div></div>
 
 </div>
 
@@ -195,10 +180,7 @@ This Whimsical Wonderland float celebrates Eurasian desserts and the joy of baki
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/amk2.jpg"></div></div>
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/amk1.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/IZZAH_250203_Chingay_2025___Act_2___Community_Float_Rehearsal_13.jpg"></div></div>
 
 </div>
 
@@ -217,7 +199,7 @@ A universe where whimsical feline creatures, inspired by the beloved local delic
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/NS1.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/IZZAH_250203_Chingay_2025___Act_2___Community_Float_Rehearsal_3.jpg"></div></div>
 
 </div>
 
@@ -236,11 +218,8 @@ Residents came together to build the vehicle and various components of the float
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/amk2.jpg"></div></div>
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/amk1.jpg"></div></div>
-
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/IZZAH_250203_Chingay_2025___Act_2___Community_Float_Rehearsal_19.jpg"></div></div>
+	
 </div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Our Fried Rice Paradise</span><br> 
@@ -258,10 +237,7 @@ Fried rice, a beloved dish traditionally stir-fried in a wok or pan. This versat
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/amk2.jpg"></div></div>
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/amk1.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/IZZAH_250203_Chingay_2025___Act_2___Community_Float_Rehearsal_7.jpg"></div></div>
 
 </div>
 
@@ -285,10 +261,7 @@ A veggie peacock, a stunning sight.
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/amk2.jpg"></div></div>
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/amk1.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/IZZAH_250203_Chingay_2025___Act_2___Community_Float_Rehearsal_16.jpg"></div></div>
 
 </div>
 
@@ -307,7 +280,7 @@ Welcome to "The Breakfast Pals"! This lively float celebrates Singapore's belove
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/SWD1.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/FFR66259.jpg"></div></div>
 
 </div>
 
