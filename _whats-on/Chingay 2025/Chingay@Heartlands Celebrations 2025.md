@@ -7,7 +7,7 @@ third_nav_title: Chingay 2025
 ---
 Bringing joy into our communities as our Chingay floats and stunning performances hit the Heartlands!
 
-**Chingay@Marine Parade Cluster** <br>
+**Chingay@Marine Parade GRC, MacPherson and Mountbatten SMCs** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sun, 9 February 2025 <br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">4.30pm to 9.30pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
@@ -17,7 +17,7 @@ For more infomation, visit: <a href="https://www.facebook.com/BraddellHeightsCon
 
 **Chingay@Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sat, 15 February 2025 <br>
-<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">7.00pm to 10.00pm<br>
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">5.30pm to 10.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan Start - Teck Ghee Square<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Thanggam Hardcourt beside Blk 464A Fernvale Road<br>
