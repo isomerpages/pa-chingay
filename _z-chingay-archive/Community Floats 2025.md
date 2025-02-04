@@ -158,7 +158,7 @@ Chilli Crab Fever boldly reimagines the iconic dish, blending 80s disco vibes wi
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/IZZAH_250203_Chingay_2025___Act_2___Community_Float_Rehearsal_15.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:21rem; object-fit: cover; position:relative; top:rem;" src="/images/IZZAH_250203_Chingay_2025___Act_2___Community_Float_Rehearsal_15.jpg"></div></div>
 
 </div>
 
