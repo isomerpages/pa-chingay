@@ -6,7 +6,7 @@ description: ""
 ---
 <p>Click <u>here</u> to vote for your favourite Chingay Parade 2025 Big Float.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Harvesting Joy" src="/images/Chingay2025/PAssionArts2025/Harvesting_Joy.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chingay 2025 SG60 Lion Float </div><div class="isomer-card-description">Presented by Tote Board Group. </div><div class="isomer-card-link">VOTE</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SG60 Lion Float" src="/images/Chingay2025/BigFloats/Lion_SG60_Float.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chingay 2025 SG60 Lion Float </div><div class="isomer-card-description">Presented by Tote Board Group. </div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
