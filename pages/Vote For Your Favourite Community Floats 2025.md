@@ -6,11 +6,11 @@ description: ""
 ---
 <p>Click <u>here</u> to vote for your favourite Chingay Parade 2025 Community Floats</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chingay 2025 SG60 Lion Float" src="/images/Chingay2024/NZ6_9150_edit.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Gastronomic Glamour of the Peacock</div><div class="isomer-card-description">Presented by Aljunied Cluster. Designed by Jesse Leong. </div><div class="isomer-card-link">VOTE</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chingay 2025 SG60 Lion Float" src="/images/Chingay2025/CommunityFloats/aljuniedclustercomfloat.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Gastronomic Glamour of the Peacock</div><div class="isomer-card-description">Presented by Aljunied Cluster. Designed by Jesse Leong. </div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Chingay 2025 Smiley’s Sedap Buzz Float" src="/images/Chingay2025/BigFloats/chingay2025smileysedapbuzzfloat.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Chingay 2025 Smiley’s Sedap Buzz Float" src="/images/Chingay2025/CommunityFloats/angmokiocomfloat.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
