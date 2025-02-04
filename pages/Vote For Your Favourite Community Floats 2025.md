@@ -16,7 +16,7 @@ description: ""
 <div class="isomer-card-body">
 <div class="isomer-card-title">Curry Friends Adventure</div>
 <div class="isomer-card-description">Presented by Ang Mo Kio Cluster. Designed by Tay Swee Siong. 
-<br><br>Meet the star: a playful mackerel surfing veggie curry with fins and scales. &nbsp;Its BFF, Ang Mo Kio's gigantic tomato, bounces its terrific hairstyle with shining and colourful LED lights. &nbsp;Swirling with expressive veggie friends - chillies, lady’s fingers, cabbages, long beans, eggplants and tomatoes - this float celebrates art, culture, and community with joyful food characters!</div>
+<br><br>Meet the star: a playful mackerel surfing veggie curry with fins and scales. &nbsp;Its BFF (Best Friend Forever), Ang Mo Kio's gigantic tomato, bounces its terrific hairstyle with shining and colourful LED lights. &nbsp;Swirling with expressive veggie friends - chillies, lady’s fingers, cabbages, long beans, eggplants and tomatoes - this float celebrates art, culture, and community with joyful food characters!</div>
 <div class="isomer-card-link">VOTE</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Satay Dreams" src="/images/Chingay2025/CommunityFloats/bishantoapayohcomfloat.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Satay Dreams</div><div class="isomer-card-description">Presented by Bishan-Toa Payoh Cluster. Designed by Lena Lok. 
