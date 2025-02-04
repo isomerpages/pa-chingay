@@ -59,10 +59,10 @@ description: ""
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kueh Inspired Seats" src="/images/Chingay2025/PAssionArts2025/Kueh_Cushion_Final.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Chingay 2025 Dream Machine Float" src="/images/Chingay2025/PAssionArts2025/Kueh_Cushion_Final.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Kueh Inspired Seats</div>
-<div class="isomer-card-description">Presented by Marine Parade CACC. </div>
+<div class="isomer-card-title">Chingay 2025 Dream Machine Float</div>
+<div class="isomer-card-description">Presented by Tote Board Group. Designed by Low Ting Ting, Hoo Jian Li, Lim Jia Ren (JUNCTION STUDIO).</div>
 </div></a></div>
