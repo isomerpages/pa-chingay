@@ -66,7 +66,7 @@ A veggie peacock, a stunning sight.</div>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blooming%20in%20Harmony%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Celebrating Togetherness" src="/images/Chingay2025/BigFloats/chingay2025delightfulnasilemakfloat.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Celebrating Togetherness" src="/images/Chingay2025/CommunityFloats/pasirrispunggolcomfloat.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -91,7 +91,7 @@ A veggie peacock, a stunning sight.</div>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Chingay 2025 Smiley’s Sedap Buzz Float" src="/images/Chingay2025/BigFloats/chingay2025smileysedapbuzzfloat.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="A Sweet Ride" src="/images/Chingay2025/CommunityFloats/tanjongpagarcomfloat.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
