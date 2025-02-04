@@ -33,7 +33,7 @@ For more infomation, visit: <a href="https://www.facebook.com/OurEastCoastBuzz/"
 
 **Chingay@Tampines GRC** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Fri, 21 February 2025<br>
-<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">7.00pm to 9.30pm<br>
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">5.30pm to 9.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">Caravan Start - Along Tampines St 82 within Tampines Central Park<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Along Tampines St 82 within Tampines Central Park<br>
@@ -41,7 +41,7 @@ For more infomation, visit: <a href="https://www.facebook.com/tampineswest/">Tam
 
 **Chingay@Marsiling-Yew Tee GRC** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sat, 22 February 2025<br>
-<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">6.00pm to 10.00pm<br>
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">5.30pm to 10.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan Start - De La Salle Primary School<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End -  Open field near Al-Ameen along Woodlands Ave 5<br>
@@ -49,7 +49,7 @@ For more infomation, visit: <a href="https://www.facebook.com/our.limbang/">Limb
 
 **Chingay@Pasir Ris-Punggol GRC and Punggol West SMC** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sun, 23 February 2025<br>
-<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">4.30pm to 10.00pm<br>
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">5.00pm to 10.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan Start - Along Pasir Ris Dr 4, opposite Seastrand and Ripple Bay Condominiums<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Punggol West Community Square along Punggol Field<br>
@@ -57,7 +57,7 @@ For more infomation, visit: <a href="https://www.facebook.com/pasirriscentralco/
 
 **Chingay@Bishan-Toa Payoh GRC and Marymount SMC** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sat, 1 March 2025<br>
-<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">6.00pm to 10.00pm<br>
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">4.30pm to 10.30pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan Start - Bishan Community Club<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Blk 179 Toa Payoh Central<br>
