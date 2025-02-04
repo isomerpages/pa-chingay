@@ -35,7 +35,7 @@ The community floats debuted at Chingay Parade 2022, where residents with guidan
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:23rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/IZZAH_250203_Chingay_2025___Act_2___Community_Float_Rehearsal_8.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:23rem; overflow:hidden;"><img style="min-height:20rem; object-fit: cover; position:relative; top:rem;" src="/images/IZZAH_250203_Chingay_2025___Act_2___Community_Float_Rehearsal_8.jpg"></div></div>
 
 </div>
 
@@ -178,7 +178,7 @@ This Whimsical Wonderland float celebrates Eurasian desserts and the joy of baki
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:22rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/IZZAH_250203_Chingay_2025___Act_2___Community_Float_Rehearsal_13.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:22rem; overflow:hidden;"><img style="min-height:25rem; object-fit: cover; position:relative; top:rem;" src="/images/IZZAH_250203_Chingay_2025___Act_2___Community_Float_Rehearsal_13.jpg"></div></div>
 
 </div>
 
@@ -197,7 +197,7 @@ A universe where whimsical feline creatures, inspired by the beloved local delic
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/IZZAH_250203_Chingay_2025___Act_2___Community_Float_Rehearsal_3.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:20rem; object-fit: cover; position:relative; top:rem;" src="/images/IZZAH_250203_Chingay_2025___Act_2___Community_Float_Rehearsal_3.jpg"></div></div>
 
 </div>
 
