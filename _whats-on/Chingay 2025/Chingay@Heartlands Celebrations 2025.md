@@ -7,7 +7,7 @@ third_nav_title: Chingay 2025
 ---
 Bringing joy into our communities as our Chingay floats and stunning performances hit the Heartlands!
 
-**Chingay@Marine Parade Cluster** <br>
+**Chingay@Marine Parade GRC, MacPherson and Mountbatten SMCs** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sun, 9 February 2025 <br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">4.30pm to 9.30pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
@@ -17,7 +17,7 @@ For more infomation, visit: <a href="https://www.facebook.com/BraddellHeightsCon
 
 **Chingay@Ang Mo Kio GRC, Kebun Baru and Yio Chu Kang SMCs** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sat, 15 February 2025 <br>
-<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">7.00pm<br>
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">5.30pm to 10.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan Start - Teck Ghee Square<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Thanggam Hardcourt beside Blk 464A Fernvale Road<br>
@@ -33,7 +33,7 @@ For more infomation, visit: <a href="https://www.facebook.com/OurEastCoastBuzz/"
 
 **Chingay@Tampines GRC** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Fri, 21 February 2025<br>
-<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">7.00pm to 9.30pm<br>
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">5.30pm to 9.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">Caravan Start - Along Tampines St 82 within Tampines Central Park<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Along Tampines St 82 within Tampines Central Park<br>
@@ -41,15 +41,15 @@ For more infomation, visit: <a href="https://www.facebook.com/tampineswest/">Tam
 
 **Chingay@Marsiling-Yew Tee GRC** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sat, 22 February 2025<br>
-<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">6.00pm to 10.00pm<br>
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">5.30pm to 10.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan Start - De La Salle Primary School<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
-Caravan End -  Open field near Al-Ameen, Marsiling<br>
-For more infomation, visit: <a href="https://www.facebook.com/our.limbang/">Lim Bang Facebook Page</a>, <a href="https://www.facebook.com/MarsilingHome/">Marsiling Facebook Page</a>, <a href="https://www.facebook.com/WoodgroveOurHome/">Woodgrove Facebook Page</a> and <a href="https://www.facebook.com/YewTee.Singapore/">Yew Tee Facebook Page</a> <br>
+Caravan End -  Open field near Al-Ameen along Woodlands Ave 5<br>
+For more infomation, visit: <a href="https://www.facebook.com/our.limbang/">Limbang Facebook Page</a>, <a href="https://www.facebook.com/MarsilingHome/">Marsiling Facebook Page</a>, <a href="https://www.facebook.com/WoodgroveOurHome/">Woodgrove Facebook Page</a> and <a href="https://www.facebook.com/YewTee.Singapore/">Yew Tee Facebook Page</a> <br>
 
 **Chingay@Pasir Ris-Punggol GRC and Punggol West SMC** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sun, 23 February 2025<br>
-<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">4.30pm to 10.00pm<br>
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">5.00pm to 10.00pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan Start - Along Pasir Ris Dr 4, opposite Seastrand and Ripple Bay Condominiums<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Punggol West Community Square along Punggol Field<br>
@@ -57,7 +57,7 @@ For more infomation, visit: <a href="https://www.facebook.com/pasirriscentralco/
 
 **Chingay@Bishan-Toa Payoh GRC and Marymount SMC** <br>
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sat, 1 March 2025<br>
-<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">6.00pm to 10.00pm<br>
+<img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">4.30pm to 10.30pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan Start - Bishan Community Club<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Blk 179 Toa Payoh Central<br>
@@ -67,6 +67,6 @@ For more infomation, visit: <a href="https://www.facebook.com/BishanToaPayoh/">B
 <img src="/images/Heartlands/Cal.png" style="float:left; width:28px;height:28px">Sun, 2 March 2025<br>
 <img src="/images/Heartlands/Clock.png" style="float:left; width:28px;height:28px">5.00pm to 9.30pm<br>
 <img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
-Caravan Start - Between Blk 6 Teck Whye Avenue and open field next to Chua Chu Kang Secondary School along Teck Whye Crescent<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
+Caravan Start - Teck Whye Crescent in front of Chua Chu Kang Secondary School<br><img src="/images/Heartlands/Pin.png" style="float:left; width:28px;height:28px">
 Caravan End - Bukit Batok East Ave 5 along Little Guilin<br>
 For more infomation, visit: <a href="https://www.facebook.com/ilovebrickland/">Brickland Facebook Page</a>, <a href="https://www.facebook.com/OurBukitGombak/">Bukit Gombak Facebook Page</a>, <a href="https://www.facebook.com/ChuaChuKangOurHome/">Chua Chu Kang Facebook Page</a>, <a href="https://www.facebook.com/ilovekeathong/">Keat Hong Facebook Page</a> and <a href="https://www.facebook.com/HongKahNorthCC/">Hong Kah North CC Facebook Page</a>

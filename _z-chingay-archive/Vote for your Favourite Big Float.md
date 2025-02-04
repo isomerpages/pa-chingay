@@ -1,7 +1,7 @@
 ---
 title: Vote for your Favourite Big Float
 permalink: /closed-cg24votebig/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <p>Click <u>vote</u> to vote for your favourite Chingay Parade 2024 Big Float</p>
