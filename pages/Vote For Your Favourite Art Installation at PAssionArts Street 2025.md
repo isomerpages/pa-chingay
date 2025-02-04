@@ -165,5 +165,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Kueh Inspired Seats</div>
-<div class="isomer-card-description">Presented by Marine Parade CACC. </div>
+<div class="isomer-card-description">Presented by Marine Parade CACC. 
+</div>
+<div class="isomer-card-link">VOTE</div>
 </div></a></div>
