@@ -48,48 +48,48 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Food Wonderland" src="/images/Chingay2025/PAssionArts2025/Food_Wonderland.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="From Farm to Feast" src="/images/Chingay2025/PAssionArts2025/From_Farm_to_Feast.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Food Wonderland</div>
-<div class="isomer-card-description">Presented by Nan Chiau Primary School. </div>
+<div class="isomer-card-title">From Farm to Feast</div>
+<div class="isomer-card-description">Presented by Bukit Timah CACC. </div>
 <div class="isomer-card-link">VOTE</div>
 </div>
 </a></div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kiap Kiap" src="/images/Chingay2025/PAssionArts2025/kiapkiap2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kiap Kiap</div><div class="isomer-card-description">Presented by Radin Mas CACC. </div><div class="isomer-card-link">VOTE</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Frutopia Seeds of Paradise" src="/images/Chingay2025/PAssionArts2025/Frutopia_Seeds_of_Paradise.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Frutopia Seeds of Paradise</div><div class="isomer-card-description">Presented by Fernvale CACC. </div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Gust of Sweet Harmony" src="/images/Chingay2025/PAssionArts2025/gustofsweetharmonynew3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Giant Bites of Nostalgia" src="/images/Chingay2025/PAssionArts2025/Giant_Bites_of_Nostalgia.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Gust of Sweet Harmony</div>
+<div class="isomer-card-title">Giant Bites of Nostalgia</div>
 <div class="isomer-card-description">Presented by by Bukit Batok East CACC. </div>
 <div class="isomer-card-link">VOTE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Giant Bites of Nostalgia" src="/images/Chingay2025/PAssionArts2025/Giant_Bites_of_Nostalgia.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Giant Bites of Nostalgia</div><div class="isomer-card-description">Presented by Bukit Batok East CACC.</div><div class="isomer-card-link">VOTE</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Gust of Sweet Harmony" src="/images/Chingay2025/PAssionArts2025/gustofsweetharmonynew3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Gust of Sweet Harmony</div><div class="isomer-card-description">Presented by Bukit Batok East CACC.</div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blooming%20in%20Harmony%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Jalan Kayu Big Apple" src="/images/Chingay2025/PAssionArts2025/jalankayuapplenew.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Harvesting Joy" src="/images/Chingay2025/PAssionArts2025/Harvesting_Joy.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Jalan Kayu Big Apple</div>
-<div class="isomer-card-description">Presented by Jalan Kayu CACC. </div>
+<div class="isomer-card-title">Harvesting Joy</div>
+<div class="isomer-card-description">Presented by St Gabriel's Primary School. </div>
 <div class="isomer-card-link">VOTE</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Our food, our history, our culture" src="/images/Chingay2025/PAssionArts2025/ourfoodourhistoryourculture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Homemade Fusion" src="/images/Chingay2025/PAssionArts2025/homemade_fusion.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Our Food, Our History, Our Culture</div>
-<div class="isomer-card-description">Presented by Fernvale CACC. </div>
+<div class="isomer-card-title">Homemade Fusion</div>
+<div class="isomer-card-description">Presented by Brickland CACC. </div>
 <div class="isomer-card-link">VOTE</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Frutopia Seeds of Paradise" src="/images/Chingay2025/PAssionArts2025/Frutopia_Seeds_of_Paradise.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Frutopia Seeds of Paradise</div><div class="isomer-card-description">Presented by Fernvale CACC. </div><div class="isomer-card-link">VOTE</div></div></a></div>
