@@ -96,6 +96,6 @@ A veggie peacock, a stunning sight.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">A Sweet Ride</div>
-<div class="isomer-card-description">Presented by Tanjong Pagar Cluster. <br>Designed by Suffian Noor. <br><br> A Sweet Ride features a giant ice kacang, symbolising Tanjong Pagar’s spirit. With colourful toppings and familiar sights, the float evokes funfair memories and celebrates Singapura’s vibrant, nostalgic culture.</div>
+<div class="isomer-card-description">Presented by Tanjong Pagar Cluster. <br>Designed by Suffian Noor. <br><br> A Sweet Ride features a giant ice kacang, symbolising Tanjong Pagar’s spirit. With colourful toppings and iconic landmarks, the float evokes funfair memories and celebrates Singapura’s vibrant, nostalgic culture.</div>
 <div class="isomer-card-link">VOTE</div>
 </div></a></div>
