@@ -111,23 +111,23 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blooming%20in%20Harmony%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pearfection in Every Hue" src="/images/Chingay2025/PAssionArts2025/pearfectionofeveryhuenew.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Kueh Inspired Seats" src="/images/Chingay2025/PAssionArts2025/Kueh_Cushion_Final.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Pearfection in Every Hue</div>
-<div class="isomer-card-description">Presented by Sengkang North CACC. </div>
+<div class="isomer-card-title">Kueh Inspired Seats</div>
+<div class="isomer-card-description">Presented by Marine Parade CACC. </div>
 <div class="isomer-card-link">VOTE</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Food For Thought" src="/images/Chingay2025/PAssionArts2025/Food_for_Thought.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Kueh-zy cocoNUTS" src="/images/Chingay2025/PAssionArts2025/Kueh_zy_Coconuts.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Food For Thought</div>
-<div class="isomer-card-description">Presented by Cheng San-Seletar CACC. </div>
+<div class="isomer-card-title">Kueh-zy cocoNUTS</div>
+<div class="isomer-card-description">Presented by Telok Blangah CACC. </div>
 <div class="isomer-card-link">VOTE</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Strings and Spikes" src="/images/Chingay2025/PAssionArts2025/Strings_and_Spikes.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Strings and Spikes</div><div class="isomer-card-description">Presented by Admiralty CACC. </div><div class="isomer-card-link">VOTE</div></div></a></div>
