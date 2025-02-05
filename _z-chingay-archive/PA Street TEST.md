@@ -108,7 +108,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00197.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/P1010793.jpg"></div></div>
   
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> GUST OF SWEET HARMONY</span> <br>co-created by Bukit Batok East CACC, Artist Swee Siong and residents</span>
@@ -154,7 +154,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/IMG_0223.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/P1010786.jpg"></div></div>
   
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> BLISS-CUITS AND INSTANT DOPA-MEE</span> <br>co-created by Pasir Ris Central CACC, Artists Esther Ng, Casey Chen and residents</span>
@@ -174,7 +174,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
   
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> STRINGS AND SPIKES</span> <br>co-created by Admiralty CACC, Artists Casey Chen, Esther Ng and residents</span>
-<div style="font-size:1.1rem"><br>Durian, Singapore's iconic fruit, fosters shared moments with family and friends. This installation encourages residents to bond over art, using strong art to create connections, highlighting the importance of friendship and community ties.
+<div style="font-size:1.1rem"><br>Durian, Singapore's iconic fruit, fosters shared moments with family and friends. This installation encourages residents to bond over art, using string art to create connections, highlighting the importance of friendship and community ties.
 <br>
 </div></div>
 </div>
@@ -207,7 +207,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> GIANT BITES OF NOSTALGIA</span> <br>co-created by Bukit Batok East CACC, Artists Chan Yong Song, Koh Wan Hup, Loo Kok Wah, Liew Lee Khong and residents
 </span>
-<div style="font-size:1.1rem"><br>The Bukit Batok East Giant Delight installation celebrates Singapore's culinary heritage with three sculptures: a giant Chendol cup, Kacang Putih Cones, and a colourful Fruit Bowl. These vibrant pieces highlight both traditional snacks and healthy living, with residents contributing to their creation.
+<div style="font-size:1.1rem"><br>The Bukit Batok East Giant Delight installation celebrates Singapore's culinary heritage with three sculptures: a giant Chendol cup, Kacang Putih Cones, and a colourful Fruit Bowl. These vibrant pieces highlight both traditional snacks and healthy living.
 <br>
 </div></div>
 </div>
@@ -224,7 +224,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> FOOD FOR THOUGHT</span> <br>co-created by Cheng San-Seletar CACC, Artists Barry Yeow, Cipto Purnamo, Muhammad Riduan, Evangeline Ang, Mukul Hossine and residents
 </span>
-<div style="font-size:1.1rem"><br>This Food for Thought installation celebrates local food culture with three sculptures: Fruitful Bliss, Lucky Bowl, and Grill Delight, featuring interactive elements like stay sticks that one could pick up and pose for photos. The co-creation is made possible with involvement of different generations, including preschoolers, who share their common love for these local delights.
+<div style="font-size:1.1rem"><br>This installation honours local food culture through these engaging sculptures comprising a Fruitful Bliss, Lucky Bowl, and Grill Delight. Each piece includes interactive elements, such as satay sticks that allow visitors to hold and pose for photos. This collaborative creation brings together multiple generations, including preschoolers, united by their shared love for these beloved local dishes.
 <br>
 </div></div>
 </div>
@@ -236,7 +236,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00217.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00217_2.jpg"></div></div>
   
 <div style="padding-bottom:1rem; font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> FRUTOPIA SEEDS OF PARADISE</span> <br>co-created by Fernvale CACC, Artist Jesse Leong and residents
@@ -258,7 +258,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> FROM FARM TO FEAST</span> <br>co-created by Bukit Timah CACC, Artists Didier Ng, Cherie Ng, Thian Zhiwen and residents
 </span>
-<div style="font-size:1.1rem"><br>From Farm to Feast celebrates sustainability, food security, and community resilience. Set on a grassy knoll among towering flats, it features vibrant, lifelike sculptures of fresh produce like fish, vegetables, and eggs. The installation reflects Singapore's goal to locally source 30% of its food by 2030, celebrating the progress made and inspiring local pride. It encourages families and neighbours to engage in conversations about food, sustainability, and access to healthy produce, reinforcing the importance of community involvement for a sustainable future. It's a celebration of creativity, culture, and commitment to a better tomorrow.
+<div style="font-size:1.1rem"><br>From Farm to Feast celebrates sustainability, food security, and community resilience. It features vibrant, lifelike sculptures of fresh produce like fish, vegetables, and eggs. The installation reflects Singapore's goal to locally source 30% of its food by 2030, celebrating the progress made and inspiring local pride. It encourages families and neighbours to engage in conversations about food, sustainability, and access to healthy produce, reinforcing the importance of community involvement for a sustainable future. It's a celebration of creativity, culture, and commitment to a better tomorrow.
 <br>
 </div></div>
 </div>
@@ -287,7 +287,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00251_2.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 17rem;" src="/images/spongebob.jpg"></div></div>
 
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> HARVESTING JOY: ART MEETS AGRICULTURE</span> <br>co-created by students from St Gabriel's Primary School, Artists Jackson, Cherie, Didier, Zhang Bin and Zhiwen
@@ -309,7 +309,7 @@ Their 3D Aeroponic Fishpond, Pineapple Display and Crab Condo showcase resource-
 
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> NOODLE NATION SINGAPORE</span> <br>co-created by students from Zhangde Primary School and Artist Moses Sia</span>
-<div style="font-size:1.1rem"><br>Noodle Nation Singapore creatively uses three iconic noodles - Hokkien Mee, Mee Rebus and Mee Goreng - to represent Singapore's rich cultural diversity, celebrating the distinctive identity of our three main ethnic groups.<br>
+<div style="font-size:1.1rem"><br>Noodle Nation Singapore creatively uses three iconic noodles - Hokkien Mee, Mee Rebus and Mee Goreng - to represent Singapore's rich cultural diversity, celebrating the distinctive identity of our![](/images/P1010803.jpg) main ethnic groups.<br>
 The addition of the uniquely-flavoured Zhangde Noodles infused with the school's GIVER'S heart values represent how these values are important to the overall unity of Singapore's cultural fabric.
 
 <br>
@@ -323,7 +323,7 @@ The addition of the uniquely-flavoured Zhangde Noodles infused with the school's
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:1rem; padding-bottom:2rem">
 
 <div style="display: block; overflow:hidden; text-decoration: none; padding-right:1rem;">
-<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00229.jpg"></div></div>
+<div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/P1010803.jpg"></div></div>
 
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> BUT I WANT TO GOO! - PASAR MALAM</span> <br>co-created by students from APSN Chaoyang School and Artists Zhang Bin, Cherie, Didier, Jackson and Zhiwen</span>
