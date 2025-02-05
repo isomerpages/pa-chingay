@@ -49,31 +49,8 @@ A veggie peacock, a stunning sight.</div><div class="isomer-card-link">VOTE</div
 <br><br>A playful mackerel surfs veggie curry alongside Ang Mo Kio's giant, LED-lit tomato. Joined by expressive veggies like chillies and cabbages, this float celebrates art, culture, and community with joy!</div><div class="isomer-card-link">VOTE</div></div></a></div>
 
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chicabaret" src="/images/Chingay2025/CommunityFloats/jalanbesarcomfloat.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chicabaret</div><div class="isomer-card-description">Presented by Jalan Besar Cluster. <br> Designed by Sebastian Chun. <br><br>Chicabaret brings chicken wings to life with cabaret dancers and a dazzling lead in roti prata-inspired costumes. Vibrant bead curtains and Broadway-style lights set the stage for this fun, flavourful performance. </div><div class="isomer-card-link">VOTE</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Gastronomic Glamour of the Peacock" src="/images/Chingay2025/CommunityFloats/aljuniedclustercomfloat.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Gastronomic Glamour of the Peacock</div><div class="isomer-card-description">Presented by Aljunied Cluster.<br> Designed by Jesse Leong. <br><br>This float celebrates Singapore’s culinary heritage with a dazzling peacock, its metallic tail showcasing iconic snacks. It embodies shared flavors and cultural pride, uniting traditions across generations. </div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Putu Piring Purr-fection" src="/images/Chingay2025/CommunityFloats/marsilingyewteecomfloat.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Putu Piring Purr-fection</div>
-<div class="isomer-card-description">Presented by Marsiling-Yew Tee Cluster. <br>Designed by Didier Ng. <br><br>Whimsical feline creatures, inspired by Putu Piring, journey through space in saucer-shaped ships resembling traditional metalware. With round bodies and fluffy tails, these adorable space cats explore the universe.</div>
-<div class="isomer-card-link">VOTE</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kopisaurus Ride" src="/images/Chingay2025/CommunityFloats/neesoonclustercomfloat.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kopisaurus Ride</div><div class="isomer-card-description">Presented by Nee Soon Cluster. <br>Designed by Fish Jaafar. <br><br>Inspired by familiar kopitiam drinks and their quirky names, the float invites you on a Kopisaurus Ride featuring Milo Dinosaur, Yuan Yang, Diao Yu, and Tuck Kiu—your favourite drinks in a fun, lively journey.</div><div class="isomer-card-link">VOTE</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blooming%20in%20Harmony%20Float" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Celebrating Togetherness" src="/images/Chingay2025/CommunityFloats/pasirrispunggolcomfloat.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Celebrating Togetherness</div>
-<div class="isomer-card-description">Presented by Pasir Ris-Punggol Cluster. <br>Designed by Chong Tze Ee. <br><br>This float celebrates the yusheng tradition with a giant platter of colourful ingredients symbolising prosperity. It depicts the joyful "lo hei" toss, complete with confetti and auspicious Chinese characters, embodying festive pride.</div>
-<div class="isomer-card-link">VOTE</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Happy Ice Cream" src="/images/Chingay2025/CommunityFloats/sengkangcomfloat.jpg">
@@ -82,6 +59,29 @@ A veggie peacock, a stunning sight.</div><div class="isomer-card-link">VOTE</div
 <div class="isomer-card-body">
 <div class="isomer-card-title">Happy Ice Cream</div>
 <div class="isomer-card-description">Presented by Sengkang Cluster. <br>Designed by Song Yan. <br><br>Happy Ice Cream celebrates the joy of sharing this beloved treat. With vibrant colours and playful designs, it evokes sweet memories, capturing the happiness and community warmth ice cream brings to our lives.</div>
+<div class="isomer-card-link">VOTE</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kopisaurus Ride" src="/images/Chingay2025/CommunityFloats/neesoonclustercomfloat.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kopisaurus Ride</div><div class="isomer-card-description">Presented by Nee Soon Cluster. <br>Designed by Fish Jaafar. <br><br>Inspired by familiar kopitiam drinks and their quirky names, the float invites you on a Kopisaurus Ride featuring Milo Dinosaur, Yuan Yang, Diao Yu, and Tuck Kiu—your favourite drinks in a fun, lively journey.</div><div class="isomer-card-link">VOTE</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blooming%20in%20Harmony%20Float" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Our Fried Rice Paradise" src="/images/Chingay2025/CommunityFloats/sembawangcomfloat.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Our Fried Rice Paradise</div>
+<div class="isomer-card-description">Presented by Sembawang Cluster. <br>Designed by Casey Chen. <br><br>Fried rice, a beloved dish stir-fried with vegetables, meats, and eggs, is a versatile meal enjoyed by many. In Singapore’s hawker scene, it’s a favourite with unique twists reflecting the diverse cultures and traditions.</div>
+<div class="isomer-card-link">VOTE</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Putu Piring Purr-fection" src="/images/Chingay2025/CommunityFloats/marsilingyewteecomfloat.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Putu Piring Purr-fection</div>
+<div class="isomer-card-description">Presented by Marsiling-Yew Tee Cluster. <br>Designed by Didier Ng. <br><br>Whimsical feline creatures, inspired by Putu Piring, journey through space in saucer-shaped ships resembling traditional metalware. With round bodies and fluffy tails, these adorable space cats explore the universe.</div>
 <div class="isomer-card-link">VOTE</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Our Fried Rice Paradise" src="/images/Chingay2025/CommunityFloats/sembawangcomfloat.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Our Fried Rice Paradise</div><div class="isomer-card-description">Presented by Sembawang Cluster. <br>Designed by Casey Chen. <br><br>Fried rice, a beloved dish stir-fried with vegetables, meats, and eggs, is a versatile meal enjoyed by many. In Singapore’s hawker scene, it’s a favourite with unique twists reflecting the diverse cultures and traditions.</div><div class="isomer-card-link">VOTE</div></div></a></div>
