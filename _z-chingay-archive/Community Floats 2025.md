@@ -9,7 +9,13 @@ description: ""
 
 <div style="padding:1rem; font-size:1.1rem">        
 
-The community floats debuted at Chingay Parade 2022, where residents with guidance from local artists, get to showcase their co-creations and creativity on a national platform. &nbsp;The co-creation workshops held several weeks to months enabled residents the opportunity to interact with one another, contribute their creativity and have been a great way for neighbours and friends to foster a sense of identity, ownership and being part of the community. &nbsp;This initiative exemplifies the community’s active participation in the Chingay Parade, an annual celebration of multiculturalism and diversity.  Chingay 2025 will feature a **record-breaking 23 floats**, including 14 community floats, and for the first time, a District-level float spanning 12 metres.&nbsp; The food-themed community floats vividly express Singapore’s spirit of inclusivity and festivity, showcasing how joy is found in the connections we create and the moments we share over food.
+The community floats debuted at Chingay Parade 2022, where residents with guidance from local artists, get to showcase their co-creations and creativity on a national platform. &nbsp;The co-creation workshops held several weeks to months enabled residents the opportunity to interact with one another, contribute their creativity and have been a great way for neighbours and friends to foster a sense of identity, ownership and being part of the community. &nbsp;This initiative exemplifies the community’s active participation in the Chingay Parade, an annual celebration of multiculturalism and diversity. <br>
+	
+Chingay 2025 will feature a record-breaking 23 floats, including 14 community floats, and for the first time, a District-level float spanning 12 metres.&nbsp; <br>
+	
+The food-themed community floats vividly express Singapore’s spirit of inclusivity and festivity, showcasing how joy is found in the connections we create and the moments we share over food.<br>
+	
+Vote for your favourite Community Float here!
 </div>
 
 <div style="padding-top:2rem;font-size:1.5rem;">
@@ -158,7 +164,7 @@ Chilli Crab Fever boldly reimagines the iconic dish, blending 80s disco vibes wi
 
 
 <div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:24rem; object-fit: cover; position:relative; top:rem;" src="/images/IZZAH_250203_Chingay_2025___Act_2___Community_Float_Rehearsal_15.jpg"></div></div>
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:24rem; overflow:hidden;"><img style="min-height:21rem; object-fit: cover; position:relative; top:rem;" src="/images/IZZAH_250203_Chingay_2025___Act_2___Community_Float_Rehearsal_15.jpg"></div></div>
 
 </div>
 
@@ -288,3 +294,5 @@ Welcome to "The Breakfast Pals"! This lively float celebrates Singapore's belove
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About Artists</span><br>The artist team behind Tidbit Galaxy consists of JUNCTION STUDIO (Lim Jia Ren, Hoo Jian Li, and Low Ting Ting), Fish Jaafar, Phaem Ko, and Momoko. &nbsp;JUNCTION STUDIO is an interactive design studio that specialises in creating immersive interactive experiences. Fish Jaafar, Phaem Ko, and Momoko, are known for large-scale art, emphasising conceptual accessibility and local relevance.</div>
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About the Co-Creation</span><br> The "Tidbit Galaxy" Southwest District Float came to life through community workshops. Residents hand-painted large hawflake canvases and decorated custom wrappers under the guidance of the lead artist and skilled facilitators. They designed and painted the plywood cut-outs of tidbit packaging into colourful, personalised stars for the galaxy-themed play area. A giant fish was created using scales cut from recycled PVC banners, spray-painted and assembled by the residents. These hands-on activities, suitable for all skill levels, allowed residents to leave their mark on the float, turning everyday materials into an extraordinary celebration of Singapore's beloved tidbits.</div>
+
+Vote for your favourite Community Float here!
