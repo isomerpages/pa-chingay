@@ -345,7 +345,7 @@ Oversized sculptures of cotton candy, corn in a cup, and interactive games evoke
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> FOOD WONDERLAND</span> <br>co-created by students from Nan Chiau Primary School and Artists Dzulkarnanen Deo and Amruthaa Kalaiselvan</span>
 <div style="font-size:1.1rem"><br>Singapore is a culinary paradise where food brings families, friends and communities together. Our love for food extends beyond the main meals, embracing everything from appetizers to desserts.<br>
-Nan Chiau Primary School students creatively turned up-cycled materials into delightful desserts, inviting all to share this lovely afternoon tea with them.
+Nan Chiau Primary School students creatively up-cycled materials turning them into delightful desserts.
 <br>
 </div></div>
 </div>
@@ -361,7 +361,7 @@ Nan Chiau Primary School students creatively turned up-cycled materials into del
 
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> CRABBY DELIGHT</span> <br>co-created by students from Yuhua Secondary School and Artist Royston Phang</span>
-<div style="font-size:1.1rem"><br>Crabby Delight is a celebration of the sensory and communal joy of eating with our hands, particularly when we dig into Singapore's iconic chili crab and other crab dishes.<br>
+<div style="font-size:1.1rem"><br>A celebration of the sensory and communal joy of eating with our hands, particularly when we dig into Singapore's iconic chili crab and other crab dishes.<br>
 The installation highlights the warmth and unity of communal dining, reflecting Singapore's rich food culture and the social bonds forged through shared culinary experiences.
 <br>
 </div></div>
@@ -413,7 +413,7 @@ The orange peel shaped as the Vanda Miss Joaquim petals as the centrepiece symbo
 
 <div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> JOYOUS SAVOUR THE EDIBLE ART GARDEN</span> <br>co-created by students from Lianhua Primary School and Artist Jesse Leong</span>
-<div style="font-size:1.1rem"><br>This fruits and veggies edition explores the emotional joy that fruits and vegetables bring and reminds us of the importance of healthy eating and living.<br>
+<div style="font-size:1.1rem"><br>This edible art garden explores the emotional joy that fruits and vegetables bring and reminds us of the importance of healthy eating and living.<br>
 The installation featuring the durian, the fruits bench and vegetable basket hopes to evoke nostalgia and happiness of our shared family moments with the familiar fruits and vegetables that we enjoy in our homes.
 
 <br>
