@@ -64,6 +64,6 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Chingay 2025 Tidbit Galaxy (District Level) Float</div>
-<div class="isomer-card-description"> Presented by Chua Chu Kang, Jurong &amp; West Coast Cluster. <br>Designed by Hoo Jian Li, Lim Jia Ren, Low Ting Ting, Fish Jaafar, Phaem Ko and Momoko </div>
+<div class="isomer-card-description"> Presented by Chua Chu Kang, Jurong and West Coast Cluster. <br>Designed by Hoo Jian Li, Lim Jia Ren, Low Ting Ting, Fish Jaafar, Phaem Ko and Momoko. </div>
 <div class="isomer-card-link">VOTE</div></div>
 </a></div>
