@@ -12,7 +12,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 18 Community Arts &amp; Culture Clubs (CACCs) and 8 schools were involved to present this one-of-a-kind outdoor arts installations co-created by community artists, students and residents. <br>
 </div>
 
-<div style="font-size:2rem;">
+<div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;">Vote for your favourite art installation here!</span>
 </span></div> <br>
 
@@ -426,7 +426,7 @@ The installation featuring the durian, the fruits bench and vegetable basket hop
 
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
-<div style="font-size:2rem;">
+<div style="font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;">Vote for your favourite art installation here!</span>
 
 
