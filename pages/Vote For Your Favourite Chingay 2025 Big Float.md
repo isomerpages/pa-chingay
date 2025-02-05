@@ -64,5 +64,6 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Chingay 2025 Dream Machine Float</div>
-<div class="isomer-card-description">Presented by Tote Board Group. <br>Designed by Low Ting Ting, Hoo Jian Li, Lim Jia Ren (JUNCTION STUDIO).</div>
-</div></a></div>
+<div class="isomer-card-description">Presented by Tote Board Group. <br>Designed by Low Ting Ting, Hoo Jian Li, Lim Jia Ren (JUNCTION STUDIO). </div>
+<div class="isomer-card-link">VOTE</div></div>
+</a></div>
