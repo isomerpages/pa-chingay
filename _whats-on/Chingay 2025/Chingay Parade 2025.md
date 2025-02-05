@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Chingay 2025
 ---
-<div> <img src="/images/Chingay2025/Artboard_1_2x.png"></div>
+<div> <img src="/images/Onsite_Map.png"></div>
 
 # 7 &amp; 8 February 2025
 <div style="line-height:4rem;font-size:3rem; font-color: #b242a2">F1 Pit Building<br></div>
