@@ -6,7 +6,7 @@ description: ""
 ---
 <p>Click <u>here</u> to vote for your favourite Chingay Parade 2025 Community Floats</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chingay 2025 SG60 Lion Float" src="/images/Chingay2025/CommunityFloats/aljuniedclustercomfloat.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Gastronomic Glamour of the Peacock</div><div class="isomer-card-description">Presented by Aljunied Cluster. Designed by Jesse Leong. <br><br>This float celebrates Singapore's culinary heritage and community unity. &nbsp;The peacock, symbolising beauty and resilience, dazzles in metallic colours with a tail of embossed metal sheets featuring beloved snacks like pineapple tarts and gem biscuits. &nbsp; It embodies our gastronomic legacy, evoking shared memories and flavours. &nbsp;It stands as a beacon of cultural pride, uniting traditions for generations to come.</div><div class="isomer-card-link">VOTE</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chingay 2025 SG60 Lion Float" src="/images/Chingay2025/CommunityFloats/aljuniedclustercomfloat.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Gastronomic Glamour of the Peacock</div><div class="isomer-card-description">Presented by Aljunied Cluster.<br> Designed by Jesse Leong. <br><br>This float celebrates Singapore's culinary heritage and community unity. &nbsp;The peacock, symbolising beauty and resilience, dazzles in metallic colours with a tail of embossed metal sheets featuring beloved snacks like pineapple tarts and gem biscuits. &nbsp; It embodies our gastronomic legacy, evoking shared memories and flavours. &nbsp;It stands as a beacon of cultural pride, uniting traditions for generations to come.</div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -15,11 +15,11 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Curry Friends Adventure</div>
-<div class="isomer-card-description">Presented by Ang Mo Kio Cluster. Designed by Tay Swee Siong. 
+<div class="isomer-card-description">Presented by Ang Mo Kio Cluster. <br>Designed by Tay Swee Siong. 
 <br><br>Meet the star: a playful mackerel surfing veggie curry with fins and scales. &nbsp;Its BFF (Best Friend Forever), Ang Mo Kio's gigantic tomato, bounces its terrific hairstyle with shining and colourful LED lights. &nbsp;Swirling with expressive veggie friends - chillies, lady’s fingers, cabbages, long beans, eggplants and tomatoes - this float celebrates art, culture, and community with joyful food characters!</div>
 <div class="isomer-card-link">VOTE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Satay Dreams" src="/images/Chingay2025/CommunityFloats/bishantoapayohcomfloat.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Satay Dreams</div><div class="isomer-card-description">Presented by Bishan-Toa Payoh Cluster. Designed by Lena Lok. 
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Satay Dreams" src="/images/Chingay2025/CommunityFloats/bishantoapayohcomfloat.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Satay Dreams</div><div class="isomer-card-description">Presented by Bishan-Toa Payoh Cluster. <br>Designed by Lena Lok. 
 <br><br>Satay Dreams invites viewers into a young girl's whimsical vision of a fantastical Satay land. &nbsp;Crowned with satays, she embodies the joy of sharing this beloved dish, surrounded by playful dancing peanuts. &nbsp;This installation celebrates the spirit of togetherness, evoking warm memories of bonding over satay and highlighting its special role in bringing communities closer.</div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blooming%20in%20Harmony%20Float" class="isomer-card">
 <div class="isomer-card-image">
@@ -29,7 +29,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">A Masterpiece Of Spice</div>
-<div class="isomer-card-description">Presented by East Coast Cluster. Designed by Cherie Ng. <br><br>A biryani bright, a veggie delight.  
+<div class="isomer-card-description">Presented by East Coast Cluster. <br>Designed by Cherie Ng. <br><br>A biryani bright, a veggie delight.  
 A colourful dish, a wondrous sight.  
 With carrots and peas, and spices so sweet.  
 A fragrant aroma, a tasty treat. With rice as feathers, so fragrant and nice.  
