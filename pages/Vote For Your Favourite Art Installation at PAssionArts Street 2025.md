@@ -133,39 +133,39 @@ description: ""
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Noodle Nation Singapore" src="/images/Chingay2025/PAssionArts2025/Noodle_Nation_Singapore.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Noodle Nation Singapore</div><div class="isomer-card-description">Presented by Zhangde Primary School. </div><div class="isomer-card-link">VOTE</div></div></a></div>
 
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bliss-cuits and Instant Dopa-Mee" src="/images/Chingay2025/PAssionArts2025/blisscuitsnew.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Bliss-cuits and Instant Dopa-Mee</div><div class="isomer-card-description">Presented by Pasir Ris Central CACC. </div><div class="isomer-card-link">VOTE</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Our food, our history, our culture" src="/images/Chingay2025/PAssionArts2025/ourfoodourhistoryourculture2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Our Food, Our History, Our Culture</div><div class="isomer-card-description">Presented by Fernvale CACC. </div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kueh-zy cocoNUTS" src="/images/Chingay2025/PAssionArts2025/Kueh_zy_Coconuts.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Pearfection in Every Hue" src="/images/Chingay2025/PAssionArts2025/pearfectionofeveryhuenew.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Kueh-zy cocoNUTS</div>
-<div class="isomer-card-description">Presented by by Telok Blangah CACC. </div>
+<div class="isomer-card-title">Pearfection in Every Hue</div>
+<div class="isomer-card-description">Presented by by Sengkang North CACC. </div>
 <div class="isomer-card-link">VOTE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="#Yio Fruit Basket" src="/images/Chingay2025/PAssionArts2025/yiofruitsnew.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">#Yio Fruit Basket</div><div class="isomer-card-description">Presented by Yio Chu Kang CACC.</div><div class="isomer-card-link">VOTE</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Strings and Spikes" src="/images/Chingay2025/PAssionArts2025/Strings_and_Spikes.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Strings and Spikes</div><div class="isomer-card-description">Presented by Admiralty CACC.</div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blooming%20in%20Harmony%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Homemade Fusion" src="/images/Chingay2025/PAssionArts2025/homemade_fusion.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="The Giant Pineapple" src="/images/Chingay2025/PAssionArts2025/giantpineapple2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Homemade Fusion</div>
-<div class="isomer-card-description">Presented by Brickland CACC. </div>
+<div class="isomer-card-title">The Giant Pineapple</div>
+<div class="isomer-card-description">Presented by Whampoa CACC. </div>
 <div class="isomer-card-link">VOTE</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kueh Inspired Seats" src="/images/Chingay2025/PAssionArts2025/Kueh_Cushion_Final.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="#Yio Fruit Basket" src="/images/Chingay2025/PAssionArts2025/yiofruitsnew.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Kueh Inspired Seats</div>
-<div class="isomer-card-description">Presented by Marine Parade CACC. 
+<div class="isomer-card-title">#Yio Fruit Basket</div>
+<div class="isomer-card-description">Presented by Yio Chu Kang CACC. 
 </div>
 <div class="isomer-card-link">VOTE</div>
 </div></a></div>
