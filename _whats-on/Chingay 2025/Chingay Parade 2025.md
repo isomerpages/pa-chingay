@@ -49,7 +49,7 @@ Catch the vibrant performances and participatory art workshops on both the 7 and
 
 
 <div style="padding-top: 1rem; padding-bottom: 1rem;">
-<span style="color: #0056d0">Find out more about the Chingay Floats  <a style="color: #0056d0;" target="_blank" href="https://www.chingay.gov.sg/Chingay-floats/">here</a>!</span>
+<span style="color: #0056d0">Find out more about the Chingay Floats  <a style="color: #0056d0;" target="_blank" href="https://www.chingay.gov.sg/chingay-floats/">here</a>!</span>
 <br>
 <span style="color: #0056d0">Vote for your favourite Chingay Floats  <a style="color: #0056d0;" target="_blank" href="https://www.chingay.gov.sg/vote-cgfloat25/">here</a>!</span>
 </div>
