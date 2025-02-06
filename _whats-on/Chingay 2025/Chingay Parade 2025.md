@@ -36,12 +36,8 @@ Catch the vibrant performances and participatory art workshops on both the 7 and
 <div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Chingay Floats </span>
 
-<div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;"><div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2025/JOL00249.jpg"></div></div>
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;"><div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2025/JOL00211.jpg"></div></div>
-</div>
+ <div><img src="/images/Chingay2025/BigFloats/chingay2025harmonycircle.jpg" style="padding: 1rem;"></div>
+	
 
 
 <p>Chingay FLOAT TEXT
