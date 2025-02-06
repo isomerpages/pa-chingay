@@ -34,7 +34,7 @@ Catch the vibrant performances and participatory art workshops on both the 7 and
 	
 	
 <div style="padding-top:2rem">
-<span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Big Floats </span>
+<span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Chingay Floats </span>
 
 <div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
 
@@ -44,14 +44,14 @@ Catch the vibrant performances and participatory art workshops on both the 7 and
 </div>
 
 
-<p>BIG FLOAT TEXT
+<p>Chingay FLOAT TEXT
 </p></div>
 
 
 <div style="padding-top: 1rem; padding-bottom: 1rem;">
-<span style="color: #0056d0">Find out more about the Big Floats  <a style="color: #0056d0;" target="_blank" href="https://www.chingay.gov.sg/big-floats/">here</a>!</span>
+<span style="color: #0056d0">Find out more about the Chingay Floats  <a style="color: #0056d0;" target="_blank" href="https://www.chingay.gov.sg/Chingay-floats/">here</a>!</span>
 <br>
-<span style="color: #0056d0">Vote for your favourite Big Floats  <a style="color: #0056d0;" target="_blank" href="https://www.chingay.gov.sg/vote-bigfloat25/">here</a>!</span>
+<span style="color: #0056d0">Vote for your favourite Chingay Floats  <a style="color: #0056d0;" target="_blank" href="https://www.chingay.gov.sg/vote-cgfloat25/">here</a>!</span>
 </div>
 	
 	
