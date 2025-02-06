@@ -15,7 +15,7 @@ The community floats debuted at Chingay Parade 2022, where residents with guidan
 Chingay 2025 will feature a record-breaking 23 floats, including 14 community floats, and for the first time, a District-level float spanning 12 metres.&nbsp; <br><br>
 	
 The food-themed community floats vividly express Singapore’s spirit of inclusivity and festivity, showcasing how joy is found in the connections we create and the moments we share over food.<br>
-</div><br>
+</div>
 
 <div style="font-size:1.5rem;padding-bottom: 1rem;">
 	<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your community float <a style="color: #ff008f;" target="_blank" href="https://www.facebook.com/PAssionArtsSG/">here</a>!</span>
