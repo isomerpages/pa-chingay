@@ -40,7 +40,7 @@ Catch the vibrant performances and participatory art workshops on both the 7 and
 	
 
 
-<p>Chingay FLOAT TEXT
+<p>Be mesmerised by our 8 Chingay Big Floats
 </p></div>
 
 
