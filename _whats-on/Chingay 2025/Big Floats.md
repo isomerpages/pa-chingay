@@ -84,3 +84,10 @@ Be mesmerised by our 8 Chingay Big Floats<br>
 <div><img src="/images/Chingay2025/BigFloats/sg60lionnew.jpg" style="padding: 1rem;"></div>
 
 <div style="padding:1rem; font-size:1.1rem">To launch SG60, the Chingay Lion embodies courage, excellence, and strength. With its majestic look and dynamic lights, the float also incorporates food characters to match Chingay’s theme.</div>
+
+<div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
+
+
+<div style="font-size:1.5rem; padding-bottom: 1rem;">
+<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your favourite Big Floats  <a style="color: #ff008f;" target="_blank" href="https://www.chingay.gov.sg/vote-bigfloat25/">here</a>!</span>
+</span></div>
