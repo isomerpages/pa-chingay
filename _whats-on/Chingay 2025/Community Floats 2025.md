@@ -15,6 +15,10 @@ The community floats debuted at Chingay Parade 2022, where residents with guidan
 Chingay 2025 will feature a record-breaking 23 floats, including 14 community floats, and for the first time, a District-level float spanning 12 metres.&nbsp; <br>
 </div>
 
+<div style="font-size:1.5rem; padding-bottom: 1rem;">
+<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your favourite Community Floats  <a style="color: #ff008f;" target="_blank" href="https://www.chingay.gov.sg/vote-comfloat25/">here</a>!</span>
+</span></div>
+
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 <div style="padding-top:1rem;font-size:1.5rem;">
