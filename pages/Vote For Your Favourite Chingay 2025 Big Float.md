@@ -4,7 +4,7 @@ permalink: /vote-for-your-favourite-chingay-2025-big-float/
 variant: markdown
 description: ""
 ---
-<p>Click <u>here</u> to vote for your favourite Chingay Parade 2025 Big Float.</p>
+<p>Vote below for your favourite Chingay Parade 2025 Big Float.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chingay 2025 Delightful Nasi Lemak Float" src="/images/Chingay2025/BigFloats/chingay2025delightfulnasilemakfloat.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chingay 2025 Delightful Nasi Lemak Float  </div><div class="isomer-card-description">Presented by People's Association with Malay Contingent. </div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
