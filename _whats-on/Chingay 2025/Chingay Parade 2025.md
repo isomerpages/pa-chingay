@@ -27,9 +27,9 @@ Catch the vibrant performances and participatory art workshops on both the 7 and
 </p></div>
 
 <div style="padding-top: 1rem; padding-bottom: 1rem;">
-<span style="color: #0056d0">Find out more about PAssionArts Street  <a style="color: #0056d0;" target="_blank" href="https://www.chingay.gov.sg/pastreet2025/">here</a>!</span>
+<span style="color: #0056d0">Find out more about PAssionArts Street  <a style="color: #0056d0;" target="_blank" href="/pastreet2025/">here</a>!</span>
 <br>
-<span style="color: #0056d0">Vote for your favourite art installation  <a style="color: #0056d0;" target="_blank" href="https://www.chingay.gov.sg/vote-pastreet25/">here</a>!</span>
+<span style="color: #0056d0">Vote for your favourite art installation  <a style="color: #0056d0;" target="_blank" href="/vote-pastreet25/">here</a>!</span>
 </div>
 	
 	
