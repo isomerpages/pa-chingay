@@ -94,6 +94,6 @@ Chingay Parade 2025 Community Floats!</p>
 <div class="isomer-card-description">Presented by Holland-Bukit Timah Cluster.</div>
 <div class="isomer-card-link">VOTE</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tidbit Galaxy" src="/images/Chingay2025/BigFloats/tidbitgalaxyedited.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tidbit Galaxy</div><div class="isomer-card-description">Presented by South West District (Community Float)</div><div class="isomer-card-link">VOTE</div></div></a>
 </div>
 <p></p>
