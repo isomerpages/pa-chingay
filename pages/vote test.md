@@ -1,7 +1,7 @@
 ---
 title: vote test
 permalink: /vote-test/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>Vote below for your favourite arts installation at PAssionArts Street
@@ -20,7 +20,8 @@ description: ""
 <div class="isomer-card-description">co-created by Marine Parade CACC and residents.</div>
 <div class="isomer-card-link">VOTE</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="#Yio Fruit Basket" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">#Yio Fruit Basket</div><div class="isomer-card-description">co-created by Yio Chu Kang CACC, Crochet Interest Group (IG) and residents
+</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="#Yio Fruit Basket" src="/images/Chingay2025/PAssionArts2025/yiofruitsnew.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">#Yio Fruit Basket</div><div class="isomer-card-description">co-created by Yio Chu Kang CACC, Crochet Interest Group (IG) and residents.</div><div class="isomer-card-link">VOTE</div></div></a>
 </div>
