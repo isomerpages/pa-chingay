@@ -10,9 +10,7 @@ third_nav_title: Chingay 2025
 
 <div style="padding-top:1rem; padding-bottom:1rem; font-size:1.1rem">        
 
-The community floats debuted at Chingay Parade 2022, where residents with guidance from local artists, get to showcase their co-creations and creativity on a national platform. &nbsp;The co-creation workshops held several weeks to months enabled residents the opportunity to interact with one another, contribute their creativity and have been a great way for neighbours and friends to foster a sense of identity, ownership and being part of the community. &nbsp;This initiative exemplifies the community’s active participation in the Chingay Parade, an annual celebration of multiculturalism and diversity. <br><br>
-	
-Chingay 2025 will feature a record-breaking 23 floats, including 14 community floats, and for the first time, a District-level float spanning 12 metres.&nbsp; <br>
+CHANGE WRITE UP <br>
 </div>
 
 <div style="font-size:1.5rem; padding-bottom: 1rem;">
