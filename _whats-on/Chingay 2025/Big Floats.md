@@ -10,7 +10,7 @@ third_nav_title: Chingay 2025
 
 <div style="padding-top:1rem; padding-bottom:1rem; font-size:1.1rem">        
 
-CHANGE WRITE UP <br>
+Be mesmerised by our 8 Chingay Big Floats<br>
 </div>
 
 <div style="font-size:1.5rem; padding-bottom: 1rem;">
