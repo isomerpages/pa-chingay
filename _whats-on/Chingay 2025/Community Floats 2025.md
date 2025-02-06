@@ -17,10 +17,6 @@ Chingay 2025 will feature a record-breaking 23 floats, including 14 community fl
 The food-themed community floats vividly express Singapore’s spirit of inclusivity and festivity, showcasing how joy is found in the connections we create and the moments we share over food.<br>
 </div>
 
-<div style="font-size:1.5rem;padding-bottom: 1rem;">
-	<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your community float <a style="color: #ff008f;" target="_blank" href="https://www.facebook.com/PAssionArtsSG/">here</a>!</span>
-</span><br></div>
-
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 <div style="padding-top:1rem;font-size:1.5rem;">
