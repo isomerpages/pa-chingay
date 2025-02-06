@@ -23,7 +23,7 @@ The food-themed community floats vividly express Singapore’s spirit of inclusi
 
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
-<div style="padding-top:2rem;font-size:1.5rem;">
+<div style="padding-top:1rem;font-size:1.5rem;">
 <span style="font-weight: bold;"><span style="color: #FFAC1C;"> Curry Friends Adventure</span> presented by Ang Mo Kio Cluster</span></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
