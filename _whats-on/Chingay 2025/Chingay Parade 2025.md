@@ -40,7 +40,7 @@ Catch the vibrant performances and participatory art workshops on both the 7 and
 	
 
 
-<p>Be mesmerised by our 8 Chingay Big Floats
+<p>One of the key highlights at Chingay Parade that everyone looks forward to is the beautifully decorated floats. In line with this year’s theme, you can be sure to enjoy a sensory feast with a fleet of food-inspired floats.  Beyond the parade, these floats will also be coming to  the heartlands where you get a chance to be up close.
 </p></div>
 
 
