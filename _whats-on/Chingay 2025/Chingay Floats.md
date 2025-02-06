@@ -14,7 +14,7 @@ Be mesmerised by our 8 Chingay Big Floats<br>
 </div>
 
 <div style="font-size:1.5rem; padding-bottom: 1rem;">
-<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your favourite Big Floats  <a style="color: #ff008f;" target="_blank" href="https://www.chingay.gov.sg/vote-bigfloat25/">here</a>!</span>
+<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your favourite Chingay Floats  <a style="color: #ff008f;" target="_blank" href="https://www.chingay.gov.sg/vote-bigfloat25/">here</a>!</span>
 </span></div>
 
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
@@ -89,5 +89,5 @@ Be mesmerised by our 8 Chingay Big Floats<br>
 
 
 <div style="font-size:1.5rem; padding-bottom: 1rem;">
-<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your favourite Big Floats  <a style="color: #ff008f;" target="_blank" href="https://www.chingay.gov.sg/vote-bigfloat25/">here</a>!</span>
+<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your favourite Chingay Floats  <a style="color: #ff008f;" target="_blank" href="https://www.chingay.gov.sg/vote-bigfloat25/">here</a>!</span>
 </span></div>
