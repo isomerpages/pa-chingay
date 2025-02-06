@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Chingay 2025
 ---
 <div style="padding-top:2rem;font-size:2.5rem;">
-<span style="font-weight: bold;">About Chingay Community Floats</span></div>
+<span style="font-weight: bold;">About Chingay Floats</span></div>
 
 <div style="padding-top:1rem; padding-bottom:1rem; font-size:1.1rem">        
 
