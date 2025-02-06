@@ -19,7 +19,7 @@ The food-themed community floats vividly express Singapore’s spirit of inclusi
 
 <div style="font-size:1.5rem;">
 	<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your community float <a style="color: #ff008f;" target="_blank" href="https://www.facebook.com/PAssionArtsSG/">here</a>!</span>
-</span></div><br>
+</span><br></div>
 
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
