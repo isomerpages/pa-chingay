@@ -103,7 +103,7 @@ Cherie, Didier, Jackson, Zhang Bin and Zhiwen</div>
 <div class="isomer-card-link">VOTE</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a484ee21c40f204fea36b7?67a4892398976a2ac2cbb676=Jalan%20Kayu%20Big%20Apple" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jalan Kayu Big Apple" src="/images/Chingay2025/PAssionArts2025/jalankayuapplenew.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Jalan Kayu Big Apple</div><div class="isomer-card-description">Co-created by students from Yuvabharathi International School and Artists Cherie, Didier, Jackson, Zhang Bin and Zhiwen</div><div class="isomer-card-link">VOTE</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a484ee21c40f204fea36b7?67a4892398976a2ac2cbb676=Joyous%20Savour%20The%20Edible%20Garden" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Joyous Savour The Edible Garden" src="/images/Chingay2025/PAssionArts2025/Joyous_Savour_The_Edible_Art_Garden.jpg">
@@ -114,8 +114,8 @@ Cherie, Didier, Jackson, Zhang Bin and Zhiwen</div>
 <div class="isomer-card-description">co-created by students from Lianhua Primary School and Artist Jesse Leong</div>
 <div class="isomer-card-link">VOTE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kiap Kiap" src="/images/Chingay2025/PAssionArts2025/kiapkiap2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kiap Kiap</div><div class="isomer-card-description">co-created by Radin Mas CACC, Artist Royston Phang and residents.</div><div class="isomer-card-link">VOTE</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blooming%20in%20Harmony%20Float" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a484ee21c40f204fea36b7?67a4892398976a2ac2cbb676=Kiap%20Kiap" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kiap Kiap" src="/images/Chingay2025/PAssionArts2025/kiapkiap2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kiap Kiap</div><div class="isomer-card-description">co-created by Radin Mas CACC, Artist Royston Phang and residents.</div><div class="isomer-card-link">VOTE</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a484ee21c40f204fea36b7?67a4892398976a2ac2cbb676=Kueh%20Inspired%20Seats" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Kueh Inspired Seats" src="/images/Chingay2025/PAssionArts2025/Kueh_Cushion_Final.jpg">
@@ -126,8 +126,8 @@ Cherie, Didier, Jackson, Zhang Bin and Zhiwen</div>
 <div class="isomer-card-description">co-created by Marine Parade CACC and residents.</div>
 <div class="isomer-card-link">VOTE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kueh-zy cocoNUTS" src="/images/Chingay2025/PAssionArts2025/Kueh_zy_Coconuts.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kueh-zy cocoNUTS</div><div class="isomer-card-description">co-created by Telok Blangah CACC, Artists Esther Ng, Casy Chen and residents</div><div class="isomer-card-link">VOTE</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a484ee21c40f204fea36b7?67a4892398976a2ac2cbb676=Kueh-zy%20cocoNUTS" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kueh-zy cocoNUTS" src="/images/Chingay2025/PAssionArts2025/Kueh_zy_Coconuts.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kueh-zy cocoNUTS</div><div class="isomer-card-description">co-created by Telok Blangah CACC, Artists Esther Ng, Casy Chen and residents</div><div class="isomer-card-link">VOTE</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a484ee21c40f204fea36b7?67a4892398976a2ac2cbb676=Noodle%20Nation%20Singapore" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Noodle Nation Singapore" src="/images/Chingay2025/PAssionArts2025/Noodle_Nation_Singapore.jpg">
@@ -138,8 +138,8 @@ Cherie, Didier, Jackson, Zhang Bin and Zhiwen</div>
 <div class="isomer-card-description">co-created by students from Zhangde Primary School and Artist Moses Sia</div>
 <div class="isomer-card-link">VOTE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Our food, our history, our culture" src="/images/Chingay2025/PAssionArts2025/ourfoodourhistoryourculture2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Our Food, Our History, Our Culture</div><div class="isomer-card-description">co-created by Fernvale CACC, Artist Didier Ng and residents.</div><div class="isomer-card-link">VOTE</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a484ee21c40f204fea36b7?67a4892398976a2ac2cbb676=Our%20Food,%20Our%20History,%20Our%20Culture" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Our food, our history, our culture" src="/images/Chingay2025/PAssionArts2025/ourfoodourhistoryourculture2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Our Food, Our History, Our Culture</div><div class="isomer-card-description">co-created by Fernvale CACC, Artist Didier Ng and residents.</div><div class="isomer-card-link">VOTE</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a484ee21c40f204fea36b7?67a4892398976a2ac2cbb676=Pearfection%20in%20Every%20Hue" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Pearfection in Every Hue" src="/images/Chingay2025/PAssionArts2025/pearfectionofeveryhuenew.jpg">
@@ -150,8 +150,8 @@ Cherie, Didier, Jackson, Zhang Bin and Zhiwen</div>
 <div class="isomer-card-description">co-created by Sengkang North CACC, Artist Whee Ng and residents.</div>
 <div class="isomer-card-link">VOTE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Strings and Spikes" src="/images/Chingay2025/PAssionArts2025/Strings_and_Spikes.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Strings and Spikes</div><div class="isomer-card-description">co-created by Admiralty CACC, Artists Casey Chen, Esther Ng and residents.</div><div class="isomer-card-link">VOTE</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blooming%20in%20Harmony%20Float" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a484ee21c40f204fea36b7?67a4892398976a2ac2cbb676=Strings%20and%20Spikes" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Strings and Spikes" src="/images/Chingay2025/PAssionArts2025/Strings_and_Spikes.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Strings and Spikes</div><div class="isomer-card-description">co-created by Admiralty CACC, Artists Casey Chen, Esther Ng and residents.</div><div class="isomer-card-link">VOTE</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a484ee21c40f204fea36b7?67a4892398976a2ac2cbb676=The%20Giant%20Pineapple" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The Giant Pineapple" src="/images/Chingay2025/PAssionArts2025/giantpineapple2.jpg">
@@ -162,6 +162,6 @@ Cherie, Didier, Jackson, Zhang Bin and Zhiwen</div>
 <div class="isomer-card-description">co-created by Whampoa CACC, Artist Faizal and residents.</div>
 <div class="isomer-card-link">VOTE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="#Yio Fruit Basket" src="/images/Chingay2025/PAssionArts2025/yiofruitsnew.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">#Yio Fruit Basket</div><div class="isomer-card-description">co-created by Yio Chu Kang CACC, Crochet Interest Group (IG) and residents.</div><div class="isomer-card-link">VOTE</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a484ee21c40f204fea36b7?67a4892398976a2ac2cbb676=Yio%20Fruit%20Basket" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="#Yio Fruit Basket" src="/images/Chingay2025/PAssionArts2025/yiofruitsnew.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">#Yio Fruit Basket</div><div class="isomer-card-description">co-created by Yio Chu Kang CACC, Crochet Interest Group (IG) and residents.</div><div class="isomer-card-link">VOTE</div></div></a>
 </div>
 <p></p>
