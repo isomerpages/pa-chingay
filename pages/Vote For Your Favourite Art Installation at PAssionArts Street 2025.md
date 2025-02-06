@@ -6,7 +6,7 @@ description: ""
 ---
 <p>Vote below for your favourite arts installation at PAssionArts Street 2025.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bliss-cuits and Instant Dopa-Mee" src="/images/Chingay2025/PAssionArts2025/blisscuitsnew.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Bliss-cuits and Instant Dopa-Mee</div><div class="isomer-card-description">Presented by Pasir Ris Central CACC.  </div><div class="isomer-card-link">VOTE</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bliss-cuits and Instant Dopa-Mee" src="/images/Chingay2025/PAssionArts2025/blisscuitsnew.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Bliss-cuits and Instant Dopa-Mee</div><div class="isomer-card-description">co-created by Pasir Ris Central CACC, Artists Esther Ng, Casey Chen and residents.  </div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -69,7 +69,7 @@ description: ""
 <div class="isomer-card-description">Presented by by Bukit Batok East CACC. </div>
 <div class="isomer-card-link">VOTE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Gust of Sweet Harmony" src="/images/Chingay2025/PAssionArts2025/gustofsweetharmonynew3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Gust of Sweet Harmony</div><div class="isomer-card-description">Presented by Bukit Batok East CACC.</div><div class="isomer-card-link">VOTE</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Gust of Sweet Harmony" src="/images/Chingay2025/PAssionArts2025/gustofsweetharmonynew3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Gust of Sweet Harmony</div><div class="isomer-card-description">co-created by Bukit Batok East CACC, Artist Swee Siong and residents.</div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blooming%20in%20Harmony%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -89,7 +89,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Homemade Fusion</div>
-<div class="isomer-card-description">Presented by Brickland CACC. </div>
+<div class="isomer-card-description">co-created by Brickland CACC, Artist Eunice Hannah Lim and residents </div>
 <div class="isomer-card-link">VOTE</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="It's Show Time" src="/images/Chingay2025/PAssionArts2025/It_s_Show_Time.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">It's Show Time!</div><div class="isomer-card-description">Presented by Yuvabharathi International School. </div><div class="isomer-card-link">VOTE</div></div></a></div>
@@ -116,7 +116,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Kueh Inspired Seats</div>
-<div class="isomer-card-description">Presented by Marine Parade CACC. </div>
+<div class="isomer-card-description">co-created by Marine Parade CACC and residents. </div>
 <div class="isomer-card-link">VOTE</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
@@ -145,7 +145,7 @@ description: ""
 <div class="isomer-card-description">co-created by Sengkang North CACC, Artist Whee Ng and residents. </div>
 <div class="isomer-card-link">VOTE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Strings and Spikes" src="/images/Chingay2025/PAssionArts2025/Strings_and_Spikes.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Strings and Spikes</div><div class="isomer-card-description">Presented by Admiralty CACC.</div><div class="isomer-card-link">VOTE</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Petals%20of%20Passion%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Strings and Spikes" src="/images/Chingay2025/PAssionArts2025/Strings_and_Spikes.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Strings and Spikes</div><div class="isomer-card-description">co-created by Admiralty CACC, Artists Casey Chen, Esther Ng and residents.</div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blooming%20in%20Harmony%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
