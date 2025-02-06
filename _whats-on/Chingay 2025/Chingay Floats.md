@@ -10,7 +10,9 @@ third_nav_title: Chingay 2025
 
 <div style="padding-top:1rem; padding-bottom:1rem; font-size:1.1rem">        
 
-Be mesmerised by our 8 Chingay Big Floats<br>
+Be mesmerised by our 8 Chingay Big Floats as they dazzle with vibrant colors, intricate designs! 
+
+Don’t miss the chance to catch them up close as they make their way to various heartland locations across Singapore after the main parade.<br>
 </div>
 
 <div style="font-size:1.5rem; padding-bottom: 1rem;">
