@@ -45,11 +45,8 @@ Muhammad Riduan, Evangeline Ang, Mukul Hossine and residents</div>
 <div class="isomer-card-description">co-created by students from Yuan Ching Secondary School and Artists Norhazlan
 Bin Mohd Saad and Pang Li Jun</div>
 <div class="isomer-card-link">VOTE</div>
-</div>
-</a>
-</div>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Fruit Tart Art" src="/images/Chingay2025/PAssionArts2025/fruittartartnew1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Fruit Tart Art</div><div class="isomer-card-description">Presented by Zhenghua CACC.</div><div class="isomer-card-link">VOTE</div></div></a>
+	</div></a>
+<a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Fruit Tart Art" src="/images/Chingay2025/PAssionArts2025/fruittartartnew1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Fruit Tart Art</div><div class="isomer-card-description">Presented by Zhenghua CACC.</div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -62,8 +59,7 @@ Bin Mohd Saad and Pang Li Jun</div>
 <div class="isomer-card-link">VOTE</div>
 </div>
 </a>
-</div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Frutopia Seeds of Paradise" src="/images/Chingay2025/PAssionArts2025/Frutopia_Seeds_of_Paradise.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Frutopia Seeds of Paradise</div><div class="isomer-card-description">Presented by Fernvale CACC.</div><div class="isomer-card-link">VOTE</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Frutopia Seeds of Paradise" src="/images/Chingay2025/PAssionArts2025/Frutopia_Seeds_of_Paradise.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Frutopia Seeds of Paradise</div><div class="isomer-card-description">Presented by Fernvale CACC.</div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -100,9 +96,7 @@ Bin Mohd Saad and Pang Li Jun</div>
 <div class="isomer-card-link">VOTE</div>
 </div>
 </a>
-</div>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jalan Kayu Big Apple" src="/images/Chingay2025/PAssionArts2025/jalankayuapplenew.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Jalan Kayu Big Apple</div><div class="isomer-card-description">co-created by Jalan Kayu CACC, Artist Fish Jaafar and residents.</div><div class="isomer-card-link">VOTE</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jalan Kayu Big Apple" src="/images/Chingay2025/PAssionArts2025/jalankayuapplenew.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Jalan Kayu Big Apple</div><div class="isomer-card-description">co-created by Jalan Kayu CACC, Artist Fish Jaafar and residents.</div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -138,10 +132,7 @@ Bin Mohd Saad and Pang Li Jun</div>
 <div class="isomer-card-description">Presented by Zhangde Primary School.</div>
 <div class="isomer-card-link">VOTE</div>
 </div>
-</a>
-</div>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Our food, our history, our culture" src="/images/Chingay2025/PAssionArts2025/ourfoodourhistoryourculture2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Our Food, Our History, Our Culture</div><div class="isomer-card-description">co-created by Fernvale CACC, Artist Didier Ng and residents.</div><div class="isomer-card-link">VOTE</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Blossom%20Dragon%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Our food, our history, our culture" src="/images/Chingay2025/PAssionArts2025/ourfoodourhistoryourculture2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Our Food, Our History, Our Culture</div><div class="isomer-card-description">co-created by Fernvale CACC, Artist Didier Ng and residents.</div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
