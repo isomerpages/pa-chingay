@@ -13,7 +13,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 18 Community Arts &amp; Culture Clubs (CACCs) and 8 schools were involved to present this one-of-a-kind outdoor arts installations co-created by community artists, students and residents. <br><br>
 </div>
 
-<div style="font-size:1.5rem;">
+<div style="font-size:1.5rem; padding-bottom: 1rem;">
 	<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your favourite art installation <a style="color: #ff008f;" target="_blank" href="https://www.facebook.com/PAssionArtsSG/">here</a>!</span>
 </span></div>
 
