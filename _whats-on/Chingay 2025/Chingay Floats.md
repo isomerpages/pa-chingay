@@ -10,9 +10,7 @@ third_nav_title: Chingay 2025
 
 <div style="padding-top:1rem; padding-bottom:1rem; font-size:1.1rem">        
 
-Be mesmerised by our 8 Chingay Big Floats as they dazzle with vibrant colors, intricate designs! 
-
-Don’t miss the chance to catch them up close as they make their way to various heartland locations across Singapore after the main parade.<br>
+One of the key highlights at Chingay Parade that everyone looks forward to is the beautifully decorated floats. In line with this year’s theme, you can be sure to enjoy a sensory feast with a fleet of food-inspired floats.  Beyond the parade, these floats will also be coming to  the heartlands where you get a chance to be up close.<br>
 </div>
 
 <div style="font-size:1.5rem; padding-bottom: 1rem;">
