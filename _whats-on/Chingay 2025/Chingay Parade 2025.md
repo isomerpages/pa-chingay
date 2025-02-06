@@ -31,14 +31,24 @@ The culinary extravaganza will unfold across an overture and five acts, featurin
 	
 Catch the vibrant performances and participatory art workshops on both the 7 and 8 February from 6.00pm to 9.00pm! 
 </p></div>
+
+<div style="font-size:1rem; padding-bottom: 1rem;">
+<span style="color: #0056d0">Find out more about PAssionArts Stree  <a style="color: #0056d0;" target="_blank" href="https://www.chingay.gov.sg/pastreet2025/">here</a>!</span>
+<br>
+<span style="color: #0056d0">Vote for your favourite art installation  <a style="color: #0056d0;" target="_blank" href="https://www.chingay.gov.sg/vote-pastreet25/">here</a>!</span>
+</div>
 	
 <div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Chingay Community Floats</span>
 
  <div><img src="/images/Chingay2025/ComFloat.jpg" style="padding: 1rem;"></div>
 
-<p>The community floats debuted at Chingay Parade 2022, where residents with guidance from local artists, get to showcase their co-creations and creativity on a national platform.  The co-creation workshops held several weeks to months enabled residents the opportunity to interact with one another, contribute their creativity and have been a great way for neighbours and friends to foster a sense of identity, ownership and being part of the community.  This initiative exemplifies the community’s active participation in the Chingay Parade, an annual celebration of multiculturalism and diversity.</p>
+<p>The community floats debuted at Chingay Parade 2022, where residents with guidance from local artists, get to showcase their co-creations and creativity on a national platform.  The co-creation workshops held several weeks to months enabled residents the opportunity to interact with one another, contribute their creativity and have been a great way for neighbours and friends to foster a sense of identity, ownership and being part of the community.  This initiative exemplifies the community’s active participation in the Chingay Parade, an annual celebration of multiculturalism and diversity.</p></div>
 
+<div style="font-size:1rem; padding-bottom: 1rem;">
+<span style="color: #0056d0">Find out more about Chingay Community Floats  <a style="color: #0056d0;" target="_blank" href="https://www.chingay.gov.sg/community-floats/">here</a>!</span>
+<br>
+<span style="color: #0056d0">Vote for your favourite Chingay Community Floats  <a style="color: #0056d0;" target="_blank" href="https://www.chingay.gov.sg/vote-comfloat25/">here</a>!</span>
 </div>
 	
 <div style="padding-top:2rem">
