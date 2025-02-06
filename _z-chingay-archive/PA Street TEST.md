@@ -13,7 +13,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div>
 
 <div style="font-size:1.5rem;">
-	<span style="font-weight: bold;"><span style="color: #ff008f;"><a style="color: #ff008f;" target="_blank" href="https://www.facebook.com/PAssionArtsSG/">Vote</a> for your favourite art installation here!</span>
+	<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your favourite art installation <a style="color: #ff008f;" target="_blank" href="https://www.facebook.com/PAssionArtsSG/">here</a>!</span>
 </span></div> <br>
 
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
