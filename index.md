@@ -12,6 +12,9 @@ sections:
         - title: Chingay2025 Site Map
           description: ""
           url: /chingayparade2025/
+        - title: LIVE WEBCAST
+          description: ""
+          url: /webcast-2025/
         - title: Joint Nomination For UNESCO
           description: ""
           url: /chingayunesco/
