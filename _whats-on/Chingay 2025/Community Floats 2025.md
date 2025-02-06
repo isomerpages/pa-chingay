@@ -262,7 +262,7 @@ A veggie peacock, a stunning sight.
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About the Co-Creation</span><br> Residents breathed new life into expired or discarded dried foods and used corrugated plastics. &nbsp;They meticulously transformed these materials into vibrant representations of rice, tomatoes, cucumbers, and onions. &nbsp;They carefully glued these food materials onto corrugated plastics, artistically arranged them on the Peacock's body and tail feathers.&nbsp; This creative upcycling process turned everyday items into a stunning visual feast, showcasing community ingenuity and environmental consciousness.</div>
 
 <div style="padding-top:2rem;font-size:1.5rem;">
-<span style="font-weight: bold;"><span style="color: #FFAC1C;">Breakfast Pals </span> presented by Marine Parade Cluster</span></div>
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">The Breakfast Pals </span> presented by Marine Parade Cluster</span></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
 
