@@ -89,19 +89,20 @@ Cherie, Didier, Zhang Bin and Zhiwen</div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="a" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a484ee21c40f204fea36b7?67a4892398976a2ac2cbb676=Homemade%20Fusion" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Homemade Fusion" src="/images/Chingay2025/PAssionArts2025/homemade_fusion.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Homemade Fusion</div><div class="isomer-card-description">Co-created by Brickland CACC, Artist Eunice Hannah Lim and residents</div><div class="isomer-card-link">VOTE</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a484ee21c40f204fea36b7?67a4892398976a2ac2cbb676=It’s%20Show%20Time" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="a" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="It's Show Time" src="/images/Chingay2025/PAssionArts2025/It_s_Show_Time.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">It's Show Time</div>
+<div class="isomer-card-description">Co-created by students from Yuvabharathi International School and Artists
+Cherie, Didier, Jackson, Zhang Bin and Zhiwen</div>
+<div class="isomer-card-link">VOTE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="a" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a484ee21c40f204fea36b7?67a4892398976a2ac2cbb676=Jalan%20Kayu%20Big%20Apple" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jalan Kayu Big Apple" src="/images/Chingay2025/PAssionArts2025/jalankayuapplenew.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Jalan Kayu Big Apple</div><div class="isomer-card-description">Co-created by students from Yuvabharathi International School and Artists Cherie, Didier, Jackson, Zhang Bin and Zhiwen</div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/65a8da5dde3593ba4c3a18e9?65a8dbf98c9e0da74360eee9=Smiley's%20Blossoming%20Garden%20Float" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
