@@ -11,7 +11,7 @@ third_nav_title: Chingay 2025
 <div style="line-height:4rem;font-size:3rem; font-color: #b242a2">F1 Pit Building<br></div>
  
 
-Chingay 2025 returns with the theme "Joy", inviting members of the public to reflect on shared experiences transcending ethnicity, language and age through food. <br>
+Chingay 2025 returns with the theme "Joy", inviting members of the public to reflect on shared experiences transcending ethnicity, language and age through food.  <br>
 
 The culinary extravaganza will unfold across an overture and five acts, featuring more than 4,000 performers, food-inspired floats, vibrant costumes, and dynamic music and choreography that encapsulate Singapore’s rich cultural tapestry, artistic talent, and collective spirit. It will captivate audiences with a four-level stage for performers. 
 
