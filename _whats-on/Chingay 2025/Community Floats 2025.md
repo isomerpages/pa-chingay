@@ -16,7 +16,7 @@ Chingay 2025 will feature a record-breaking 23 floats, including 14 community fl
 </div>
 
 <div style="font-size:1.5rem; padding-bottom: 1rem;">
-<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your favourite Community Floats  <a style="color: #ff008f;" target="_blank" href="https://www.chingay.gov.sg/vote-comfloat25/">here</a>!</span>
+<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your favourite Community Floats  <a style="color: #ff008f;" target="_blank" href="/vote-commfloat25/">here</a>!</span>
 </span></div>
 
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
@@ -299,5 +299,5 @@ Welcome to "The Breakfast Pals"! This lively float celebrates Singapore's belove
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About the Co-Creation</span><br> The "Tidbit Galaxy" Southwest District Float came to life through community workshops. Residents hand-painted large hawflake canvases and decorated custom wrappers under the guidance of the lead artist and skilled facilitators. They designed and painted the plywood cut-outs of tidbit packaging into colourful, personalised stars for the galaxy-themed play area. A giant fish was created using scales cut from recycled PVC banners, spray-painted and assembled by the residents. These hands-on activities, suitable for all skill levels, allowed residents to leave their mark on the float, turning everyday materials into an extraordinary celebration of Singapore's beloved tidbits.</div>
 
 <div style="font-size:1.5rem; padding-bottom: 1rem;">
-<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your favourite Community Floats  <a style="color: #ff008f;" target="_blank" href="https://www.chingay.gov.sg/vote-comfloat25/">here</a>!</span>
+<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your favourite Community Floats  <a style="color: #ff008f;" target="_blank" href="/vote-commfloat25/">here</a>!</span>
 </span></div>
