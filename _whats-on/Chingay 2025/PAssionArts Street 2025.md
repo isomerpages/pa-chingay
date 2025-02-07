@@ -197,7 +197,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00211_2.jpg"></div></div>
   
 <div style="font-size:1.5rem;">
-<span style="font-weight: bold;"><span style="color: #FFAC1C;"> KUEH-ZY COCONUTS</span> <br>co-created by Telok Blangah CACC, Artists Esther Ng, Casy Chen and residents</span>
+<span style="font-weight: bold;"><span style="color: #FFAC1C;"> KUEH-ZY COCONUTS</span> <br>co-created by Telok Blangah CACC, Artists Esther Ng, Casey Chen and residents</span>
 <div style="font-size:1.1rem"><br>Inspired by coconut, this installation celebrates its use in making Kueh Kueh, a beloved Singapore treat. With coconut milk and flesh as key ingredients, the installation features giant replicas of popular Kueh Kueh, paying tribute to the island's culinary delights and diverse flavours.
 <br>
 </div></div>
