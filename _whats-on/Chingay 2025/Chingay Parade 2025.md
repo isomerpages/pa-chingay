@@ -20,11 +20,14 @@ The culinary extravaganza will unfold across an overture and five acts, featurin
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">PASSIONARTS STREET </span>
 
 
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:1rem;">
 
-	
-<div style="padding: 1rem;display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:13rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00203.jpg"></div>
-<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:13rem; overflow:hidden;"><img style="min-height:rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00249_2.jpg"></div></div>
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00203.jpg"></div></div>
+
+
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:12rem; overflow:hidden;"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00249_2.jpg"></div></div>
 </div>
 
 <div><p>Located in front of the F1 pit building, the PAssionArts Street features a stunning array of visual art installations from the PAssionArts Festival, Giant Delights and Joyous ART-VENTURE that were co-created by residents and community artists! You can also view the Chingay: Road to UNESCO Exhibits and pen your support for its nomination!
@@ -89,4 +92,4 @@ By MRT:<br>
 4)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from CE1/DT16 Bayfront MRT Station <br>
 
 Click <a target="Click here to find out more" href="/advisory-2025/">here</a> for directions
-	<br><br></p></div>
+	<br><br></p></div></div>
