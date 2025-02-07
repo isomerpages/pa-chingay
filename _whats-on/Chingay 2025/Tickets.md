@@ -12,7 +12,7 @@ third_nav_title: Chingay 2025
 
 Tickets are sold out. Thank you for your support! 
 
-Public can also visit the Free Admission area including the PAssionArts Street@Chingay
+Public can also visit the Free Admission area including the PAssionArts Street@Chingay 
 
 --------
 
