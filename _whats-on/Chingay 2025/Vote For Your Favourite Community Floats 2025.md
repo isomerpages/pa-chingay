@@ -7,8 +7,9 @@ third_nav_title: Chingay 2025
 ---
 <p>The food-themed community floats vividly express Singapore’s spirit of
 inclusivity and festivity, showcasing how joy is found in the connections
-we create and the moments we share over food. Vote below for your favourite
-Chingay Parade 2025 Community Floats!</p>
+we create and the moments we share over food</p>
+<p>Vote below for your favourite Chingay Parade 2025 Community Floats and
+help crown the winner at the Chingay Awards Night!</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a48ad898976a2ac2cc301f?67a48ae1dd4157c04a3dd825=A%20Masterpiece%20of%20Spice" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A Masterpiece Of Spice" src="/images/Chingay2025/CommunityFloats/eastcoastcomfloat.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A Masterpiece Of Spice</div><div class="isomer-card-description">Presented by East Coast Cluster.</div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a48ad898976a2ac2cc301f?67a48ae1dd4157c04a3dd825=A%20Sweet%20Ride" class="isomer-card">
@@ -82,7 +83,7 @@ Chingay Parade 2025 Community Floats!</p>
 <div class="isomer-card-description">Presented by Bishan-Toa Payoh Cluster.</div>
 <div class="isomer-card-link">VOTE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a48ad898976a2ac2cc301f?67a48ae1dd4157c04a3dd825=Tidbit%20Galaxy" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Breakfast Pals" src="/images/Chingay2025/CommunityFloats/marineparadecomfloat.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Breakfast Pals</div><div class="isomer-card-description">Presented by Marine Parade Cluster.</div><div class="isomer-card-link">VOTE</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a48ad898976a2ac2cc301f?67a48ae1dd4157c04a3dd825=The%20Breakfast%20Pals" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Breakfast Pals" src="/images/Chingay2025/CommunityFloats/marineparadecomfloat.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Breakfast Pals</div><div class="isomer-card-description">Presented by Marine Parade Cluster.</div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a48ad898976a2ac2cc301f?67a48ae1dd4157c04a3dd825=Whimsical%20Wonderland:%20A%20Sweet%20Journey%20Through%20Eurasian%20Heritage" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
