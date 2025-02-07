@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Chingay 2025
 ---
-<p>Vote below for your favourite Chingay Parade 2025 Big Float.</p>
+<p>Cast your vote for your favorite Chingay Parade 2025 Big Float and help
+crown the winner at the Chingay Awards Night!</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a4937af1d9b40634877c33?67a493a121c40f204fece813=Delightful%20Nasi%20Lemak%20Float" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Delightful Nasi Lemak Float" src="/images/Chingay2025/BigFloats/chingay2025delightfulnasilemakfloat.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Delightful Nasi Lemak Float</div><div class="isomer-card-description">Presented by People's Association with Malay Contingent.</div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a4937af1d9b40634877c33?67a493a121c40f204fece813=Dream%20Machine%20Float" class="isomer-card">
