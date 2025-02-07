@@ -15,6 +15,10 @@ The community floats debuted at Chingay Parade 2022, where residents with guidan
 Chingay 2025 will feature a record-breaking 23 floats, including 14 community floats, and for the first time, a District-level float spanning 12 metres.&nbsp; <br>
 </div>
 
+<div style="font-size:1.5rem; padding-bottom: 1rem;">
+<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your favourite Community Floats  <a style="color: #ff008f;" target="_blank" href="https://www.chingay.gov.sg/vote-comfloat25/">here</a>!</span>
+</span></div>
+
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 <div style="padding-top:1rem;font-size:1.5rem;">
@@ -258,7 +262,7 @@ A veggie peacock, a stunning sight.
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About the Co-Creation</span><br> Residents breathed new life into expired or discarded dried foods and used corrugated plastics. &nbsp;They meticulously transformed these materials into vibrant representations of rice, tomatoes, cucumbers, and onions. &nbsp;They carefully glued these food materials onto corrugated plastics, artistically arranged them on the Peacock's body and tail feathers.&nbsp; This creative upcycling process turned everyday items into a stunning visual feast, showcasing community ingenuity and environmental consciousness.</div>
 
 <div style="padding-top:2rem;font-size:1.5rem;">
-<span style="font-weight: bold;"><span style="color: #FFAC1C;">Breakfast Pals </span> presented by Marine Parade Cluster</span></div>
+<span style="font-weight: bold;"><span style="color: #FFAC1C;">The Breakfast Pals </span> presented by Marine Parade Cluster</span></div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:2rem;">
 
@@ -294,4 +298,6 @@ Welcome to "The Breakfast Pals"! This lively float celebrates Singapore's belove
 
 <div style="padding:1rem; font-size:1.1rem"><span style="font-weight: bold;line-height:2rem;">About the Co-Creation</span><br> The "Tidbit Galaxy" Southwest District Float came to life through community workshops. Residents hand-painted large hawflake canvases and decorated custom wrappers under the guidance of the lead artist and skilled facilitators. They designed and painted the plywood cut-outs of tidbit packaging into colourful, personalised stars for the galaxy-themed play area. A giant fish was created using scales cut from recycled PVC banners, spray-painted and assembled by the residents. These hands-on activities, suitable for all skill levels, allowed residents to leave their mark on the float, turning everyday materials into an extraordinary celebration of Singapore's beloved tidbits.</div>
 
-Vote for your favourite Community Float here!
+<div style="font-size:1.5rem; padding-bottom: 1rem;">
+<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your favourite Community Floats  <a style="color: #ff008f;" target="_blank" href="https://www.chingay.gov.sg/vote-comfloat25/">here</a>!</span>
+</span></div>

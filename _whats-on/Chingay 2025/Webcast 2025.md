@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Chingay 2025
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/olkGHcX9skM?si=1-WvI-m4zImGUpBZ"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NIks1xP0rQQ?si=QaJdmPTenivqTZbr"></iframe>
 </div>
 <p>This year's parade, themed "JOY, " is a vibrant celebration of our shared
 experiences and cultural heritage, featuring a diverse display of community

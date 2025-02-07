@@ -16,6 +16,9 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 18 Community Arts &amp; Culture Clubs (CACCs) and 8 schools were involved to present this one-of-a-kind outdoor arts installations co-created by community artists, students and residents. <br><br>
 </div>
 
+<div style="font-size:1.5rem; padding-bottom: 1rem;">
+<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your favourite art installation <a style="color: #ff008f;" target="_blank" href="https://www.chingay.gov.sg/vote-pastreet25/">here</a>!</span>
+</span></div>
 
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
@@ -427,9 +430,10 @@ The installation featuring the durian, the fruits bench and vegetable basket hop
 
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
-<div style="font-size:1.5rem;">
-<span style="font-weight: bold;"><span style="color: #FFAC1C;">Vote for your favourite art installation here!</span>
+<div style="font-size:1.5rem; padding-bottom: 1rem;">
+<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your favourite art installation <a style="color: #ff008f;" target="_blank" href="https://www.chingay.gov.sg/vote-pastreet25/">here</a>!</span>
+</span></div>
 
 
 <div style="padding-top:2rem;font-size:1.5rem; font-weight:bold;">Connect with us @PAssionArtsSG
-on <a target="_blank" href="https://www.facebook.com/PAssionArtsSG/">Facebook</a>, <a target="_blank" href="https://www.instagram.com/passionartssg/">Instagram</a>, <a target="_blank" href="https://www.tiktok.com/@PAssionArtsSG/">TikTok</a>!</div></span></div>
+on <a target="_blank" href="https://www.facebook.com/PAssionArtsSG/">Facebook</a>, <a target="_blank" href="https://www.instagram.com/passionartssg/">Instagram</a>, <a target="_blank" href="https://www.tiktok.com/@PAssionArtsSG/">TikTok</a>!</div>

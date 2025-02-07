@@ -19,26 +19,49 @@ The culinary extravaganza will unfold across an overture and five acts, featurin
 <div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">PASSIONARTS STREET </span>
 
-<div style="text-align: center; display: grid; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); gap:0.5rem; padding:0.5rem;">
+ <div><img src="/images/Chingay2025/ComFloat.jpg" style="padding: 1rem;"></div>
 
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;"><div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2025/JOL00249.jpg"></div></div>
-
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 30rem;"><div style="font-size: 1rem"></div><div style="min-height:16rem; max-height:16rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/Chingay2025/JOL00211.jpg"></div></div>
-</div>
-
-
-<p>Located in front of the F1 pit building, the PAssionArts Street features a stunning array of visual art installations from the PAssionArts Festival, Giant Delights and Joyous ART-VENTURE that were co-created by residents and community artists! You can also view the Chingay: Road to UNESCO Exhibits and pen your support for its nomination!
+<div><p>Located in front of the F1 pit building, the PAssionArts Street features a stunning array of visual art installations from the PAssionArts Festival, Giant Delights and Joyous ART-VENTURE that were co-created by residents and community artists! You can also view the Chingay: Road to UNESCO Exhibits and pen your support for its nomination!
 	
 Catch the vibrant performances and participatory art workshops on both the 7 and 8 February from 6.00pm to 9.00pm! 
 </p></div>
+
+<div style="padding-top: 1rem; padding-bottom: 1rem;">
+<span style="color: #0056d0">Find out more about PAssionArts Street  <a style="color: #0056d0;" target="_blank" href="/pastreet2025/">here</a>!</span>
+<br>
+<span style="color: #0056d0">Vote for your favourite art installation  <a style="color: #0056d0;" target="_blank" href="/vote-pastreet25/">here</a>!</span>
+</div>
+	
+	
+<div style="padding-top:2rem">
+<span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Chingay Floats </span>
+
+ <div><img src="/images/Chingay2025/BigFloats/chingay2025harmonycircle.jpg" style="padding: 1rem;"></div>
+	
+
+
+<p>One of the key highlights at Chingay Parade that everyone looks forward to is the beautifully decorated floats. In line with this year’s theme, you can be sure to enjoy a sensory feast with a fleet of food-inspired floats.  Beyond the parade, these floats will also be coming to  the heartlands where you get a chance to be up close.
+</p></div>
+
+
+<div style="padding-top: 1rem; padding-bottom: 1rem;">
+<span style="color: #0056d0">Find out more about the Chingay Floats  <a style="color: #0056d0;" target="_blank" href="/chingay-floats/">here</a>!</span>
+<br>
+<span style="color: #0056d0">Vote for your favourite Chingay Floats  <a style="color: #0056d0;" target="_blank" href="/vote-cgfloat25/">here</a>!</span>
+</div>
+	
 	
 <div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Chingay Community Floats</span>
 
  <div><img src="/images/Chingay2025/ComFloat.jpg" style="padding: 1rem;"></div>
 
-<p>The community floats debuted at Chingay Parade 2022, where residents with guidance from local artists, get to showcase their co-creations and creativity on a national platform.  The co-creation workshops held several weeks to months enabled residents the opportunity to interact with one another, contribute their creativity and have been a great way for neighbours and friends to foster a sense of identity, ownership and being part of the community.  This initiative exemplifies the community’s active participation in the Chingay Parade, an annual celebration of multiculturalism and diversity.</p>
+<p>The community floats debuted at Chingay Parade 2022, where residents with guidance from local artists, get to showcase their co-creations and creativity on a national platform.  The co-creation workshops held several weeks to months enabled residents the opportunity to interact with one another, contribute their creativity and have been a great way for neighbours and friends to foster a sense of identity, ownership and being part of the community.  This initiative exemplifies the community’s active participation in the Chingay Parade, an annual celebration of multiculturalism and diversity.</p></div>
 
+<div style="padding-top: 1rem; padding-bottom: 1rem;">
+<span style="color: #0056d0">Find out more about Community Floats  <a style="color: #0056d0;" target="_blank" href="/community-floats/">here</a>!</span>
+<br>
+<span style="color: #0056d0">Vote for your favourite art installation  <a style="color: #0056d0;" target="_blank" href="/vote-commfloat25/">here</a>!</span>
 </div>
 	
 <div style="padding-top:2rem">
@@ -61,4 +84,4 @@ By MRT:<br>
 4)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from CE1/DT16 Bayfront MRT Station <br>
 
 Click <a target="Click here to find out more" href="/advisory-2025/">here</a> for directions
-	<br><br></p></div>
+	<br><br></p></div></div>
