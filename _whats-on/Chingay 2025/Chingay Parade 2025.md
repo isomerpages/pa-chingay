@@ -19,16 +19,7 @@ The culinary extravaganza will unfold across an overture and five acts, featurin
 <div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">PASSIONARTS STREET </span>
 
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(228px, 1fr)); gap:1rem; padding:1rem;">
-
-<div style="display: block; overflow:hidden; text-decoration: none;">
-<div style="font-size: 1rem"></div><div style="min-height:20rem; max-height:24rem; overflow:hidden;"><img style="min-height:23rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00203.jpg"></div></div>
-
-
-<div style="display: block; overflow:hidden; text-decoration: none;">
-<div style="font-size: 1rem"></div><div style="min-height:20rem; max-height:24rem; overflow:hidden;"><img style="min-height:20rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00249_2.jpg"></div></div>
-</div>
+<div><img src="/images/JOL00249_2.jpg" style="padding: 1rem;"></div>
 
 <div><p>Located in front of the F1 pit building, the PAssionArts Street features a stunning array of visual art installations from the PAssionArts Festival, Giant Delights and Joyous ART-VENTURE that were co-created by residents and community artists! You can also view the Chingay: Road to UNESCO Exhibits and pen your support for its nomination!
 	
