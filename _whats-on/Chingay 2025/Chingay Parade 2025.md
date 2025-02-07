@@ -19,7 +19,13 @@ The culinary extravaganza will unfold across an overture and five acts, featurin
 <div style="padding-top:2rem">
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">PASSIONARTS STREET </span>
 
- <div><img src="/images/Chingay2025/ComFloat.jpg" style="padding: 1rem;"></div>
+
+
+	
+<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:13rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00203.jpg"></div>
+<div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:13rem; overflow:hidden;"><img style="min-height:rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00249_2.jpg"></div></div>
+</div>
 
 <div><p>Located in front of the F1 pit building, the PAssionArts Street features a stunning array of visual art installations from the PAssionArts Festival, Giant Delights and Joyous ART-VENTURE that were co-created by residents and community artists! You can also view the Chingay: Road to UNESCO Exhibits and pen your support for its nomination!
 	
@@ -37,7 +43,6 @@ Catch the vibrant performances and participatory art workshops on both the 7 and
 <span style="color: #FFAC1C; font-weight: bold;; font-size:2rem">Chingay Floats </span>
 
  <div><img src="/images/Chingay2025/BigFloats/chingay2025harmonycircle.jpg" style="padding: 1rem;"></div>
-	
 
 
 <p>One of the key highlights at Chingay Parade that everyone looks forward to is the beautifully decorated floats. In line with this year’s theme, you can be sure to enjoy a sensory feast with a fleet of food-inspired floats.  Beyond the parade, these floats will also be coming to  the heartlands where you get a chance to be up close.
@@ -84,4 +89,4 @@ By MRT:<br>
 4)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from CE1/DT16 Bayfront MRT Station <br>
 
 Click <a target="Click here to find out more" href="/advisory-2025/">here</a> for directions
-	<br><br></p></div></div>
+	<br><br></p></div>
