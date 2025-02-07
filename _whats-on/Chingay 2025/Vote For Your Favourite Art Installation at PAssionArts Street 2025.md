@@ -126,7 +126,7 @@ Cherie, Didier, Jackson, Zhang Bin and Zhiwen</div>
 <div class="isomer-card-description">co-created by Marine Parade CACC and residents.</div>
 <div class="isomer-card-link">VOTE</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a484ee21c40f204fea36b7?67a4892398976a2ac2cbb676=Kueh-zy%20cocoNUTS" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kueh-zy cocoNUTS" src="/images/Chingay2025/PAssionArts2025/Kueh_zy_Coconuts.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kueh-zy cocoNUTS</div><div class="isomer-card-description">co-created by Telok Blangah CACC, Artists Esther Ng, Casy Chen and residents</div><div class="isomer-card-link">VOTE</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a484ee21c40f204fea36b7?67a4892398976a2ac2cbb676=Kueh-zy%20cocoNUTS" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kueh-zy cocoNUTS" src="/images/Chingay2025/PAssionArts2025/Kueh_zy_Coconuts.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kueh-zy cocoNUTS</div><div class="isomer-card-description">co-created by Telok Blangah CACC, Artists Esther Ng, Casey Chen and residents</div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a484ee21c40f204fea36b7?67a4892398976a2ac2cbb676=Noodle%20Nation%20Singapore" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
