@@ -22,7 +22,7 @@ The culinary extravaganza will unfold across an overture and five acts, featurin
 
 
 	
-<div style="display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
+<div style="padding: 1rem;display: block; overflow:hidden; text-decoration: none;  max-width: 20rem;">
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:13rem; overflow:hidden;"><img style="min-height:16rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00203.jpg"></div>
 <div style="font-size: 1rem"></div><div style="min-height:12rem; max-height:13rem; overflow:hidden;"><img style="min-height:rem; object-fit: cover; position:relative; top:rem;" src="/images/JOL00249_2.jpg"></div></div>
 </div>
