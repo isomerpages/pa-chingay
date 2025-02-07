@@ -14,7 +14,7 @@ One of the key highlights at Chingay Parade that everyone looks forward to is th
 </div>
 
 <div style="font-size:1.5rem; padding-bottom: 1rem;">
-<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your favourite Chingay Floats  <a style="color: #ff008f;" target="_blank" href="https://www.chingay.gov.sg/vote-cgfloat25/">here</a>!</span>
+<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your favourite Chingay Floats  <a style="color: #ff008f;" target="_blank" href="/vote-cgfloat25/">here</a>!</span>
 </span></div>
 
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
@@ -89,5 +89,5 @@ One of the key highlights at Chingay Parade that everyone looks forward to is th
 
 
 <div style="font-size:1.5rem; padding-bottom: 1rem;">
-<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your favourite Chingay Floats  <a style="color: #ff008f;" target="_blank" href="https://www.chingay.gov.sg/vote-cgfloat25/">here</a>!</span>
+<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your favourite Chingay Floats  <a style="color: #ff008f;" target="_blank" href="/vote-cgfloat25/">here</a>!</span>
 </span></div>
