@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Programme Booklet
           description: ""
-          url: /chingayparade2025/
+          url: /2025-programme-booklet/
         - title: LIVE WEBCAST
           description: ""
           url: /webcast-2025/
