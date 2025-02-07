@@ -17,7 +17,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 </div>
 
 <div style="font-size:1.5rem; padding-bottom: 1rem;">
-<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your favourite art installation <a style="color: #ff008f;" target="_blank" href="https://www.chingay.gov.sg/vote-pastreet25/">here</a>!</span>
+<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your favourite art installation <a style="color: #ff008f;" target="_blank" href="/vote-pastreet25/">here</a>!</span>
 </span></div>
 
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
@@ -431,7 +431,7 @@ The installation featuring the durian, the fruits bench and vegetable basket hop
 <div style="border-top: 2px solid #E5E4E2; padding-bottom: 2rem;"></div>
 
 <div style="font-size:1.5rem; padding-bottom: 1rem;">
-<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your favourite art installation <a style="color: #ff008f;" target="_blank" href="https://www.chingay.gov.sg/vote-pastreet25/">here</a>!</span>
+<span style="font-weight: bold;"><span style="color: #ff008f;">Vote for your favourite art installation <a style="color: #ff008f;" target="_blank" href="/vote-pastreet25/">here</a>!</span>
 </span></div>
 
 
