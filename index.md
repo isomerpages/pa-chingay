@@ -9,9 +9,9 @@ notification: <a href="https://go.gov.sg/stay-in-touch-with-chingay">Sign Up</a>
 sections:
   - hero:
       key_highlights:
-        - title: Chingay2025 Site Map
+        - title: Programme Booklet
           description: ""
-          url: /chingayparade2025/
+          url: /2025-programme-booklet/
         - title: LIVE WEBCAST
           description: ""
           url: /webcast-2025/
