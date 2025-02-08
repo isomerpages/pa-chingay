@@ -230,7 +230,7 @@ This exhibition takes food to an entirely new level, showcasing its cultural sig
 <div style="overflow:hidden;"><img style="object-fit: cover; position:relative; max-height: 30rem;" src="/images/JOL00215.jpg"></div></div>
   
 <div style="font-size:1.5rem;">
-<span style="font-weight: bold;"><span style="color: #FFAC1C;"> FOOD FOR THOUGHT</span> <br>co-created by Cheng San-Seletar CACC, Artists Barry Yeow, Cipto Purnamo, Muhammad Riduan, Evangeline Ang, Mukul Hossine and residents
+<span style="font-weight: bold;"><span style="color: #FFAC1C;"> FOOD FOR THOUGHT</span> <br>co-created by Cheng San-Seletar CACC, Artists Barry Yeow, Cipto Purnamo, Muhammad Riduan, Evangeline Ang, Mukul Hossine, Kinderland Academy and residents
 </span>
 <div style="font-size:1.1rem"><br>This installation honours local food culture through these engaging sculptures comprising a Fruitful Bliss, Lucky Bowl, and Grill Delight. Each piece includes interactive elements, such as satay sticks that allow visitors to hold and pose for photos. This collaborative creation brings together multiple generations, including preschoolers, united by their shared love for these beloved local dishes.
 <br>
