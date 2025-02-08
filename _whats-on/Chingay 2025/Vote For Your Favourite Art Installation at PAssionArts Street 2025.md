@@ -31,7 +31,8 @@ Cherie, Didier, Jackson and Zhiwen</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Food For Thought</div>
 <div class="isomer-card-description">co-created by Cheng San-Seletar CACC, Artists Barry Yeow, Cipto Purnamo,
-Muhammad Riduan, Evangeline Ang, Mukul Hossine and residents</div>
+Muhammad Riduan, Evangeline Ang, Mukul Hossine, Kinderland Academy and
+residents</div>
 <div class="isomer-card-link">VOTE</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a484ee21c40f204fea36b7?67a4892398976a2ac2cbb676=Food%20Wonderland" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Food Wonderland" src="/images/Chingay2025/PAssionArts2025/Food_Wonderland.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Food Wonderland</div><div class="isomer-card-description">co-created by students from Nan Chiau Primary School and Artists Dzulkarnanen Deo and Amruthaa Kalaiselvan</div><div class="isomer-card-link">VOTE</div></div></a>
