@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Chingay 2025
 ---
-<h4><strong>Voting for your Favourite PAssionArts Street installation has closed. Thank your for your active participation.</strong></h4>
+<h4><strong>Voting for your Favourite PAssionArts Street installation has closed. </strong></h4>
+<h4><strong>Thank your for your active participation.</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a484ee21c40f204fea36b7?67a4892398976a2ac2cbb676=Bliss-cuits%20and%20Instant%20Dopa-Mee" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bliss-cuits and Instant Dopa-Mee" src="/images/Chingay2025/PAssionArts2025/blisscuitsnew.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Bliss-cuits and Instant Dopa-Mee</div><div class="isomer-card-description">co-created by Pasir Ris Central CACC, Artists Esther Ng, Casey Chen and residents.</div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a484ee21c40f204fea36b7?67a4892398976a2ac2cbb676=But%20I%20Want%20To%20Goo!%20-%20Pasar%20Malam" class="isomer-card">
 <div class="isomer-card-image">
