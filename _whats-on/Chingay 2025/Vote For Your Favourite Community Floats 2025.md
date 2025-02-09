@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Chingay 2025
 ---
-<h4><strong>Voting for your Favourite Community Floats has closed. Thank your for your active participation.</strong></h4>
+<h4><strong>Voting for your Favourite Community Floats has closed. </strong></h4>
+<h4><strong>Thank your for your active participation.</strong></h4>
 <p></p>
 <p>The food-themed community floats vividly express Singapore’s spirit of
 inclusivity and festivity, showcasing how joy is found in the connections
