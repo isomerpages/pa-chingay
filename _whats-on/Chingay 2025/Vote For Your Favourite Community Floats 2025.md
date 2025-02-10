@@ -5,11 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Chingay 2025
 ---
+<h4><sub>Voting for your Favourite Community Floats has closed. Thank you for your active participation.</sub></h4>
+<p></p>
 <p>The food-themed community floats vividly express Singapore’s spirit of
 inclusivity and festivity, showcasing how joy is found in the connections
-we create and the moments we share over food</p>
-<p>Vote below for your favourite Chingay Parade 2025 Community Floats and
-help crown the winner at the Chingay Awards Night!</p>
+we create and the moments we share over food.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a48ad898976a2ac2cc301f?67a48ae1dd4157c04a3dd825=A%20Masterpiece%20of%20Spice" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A Masterpiece Of Spice" src="/images/Chingay2025/CommunityFloats/eastcoastcomfloat.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A Masterpiece Of Spice</div><div class="isomer-card-description">Presented by East Coast Cluster.</div><div class="isomer-card-link">VOTE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67a48ad898976a2ac2cc301f?67a48ae1dd4157c04a3dd825=A%20Sweet%20Ride" class="isomer-card">
