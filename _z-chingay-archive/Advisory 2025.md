@@ -3,7 +3,6 @@ title: Advisory 2025
 permalink: /advisory-2025/
 variant: markdown
 description: ""
-third_nav_title: Chingay 2025
 ---
 # Walking Route
 <div> <img src="/images/Chingay_2025_Walking_Route.png"></div><br>
