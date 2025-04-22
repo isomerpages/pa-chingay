@@ -5,48 +5,39 @@ variant: tiptap
 description: ""
 ---
 <h4><sub>Watch out for upcoming Chingay Roadshows and show your support!</sub></h4>
-<p></p>
-<p></p>
-<table style="minWidth: 75px">
+<p><em>*Roadshow exhibits are subject to changes</em>
+</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Location</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>fvs</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>vdsv</p>
+<p>When</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>vsdv</p>
+<p>Heartbeat @ Bedok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>1 May 2025 - 31 July 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Kampung Admiralty</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>1 May 2025 - 31 May 2025</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
