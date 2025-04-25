@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h4><sub>Watch out for upcoming Chingay Roadshows and show your support!</sub></h4>
-<p><em>*Roadshow exhibits are subject to changes</em>
-</p>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -55,6 +55,8 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p><em>*Roadshow exhibits are subject to changes</em>
+</p>
 <h4>Chingay Roadshows</h4>
 <p>Watch out for upcoming Chingay Roadshows and show your support on our
 road to UNESCO.</p>
