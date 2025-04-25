@@ -56,13 +56,17 @@ description: ""
 </tbody>
 </table>
 <h4>Chingay Roadshows</h4>
+<p>Watch out for upcoming Chingay Roadshows and show your support</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>May 2025</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Heartbeat @ Bedok (1 May - 31 Jul 2025)</p>
-<p>Roadshows | Exhibits | Fringe Activities (31 May &amp; 1 Jun, 12pm to
-3pm)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Heartbeat @ Bedok (1 May - 31 Jul 2025), Roadshows | Exhibits | Fringe
+Activities (31 May &amp; 1 Jun, 12pm to 3pm)</p>
+</li>
+</ul>
 <p></p>
 <p>Kampung Admiralty (1 May - 31 May 2025)</p>
 <p>Roadshows | Exhibits | Fringe Activities (10 May &amp; 11 May, 10am to
@@ -80,5 +84,9 @@ description: ""
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
