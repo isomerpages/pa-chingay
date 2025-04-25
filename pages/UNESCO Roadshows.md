@@ -63,14 +63,27 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Heartbeat @ Bedok (1 May - 31 Jul 2025), Roadshows | Exhibits | Fringe
-Activities (31 May &amp; 1 Jun, 12pm to 3pm)</p>
+<p>Heartbeat @ Bedok (1 May - 31 Jul 2025)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Roadshows | Exhibits | Fringe Activities (31 May &amp; 1 Jun, 12pm to
+3pm)</p>
+</li>
+</ul>
 </li>
 </ul>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Kampung Admiralty (1 May - 31 May 2025)</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Roadshows | Exhibits | Fringe Activities (10 May &amp; 11 May, 10am to
 12 pm)</p>
+</li>
+</ul>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
