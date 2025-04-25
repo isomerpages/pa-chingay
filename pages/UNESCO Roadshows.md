@@ -56,7 +56,8 @@ description: ""
 </tbody>
 </table>
 <h4>Chingay Roadshows</h4>
-<p>Watch out for upcoming Chingay Roadshows and show your support</p>
+<p>Watch out for upcoming Chingay Roadshows and show your support on our
+road to UNESCO.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>May 2025</summary>
