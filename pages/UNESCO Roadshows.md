@@ -6,6 +6,9 @@ description: ""
 ---
 <h4><sub>Watch out for upcoming Chingay Roadshows and show your support!</sub></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Roadshows Listing Draft" src="/images/Roadshow_Listing.png">
+</div>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
