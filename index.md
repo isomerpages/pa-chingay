@@ -22,7 +22,7 @@ sections:
         - title: Chingay roadshow
           description: ""
           url: /chingayroadshows/
-      background: /images/Chingay2025/Untitled_design__8_.gif
+      background: /images/Website_Banner.gif
   - textcards:
       title: About Chingay Parade
       id: textcards
