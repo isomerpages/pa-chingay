@@ -19,6 +19,9 @@ sections:
         - title: Joint Nomination For UNESCO
           description: ""
           url: /chingayunesco/
+        - title: Chingay roadshow
+          description: ""
+          url: /chingayroadshows/
       background: /images/Chingay2025/Untitled_design__8_.gif
   - textcards:
       title: About Chingay Parade
