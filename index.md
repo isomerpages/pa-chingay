@@ -19,7 +19,7 @@ sections:
         - title: Joint Nomination For UNESCO
           description: ""
           url: /chingayunesco/
-        - title: Chingay roadshow
+        - title: Chingay roadshows
           description: ""
           url: /chingayroadshows/
       background: /images/Website_Banner.gif
