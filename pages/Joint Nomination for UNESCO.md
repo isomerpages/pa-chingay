@@ -34,8 +34,7 @@ The nomination of Chingay would not only promote cultural diversity and understa
 
 <div style="max-width:50rem; overflow:hidden;"><img src="/images/2018___2.jpg"></div>
 
-
-**WE NEED YOUR SUPPORT!** <br>
+##### **WE NEED YOUR SUPPORT! CLICK ON BELOW IMAGE TO FIND OUT MORE!** 
 <div style="max-width:50rem; overflow:hidden;"><a target="_blank" href="https://supportchingaysg.gov.sg/"><img style="min-height:12rem; object-fit: cover; position:relative; top:rem;" src="/images/image.png"></a></div>
 
 Look out for this space as we share more ways where you can show your support over the next few months! <br>
