@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Spot The Difference: Chingay 1973" src="/images/Updated_Show_Listing__305___1_.jpg">
 </div>
