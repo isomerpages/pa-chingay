@@ -21,6 +21,9 @@ between Picture A and B. Can you spot them all? Scroll below for the answers.</p
 <p>Have you spotted them all? Scroll down for the answers.</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/white filler.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Spot The Differences: Answers" src="/images/Spot_the_difference_answers__1_.jpg">
 </div>
 <p></p>
