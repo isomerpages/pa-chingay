@@ -4,7 +4,7 @@ permalink: /spot-the-difference-chingay-1973/
 variant: tiptap
 description: ""
 ---
-<h2>Spot The Difference: Chingay 1972</h2>
+<h2>Spot The Difference: Chingay 1973</h2>
 <p>Held on 4 February 1973, our very first Chingay procession spanned 8km
 - from the former Victoria School at King George’s Avenue (currently the
 People’s Association’s Headquarters) to Outram Park! There are five differences
