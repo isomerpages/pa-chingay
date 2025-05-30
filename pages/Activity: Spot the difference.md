@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2>Spot The Difference: Chingay 1973</h2>
-<p>Our very first Chingay procession on 4 Feb 1973 started at the former
+<p>Our very first Chingay procession started on 4 Feb 1973 at the former
 Victoria School at King George’s Avenue (the current headquarters of People’s
 Association) and spanned 8km to Outram Park! The picture captured the start
 of the iconic Chingay Parade and memories of many.</p>
