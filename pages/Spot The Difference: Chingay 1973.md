@@ -17,8 +17,5 @@ between Picture A and B. Can you spot them?</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Spot the Difference Photo" src="/images/Spot_the_Difference_Photo.jpg">
 </div>
-<h4>Answers:</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Spot the difference: Chingay 1973 answers" src="/images/Spot_the_Difference_Answers.jpg">
-</div>
+<h4></h4>
 <p></p>
