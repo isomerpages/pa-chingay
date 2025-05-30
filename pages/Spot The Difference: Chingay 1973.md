@@ -7,7 +7,8 @@ description: ""
 <h2>Spot The Difference: Chingay 1972</h2>
 <p>Held on 4 February 1973, our very first Chingay procession spanned 8km
 - from the former Victoria School at King George’s Avenue (currently the
-People’s Association’s Headquarters) to Outram Park!</p>
+People’s Association’s Headquarters) to Outram Park! There are five images
+between Picture A and B. Can you spot them?</p>
 <h4>Picture A</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Original Photo" src="/images/Original_Photo.jpg">
