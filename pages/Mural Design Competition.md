@@ -8,7 +8,7 @@ description: ""
 <p>Make your mark on Singapore's cityscape with the Chingay Mural Design
 Competition 2025! We are inviting artists, designers, and creative minds
 of all ages to design a mural that captures the vibrant spirit of Chingay—our
-nation's largest street parade celebrating cultural harmony and community
+nation's largest street parade celebrating multiculturalism and community
 togetherness. The winning design will be transformed into stunning large-scale
 mural at a Singapore MRT station and VivoCity.
 <br>
