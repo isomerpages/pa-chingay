@@ -25,10 +25,9 @@ will be featured at a Singapore MRT station and VivoCity</p>
 <p><strong>Consolation prizes</strong>: 4 X $500 in VivoCity eVouchers
 <br>
 </p>
-<p>Learn more and submit your design with a brief concept description at
-<a href="https://go.gov.sg/chingayunesco-mural" rel="noopener nofollow" target="_blank">ChingayUNESCO-Mural</a>. Step in and be part of our journey towards Chingay:
-Road to UNESCO—a celebration of Singapore's rich traditions and artistic
-diversity.
+<p>Learn more and submit your design at <a href="https://go.gov.sg/chingayunesco-mural" rel="noopener nofollow" target="_blank">ChingayUNESCO-Mural</a>. Step
+in and be part of our journey towards Chingay: Road to UNESCO—a celebration
+of Singapore's rich traditions and artistic diversity.
 <br>
 </p>
 <div class="isomer-image-wrapper">
