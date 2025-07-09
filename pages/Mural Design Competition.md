@@ -10,12 +10,12 @@ Competition 2025! We are inviting artists, designers, and creative minds
 of all ages to design a mural that captures the vibrant spirit of Chingay—our
 nation's largest street parade celebrating cultural harmony and community
 togetherness. The winning design will be transformed into stunning large-scale
-murals at a Singapore MRT station and VivoCity.
+mural at a Singapore MRT station and VivoCity.
 <br>
 </p>
 <p>From <strong><u>1 July to 15 September 2025</u></strong>, this competition
-is open to all individuals and groups.</p>
-<p>Prizes as below:
+is open to all individuals and groups. Stand a chance to win prizes as
+below:
 <br>
 </p>
 <p><strong>1st prize</strong>: $3,000 in Vivocity eVouchers and your mural
@@ -26,8 +26,9 @@ will be featured at a Singapore MRT station and VivoCity</p>
 <br>
 </p>
 <p>Learn more and submit your design with a brief concept description at
-<a href="https://go.gov.sg/chingayunesco-mural" rel="noopener nofollow" target="_blank">ChingayUNESCO-Mural</a>. Step in and be part of this celebration for Singapore's
-rich cultural tapestry and bring communities together through creativity.
+<a href="https://go.gov.sg/chingayunesco-mural" rel="noopener nofollow" target="_blank">ChingayUNESCO-Mural</a>. Step in and be part of our journey towards Chingay:
+Road to UNESCO—a celebration of Singapore's rich traditions and artistic
+diversity.
 <br>
 </p>
 <div class="isomer-image-wrapper">
