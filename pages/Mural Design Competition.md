@@ -25,7 +25,7 @@ will be featured at a Singapore MRT station and VivoCity</p>
 <p><strong>Consolation prizes</strong>: 4 X $500 in VivoCity eVouchers
 <br>
 </p>
-<p>Learn more and submit your design with a brief concept description <a href="https://go.gov.sg/chingayunesco-mura" rel="noopener nofollow" target="_blank">ChingayUNESCO-Mural</a> and
+<p>Learn more and submit your design with a brief concept description <a href="https://go.gov.sg/chingayunesco-mural" rel="noopener nofollow" target="_blank">ChingayUNESCO-Mural</a> and
 be part of this exciting journey to beautify our city.
 <br>
 </p>
