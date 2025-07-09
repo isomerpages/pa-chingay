@@ -18,11 +18,11 @@ and traditional art mediums and stand a chance to win attractive prizes
 below:
 <br>
 </p>
-<p>1st prize: $3,000 in Vivocity eVouchers and your mural will be featured
-at a Singapore MRT station and VivoCity</p>
-<p>2nd prize: $2,000 in VivoCity eVouchers</p>
-<p>3rd prize: $1,000 in VivoCity eVouchers</p>
-<p>Consolation prizes: 4 X $500 in VivoCity eVouchers
+<p><strong>1st prize</strong>: $3,000 in Vivocity eVouchers and your mural
+will be featured at a Singapore MRT station and VivoCity</p>
+<p><strong>2nd prize</strong>: $2,000 in VivoCity eVouchers</p>
+<p><strong>3rd prize</strong>: $1,000 in VivoCity eVouchers</p>
+<p><strong>Consolation prizes</strong>: 4 X $500 in VivoCity eVouchers
 <br>
 </p>
 <p>Learn more and submit your design with a brief concept description <a href="https://go.gov.sg/chingayunesco-mura" rel="noopener nofollow" target="_blank">ChingayUNESCO-Mural</a> and
