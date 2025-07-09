@@ -13,9 +13,10 @@ togetherness. The winning design will be transformed into stunning large-scale
 murals at a Singapore MRT station and VivoCity.
 <br>
 </p>
-<p>Open to all individuals and groups, this competition welcomes both digital
-and traditional art mediums and stand a chance to win attractive prizes
-below:
+<p>From <strong><u>1 July to 15 September 2025</u></strong>, this competition
+is open to all individuals and groups, and welcomes both digital and traditional
+art mediums.</p>
+<p>You can stand a chance to win attractive prizes below:
 <br>
 </p>
 <p><strong>1st prize</strong>: $3,000 in Vivocity eVouchers and your mural
