@@ -4,7 +4,7 @@ permalink: /mural-design-competition/
 variant: tiptap
 description: ""
 ---
-<h1>Chingay: Road to UNESCO Mural Design Competition</h1>
+<h1>Chingay: Road to UNESCO <br>Mural Design Competition</h1>
 <p>Make your mark on Singapore's cityscape with the Chingay Mural Design
 Competition 2025! We are inviting artists, designers, and creative minds
 of all ages to design a mural that captures the vibrant spirit of Chingay—our
