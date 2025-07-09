@@ -14,9 +14,8 @@ murals at a Singapore MRT station and VivoCity.
 <br>
 </p>
 <p>From <strong><u>1 July to 15 September 2025</u></strong>, this competition
-is open to all individuals and groups, and welcomes both digital and traditional
-art mediums.</p>
-<p>You can stand a chance to win attractive prizes below:
+is open to all individuals and groups.</p>
+<p>Prizes as below:
 <br>
 </p>
 <p><strong>1st prize</strong>: $3,000 in Vivocity eVouchers and your mural
@@ -26,8 +25,9 @@ will be featured at a Singapore MRT station and VivoCity</p>
 <p><strong>Consolation prizes</strong>: 4 X $500 in VivoCity eVouchers
 <br>
 </p>
-<p>Learn more and submit your design with a brief concept description <a href="https://go.gov.sg/chingayunesco-mural" rel="noopener nofollow" target="_blank">ChingayUNESCO-Mural</a> and
-be part of this exciting journey to beautify our city.
+<p>Learn more and submit your design with a brief concept description at
+<a href="https://go.gov.sg/chingayunesco-mural" rel="noopener nofollow" target="_blank">ChingayUNESCO-Mural</a>. Step in and be part of this celebration for Singapore's
+rich cultural tapestry and bring communities together through creativity.
 <br>
 </p>
 <div class="isomer-image-wrapper">
