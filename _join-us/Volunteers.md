@@ -14,8 +14,7 @@ Alternatively, we are on a lookout for performing groups that can light up the C
 
 1. General Volunteers - 15 years old and above
 2. EXCO / Volunteer Leaders - 17 years old and above 
-3. Fully Vaccinated 
-4. Able to commit for all the sessions stated in the application form  
+3. Able to commit for all the sessions stated in the application form  
  
  
 ## **Appreciation for All Volunteers**
