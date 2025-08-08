@@ -11,12 +11,6 @@ notification: Government officials will never ask you to transfer money or
 sections:
   - hero:
       key_highlights:
-        - title: Programme Booklet
-          description: ""
-          url: /2025-programme-booklet/
-        - title: LIVE WEBCAST
-          description: ""
-          url: /webcast-2025/
         - title: Joint Nomination For UNESCO
           description: ""
           url: /chingayunesco/
