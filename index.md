@@ -25,7 +25,7 @@ sections:
         elaborate costumes, colourful floats, and cultural performances that
         showcase Singapore's rich traditions and artistic diversity.
   - infopic:
-      title: Highlights
+      title: Chingay Parade 2025
       subtitle: Chingay 2025
       id: infopic
       description: Catch multi-ethnic performers in dazzling costumes and
@@ -35,25 +35,6 @@ sections:
       url: /chingayparade2025/
       alt: Image alt text
       image: /images/Chingay2025/Dragon.jpg
-  - infopic:
-      title: "Theme: JOY"
-      subtitle: Chingay 2025
-      button: find out more
-      url: /theme/
-      image: /images/Chingay2025/CG25_Chingay_Event_Page_Tile.png
-      alt: Joy
-      description: A vibrant parade celebrating our shared cultural heritage and SG60.
-  - infopic:
-      title: Theme Song "Joy"
-      subtitle: CHINGAY 2025
-      id: infopic
-      button: find out more
-      url: https://open.spotify.com/track/2lyrawvIEYYUi5L8VL0h7L?si=cICpLeeCQzC2oC8P-rxmrw
-      image: /images/Chingay2025/CG25_Spotify_Cover.png
-      alt: Image alt text
-      description: This song is about hope and unity, reflecting Singapore's spirit.
-        It highlights finding joy in tough times and the strength we gain
-        together.
   - infopic:
       title: SHOW YOUR SUPPORT!
       subtitle: JOINT NOMINATION FOR UNESCO
