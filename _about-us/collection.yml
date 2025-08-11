@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Example Title.md
       - The Chingay Story.md
       - The Chingay Timeline.md
       - Chingay Photo Gallery/.keep
