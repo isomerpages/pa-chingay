@@ -55,8 +55,7 @@ appreciation and understanding of Singapore's cultural events, preparing
 children for future learning about National Education in primary school.&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_12_8_2025_181547_gccprod_sharepoint_com.jpg">
 </div>
@@ -93,7 +92,7 @@ Follow our social media channels to know when the next Public Reading Sessions
 for Children.&nbsp;&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <ul>
 <li>
 <p><strong>Chingay Roving Truck (From Feb 2026):</strong> Keep an eye out
@@ -102,7 +101,7 @@ beloved characters from the book, offering fun photo opportunities and
 chances to interact with the world of Chingay.&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <ul>
 <li>
 <p><strong>Chingay Activity Fun Kit:</strong>  <u>Extend the fun and learning with our specially designed Chingay Activity Fun Kit! It's packed with exciting activities featuring Meena and her friends.</u>&nbsp;</p>
@@ -114,7 +113,6 @@ chances to interact with the world of Chingay.&nbsp;</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_12_8_2025_181634_gccprod_sharepoint_com.jpg">
 </div>
@@ -143,4 +141,4 @@ up a copy and discover Chingay. &nbsp;&nbsp;</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p>We look forward to seeing you at our roadshows!&nbsp;</p>
+<p>We look forward to seeing you at our roadshows!</p>
