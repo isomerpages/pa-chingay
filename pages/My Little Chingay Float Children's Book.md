@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_12_8_2025_181137_gccprod_sharepoint_com.jpg">
 </div>
-<p><strong>Discover the Magic of Chingay: Introducing <u>“My Little Chingay Float” </u><s><u>! </u></s></strong>
+<p><strong>Discover the Magic of Chingay: Introducing <u>“My Little Chingay Float” </u><s><u>!</u></s></strong>
 </p>
 <p><strong>Our New Children's Book</strong> invites you to "step into" the
 amazing world of Chingay! <u>Specially </u>designed for young learners.
