@@ -2,7 +2,6 @@ collections:
   unesco:
     output: true
     order:
-      - Upcoming Programme.md
       - My Little Chingay Float.md
       - List of Public Libraries.md
       - Mural Design Competition.md
