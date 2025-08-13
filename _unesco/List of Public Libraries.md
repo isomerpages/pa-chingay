@@ -4,7 +4,7 @@ permalink: /list-of-public-libraries/
 variant: tiptap
 description: ""
 ---
-<h4><strong>List of Public Libraries</strong></h4>
+<h4><strong>LIST OF PUBLIC LIBRARIES</strong></h4>
 <p>Chingay children's book will be available at the following public libraries.</p>
 <table style="minWidth: 50px">
 <colgroup>
