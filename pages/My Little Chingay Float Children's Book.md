@@ -6,6 +6,9 @@ description: ""
 ---
 <h3>MY LITTLE CHINGAY FLOAT</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_12_8_2025_181137_gccprod_sharepoint_com.jpg">
+</div>
 <p><strong>Discover the Magic of Chingay: Introducing <u>“My Little Chingay Float” </u><s><u>!</u></s></strong>
 </p>
 <p><strong>Our New Children's Book</strong> invites you to "step into" the
@@ -53,6 +56,9 @@ children for future learning about National Education in primary school.&nbsp;</
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_12_8_2025_181547_gccprod_sharepoint_com.jpg">
+</div>
 <p><strong>Download Your Free Chingay Book!</strong>&nbsp;</p>
 <p>We believe every child should have the opportunity to experience the magic
 of Chingay.</p>
@@ -61,9 +67,6 @@ children's book.</p>
 <p><em>[Placeholder for QR Code Image]</em>&nbsp;</p>
 <p>&nbsp;</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_12_8_2025_181547_gccprod_sharepoint_com.jpg">
-</div>
 <p><strong>Download Your Free Chingay Activity Fun Kit!</strong>&nbsp;</p>
 <p>Extend the fun and learning with our specially designed <u>Chingay </u>Activity
 Fun Kit! It's packed with exciting activities featuring Meena and her friends.&nbsp;</p>
@@ -73,6 +76,10 @@ activity fun kit.&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MyLittleChingayFloat_EL_page_24_25.jpg">
+</div>
 <p><strong>Beyond the Pages: Bringing the Book to Life!</strong>&nbsp;</p>
 <p>The excitement doesn't stop with the book! We're planning a series of
 engaging activities and initiatives to amplify the book's message and bring
@@ -109,6 +116,10 @@ chances to interact with the world of Chingay.&nbsp;</p>
 </ul>
 <p>&nbsp;</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_12_8_2025_181634_gccprod_sharepoint_com.jpg">
+</div>
 <p><strong>Raising Awareness, Connecting Communities</strong>&nbsp;</p>
 <p>Our goal is to ensure this wonderful resource reaches as many young minds
 as possible. We are raising awareness through:&nbsp;</p>
