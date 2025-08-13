@@ -140,8 +140,7 @@ we will send you a book. &nbsp;&nbsp;</p>
 <p><strong>Available at National Library Access:</strong> The physical book
 will also be catalogued for borrowing across most National Library Board
 branches in Singapore, making it easy for every child and family to pick
-up a copy and discover Chingay. &nbsp;&nbsp;</p>
+up a copy and discover Chingay.&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>We look forward to seeing you at our roadshows!</p>
