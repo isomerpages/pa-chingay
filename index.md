@@ -19,7 +19,7 @@ sections:
           url: /chingayroadshows/
         - title: Chingay Children's book
           description: Key Highlight description
-          url: ""
+          url: /my-little-chingay-float/
       background: /images/Website_Banner_as_of_30_Apr.gif
   - textcards:
       title: About Chingay Parade
