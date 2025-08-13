@@ -37,7 +37,7 @@ can bring people closer and create something truly special.&nbsp;</p>
 </ul>
 <ul>
 <li>
-<p>Spark wonder in children’s hearts and cultivate appreciation for Singapore’s
+<p>Sparks wonder in children’s hearts and cultivate appreciation for Singapore’s
 living heritage – the Chingay Parade.&nbsp;</p>
 </li>
 </ul>
