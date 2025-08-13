@@ -52,7 +52,7 @@ float with her friends and discovers the beauty of Singapore’s cultural
 diversity. Download <a href="https://drive.google.com/file/d/1Sv8AzRhPSK0ek5i9PmxwL5YtyKS4OfPF/view?usp=drive_link" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>Activity Fun Kit</strong>: Packed with colouring pages, puzzles,
 and creative tasks featuring Meena and her friends, perfect for hands-on
-fun and learning! Download <a href="https://drive.google.com/file/d/1Jyh1c1bKio8XlzgIPNq4e07FlV6XKkLy/view?usp=drive_link" rel="noopener nofollow" target="_blank">here</a>.</p>
+fun and learning! Download <a href="https://file.go.gov.sg/chingayactivityfunkitfile.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>Available at Public Library:</strong> The physical book will be
 available for borrowing at most public libraries. Click <a href="/list-of-public-libraries/" rel="noopener nofollow" target="_blank">here</a> for more
 details.&nbsp;</p>
