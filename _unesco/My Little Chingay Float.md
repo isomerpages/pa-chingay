@@ -71,6 +71,7 @@ meaningful initiative, register&nbsp;<a href="https://go.gov.sg/chingaychildrenb
 space and follow our <a href="https://www.facebook.com/share/1Lfzj2uqQx/" rel="noopener nofollow" target="_blank">Facebook</a> and
 <a href="https://www.instagram.com/chingayparadesg?igsh=OHo0Zzh2ZmhrYjl5" rel="noopener nofollow" target="_blank">Instagram</a>for more activities coming your way.&nbsp;&nbsp;</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logos.png">
 </div>
