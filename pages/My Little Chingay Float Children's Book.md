@@ -6,8 +6,9 @@ description: ""
 ---
 <h3>MY LITTLE CHINGAY FLOAT</h3>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_12_8_2025_181137_gccprod_sharepoint_com.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/resized_cover.jpg">
 </div>
 <p><strong>Discover the Magic of Chingay: Introducing “My Little Chingay Float”!</strong>&nbsp;</p>
 <p><strong>OUR FIRST-EVER</strong> Chingay children's book is a beautifully
