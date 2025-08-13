@@ -48,8 +48,8 @@ living heritage – the Chingay Parade.&nbsp;</p>
 <p><strong>Ways to Experience ‘My Little Chingay Float’</strong>&nbsp;</p>
 <p><strong>Chingay ebook: </strong>Let every child experience the magic of
 Chingay! Follow Meena’s inspiring journey as she builds her own Chingay
-float and discovers the beauty of Singapore’s cultural diversity. Download
-<a href="https://drive.google.com/file/d/1Sv8AzRhPSK0ek5i9PmxwL5YtyKS4OfPF/view?usp=drive_link" rel="noopener nofollow" target="_blank">here</a>.</p>
+float with her friends and discovers the beauty of Singapore’s cultural
+diversity. Download <a href="https://drive.google.com/file/d/1Sv8AzRhPSK0ek5i9PmxwL5YtyKS4OfPF/view?usp=drive_link" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>Activity Fun Kit</strong>: Packed with colouring pages, puzzles,
 and creative tasks featuring Meena and her friends, perfect for hands-on
 fun and learning! Download <a href="https://drive.google.com/file/d/1Jyh1c1bKio8XlzgIPNq4e07FlV6XKkLy/view?usp=drive_link" rel="noopener nofollow" target="_blank">here</a>.</p>
