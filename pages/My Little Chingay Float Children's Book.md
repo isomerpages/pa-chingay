@@ -49,10 +49,10 @@ living heritage – the Chingay Parade.&nbsp;</p>
 <p><strong>Chingay ebook: </strong>Let every child experience the magic of
 Chingay! Follow Meena’s inspiring journey as she builds her own Chingay
 float and discovers the beauty of Singapore’s cultural diversity. Download
-here &lt;link&gt;&nbsp;</p>
+<a href="https://drive.google.com/file/d/1Sv8AzRhPSK0ek5i9PmxwL5YtyKS4OfPF/view?usp=drive_link" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>Activity Fun Kit</strong>: Packed with colouring pages, puzzles,
 and creative tasks featuring Meena and her friends, perfect for hands-on
-fun and learning! Download here &lt;link&gt;&nbsp;</p>
+fun and learning! Download <a href="https://drive.google.com/file/d/1Jyh1c1bKio8XlzgIPNq4e07FlV6XKkLy/view?usp=drive_link" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>Available at Public Library:</strong> The physical book will be
 available for borrowing at most public libraries. Click &lt;link&gt; here
 for more details.&nbsp;</p>
@@ -65,7 +65,7 @@ for more details.&nbsp;</p>
 clubs) to come onboard to conduct reading sessions, sharing the history
 and significance of Chingay while instilling values of teamwork, neighbourliness
 and cultural appreciation.&nbsp; If you are interested to be part of this
-meaningful initiative, register here&lt;link&gt;. &nbsp;&nbsp;</p>
+meaningful initiative, register&nbsp;<a href="https://go.gov.sg/chingaychildrenbookrequestform" rel="noopener nofollow" target="_blank"><u>here</u></a>.</p>
 <p><strong>Our Chingay, Step In!</strong>&nbsp;</p>
 <p>The excitement doesn't stop with the book! Continue to check out this
 space and follow @chingayparadesg for more activities coming your way.&nbsp;&nbsp;</p>
