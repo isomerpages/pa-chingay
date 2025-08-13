@@ -2,6 +2,7 @@ collections:
   unesco:
     output: true
     order:
+      - List of Public Libraries.md
       - Mural Design Competition.md
       - Chingay Roadshows.md
       - Joint Nomination for UNESCO.md
