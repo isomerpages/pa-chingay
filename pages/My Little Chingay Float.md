@@ -54,8 +54,8 @@ diversity. Download <a href="https://drive.google.com/file/d/1Sv8AzRhPSK0ek5i9Pm
 and creative tasks featuring Meena and her friends, perfect for hands-on
 fun and learning! Download <a href="https://drive.google.com/file/d/1Jyh1c1bKio8XlzgIPNq4e07FlV6XKkLy/view?usp=drive_link" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>Available at Public Library:</strong> The physical book will be
-available for borrowing at most public libraries. Click <a href="chingay.gov.sg/list-of-public-libraries/" rel="noopener nofollow" target="_blank">here</a> for
-more details.&nbsp;</p>
+available for borrowing at most public libraries. Click <a href="/list-of-public-libraries/" rel="noopener nofollow" target="_blank">here</a> for more
+details.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MyLittleChingayFloat_EL_page_24_25.jpg">
