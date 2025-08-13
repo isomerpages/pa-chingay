@@ -68,4 +68,5 @@ and cultural appreciation.&nbsp; If you are interested to be part of this
 meaningful initiative, register&nbsp;<a href="https://go.gov.sg/chingaychildrenbookrequestform" rel="noopener nofollow" target="_blank"><u>here</u></a>.</p>
 <p><strong>Our Chingay, Step In!</strong>&nbsp;</p>
 <p>The excitement doesn't stop with the book! Continue to check out this
-space and follow @chingayparadesg for more activities coming your way.&nbsp;&nbsp;</p>
+space and follow our <a href="https://www.facebook.com/share/1Lfzj2uqQx/" rel="noopener nofollow" target="_blank">Facebook</a> and
+<a href="https://www.instagram.com/chingayparadesg?igsh=OHo0Zzh2ZmhrYjl5" rel="noopener nofollow" target="_blank">Instagram</a>for more activities coming your way.&nbsp;&nbsp;</p>
