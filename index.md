@@ -17,6 +17,9 @@ sections:
         - title: Chingay roadshows
           description: ""
           url: /chingayroadshows/
+        - title: Chingay Children's book
+          description: Key Highlight description
+          url: ""
       background: /images/Website_Banner_as_of_30_Apr.gif
   - textcards:
       title: About Chingay Parade
