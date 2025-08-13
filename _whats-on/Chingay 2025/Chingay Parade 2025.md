@@ -5,8 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: Chingay 2025
 ---
-<div> <img src="/images/Onsite_Map.png"></div>
-
 # 7 &amp; 8 February 2025
 <div style="line-height:4rem;font-size:3rem; font-color: #b242a2">F1 Pit Building<br></div>
  
@@ -70,17 +68,4 @@ Catch the vibrant performances and participatory art workshops on both the 7 and
 
 <div> <img src="/images/Stage_Photo.png"></div>
 	
-<p> Be wowed by the first of its kind stage at Chingay 2025. The stage consisting 76 "cubicles" that reflects Singapore's successes in overcoming challenges and in shaping the nation's multiculturalism and diversity. <br></p></div></div>
-	
-# **How to get there?**
-	
-<div> <p>Parking is <b>not</b> available at F1 Pit Building. The nearest carparks are at Singapore Flyer, Millenia Walk and Suntec City (at own cost).<br><br>
-<b>If you are taking public transport</b><br>
-By MRT:<br>
-1)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;11 mins walk from CC4/DT15 Promenade MRT Station<br>
-2)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;14 mins walk from CC3 Esplanade MRT Station<br>
-3)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from NS25/EW13 City Hall MRT Station<br>
-4)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;22 mins walk from CE1/DT16 Bayfront MRT Station <br>
-
-Click <a target="Click here to find out more" href="/advisory-2025/">here</a> for directions
-	<br><br></p></div></div>
+<p> Be wowed by the first of its kind stage at Chingay 2025. The stage consisting 76 "cubicles" that reflects Singapore's successes in overcoming challenges and in shaping the nation's multiculturalism and diversity. <br></p></div></div></div>

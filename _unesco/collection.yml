@@ -1,0 +1,10 @@
+collections:
+  unesco:
+    output: true
+    order:
+      - Upcoming Programme.md
+      - My Little Chingay Float.md
+      - List of Public Libraries.md
+      - Mural Design Competition.md
+      - Chingay Roadshows.md
+      - Joint Nomination for UNESCO.md
