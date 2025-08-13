@@ -2,5 +2,6 @@ collections:
   unesco:
     output: true
     order:
+      - Mural Design Competition.md
       - Chingay Roadshows.md
       - Joint Nomination for UNESCO.md
