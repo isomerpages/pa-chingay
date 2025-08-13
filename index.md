@@ -18,7 +18,7 @@ sections:
           description: ""
           url: /chingayroadshows/
         - title: Chingay Children's book
-          description: Key Highlight description
+          description: ""
           url: /my-little-chingay-float/
       background: /images/Website_Banner_as_of_30_Apr.gif
   - textcards:
