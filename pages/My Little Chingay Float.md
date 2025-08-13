@@ -69,4 +69,3 @@ meaningful initiative, register&nbsp;<a href="https://go.gov.sg/chingaychildrenb
 <p><strong>Our Chingay, Step In!</strong>&nbsp;</p>
 <p>The excitement doesn't stop with the book! Continue to check out this
 space and follow @chingayparadesg for more activities coming your way.&nbsp;&nbsp;</p>
-<p>We look forward to seeing you at our roadshows!</p>
