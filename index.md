@@ -20,7 +20,7 @@ sections:
         - title: Chingay Children's book
           description: ""
           url: /my-little-chingay-float/
-      background: /images/Copy_of_Chingay_s_road_to_unesco__1_.gif
+      background: /images/rd_to_unesco_banner_w_logo.gif
   - textcards:
       title: About Chingay Parade
       id: textcards
