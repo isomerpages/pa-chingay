@@ -2,8 +2,8 @@ collections:
   unesco:
     output: true
     order:
-      - Friends Of Chingay.md
       - My Little Chingay Float.md
+      - Friends Of Chingay.md
       - Mural Design Competition.md
       - Chingay Roadshows.md
       - Joint Nomination for UNESCO.md
