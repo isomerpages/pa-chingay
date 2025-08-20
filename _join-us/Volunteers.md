@@ -39,7 +39,7 @@ Alternatively, we are on a lookout for performing groups that can light up the C
 | -------- | -------- | 
 |**General Hospitality** <br><img style="width:150px;height:200px" align="left" alt="general hospitality" src="/images/Volunteers/General%20Hospi.png"> |  Registration opens soon.
 
-1\. That welcoming atmosphere our guests will experiences? Yeah, that's thanks to you!<br>
+1\. That welcoming atmosphere our guests will experience? Yeah, that's thanks to you!<br>
 2\. Guide the audience, and keep the good vibes rolling!<br>
 3\. Provide quick tips and answers with a smile.    
 
