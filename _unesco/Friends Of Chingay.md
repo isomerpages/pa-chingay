@@ -10,8 +10,12 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_1.jpg">
 </div>
 <p>Inspired to be an integral part of preserving Singapore’s living cultural
-heritage – Chingay Parade Singapore?</p>
-<p>Step in and be our ‘Friends of Chingay’ by connecting with the community,
-championing our UNESCO nomination and inspiring our younger generation.
-Every effort matters!</p>
-<p>Register your interest <a href="https://go.gov.sg/friendsofchingay" rel="noopener nofollow" target="_blank">here </a>today!</p>
+heritage with the Chingay Parade Singapore? Be part of our ‘Friends of
+Chingay’, where your passion becomes purpose. Together, we can:</p>
+<p>• <strong>Connect</strong> people through our shared traditions</p>
+<p>• <strong>Champion</strong> our Road to UNESCO campaign</p>
+<p>• <strong>Inspire</strong> pride in the next generation</p>
+<p>Every effort matters — start your journey by registering your interest
+with us <a href="https://go.gov.sg/friendsofchingay" rel="noopener nofollow" target="_blank">here</a> today!</p>
+<p></p>
+<p></p>
