@@ -28,9 +28,6 @@ Chingay’, where your passion becomes purpose. Together, we can:</p>
 <p>Develop new skills in storytelling, guiding, and community engagement</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_6.jpg">
-</div>
 <p><strong><u>Be a Friend of Chingay in these exciting roles</u>:</strong>
 </p>
 <ul data-tight="true" class="tight">
