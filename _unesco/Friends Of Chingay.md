@@ -4,7 +4,7 @@ permalink: /friends-of-chingay/
 variant: tiptap
 description: ""
 ---
-<h3><strong><br>Step In and Be Our ‘Friends of Chingay’</strong></h3>
+<h2><strong><br>Step In and Be Our ‘Friends of Chingay’</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_1.jpg">
