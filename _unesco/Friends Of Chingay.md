@@ -28,6 +28,10 @@ Chingay’, where your passion becomes purpose. Together, we can:</p>
 <p>Develop new skills in storytelling, guiding, and community engagement</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_08_25_at_11_48_14_AM___Edited.jpg">
+</div>
 <p><strong><u>Be a Friend of Chingay in these exciting roles</u>:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -40,7 +44,6 @@ Chingay’, where your passion becomes purpose. Together, we can:</p>
 by bringing Chingay’s vibrant stories, traditions, and behind-the-scenes
 magic to life online. Your creativity will inspire more people to understand
 and celebrate Chingay as part of our living heritage.</p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Chingay Behind-the-Scenes Guide in January and February 2026 <em>(Subject to audition)</em></strong>
