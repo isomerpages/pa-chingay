@@ -39,14 +39,6 @@ sections:
       alt: Image alt text
       image: /images/Chingay2025/Dragon.jpg
   - infopic:
-      title: SHOW YOUR SUPPORT!
-      subtitle: JOINT NOMINATION FOR UNESCO
-      id: infopic
-      button: FIND OUT MORE
-      image: /images/Chingay2025/UNESCO_80_.png
-      alt: Image alt text
-      url: /chingayunesco/
-  - infopic:
       title: My Little Chingay Float
       subtitle: chingay children's book
       id: infopic
@@ -56,4 +48,12 @@ sections:
       url: https://www.chingay.gov.sg/my-little-chingay-float/
       image: /images/resized_cover.jpg
       alt: Image alt text
+  - infopic:
+      title: SHOW YOUR SUPPORT!
+      subtitle: JOINT NOMINATION FOR UNESCO
+      id: infopic
+      button: FIND OUT MORE
+      image: /images/Chingay2025/UNESCO_80_.png
+      alt: Image alt text
+      url: /chingayunesco/
 ---
