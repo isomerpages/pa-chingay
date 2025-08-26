@@ -46,4 +46,14 @@ sections:
       image: /images/Chingay2025/UNESCO_80_.png
       alt: Image alt text
       url: /chingayunesco/
+  - infopic:
+      title: My Little Chingay Float
+      subtitle: chingay children's book
+      id: infopic
+      description: Read and journey through this beautifully illustrated story that
+        introduces the wonders of the Chingay Parade Singapore!
+      button: FIND OUT MORE
+      url: https://www.chingay.gov.sg/my-little-chingay-float/
+      image: /images/resized_cover.jpg
+      alt: Image alt text
 ---
