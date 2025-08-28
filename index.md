@@ -42,9 +42,10 @@ sections:
       title: My Little Chingay Float
       subtitle: chingay children's book
       id: infopic
-      description: Read and journey through this beautifully illustrated story that
-        introduces the wonders of the Chingay Parade Singapore!
-      button: FIND OUT MORE
+      description: Meet Meena and her friends from My Little Chingay Float where they
+        discover that big hearts and bold dreams shine brightest when they come
+        together!
+      button: find out more
       url: https://www.chingay.gov.sg/my-little-chingay-float/
       image: /images/resized_cover.jpg
       alt: Image alt text
