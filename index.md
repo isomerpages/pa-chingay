@@ -28,17 +28,6 @@ sections:
         elaborate costumes, colourful floats, and cultural performances that
         showcase Singapore's rich traditions and artistic diversity.
   - infopic:
-      title: Chingay Parade 2025
-      subtitle: Chingay 2025
-      id: infopic
-      description: Catch multi-ethnic performers in dazzling costumes and
-        record-breaking 23 food inspired floats as well as 60 lion dancers on a
-        4-storey stage.
-      button: Find out more
-      url: /chingayparade2025/
-      alt: Image alt text
-      image: /images/Chingay2025/Dragon.jpg
-  - infopic:
       title: My Little Chingay Float
       subtitle: chingay children's book
       id: infopic
@@ -49,6 +38,17 @@ sections:
       url: https://www.chingay.gov.sg/my-little-chingay-float/
       image: /images/resized_cover.jpg
       alt: Image alt text
+  - infopic:
+      title: Chingay Parade 2025
+      subtitle: Chingay 2025
+      id: infopic
+      description: Catch multi-ethnic performers in dazzling costumes and
+        record-breaking 23 food inspired floats as well as 60 lion dancers on a
+        4-storey stage.
+      button: Find out more
+      url: /chingayparade2025/
+      alt: Image alt text
+      image: /images/Chingay2025/Dragon.jpg
   - infopic:
       title: SHOW YOUR SUPPORT!
       subtitle: JOINT NOMINATION FOR UNESCO
