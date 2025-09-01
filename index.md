@@ -28,6 +28,17 @@ sections:
         elaborate costumes, colourful floats, and cultural performances that
         showcase Singapore's rich traditions and artistic diversity.
   - infopic:
+      title: My Little Chingay Float
+      subtitle: chingay children's book
+      id: infopic
+      description: Meet Meena and her friends from My Little Chingay Float where they
+        discover that big hearts and bold dreams shine brightest when they come
+        together!
+      button: find out more
+      url: https://www.chingay.gov.sg/my-little-chingay-float/
+      image: /images/resized_cover.jpg
+      alt: Image alt text
+  - infopic:
       title: Chingay Parade 2025
       subtitle: Chingay 2025
       id: infopic
