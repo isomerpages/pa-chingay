@@ -4,7 +4,7 @@ permalink: /volunteers/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Parade Volunteer Recruitment for Chingay 2026 is back!</strong></h1>
+<h1><strong>Volunteer Recruitment for Chingay 2026 is back!</strong></h1>
 <p>We would like to invite you to join us as volunteers to support the parade
 and contribute to the positive experiences of people from all walks of
 life.</p>
