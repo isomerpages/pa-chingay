@@ -53,9 +53,9 @@ diversity. Download <a href="https://file.go.gov.sg/chingaychildrendigitalbook.p
 <p><strong>Activity Fun Kit</strong>: Packed with colouring pages, puzzles,
 and creative tasks featuring Meena and her friends, perfect for hands-on
 fun and learning! Download <a href="https://file.go.gov.sg/chingayactivityfunkitfile.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p><strong>Available at Public Library:</strong> The physical book will be
-available for borrowing at most public libraries. Click <a href="/list-of-public-libraries/" rel="noopener nofollow" target="_blank">here</a> for more
-details.&nbsp;</p>
+<p><strong>Available at Public Library:</strong> The physical book is now
+available for borrowing at most public libraries. Click <a href="https://catalogue.nlb.gov.sg/search/card?id=8eeccd08-a4ac-566b-90f6-8b6186161442&amp;entityType=FormatGroup" rel="noopener nofollow" target="_blank">here</a> for
+more details.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MyLittleChingayFloat_EL_page_24_25.jpg">
