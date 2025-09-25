@@ -41,6 +41,8 @@ register via: <a href="https://form.gov.sg/64a2386e773e020011928553" rel="noopen
 </li>
 </ol>
 <h2><strong>Roles Available</strong></h2>
+<p><em><u>Please kindly take note that the registration links will only be accessible from the 1st of October.</u></em>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
