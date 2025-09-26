@@ -14,7 +14,6 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">3 Cheers , Float On</div>
-<div class="isomer-card-title"></div>
 </div>
 </div>
 </div>
