@@ -167,7 +167,8 @@ in between.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/chingay26pdncrew" rel="noopener nofollow" target="_blank">Register your interest here!</a>
+</p>
 </td>
 </tr>
 </tbody>
