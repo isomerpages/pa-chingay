@@ -105,9 +105,9 @@ register via: <a href="https://form.gov.sg/64a2386e773e020011928553" rel="noopen
 </tr>
 </tbody>
 </table>
-<p>1. That welcoming atmosphere our guests will experience? Yeah, that's
+<p>1. That welcoming atmosphere our guests will experience. Yeah, that's
 thanks to you!
-<br>2. Guide the audience, and keep the good vibes rolling!
+<br>2. Guide the audience and keep the good vibes rolling!
 <br>3. Provide quick tips and answers with a smile.</p>
 <table style="minWidth: 50px">
 <colgroup>
