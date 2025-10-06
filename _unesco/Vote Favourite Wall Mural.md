@@ -4,7 +4,7 @@ permalink: /voting-template-sample/
 variant: tiptap
 description: ""
 ---
-<p>Vote for your favourite Wall Mural Design!</p>
+<h2>Vote for your favourite Wall Mural Design!</h2>
 <p>The mural design should capture the vibrant spirit of Chingay— celebrating
 multiculturalism and community togetherness. The winning design will be
 transformed into a stunning large-scale mural at a Singapore MRT station
