@@ -2,6 +2,7 @@ collections:
   unesco:
     output: true
     order:
+      - Vote Favourite Wall Mural.md
       - My Little Chingay Float.md
       - Mural Design Competition.md
       - Chingay Roadshows.md
