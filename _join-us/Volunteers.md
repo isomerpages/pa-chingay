@@ -41,8 +41,7 @@ register via: <a href="https://form.gov.sg/64a2386e773e020011928553" rel="noopen
 </li>
 </ol>
 <h2><strong>Roles Available</strong></h2>
-<p><em><u>Please kindly take note that the registration links will only be accessible from the 1st of October.</u></em>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -74,7 +73,7 @@ register via: <a href="https://form.gov.sg/64a2386e773e020011928553" rel="noopen
 </tbody>
 </table>
 <p>1. Ensure the crowd moves effortlessly before and after the parade.
-<br>2. Help performers get the parade route smoothly.
+<br>2. Help performers get to the parade route smoothly.
 <br>3. Control the entry and exit points like a pro.</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -106,9 +105,8 @@ register via: <a href="https://form.gov.sg/64a2386e773e020011928553" rel="noopen
 </tr>
 </tbody>
 </table>
-<p>1. That welcoming atmosphere our guests will experience? Yeah, that's
-thanks to you!
-<br>2. Guide the audience, and keep the good vibes rolling!
+<p>1. Provide guests with a welcoming experience at the Parade.
+<br>2. Guide the audience and keep the good vibes rolling!
 <br>3. Provide quick tips and answers with a smile.</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -167,7 +165,8 @@ in between.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/chingay26pdncrew" rel="noopener nofollow" target="_blank">Register your interest here!</a>
+</p>
 </td>
 </tr>
 </tbody>
