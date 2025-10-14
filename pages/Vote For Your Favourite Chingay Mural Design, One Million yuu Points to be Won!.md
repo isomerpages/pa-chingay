@@ -149,7 +149,8 @@ It reflects the harmony, resilience, and diversity of our community spirit.
 <br><a href="https://form.gov.sg/68413bce7e86cd0747aff4f2" rel="noopener nofollow" target="_blank">Click here to vote!</a>
 </p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__15_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__16_.png">
 </div>
 <p></p>
