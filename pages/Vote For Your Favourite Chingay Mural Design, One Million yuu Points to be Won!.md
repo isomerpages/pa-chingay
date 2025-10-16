@@ -17,14 +17,13 @@ apply.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1__Vibrancy_by_Sun_Jiaze.png">
 </div>
-<p></p>
 <p>For over 50 years, Chingay has beautifully captured the spirit of multiple
 generations of Singaporeans - their love for performance, unity and our
 nation. Through this mural, I wish to bring this vibrancy of Chingay for
 the world to see and appreciate, as well as to encapsulate the experiences
 of everyone in this decades-long journey, whether as a performer, organiser
-or audience.
-<br><a href="https://form.gov.sg/68413bce7e86cd0747aff4f2" rel="noopener nofollow" target="_blank">Click here to vote!</a>
+or audience.</p>
+<p><a href="https://form.gov.sg/68413bce7e86cd0747aff4f2" rel="noopener nofollow" target="_blank">Click here to vote!</a>
 </p>
 <p><strong>#2 - A TASTE OF CHINGAY by Chua Daphne</strong>
 </p>
@@ -121,7 +120,7 @@ symbolising unity, growth, and the festival’s continuous evolution in motion.
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9__Where_Imagination_Roars_by_Mohammed_Shahrizam_Mohamed_Shariff.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9__Where_Imagination_Roars_Mohammed_Shahrizam_Mohamed_Shariff__Final_.png">
 </div>
 <p>This mural captures the dreamlike spirit of Chingay and its aspiration
 toward recognition by UNESCO. It begins with two children opening a book,
