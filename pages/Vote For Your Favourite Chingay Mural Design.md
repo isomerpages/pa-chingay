@@ -10,8 +10,9 @@ we’re inviting you to vote for your favourite Chingay mural design and
 stand a chance to win 20,000 yuu Points (worth $100). PAssion Cardmembers
 earn double rewards with an additional 20,000 yuu Points! Don’t wait—start
 voting now and be among the lucky voters to share 1 Million yuu Points!</p>
-<p>Closing date <strong>31 December 2025</strong>. Terms &amp; conditions
-apply.</p>
+<p>Closing date <strong>31 December 2025</strong>.
+<br>Click <a href="https://file.go.gov.sg/muraldesign-publicvotingtcs.pdf" rel="noopener nofollow" target="_blank">HERE</a> for
+Terms &amp; Conditions.</p>
 <p><strong>#1 - VIBRANCY by Sun Jiaze</strong>
 </p>
 <p></p>
