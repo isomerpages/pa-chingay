@@ -8,8 +8,9 @@ description: ""
 and heritage we carry forward. As part of the ‘Our Chingay, Step In’ campaign,
 we’re inviting you to vote for your favourite Chingay mural design and
 stand a chance to win 20,000 yuu Points (worth $100). PAssion Cardmembers
-earn double rewards with an additional 20,000 yuu Points! Don’t wait—start
-voting now and be among the lucky voters to share 1 Million yuu Points!</p>
+earn double rewards with an additional 20,000 yuu Points! There are 1 Million
+yuu Points to be won! Don’t wait—start voting now and you could be one
+of the lucky voters.</p>
 <p>Closing date <strong>31 December 2025</strong>.
 <br>Click <a href="https://file.go.gov.sg/muraldesign-publicvotingtcs.pdf" rel="noopener nofollow" target="_blank">HERE</a> for
 Terms &amp; Conditions.</p>
