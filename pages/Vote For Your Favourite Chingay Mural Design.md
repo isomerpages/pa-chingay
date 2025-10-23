@@ -7,8 +7,8 @@ description: ""
 <p>With every step and movement, we honour our diverse cultural traditions
 and heritage we carry forward. As part of the ‘Our Chingay, Step In’ campaign,
 we’re inviting you to vote for your favourite Chingay mural design and
-stand a chance to win 20,000 yuu Points (worth $100). PAssion Cardmembers
-earn double rewards with an additional 20,000 yuu Points! There are 1 Million
+stand a chance to win 20,000 yuu Points (worth $100). PAssion Members earn
+double rewards with an additional 20,000 yuu Points! There are 1 Million
 yuu Points to be won! Don’t wait—start voting now and you could be one
 of the lucky voters.</p>
 <p>Closing date <strong>31 December 2025</strong>.
@@ -25,8 +25,8 @@ generations of Singaporeans - their love for performance, unity and our
 nation. Through this mural, the artist wishes to bring this vibrancy of
 Chingay for the world to see and appreciate, as well as to encapsulate
 the experiences of everyone in this decades-long journey, whether as a
-performer, organiser or audience.</p>
-<p><a href="https://form.gov.sg/68413bce7e86cd0747aff4f2" rel="noopener nofollow" target="_blank">Click here to vote!</a>
+performer, organiser or audience.
+<br><a href="https://form.gov.sg/68413bce7e86cd0747aff4f2" rel="noopener nofollow" target="_blank">Click here to vote!</a>
 </p>
 <p><strong>#2 - A TASTE OF CHINGAY by Chua Daphne</strong>
 </p>
