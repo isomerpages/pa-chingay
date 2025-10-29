@@ -4,6 +4,7 @@ permalink: /vote-for-your-favourite-chingay-mural-design/
 variant: tiptap
 description: ""
 ---
+<h4><strong><u>The voting is open from Saturday, 1 November 2025, 10:00am to Wednesday, 31 December 2025, 11:59pm.</u></strong></h4>
 <p>With every step and movement, we honour our diverse cultural traditions
 and heritage we carry forward. As part of the ‘Our Chingay, Step In’ campaign,
 we’re inviting you to vote for your favourite Chingay mural design and
