@@ -2,4 +2,5 @@ collections:
   chingay-2026:
     output: true
     order:
+      - Chingay Parade 2026.md
       - Tickets.md
