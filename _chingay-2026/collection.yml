@@ -2,5 +2,4 @@ collections:
   chingay-2026:
     output: true
     order:
-      - "Theme: WISH.md"
       - Tickets.md
