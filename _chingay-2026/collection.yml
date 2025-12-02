@@ -1,4 +1,5 @@
 collections:
   chingay-2026:
     output: true
-    order: []
+    order:
+      - Tickets.md
